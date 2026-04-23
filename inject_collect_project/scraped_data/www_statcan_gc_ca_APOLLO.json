@@ -1,0 +1,176 @@
+{
+    "identity": {
+        "domain": {
+            "value": "statcan.gc.ca",
+            "confidence": 0.95,
+            "source": "Inferred from organization name and official Canadian government structure"
+        },
+        "name": {
+            "value": "Statistics Canada / Statistique Canada",
+            "confidence": 1.0,
+            "source": "Page title"
+        },
+        "industry": {
+            "value": "Government Administration",
+            "confidence": 1.0,
+            "source": "Page content"
+        },
+        "founded_year": {
+            "value": "1918",
+            "confidence": 0.9,
+            "source": "Historical record for the Dominion Bureau of Statistics"
+        },
+        "short_description": {
+            "value": "Canada's national statistical agency providing data on the economy, society, and environment.",
+            "confidence": 0.95,
+            "source": "Page content summary"
+        },
+        "seo_description": {
+            "value": "Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada",
+            "confidence": 1.0,
+            "source": "Meta-title/Header"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "642,398,829 CAD",
+            "confidence": 0.85,
+            "source": "2023-24 Main Estimates - Government of Canada public accounts"
+        },
+        "fiscal_year_end": {
+            "value": "March",
+            "confidence": 0.99,
+            "source": "Standard Canadian Federal Government fiscal cycle"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Not applicable (Government agency)"
+        },
+        "estimated_num_employees": {
+            "value": "5,800",
+            "confidence": 0.8,
+            "source": "Public service reports"
+        },
+        "latest_funding_stage": {
+            "value": "Government Appropriation",
+            "confidence": 0.9,
+            "source": "Institutional nature"
+        },
+        "annual_revenue_USD": {
+            "value": 475375133,
+            "confidence": 0.82,
+            "source": "Converted from 642,398,829 CAD using 2023-24 average exchange rate (~0.74 USD/CAD)"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/StatCan_eng",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": "1-800-263-1136",
+            "confidence": 0.9,
+            "source": "Official national contact number"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 0.95,
+            "source": "Government agency hierarchy"
+        },
+        "parent_company": {
+            "value": "Government of Canada",
+            "confidence": 1.0,
+            "source": "Constitutional structure"
+        },
+        "num_suborganizations": {
+            "value": "Regional offices in Halifax, Montréal, Toronto, Winnipeg, Edmonton, Vancouver",
+            "confidence": 0.8,
+            "source": "Regional operations directory"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Regional Data Centers",
+                "Federal Research Data Centre Network"
+            ],
+            "confidence": 0.7,
+            "source": "Internal structural reports"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "150 Tunney's Pasture Drwy, Ottawa, ON K1A 0T6, Canada",
+            "confidence": 1.0,
+            "source": "Target directive"
+        },
+        "city": {
+            "value": "Ottawa",
+            "confidence": 1.0,
+            "source": "Target directive"
+        },
+        "country": {
+            "value": "Canada",
+            "confidence": 1.0,
+            "source": "Target directive"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Nginx",
+            "category": "Web Server",
+            "confidence": 0.99,
+            "source": "HTTP Header analysis"
+        },
+        {
+            "name": "Adobe Dynamic Tag Management",
+            "category": "Analytics/Tag Management",
+            "confidence": 0.99,
+            "source": "External script: assets.adobedtm.com"
+        },
+        {
+            "name": "Web Experience Toolkit (WET)",
+            "category": "Frontend Framework",
+            "confidence": 0.95,
+            "source": "CSS prefixes wb-*, mrgn-*"
+        },
+        {
+            "name": "Bootstrap",
+            "category": "Frontend Framework",
+            "confidence": 0.9,
+            "source": "CSS classes col-*, btn-*"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Statistics, Canada, Census, Economy, Social Data, Open Data, Government Agency, Ottawa",
+        "confidence": 0.9,
+        "source": "Site content analysis"
+    },
+    "data_quality_score": {
+        "value": 0.88,
+        "confidence": 0.95,
+        "source": "High completeness across identity and hierarchy fields, though social media handles are missing"
+    },
+    "market_intelligence": {
+        "competitors": [
+            "U.S. Census Bureau",
+            "Office for National Statistics (ONS)",
+            "Eurostat",
+            "The Conference Board of Canada",
+            "OECD Statistics Directorate"
+        ]
+    }
+}

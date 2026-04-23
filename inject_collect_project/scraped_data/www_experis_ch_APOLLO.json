@@ -1,0 +1,183 @@
+{
+    "identity": {
+        "domain": {
+            "value": "experis.ch",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Experis AG (Zurich Branch)",
+            "confidence": 1.0,
+            "source": "Nutzungsbedingungen / Standorte"
+        },
+        "industry": {
+            "value": "IT-Recruiting and Managed Services",
+            "confidence": 0.95,
+            "source": "Home Page / About Us"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not explicitly mentioned in text"
+        },
+        "short_description": {
+            "value": "Weltweit führender Anbieter für IT-Recruiting und Managed Services, spezialisiert auf IT-Beschaffung, Projektlösungen und Weiterbildung.",
+            "confidence": 0.9,
+            "source": "About Us"
+        },
+        "seo_description": {
+            "value": "Finden Sie Ihren IT-Job mit Experis. Entdecken Sie attraktive Karrieremöglichkeiten und Stellenangebote in der ganzen Schweiz.",
+            "confidence": 1.0,
+            "source": "Meta Description"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Branch-specific revenue not provided in scraped financial text"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not mentioned in provided text"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Publicly traded parent company"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "No branch-specific headcount found"
+        },
+        "latest_funding_stage": {
+            "value": "Public",
+            "confidence": 0.95,
+            "source": "Part of ManpowerGroup (NYSE: MAN)"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "No branch-specific financial data available in the provided text for the Zurich entity"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/ExperisSwitzerland",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "phone": {
+            "value": "+41 44 229 99 99",
+            "confidence": 1.0,
+            "source": "Standorte Zurich"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Nutzungsbedingungen"
+        },
+        "parent_company": {
+            "value": "ManpowerGroup SA",
+            "confidence": 1.0,
+            "source": "Nutzungsbedingungen"
+        },
+        "num_suborganizations": {
+            "value": 3,
+            "confidence": 0.9,
+            "source": "Affiliated companies list in Nutzungsbedingungen"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Manpower AG",
+                "Experis AG",
+                "Talent Solutions ManpowerGroup AG"
+            ],
+            "confidence": 0.95,
+            "source": "Nutzungsbedingungen Art 1.1"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Elias-Canetti-Strasse 2, 8050 Zürich-Oerlikon, Switzerland",
+            "confidence": 1.0,
+            "source": "ADRESSE CIBLE / Standorte"
+        },
+        "city": {
+            "value": "Zürich",
+            "confidence": 1.0,
+            "source": "Standorte"
+        },
+        "country": {
+            "value": "Switzerland",
+            "confidence": 1.0,
+            "source": "Standorte"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Cloudflare",
+            "category": "Security / CDN",
+            "confidence": 0.99,
+            "source": "HTTP Header: Server"
+        },
+        {
+            "name": "HubSpot",
+            "category": "Marketing Automation / CRM",
+            "confidence": 0.99,
+            "source": "Script: js.hsforms.net"
+        },
+        {
+            "name": "OneTrust",
+            "category": "Compliance / Cookie Management",
+            "confidence": 0.99,
+            "source": "Script: cdn.cookielaw.org"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Script: googletagmanager.com"
+        },
+        {
+            "name": "Google Maps",
+            "category": "Mapping / GIS",
+            "confidence": 0.99,
+            "source": "Script: maps.googleapis.com"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "IT-Recruiting, Managed Services, IT-Personalbedarf, HR-Strategien, Arbeitnehmerüberlassung, Feststellenvermittlung, Experis Academy, IT-Personal, Talent Solutions, Project Services",
+        "confidence": 0.9,
+        "source": "Home Page / Services Menu"
+    },
+    "data_quality_score": {
+        "value": 0.72,
+        "confidence": 0.95,
+        "source": "High completeness in identity, location, and technology sections; significant gaps in branch-level performance and social media links"
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Akkodis (formerly Modis)",
+            "Randstad Technologies",
+            "Michael Page IT",
+            "Robert Half Technology",
+            "Harvey Nash Switzerland"
+        ]
+    }
+}

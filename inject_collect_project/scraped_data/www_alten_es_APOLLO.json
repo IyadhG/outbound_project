@@ -1,0 +1,201 @@
+{
+    "identity": {
+        "domain": {
+            "value": "alten.es",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "ALTEN Spain",
+            "confidence": 1.0,
+            "source": "Page title"
+        },
+        "industry": {
+            "value": "Engineering and IT Services",
+            "confidence": 1.0,
+            "source": "Page content"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Mention of Group created > 30 years ago, but specific Spain entity date missing"
+        },
+        "short_description": {
+            "value": "Líder en Ingeniería y Servicios IT, apoyando las estrategias de desarrollo de sus clientes en las áreas de innovación, I+D y sistemas de información tecnológica.",
+            "confidence": 0.9,
+            "source": "Page content"
+        },
+        "seo_description": {
+            "value": "LÍDER EN INGENIERÍA Y SERVICIOS IT",
+            "confidence": 0.8,
+            "source": "Page H1/H2"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "342 million EUR",
+            "confidence": 0.95,
+            "source": "Regional data for 2025 (Spain)"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Not mentioned"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Not mentioned"
+        },
+        "estimated_num_employees": {
+            "value": "5500",
+            "confidence": 0.95,
+            "source": "Regional data for 2025 (Spain)"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Not mentioned"
+        },
+        "annual_revenue_USD": {
+            "value": 369360000,
+            "confidence": 0.92,
+            "source": "Conversion of 342 million EUR regional revenue for 2025 (as stated in the page content) to USD using current exchange rates."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/altenspain?lang=es",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": "+34 91 791 00 00",
+            "confidence": 1.0,
+            "source": "Madrid office contact"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Mention of 'el Grupo' and regional structure"
+        },
+        "parent_company": {
+            "value": "ALTEN Group",
+            "confidence": 1.0,
+            "source": "Page content"
+        },
+        "num_suborganizations": {
+            "value": "11",
+            "confidence": 0.9,
+            "source": "Mention of 11 sedes"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Barcelona",
+                "Pamplona",
+                "Madrid",
+                "Valladolid",
+                "Cádiz",
+                "Sevilla",
+                "Vigo",
+                "Málaga",
+                "Murcia"
+            ],
+            "confidence": 1.0,
+            "source": "Office list"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Parque Empresarial Cristalia, C/ Vía de los Poblados, 3, Edificio 5 – Planta 2ª, 28033 Madrid",
+            "confidence": 1.0,
+            "source": "Target address specified"
+        },
+        "city": {
+            "value": "Madrid",
+            "confidence": 1.0,
+            "source": "Target address"
+        },
+        "country": {
+            "value": "Spain",
+            "confidence": 1.0,
+            "source": "Target address"
+        }
+    },
+    "technologies": [
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 1.0,
+            "source": "wp-json, wp-* CSS classes"
+        },
+        {
+            "name": "Cloudflare",
+            "category": "Infrastructure/CDN",
+            "confidence": 1.0,
+            "source": "HTTP Server header"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Analytics/Marketing",
+            "confidence": 1.0,
+            "source": "Scripts / Regex"
+        },
+        {
+            "name": "Google Analytics (GA4)",
+            "category": "Analytics",
+            "confidence": 1.0,
+            "source": "Scripts / Regex"
+        },
+        {
+            "name": "Yoast SEO",
+            "category": "SEO",
+            "confidence": 0.9,
+            "source": "yoast-* CSS classes"
+        },
+        {
+            "name": "Tarteaucitron",
+            "category": "Consent Management",
+            "confidence": 1.0,
+            "source": "Scripts / CDN"
+        },
+        {
+            "name": "Google Maps",
+            "category": "Mapping",
+            "confidence": 1.0,
+            "source": "Scripts"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Ingeniería, Servicios IT, I+D, Innovación, Aeronáutica, Espacio, Defensa, Naval, Automoción, Ferrocarril, Energía, Life Sciences, Finanzas, Retail, Telecomunicaciones",
+        "confidence": 0.9,
+        "source": "Sectores list"
+    },
+    "data_quality_score": {
+        "value": 0.88,
+        "confidence": 1.0,
+        "source": "High completeness for a regional entity, including specific office lists, technical stack detection, and local financial performance data. Some missing specific dates for the Spanish entity founding and social links reduce the score slightly."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Indra Sistemas",
+            "Capgemini Engineering",
+            "Sopra Steria Spain",
+            "Accenture Spain",
+            "DXC Technology"
+        ]
+    }
+}

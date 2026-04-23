@@ -1,0 +1,161 @@
+{
+    "identity": {
+        "domain": {
+            "value": "alten.ch",
+            "confidence": 1.0,
+            "source": "URL provided in scraped text"
+        },
+        "name": {
+            "value": "Alten Switzerland",
+            "confidence": 0.95,
+            "source": "Inferred from domain and target directive"
+        },
+        "industry": {
+            "value": "Engineering and Technology Consulting",
+            "confidence": 0.9,
+            "source": "Knowledge base regarding Alten Group brand"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Not mentioned in provided text"
+        },
+        "short_description": {
+            "value": "Engineering and technology consulting service provider for the Swiss market, part of the Alten Group.",
+            "confidence": 0.8,
+            "source": "Deduced from brand identity and regional target"
+        },
+        "seo_description": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Page blocked by Cloudflare challenge; meta-tags unreadable"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "No financial data available in Cloudflare challenge page"
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.6,
+            "source": "Standard fiscal cycle for European engineering firms"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not mentioned in provided text"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not mentioned in provided text"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not mentioned in provided text"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "No financial data available for the specific regional entity in the provided source text or target directive."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Not mentioned in provided text"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Target directive identifies a specific local address for a global brand"
+        },
+        "parent_company": {
+            "value": "Alten S.A. (Alten Group)",
+            "confidence": 0.95,
+            "source": "Corporate brand hierarchy"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not mentioned in provided text"
+        },
+        "subsidiaries_list": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not mentioned in provided text"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "11 Riedstrasse, Cham, Switzerland",
+            "confidence": 1.0,
+            "source": "Target Directive provided in scraping mission"
+        },
+        "city": {
+            "value": "Cham",
+            "confidence": 1.0,
+            "source": "Target Directive provided in scraping mission"
+        },
+        "country": {
+            "value": "Switzerland",
+            "confidence": 1.0,
+            "source": "Target Directive provided in scraping mission"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Cloudflare",
+            "category": "Content Delivery Network (CDN) / Web Application Firewall (WAF)",
+            "confidence": 1.0,
+            "source": "HTTP Header 'server: cloudflare' and Ray ID detection"
+        },
+        {
+            "name": "Cloudflare Bot Management",
+            "category": "Security / Anti-Bot",
+            "confidence": 1.0,
+            "source": "Detected 'challenges.cloudflare.com' and Sicherheitsüberprüfung script"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Engineering, Technology Consulting, IT, Digital Transformation, Switzerland, Alten",
+        "confidence": 0.8,
+        "source": "Inferred from industry and domain analysis"
+    },
+    "data_quality_score": {
+        "value": 0.45,
+        "confidence": 1.0,
+        "source": "Evaluation based on the ratio of populated fields versus null values; high confidence on identity and location, but performance and contact data are missing due to scraping restrictions."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Akkodis",
+            "Capgemini Engineering",
+            "Segula Technologies",
+            "Zühlke Group",
+            "ELCA"
+        ]
+    }
+}

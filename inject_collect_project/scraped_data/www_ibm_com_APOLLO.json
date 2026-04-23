@@ -1,0 +1,272 @@
+{
+    "identity": {
+        "domain": {
+            "value": "ibm.com",
+            "confidence": 1.0,
+            "source": "URL / Mentions dans le texte"
+        },
+        "name": {
+            "value": "IBM",
+            "confidence": 1.0,
+            "source": "Page d'accueil / Titres"
+        },
+        "industry": {
+            "value": "IT Services, Enterprise Software, Cloud Computing, Artificial Intelligence, Consulting",
+            "confidence": 0.9,
+            "source": "Site web / page about / services"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Information non trouvée dans le texte"
+        },
+        "short_description": {
+            "value": "Leader dans l'ère du cloud hybride et de l'IA, IBM aide les entreprises à devenir plus intelligentes avec un impact réel.",
+            "confidence": 0.85,
+            "source": "Page d'accueil / Slogan"
+        },
+        "seo_description": {
+            "value": "IBM est une entreprise technologique mondiale spécialisée dans l'IA, le cloud hybride, la gestion des données, la sécurité et le conseil pour transformer les entreprises.",
+            "confidence": 0.8,
+            "source": "Synthèse du contenu de la page d'accueil"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.7,
+            "source": "Entreprise cotée en bourse, aucune donnée de revenu spécifique (USA ou global) trouvée dans le texte scrapé."
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.9,
+            "source": "Déduit de l'annonce des résultats du 1er trimestre 2026"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non applicable / non trouvé pour une entreprise publique"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Information non trouvée dans le texte"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non applicable / non trouvé pour une entreprise publique"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.7,
+            "source": "Entreprise cotée en bourse, les données de revenu spécifiques (USA ou global) n'ont pas été trouvées numériquement dans le texte scrapé."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://www.twitter.com/ibm",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Numéro de téléphone non trouvé dans le texte"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.95,
+            "source": "Déduction corporate (entreprise majeure globale)"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.95,
+            "source": "Non une filiale"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.6,
+            "source": "Nombre non spécifié, mais de nombreuses filiales/produits déduits de la liste de domaines et des mentions."
+        },
+        "subsidiaries_list": {
+            "value": [
+                "IBM Consulting",
+                "IBM Cloud",
+                "IBM watsonx",
+                "Promontory (IBM)",
+                "SoftLayer",
+                "Bluemix",
+                "Cloudant",
+                "Galasa"
+            ],
+            "confidence": 0.8,
+            "source": "Liste des domaines IBM et produits/services mentionnés"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Adresse spécifique pour l'entité USA non trouvée"
+        },
+        "city": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Ville spécifique pour l'entité USA non trouvée"
+        },
+        "country": {
+            "value": "United States",
+            "confidence": 1.0,
+            "source": "Directive de ciblage / Mention 'United States — English' sur le site"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (www.googletagmanager.com)"
+        },
+        {
+            "name": "Clarity",
+            "category": "Analytics",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (scripts.clarity.ms)"
+        },
+        {
+            "name": "Demandbase",
+            "category": "Account-Based Marketing",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (scripts.demandbase.com)"
+        },
+        {
+            "name": "Marketo",
+            "category": "Marketing Automation",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (munchkin.marketo.net)"
+        },
+        {
+            "name": "Bing Ads",
+            "category": "Advertising",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (bat.bing.com)"
+        },
+        {
+            "name": "Google Ads",
+            "category": "Advertising",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (googleads.g.doubleclick.net)"
+        },
+        {
+            "name": "IBM Watson Assistant",
+            "category": "Chatbot / AI",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (web-chat.global.assistant.watson.appdomain.cloud)"
+        },
+        {
+            "name": "Decibel Insight",
+            "category": "Experience Analytics",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (cdn.decibelinsight.net)"
+        },
+        {
+            "name": "Tealium iQ Tag Management",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (tags.tiqcdn.com)"
+        },
+        {
+            "name": "LinkedIn Ads",
+            "category": "Advertising",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (snap.licdn.com)"
+        },
+        {
+            "name": "Adobe Experience Platform (via DTM)",
+            "category": "Customer Experience Management",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (assets.adobedtm.com)"
+        },
+        {
+            "name": "The Trade Desk",
+            "category": "Advertising",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (js.adsrvr.org)"
+        },
+        {
+            "name": "TrustArc",
+            "category": "Consent Management",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (consent.trustarc.com)"
+        },
+        {
+            "name": "ID5",
+            "category": "Identity Resolution",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (cdn.id5-sync.com)"
+        },
+        {
+            "name": "IBM Cloud",
+            "category": "Cloud Computing",
+            "confidence": 0.95,
+            "source": "Mention sur le site / empreinte technique"
+        },
+        {
+            "name": "IBM Power Systems",
+            "category": "Enterprise Hardware",
+            "confidence": 0.9,
+            "source": "Cas client Pfizer"
+        },
+        {
+            "name": "IBM watsonx",
+            "category": "Artificial Intelligence",
+            "confidence": 0.95,
+            "source": "Mention sur le site"
+        },
+        {
+            "name": "Hybrid Cloud",
+            "category": "Cloud Computing Strategy",
+            "confidence": 0.9,
+            "source": "Slogan / Stratégie d'entreprise"
+        },
+        {
+            "name": "Artificial Intelligence (AI)",
+            "category": "Core Technology",
+            "confidence": 0.95,
+            "source": "Mention sur le site / Stratégie d'entreprise"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "AI, Hybrid Cloud, Enterprise Computing, Data Management, Security, Analytics, Consulting, Digital Transformation, Quantum Computing, watsonx, Smarter Business, Automation, IT Services, Cloud Platform, Cyber Security, AI Models",
+        "confidence": 0.85,
+        "source": "Site web / Page d'accueil / sections produits et services"
+    },
+    "data_quality_score": {
+        "value": 0.65,
+        "confidence": 0.9,
+        "source": "Évaluation de la complétude et de la qualité des champs renseignés, avec des lacunes notables pour l'année de fondation, les revenus numériques, le nombre d'employés, les contacts sociaux (LinkedIn, Facebook, téléphone) et l'adresse détaillée/ville."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Microsoft",
+            "Amazon Web Services (AWS)",
+            "Google Cloud",
+            "Oracle",
+            "Accenture"
+        ]
+    }
+}

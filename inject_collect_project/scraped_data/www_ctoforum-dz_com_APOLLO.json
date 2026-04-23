@@ -1,0 +1,179 @@
+{
+    "identity": {
+        "domain": {
+            "value": "ctoforum-dz.com",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "CTO Forum Algeria",
+            "confidence": 1.0,
+            "source": "Page d'accueil"
+        },
+        "industry": {
+            "value": "Information Technology / Events and Conferences",
+            "confidence": 0.95,
+            "source": "Site web / Présentation"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non mentionné"
+        },
+        "short_description": {
+            "value": "Le rendez-vous des principaux acteurs IT en Algérie, vitrine des technologies innovantes pour les entreprises et professionnels.",
+            "confidence": 0.9,
+            "source": "Page d'accueil / Présentation"
+        },
+        "seo_description": {
+            "value": "CTO Forum Algeria : Le business rencontre l’innovation. Un lieu de rencontres et d’échanges qui regroupe l’ensemble des professionnels IT.",
+            "confidence": 0.85,
+            "source": "Meta description déduite"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Aucune donnée financière disponible dans le texte scrapé"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non mentionné"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non mentionné"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Les chiffres cités (150 exposants, 4000 visiteurs) ne concernent pas le personnel interne"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non mentionné"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Aucune donnée financière ou chiffre d'affaires n'est mentionné dans les données extraites ou le texte source."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://x.com/CTOFORUMAlgeria",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Page contact vide d'informations numériques"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.5,
+            "source": "Semble être une entité événementielle autonome"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non mentionné"
+        },
+        "num_suborganizations": {
+            "value": 0,
+            "confidence": 0.7,
+            "source": "Déduction basée sur la nature de l'entité"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.7,
+            "source": "Déduction"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Algiers, Algeria",
+            "confidence": 1.0,
+            "source": "Directive de ciblage / Contexte du site (.dz)"
+        },
+        "city": {
+            "value": "Algiers",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "country": {
+            "value": "Algeria",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Scripts externes / Regex matches"
+        },
+        {
+            "name": "Google Analytics",
+            "category": "Analytics",
+            "confidence": 0.99,
+            "source": "Regex matches"
+        },
+        {
+            "name": "Owl Carousel",
+            "category": "User Interface / Slider",
+            "confidence": 0.95,
+            "source": "Classes CSS owl-*"
+        },
+        {
+            "name": "Font Awesome",
+            "category": "Icons",
+            "confidence": 0.95,
+            "source": "Classes CSS fa-*"
+        },
+        {
+            "name": "Bootstrap",
+            "category": "Framework CSS",
+            "confidence": 0.9,
+            "source": "Préfixes CSS col-*, offset-*, btn-*"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "IT, Algeria, B2B, CTO, DSI, RSSI, Cloud, Cybersecurity, AI, IoT, 5G, Biotech, Green IT, Industry 4.0, Open Innovation, Compétence numérique",
+        "confidence": 1.0,
+        "source": "Thématiques et présentation du site"
+    },
+    "data_quality_score": {
+        "value": 0.55,
+        "confidence": 0.95,
+        "source": "Les informations d'identité, de thématique et de technologies sont complètes, mais les données financières, sociales et les coordonnées précises sont manquantes."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "ICT Maghreb",
+            "DIGITECH Algeria",
+            "Algeria 2.0",
+            "CyberX Algeria",
+            "SITIC Africa"
+        ]
+    }
+}

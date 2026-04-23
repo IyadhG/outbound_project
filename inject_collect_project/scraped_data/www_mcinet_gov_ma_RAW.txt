@@ -1,0 +1,444 @@
+--- PAGE D'ACCUEIL : | Ministère de l’Industrie et du Commerce ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Avenue Chellah, Rabat, Morocco
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google-analytics.com, code.highcharts.com, cdnjs.cloudflare.com, ws.sharethis.com, www.mcinet.gov.ma, www.googletagmanager.com, w.sharethis.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+dialog-*, top-*, fa-*, language-*, is-*, col-*, text-*, logo-*, main-*, navbar-*, bg-*, mr-*, nav-*, sr-*, dropdown-*, mt-*, menu-*, some-*, btn-*, show-*, submit-*, space-*, flex-*, list-*, loop-*, no-*, glyphicon-*, pull-*, views-*, slider-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Tag Manager, Google Analytics
+
+| Ministère de l’Industrie et du Commerce
+-
+-
+-
+-
+-
+-
+#
+Appel à Projets 2026-2028 - Fonds de Soutien à l’Innovation : Programmes d’appui à l’innovation...
+#
+SM le Roi préside la cérémonie de présentation et de lancement du projet de réalisation...
+#
+2ème édition du Forum d'Affaires de la Zone de Libre Echange Continentale Africaine
+#
+Maroc – ONUDI : un nouveau cap pour accélérer la transformation industrielle durable du Royaume
+#
+La 3ème édition de la Journée Nationale de l'industrie marque un tournant pour le «...
+#
+Nouaceur : SM le Roi préside la cérémonie de présentation et de lancement des travaux...
+Précédent
+Suivant
+- Appel à manifestation d’intérêt - 2e et 3e cohorte du Progra…
+- Avis d’appel à manifestation d’intérêt pour l’agrément des o…
+- APPEL A MANIFESTATION D’INTERET: PROGRAMME D’APPUI AU MOUVE…
+- Appel à projets : Programme d’appui à l’innovation industrie…
+- Appel à Manifestation d’intérêt GEIPP Maroc 2025
+- قرار رقم 587 بتاريخ 2025.09.22 بتفويض الإمضاء لمندوبي الوزار…
+- Appel à projets pour le financement des projets d’intérêt éc…
+- Appel à projets - Soutien à la mise en place de Clusters mar…
+- Appel à manifestation d'intérêt au programme d'app…
+- Avis modificatif aux opérateurs économiques du 25/11/24 rela…
+- Avis aux opérateurs économiques - Plateforme de gestion des…
+- Lancement de la 2ème édition des Concours Fez Smart Factory
+- Avis aux opérateurs économiques - Application obligatiore de…
+- Appel à projets: Soutien à la mise en place de Clusters maro…
+- Avis aux opérateurs relatif à la sécurité des appareils et é…
+- Avis aux opérateurs économiques - Application Obligatoire de…
+- Répartition des contingents tarifaires prévus par l'acc…
+- Lancement d’un nouveau service en ligne relatif à l’approbat…
+- Appel à manifestation d’intérêt pour la 2ème édition du prog…
+- Lancement de la 8ème édition du « Prix de la Compétitivité –…
+- Appel à Manifestation d’Intérêt pour l’acquisition de lots d…
+- Appel à manifestation d’intérêt: Programme d'appui à la…
+- AMI: Agrément d’organismes pour l’installation et la vérific…
+- Avis rectificatif de l’AMI N° MIC/DGC/DPCSMQ/DM/AMI/2023-01
+- Appel d’offres | Prestataire de services pour le renforcemen…
+- Appel à projets : Soutien à la mise en place de Clusters mar…
+- Appel à manifestation d'intérêt : Qualification des éva…
+- Avis | Consultation technique pour la fabrication de cartab…
+- IMPORT | Répartition des contingents tarifaires prévus par l…
+- EXPORT | Avis aux exportateurs des déchets papiers
+- IMPORT | Résultats de répartition du contingents d'im…
+- IMPORT | Avis aux importateurs des instruments de mesure
+- ANTIDUMPING | Avis public n° DDC /02/2023 relatif à la déte…
+- IMPORT | Résultats de répartition contingent des produits a…
+- IMPORT | Résultats de répartition du contingent d’importati…
+- IMPORT | Résultats de répartition du contingent tarifaire m…
+- Prolongation du délai de dépôt du dossier de candidature au…
+- Relance de l’appel d’offres relatif à l’aménagement, au déve…
+- IMPORT | Avis aux importateurs des produits agricoles et pr…
+- IMPORT | Résultats de répartition du contingent d'impo…
+- SAUVEGARDE | Ouverture d’une enquête de réexamen pour la pro…
+- IMPORT | Avis aux importateurs des produits agricoles et pr…
+- IMPORT | Résultats de répartition du reliquat des contingen…
+- IMPORT | Résultats de répartition du contingent d'impo…
+- IMPORT | Avis aux importateurs de Chlorodifluorométhane (H…
+- IMPORT | Avis aux industriels opérant dans le secteur de l…
+- Appel à manifestation d'intérêt: Programme d’appui « Re…
+Décarbonation de l'industrie
+Digitalisation du Commerce
+Protection sociale du commerçant
+Banque de Projets
+Décarbonation de l'industrie
+Digitalisation du Commerce
+Protection sociale du commerçant
+Banque de Projets
+Décarbonation de l'industrie
+Digitalisation du Commerce
+TaskForce Souveraineté
+1976
+Projets d’investissement retenus par la taskforce souveraineté à fin février 2026
+Export
+370
+MMDH d'exportations industrielles à fin Novembre 2025
+Emplois
+108%
+des emplois industriels récupérés depuis le COVID-19
+TaskForce Souveraineté
+1976
+Projets d’investissement retenus par la taskforce souveraineté à fin février 2026
+Export
+370
+MMDH d'exportations industrielles à fin Novembre 2025
+Emplois
+108%
+des emplois industriels récupérés depuis le COVID-19
+TaskForce Souveraineté
+1976
+Projets d’investissement retenus par la taskforce souveraineté à fin février 2026
+## Secteurs
+### Protection du consommateur
+### Qualité et surveillance du marché
+### Programmes d'appui et d'accompagnement
+### Industrie
+### Commerce intérieur et distribution
+### Commerce Extérieur
+### Protection du consommateur
+### Qualité et surveillance du marché
+### Programmes d'appui et d'accompagnement
+### Industrie
+### Commerce intérieur et distribution
+### Commerce Extérieur
+## Services
+- Citoyens
+- Professionnels
+### Bureau d’Ordre Digital
+### Portail National du Consommateur
+### Réclamations
+### Bureau d’Ordre Digital
+### Portail National du Consommateur
+### Réclamations
+### Bureau d’Ordre Digital
+### Portail National du Consommateur
+### Réclamations
+### Cartographie des Zones Industrielles
+### Bureau d’Ordre Digital Pro
+### Dépôt de dessins et modèles industriels
+### Cartographie des Zones Industrielles
+### Bureau d’Ordre Digital Pro
+### Dépôt de dessins et modèles industriels
+### Cartographie des Zones Industrielles
+### Bureau d’Ordre Digital Pro
+### Dépôt de dessins et modèles industriels
+Découvrir plus
+## Nouveautés
+-
+Actualités
+-
+Emplois
+-
+Avis & annonces
+######
+16 mars 2026
+### Signature de l’accord de mise en œuvre du Programme mondial pour les parcs éco-industriels au Maroc (GEIPP II)
+######
+23 février 2026
+### FBR CABLES inaugure à Berrechid sa nouvelle unité industrielle de fabrication de câbles à fibres optiques et de câbles réseaux
+######
+17 février 2026
+### Le Programme d’accompagnement des entreprises industrielles vers la croissance célèbre sa première cohorte et annonce son extension
+######
+3 avril 2026
+### Secteur laitier : Inauguration de la nouvelle unité de production de la coopérative agricole de Kenitra «EXTRALAIT»
+######
+1 avril 2026
+### Appel à Projets 2026-2028 - Fonds de Soutien à l’Innovation : Programmes d’appui à l’innovation industrielle « Tatwir-R&D et Innovation » dont l'appui à l'industrie du Gaming
+######
+16 mars 2026
+### Signature de l’accord de mise en œuvre du Programme mondial pour les parcs éco-industriels au Maroc (GEIPP II)
+######
+23 février 2026
+### FBR CABLES inaugure à Berrechid sa nouvelle unité industrielle de fabrication de câbles à fibres optiques et de câbles réseaux
+######
+17 février 2026
+### Le Programme d’accompagnement des entreprises industrielles vers la croissance célèbre sa première cohorte et annonce son extension
+######
+3 avril 2026
+### Secteur laitier : Inauguration de la nouvelle unité de production de la coopérative agricole de Kenitra «EXTRALAIT»
+######
+1 avril 2026
+### Appel à Projets 2026-2028 - Fonds de Soutien à l’Innovation : Programmes d’appui à l’innovation industrielle « Tatwir-R&D et Innovation » dont l'appui à l'industrie du Gaming
+######
+16 mars 2026
+### Signature de l’accord de mise en œuvre du Programme mondial pour les parcs éco-industriels au Maroc (GEIPP II)
+Découvrir plus
+######
+26 mars 2026
+### Annonce de 3 concours de recrutement au titre de l’année 2026
+######
+26 janvier 2026
+### Appel à candidature relatif aux postes de responsabilité vacants au niveau des services déconcentrés
+######
+26 janvier 2026
+### Appels à candidature relatifs aux postes de responsabilité vacants au niveau central
+######
+26 mars 2026
+### Appel à candidature relatif au poste de Directeur des Industries du Textile et du Cuir
+######
+26 mars 2026
+### Réouverture de l'appel à candidature relatif au poste d'Inspecteur Général du Ministère de l'Industrie et du Commerce
+######
+26 mars 2026
+### Annonce de 3 concours de recrutement au titre de l’année 2026
+######
+26 janvier 2026
+### Appel à candidature relatif aux postes de responsabilité vacants au niveau des services déconcentrés
+######
+26 janvier 2026
+### Appels à candidature relatifs aux postes de responsabilité vacants au niveau central
+######
+26 mars 2026
+### Appel à candidature relatif au poste de Directeur des Industries du Textile et du Cuir
+######
+26 mars 2026
+### Réouverture de l'appel à candidature relatif au poste d'Inspecteur Général du Ministère de l'Industrie et du Commerce
+######
+26 mars 2026
+### Annonce de 3 concours de recrutement au titre de l’année 2026
+Découvrir plus
+######
+25 mars 2026
+### Résultats de répartition du contingent d'exportation de déchets de carton au titre de l'année 2026
+######
+13 mars 2026
+### Répartition Des Contingents Tarifaires prévus par L'accord de Libre Echange, Maroc et Etats de L'association Européenne de Libre Echange (AELE) L'année Contingentaire 2026
+######
+3 mars 2026
+### Avis aux importateurs de panneaux de fibres de bois revêtus (MDF)
+######
+1 avril 2026
+### Appel à Projets 2026-2028 - Fonds de Soutien à l’Innovation : Programmes d’appui à l’innovation industrielle « Tatwir-R&D et Innovation » dont l'appui à l'industrie du Gaming
+Le Ministère de l'…
+######
+30 mars 2026
+### Les Résultats de répartition du contingent d’importation des HFCs au titre de l'année
+######
+25 mars 2026
+### Résultats de répartition du contingent d'exportation de déchets de carton au titre de l'année 2026
+######
+13 mars 2026
+### Répartition Des Contingents Tarifaires prévus par L'accord de Libre Echange, Maroc et Etats de L'association Européenne de Libre Echange (AELE) L'année Contingentaire 2026
+######
+3 mars 2026
+### Avis aux importateurs de panneaux de fibres de bois revêtus (MDF)
+######
+1 avril 2026
+### Appel à Projets 2026-2028 - Fonds de Soutien à l’Innovation : Programmes d’appui à l’innovation industrielle « Tatwir-R&D et Innovation » dont l'appui à l'industrie du Gaming
+Le Ministère de l'…
+######
+30 mars 2026
+### Les Résultats de répartition du contingent d’importation des HFCs au titre de l'année
+######
+25 mars 2026
+### Résultats de répartition du contingent d'exportation de déchets de carton au titre de l'année 2026
+Découvrir plus
+## Medias
+SM le Roi préside la cérémonie de présentation et de lancement du projet de réalisation à Nouaceur d’une usine de production des trains d’atterrissage du groupe Safran
+SM le Roi préside la cérémonie de présentation et de lancement des travaux de réalisation du complexe industriel de “moteurs d’avions” du groupe Safran
+Le secteur industriel, moteur de l’économie marocaine! #MoroccoAM2023
+SM le Roi préside la cérémonie de présentation et de lancement du projet de réalisation à Nouaceur d’une usine de production des trains d’atterrissage du groupe Safran
+SM le Roi préside la cérémonie de présentation et de lancement des travaux de réalisation du complexe industriel de “moteurs d’avions” du groupe Safran
+Le secteur industriel, moteur de l’économie marocaine! #MoroccoAM2023
+SM le Roi préside la cérémonie de présentation et de lancement du projet de réalisation à Nouaceur d’une usine de production des trains d’atterrissage du groupe Safran
+SM le Roi préside la cérémonie de présentation et de lancement des travaux de réalisation du complexe industriel de “moteurs d’avions” du groupe Safran
+Le secteur industriel, moteur de l’économie marocaine! #MoroccoAM2023
+Découvrir plus
+## Sites spécialisés
+####
+Newsletter subscription
+An email including a link to activate your subscription has been sent to your email.
+Your subscription will only be activated after you have clicked on the link you received.
+Thank you for your interest in our newsletter.
+
+
+--- PAGE STRATÉGIQUE : https://www.mcinet.gov.ma/fr/liste-documents ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google-analytics.com, code.highcharts.com, cdnjs.cloudflare.com, ws.sharethis.com, www.mcinet.gov.ma, www.googletagmanager.com, w.sharethis.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+dialog-*, top-*, fa-*, language-*, is-*, col-*, text-*, logo-*, main-*, navbar-*, bg-*, mr-*, nav-*, sr-*, dropdown-*, mt-*, menu-*, some-*, btn-*, show-*, submit-*, space-*, flex-*, list-*, loop-*, no-*, glyphicon-*, pull-*, views-*, banner-*
+===================================
+Documents | Ministère de l’Industrie et du Commerce
+# Documents
+##
+listes importateurs installateurs réparateurs agrées des IM 18/03/2026
+Telecharger le Document
+##
+Liste des réparateurs-installateurs agréés des Systèmes de mesure de la vitesse moyenne 18/03/2026
+Telecharger le Document
+##
+Liste des réparateurs-installateurs agréés des Opacimètres 18/03/2026
+Telecharger le Document
+##
+Liste des réparateurs-installateurs agréés des Instruments de pesage à fonctionnement non automatique 18/03/2026
+Telecharger le Document
+##
+Liste des réparateurs-installateurs agréés des Instruments de pesage à fonctionnement automatique 18/03/2026
+Telecharger le Document
+##
+Liste des réparateurs-installateurs agréés des Ensembles de mesurage de liquides autres que l’eau 18/03/2026
+Telecharger le Document
+##
+Liste des réparateurs-installateurs agréés des Cinémomètres Radar de contrôle routier 18/03/2026
+Telecharger le Document
+##
+Liste des réparateurs-installateurs agréés des analyseurs de gaz 18/03/2026
+Telecharger le Document
+##
+Liste des réparateurs agréés des Poids 18/03/2026
+Telecharger le Document
+##
+Liste des réparateurs agréés des compteurs d’eau 18/03/2026
+Telecharger le Document
+####
+Newsletter subscription
+An email including a link to activate your subscription has been sent to your email.
+Your subscription will only be activated after you have clicked on the link you received.
+Thank you for your interest in our newsletter.
+ShareThis Copy and Paste
+
+
+--- PAGE STRATÉGIQUE : https://www.mcinet.gov.ma/fr/content/contact-en ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google-analytics.com, code.highcharts.com, cdnjs.cloudflare.com, ws.sharethis.com, www.mcinet.gov.ma, www.googletagmanager.com, w.sharethis.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+dialog-*, top-*, fa-*, language-*, is-*, col-*, text-*, logo-*, main-*, navbar-*, bg-*, mr-*, nav-*, sr-*, dropdown-*, mt-*, menu-*, some-*, btn-*, show-*, submit-*, space-*, flex-*, list-*, loop-*, no-*, glyphicon-*, pull-*, views-*, page-*
+===================================
+Contact | Ministère de l’Industrie et du Commerce
+Contacts
+Droit d'accès à l'information
+Réclamations
+# Contact
+####
+Newsletter subscription
+An email including a link to activate your subscription has been sent to your email.
+Your subscription will only be activated after you have clicked on the link you received.
+Thank you for your interest in our newsletter.
+ShareThis Copy and Paste
+
+
+--- PAGE STRATÉGIQUE : https://www.mcinet.gov.ma/fr/content/missions-du-ministere ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google-analytics.com, code.highcharts.com, cdnjs.cloudflare.com, ws.sharethis.com, s7.addthis.com, platform.twitter.com, www.mcinet.gov.ma, www.googletagmanager.com, w.sharethis.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+body-*, dialog-*, top-*, fa-*, language-*, is-*, col-*, text-*, logo-*, main-*, navbar-*, bg-*, mr-*, nav-*, sr-*, dropdown-*, mt-*, menu-*, some-*, btn-*, show-*, submit-*, space-*, flex-*, list-*, loop-*, no-*, glyphicon-*, pull-*, views-*
+===================================
+Missions du ministère | Ministère de l’Industrie et du Commerce
+#
+Missions du ministère
+##
+Missions du ministère
+Le Ministère de l’Industrie et du Commerce est chargé de la conception et de la mise en œuvre de la politique gouvernementale dans les domaines de l’industrie, du commerce et des nouvelles technologies sous réserve des attributions dévolues à d’autres départements ministériels par les lois et règlements en vigueur.
+A ce titre, le ministère est chargé de :
+- Elaborer les stratégies de développement des secteurs de l’industrie, du commerce, des nouvelles technologies et de la poste, et leur déclinaison en programmes opérationnels ;
+- Valider les stratégies de développement des investissements et d’amélioration de la compétitivité des PME, ainsi que leur déclinaison en programmes opérationnels ;
+- Piloter et mettre en œuvre les stratégies de développement des secteurs de l’industrie, du commerce, des nouvelles technologies et de la poste ;
+- Contribuer à la gestion de la relation avec les institutions et les organisations internationales et nationales dans les secteurs de l’industrie, du commerce et des nouvelles   technologies ;
+- Produire les statistiques et réaliser les études dans les secteurs de l’industrie, du commerce et des nouvelles technologies ;
+- Assurer la veille stratégique, le suivi et l’évaluation des stratégies des secteurs de l’industrie, du commerce et des nouvelles technologies ;
+- Promouvoir et développer l’innovation dans les domaines de l’industrie et des nouvelles technologies ;
+- Développer et coordonner les espaces d’accueil industriels, commerciaux et technologiques, ainsi que les pôles de compétitivité.
+- Contribuer à la définition des plans de formation dans les secteurs de l’industrie, du commerce et des nouvelles technologies, et participer au suivi de leur mise en œuvre ;
+- Définir le cadre législatif et organisationnel pour les secteurs de l’industrie, du commerce et des nouvelles technologies ;
+- Emettre des propositions pour la régulation des secteurs de l’industrie, du commerce et des nouvelles technologies ;
+- Réguler le secteur postal ;
+- Développer les partenariats, coordonner et mettre en œuvre les programmes de coopération ;
+- Promouvoir la qualité et la sécurité dans les secteurs de l’industrie, du commerce et des nouvelles technologies ;
+- Assurer le contrôle dans le domaine de la métrologie, de l’accréditation, de la qualité, de la sécurité en entreprise, de la surveillance du marché et de la protection du consommateur ;
+- Assurer la communication dans les secteurs de l’industrie, du commerce et des nouvelles technologies.
+##### Partager cet article
+-
+-
+-
+-
+-
+####
+Newsletter subscription
+An email including a link to activate your subscription has been sent to your email.
+Your subscription will only be activated after you have clicked on the link you received.
+Thank you for your interest in our newsletter.
+ShareThis Copy and Paste
+
+
+--- PAGE STRATÉGIQUE : https://www.mcinet.gov.ma/fr/organismes-sous-tutelle ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google-analytics.com, code.highcharts.com, cdnjs.cloudflare.com, ws.sharethis.com, www.mcinet.gov.ma, www.googletagmanager.com, w.sharethis.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+dialog-*, top-*, fa-*, language-*, is-*, col-*, text-*, logo-*, main-*, navbar-*, bg-*, mr-*, nav-*, sr-*, dropdown-*, mt-*, menu-*, some-*, btn-*, show-*, submit-*, space-*, flex-*, list-*, loop-*, no-*, glyphicon-*, pull-*, views-*, banner-*
+===================================
+ORGANISMES SOUS TUTELLE | Ministère de l’Industrie et du Commerce
+# ORGANISMES SOUS TUTELLE
+## Ecole Arts et Métiers campus de Rabat
+L’Ecole Arts et Métiers campus de Rabat (EAMR) possède le statut d’un établissement d’enseignement supérieur qui est le fruit d’un partenariat entre l’Etat Marocain, notamment le Ministère de l’Industrie et du Commerce et Arts et Métiers France. Elle s’organise selon le modèle d’enseignement supérieur, de recherche et d’entrepreneuriat des 8 campus français de Arts et Métiers en conformité avec la règlementation française pour permettre la délivrance des diplômes de Arts et Métiers, et en conformité avec la règlementation marocaine pour permettre la délivrance des diplômes nationaux marocains après reconnaissance de l’établissement par l’Etat marocain.
+artsetmetiers.ma
+## Ecole Centrale Casablanca
+Créée dans une optique de favoriser l'industrialisation du Royaume, l’Ecole Centrale Casablanca ou ECC est la première école d'ingénieur généraliste au Maroc qui a pour mission de former des ingénieurs de haut niveau scientifique, dotés d’une culture pluridisciplinaire et d’une grande ouverture au monde. L’école forme des ingénieurs généralistes principalement autour des Mathématiques & Informatique, le Génie industriel, l’Ingénierie des systèmes mécaniques et énergétiques complexes, la Physique et les Sciences humaines et sociales.
+## MAROC PME
+Instrument opérationnel des pouvoirs publics en matière de développement des PME, MAROC PME est au cœur du dispositif marocain d’appui aux entreprises. Grâce à la large gamme de produits qu’elle a pu développer et enrichir depuis sa création en 2002, MAROC PME accompagne les entrepreneurs et les différentes structures d’appui dans leur processus de Modernisation Compétitive.
+http://web.marocpme.gov.ma
+## OMPIC
+L’Office Marocain de la Propriété Industrielle et Commerciale est un établissement public autofinancé dont les principales fonctions sont :
+- la tenue des registres nationaux de propriété industrielle et l'inscription de tous les actes affectant la propriété des titres de propriété industrielle (marques, brevets d’invention, dessins et modèles industriels) ;
+- la tenue du registre central du commerce et du fichier alphabétique pour les personnes physiques et morales;
+- la promotion de la propriété industrielle et commerciale et la mise à disposition de l'information juridique adéquate.
+www.ompic.org.ma
+## ISCAE
+L' ISCAE , premier établissement public d'enseignement supérieur de gestion au Maroc, a pour mission de préparer ses étudiants à l'exercice des fonctions supérieures dans les entreprises des secteurs privé et public. L'enseignement dispensé couvre les techniques managériales, commerciales, financières et comptables. L'Institut forme des gestionnaires polyvalents, mais aussi des spécialistes dans des domaines tels que le Commerce International, l'Expertise Comptable, le Marketing ou la Gestion des Affaires Internationales. L' ISCAE se distingue également par la mise en place d'une formation continue pour les cadres en exercice.
+## IMANOR
+L’Institut Marocain de Normalisation (IMANOR) est l’organisme officiel Marocain chargé de la normalisation, créé par le législateur marocain en 2010, Il a pour missions :
+- La production des normes marocaines ;
+- La certification de conformité aux normes et aux référentiels normatifs ;
+- L’édition et la diffusion des normes et des produits associés et des informations s’y rapportant ;
+- La formation sur les normes et les techniques de leur mise en œuvre;
+- La représentation du Maroc auprès des organisations internationales et régionales de normalisation.
+www.imanor.gov.ma
+####
+Newsletter subscription
+An email including a link to activate your subscription has been sent to your email.
+Your subscription will only be activated after you have clicked on the link you received.
+Thank you for your interest in our newsletter.
+ShareThis Copy and Paste

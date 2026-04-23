@@ -1,0 +1,193 @@
+{
+    "identity": {
+        "domain": {
+            "value": "manpower.fr",
+            "confidence": 1.0,
+            "source": "URL / Technical footprint"
+        },
+        "name": {
+            "value": "Manpower France",
+            "confidence": 1.0,
+            "source": "ADRESSE CIBLE / Page Title"
+        },
+        "industry": {
+            "value": "Staffing and Recruiting",
+            "confidence": 1.0,
+            "source": "Scraped text - Interim, CDI, CDD"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Not mentioned in provided text"
+        },
+        "short_description": {
+            "value": "Spécialiste du recrutement en intérim, CDI, CDD et alternance avec un réseau de 800 agences en France.",
+            "confidence": 0.95,
+            "source": "Scraped text"
+        },
+        "seo_description": {
+            "value": "Manpower : Offres d’emploi Intérim, CDI, CDD, Alternance",
+            "confidence": 1.0,
+            "source": "Meta description"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Not mentioned in provided text"
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.6,
+            "source": "Deduction based on standard French fiscal practices"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Not mentioned in provided text"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Not mentioned in provided text"
+        },
+        "latest_funding_stage": {
+            "value": "Public",
+            "confidence": 0.8,
+            "source": "Deduction based on parent company ManpowerGroup NYSE listing"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "The provided text and partial JSON do not contain specific financial revenue data for the Manpower France entity."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": "http://www.facebook.com/manpower.france",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Not mentioned in text"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Targeting instruction / Corporate context"
+        },
+        "parent_company": {
+            "value": "ManpowerGroup",
+            "confidence": 1.0,
+            "source": "Global corporate structure"
+        },
+        "num_suborganizations": {
+            "value": "800",
+            "confidence": 0.8,
+            "source": "Text mentions 800 agencies in France"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Manpower France Agences"
+            ],
+            "confidence": 0.7,
+            "source": "Deduced from mention of national agency network"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "6 Place des Degres, Puteaux, France",
+            "confidence": 1.0,
+            "source": "ADRESSE CIBLE"
+        },
+        "city": {
+            "value": "Puteaux",
+            "confidence": 1.0,
+            "source": "ADRESSE CIBLE"
+        },
+        "country": {
+            "value": "France",
+            "confidence": 1.0,
+            "source": "ADRESSE CIBLE"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Cloudflare",
+            "category": "CDN / Security",
+            "confidence": 0.99,
+            "source": "HTTP Header: server"
+        },
+        {
+            "name": "Express",
+            "category": "Web Framework",
+            "confidence": 0.99,
+            "source": "HTTP Header: x-powered-by"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "External script: googletagmanager.com"
+        },
+        {
+            "name": "Google Maps",
+            "category": "Mapping",
+            "confidence": 0.99,
+            "source": "External script: maps.googleapis.com"
+        },
+        {
+            "name": "OneTrust",
+            "category": "Compliance / Cookie Management",
+            "confidence": 0.95,
+            "source": "External script: cdn.cookielaw.org"
+        },
+        {
+            "name": "Angular",
+            "category": "Frontend Framework",
+            "confidence": 0.9,
+            "source": "CSS Prefixes: ng-*"
+        },
+        {
+            "name": "Bootstrap",
+            "category": "CSS Framework",
+            "confidence": 0.85,
+            "source": "CSS Prefixes: navbar-*, btn-*, py-*, mt-*"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Intérim, CDI, CDD, Alternance, Recrutement, Emploi, Agences d'emploi, Manpower, Puteaux",
+        "confidence": 0.9,
+        "source": "Scraped text / SEO Title"
+    },
+    "data_quality_score": {
+        "value": 0.75,
+        "confidence": 0.95,
+        "source": "High completeness for identity, hierarchy, and technology footprint, but significant gaps in performance metrics (revenue, employees)."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Adecco",
+            "Randstad",
+            "Crit",
+            "Synergie",
+            "Proman"
+        ]
+    }
+}

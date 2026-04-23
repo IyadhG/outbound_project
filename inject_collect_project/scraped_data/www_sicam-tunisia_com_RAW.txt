@@ -1,0 +1,129 @@
+--- PAGE D'ACCUEIL :  ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Beja, Tunisia
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.sicam-tunisia.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+min-*, flex-*, font-*, top-*, left-*, right-*, z-*, transition-*, duration-*, bg-*, backdrop-*, shadow-*, py-*, mx-*, px-*, md:px-*, items-*, justify-*, h-*, md:h-*, w-*, object-*, hover:scale-*, gap-*, text-*, -*, group-*, hover:text-*, p-*, rounded-*
+===================================
+# Tomates Pelées Concassées
+Certifiées Zéro Résidu de Pesticides. 100% tomates tunisiennes.
+### +55 ans
+D'expertise
+Depuis 1969
+### N°1
+Du marché
+Leader en Tunisie
+### 1ère
+Entreprise
+Certifiée ZRP dans le secteur de transformation de la tomate en Tunisie, en Afrique et dans le Monde Arabe
+### +30
+Pays
+D'exportation
+### 100%
+Origine
+Tomates tunisiennes
+### 600
+Molécules
+Analysées
+### 1000
+Tests qualité
+Dans nos labos par jour
+Qualité Garantie
+Une sélection rigoureuse des meilleures graines pour une saveur authentique.
+## Notre Histoire
+### Préserver la terre, innover pour la santé. SICAM : Le goût authentique, l'exigence en plus
+Depuis 1969, SICAM s'engage à offrir le meilleur de la nature tunisienne. Notre histoire est celle d'une passion pour la terre et d'un savoir-faire transmis de génération en génération.
+Aujourd'hui, nous allons plus loin dans notre engagement pour votre santé et celle de l'environnement avec une démarche révolutionnaire dans l'industrie agroalimentaire tunisienne.
+- Agriculture durable et responsable
+- Soutien aux agriculteurs locaux
+- Innovation continue dans nos procédés Notre programme phare
+## Zéro Résidu de Pesticides — ZRP
+« Notre priorité. Votre santé. »
+96 % des Tunisiens s'inquiètent de la présence de pesticides dans leur alimentation. Chez SICAM, nous ne répondons pas à cette inquiétude avec des promesses — nous y répondons avec des certifications.
+Notre programme ZRP garantit que chacun de nos produits certifiés est analysé sur plus de 600 molécules de pesticides avant d'arriver sur votre table. Aucun résidu détectable. Une traçabilité totale. Une certification internationale indépendante délivrée par le CCPB (Italie).
+SICAM est la première entreprise arabe et africaine, et la première au monde pour le double concentré de tomates, à avoir obtenu cette certification.
+
+
+--- PAGE STRATÉGIQUE : http://www.sicam-tunisia.com/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.sicam-tunisia.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+min-*, flex-*, font-*, top-*, left-*, right-*, z-*, transition-*, duration-*, bg-*, backdrop-*, shadow-*, py-*, mx-*, px-*, md:px-*, items-*, justify-*, h-*, md:h-*, w-*, object-*, hover:scale-*, gap-*, text-*, -*, group-*, hover:text-*, p-*, rounded-*
+===================================
+# Des produits garantis zéro* résidu de pesticides
+Notre priorité. Votre santé.
+### +55 ans
+D'expertise
+Depuis 1969
+### N°1
+Du marché
+Leader en Tunisie
+### 1ère
+Entreprise
+Certifiée ZRP dans le secteur de transformation de la tomate en Tunisie, en Afrique et dans le Monde Arabe
+### +30
+Pays
+D'exportation
+### 100%
+Origine
+Tomates tunisiennes
+### 600
+Molécules
+Analysées
+### 1000
+Tests qualité
+Dans nos labos par jour
+Qualité Garantie
+Une sélection rigoureuse des meilleures graines pour une saveur authentique.
+## Notre Histoire
+### Préserver la terre, innover pour la santé. SICAM : Le goût authentique, l'exigence en plus
+Depuis 1969, SICAM s'engage à offrir le meilleur de la nature tunisienne. Notre histoire est celle d'une passion pour la terre et d'un savoir-faire transmis de génération en génération.
+Aujourd'hui, nous allons plus loin dans notre engagement pour votre santé et celle de l'environnement avec une démarche révolutionnaire dans l'industrie agroalimentaire tunisienne.
+- Agriculture durable et responsable
+- Soutien aux agriculteurs locaux
+- Innovation continue dans nos procédés Notre programme phare
+## Zéro Résidu de Pesticides — ZRP
+« Notre priorité. Votre santé. »
+96 % des Tunisiens s'inquiètent de la présence de pesticides dans leur alimentation. Chez SICAM, nous ne répondons pas à cette inquiétude avec des promesses — nous y répondons avec des certifications.
+Notre programme ZRP garantit que chacun de nos produits certifiés est analysé sur plus de 600 molécules de pesticides avant d'arriver sur votre table. Aucun résidu détectable. Une traçabilité totale. Une certification internationale indépendante délivrée par le CCPB (Italie).
+SICAM est la première entreprise arabe et africaine, et la première au monde pour le double concentré de tomates, à avoir obtenu cette certification.
+
+
+--- PAGE STRATÉGIQUE : http://www.sicam-tunisia.com/a-propos ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.sicam-tunisia.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+min-*, flex-*, font-*, top-*, left-*, right-*, z-*, transition-*, duration-*, bg-*, backdrop-*, shadow-*, py-*, mx-*, px-*, md:px-*, items-*, justify-*, h-*, md:h-*, w-*, object-*, hover:scale-*, gap-*, text-*, hover:text-*, -*, group-*, p-*, rounded-*
+===================================
+# 404 Page Not Found
+Did you forget to add the page to the router?
+
+
+--- PAGE STRATÉGIQUE : http://www.sicam-tunisia.com/investisseurs ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.sicam-tunisia.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+min-*, flex-*, font-*, top-*, left-*, right-*, z-*, transition-*, duration-*, bg-*, backdrop-*, shadow-*, py-*, mx-*, px-*, md:px-*, items-*, justify-*, h-*, md:h-*, w-*, object-*, hover:scale-*, gap-*, text-*, hover:text-*, -*, group-*, p-*, rounded-*
+===================================
+# 404 Page Not Found
+Did you forget to add the page to the router?

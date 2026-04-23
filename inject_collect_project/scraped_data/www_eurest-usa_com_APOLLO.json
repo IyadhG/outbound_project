@@ -1,0 +1,205 @@
+{
+    "identity": {
+        "domain": {
+            "value": "eurest-usa.com",
+            "confidence": 1.0,
+            "source": "URL / Scraped Headers"
+        },
+        "name": {
+            "value": "Eurest USA (Charlotte Headquarters)",
+            "confidence": 1.0,
+            "source": "Target Directive / Page Content"
+        },
+        "industry": {
+            "value": "Foodservice & Hospitality",
+            "confidence": 0.95,
+            "source": "Site Description / Who We Are"
+        },
+        "founded_year": {
+            "value": "1974",
+            "confidence": 0.6,
+            "source": "Deduction from 'more than 50 years' mention"
+        },
+        "short_description": {
+            "value": "Leader in hospitality, foodservice and culinary excellence serving the nation’s workforce and Fortune 100 companies.",
+            "confidence": 0.95,
+            "source": "Home Page Description"
+        },
+        "seo_description": {
+            "value": "Eurest is the leader in hospitality, foodservice and culinary excellence setting the table for our nation’s workforce and industries.",
+            "confidence": 0.9,
+            "source": "Home Page Meta Content"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Information not present in scraped text"
+        },
+        "fiscal_year_end": {
+            "value": "September",
+            "confidence": 0.7,
+            "source": "Inferred from parent company Compass Group standard fiscal calendar"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.5,
+            "source": "Entity is a division of a publicly traded corporation"
+        },
+        "estimated_num_employees": {
+            "value": "16,000+",
+            "confidence": 0.95,
+            "source": "Home Page Statistics for Eurest USA"
+        },
+        "latest_funding_stage": {
+            "value": "Public",
+            "confidence": 0.9,
+            "source": "Compass Group USA corporate structure"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "No explicit revenue figures provided in source text or input JSON for conversion."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/EurestUSA",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "No phone number listed in provided contact sections"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Mention of Compass Group USA partnership and email domains"
+        },
+        "parent_company": {
+            "value": "Compass Group USA",
+            "confidence": 1.0,
+            "source": "Press Room contact email and SkillBridge partnership text"
+        },
+        "num_suborganizations": {
+            "value": "50+",
+            "confidence": 0.6,
+            "source": "Deduction from 48 states, DC, and Puerto Rico operations"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "ESFM"
+            ],
+            "confidence": 0.9,
+            "source": "Mention of joint employee benefits with ESFM"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "2400 Yorkmont Road, Charlotte, NC 28217, United States",
+            "confidence": 1.0,
+            "source": "Target Directive / Provided Location"
+        },
+        "city": {
+            "value": "Charlotte",
+            "confidence": 1.0,
+            "source": "Target Directive"
+        },
+        "country": {
+            "value": "United States",
+            "confidence": 1.0,
+            "source": "Target Directive"
+        }
+    },
+    "technologies": [
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 1.0,
+            "source": "WP Engine headers and CSS classes"
+        },
+        {
+            "name": "Cloudflare",
+            "category": "CDN/Security",
+            "confidence": 1.0,
+            "source": "Server HTTP Header"
+        },
+        {
+            "name": "WP Engine",
+            "category": "Hosting",
+            "confidence": 1.0,
+            "source": "X-Powered-By Header"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Analytics",
+            "confidence": 0.99,
+            "source": "External Script URL"
+        },
+        {
+            "name": "Microsoft Clarity",
+            "category": "Heatmaps/Behavioral",
+            "confidence": 0.99,
+            "source": "External Script URL"
+        },
+        {
+            "name": "Yoast SEO",
+            "category": "SEO Plugin",
+            "confidence": 0.99,
+            "source": "CSS Prefixes"
+        },
+        {
+            "name": "Revolution Slider",
+            "category": "UI/UX Components",
+            "confidence": 0.95,
+            "source": "CSS and JS Prefixes (revslider)"
+        },
+        {
+            "name": "ShareThis",
+            "category": "Social Sharing",
+            "confidence": 0.99,
+            "source": "External Scripts"
+        },
+        {
+            "name": "Flatpickr",
+            "category": "Javascript Library",
+            "confidence": 0.9,
+            "source": "CSS Classes in Press Room"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Hospitality, Foodservice, Culinary Excellence, Workplace Dining, Wellness, Sustainability, Net Zero, Fortune 100 Amenities, Corporate Dining",
+        "confidence": 0.9,
+        "source": "Site content and core service descriptions"
+    },
+    "data_quality_score": {
+        "value": 0.82,
+        "confidence": 0.95,
+        "source": "High completeness for identity, hierarchy, and technical stack; significant gaps in direct contact information and financial metrics."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Aramark",
+            "Sodexo",
+            "Elior North America",
+            "Guckenheimer",
+            "ISS World"
+        ]
+    }
+}

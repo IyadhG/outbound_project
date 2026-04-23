@@ -1,0 +1,191 @@
+{
+    "identity": {
+        "domain": {
+            "value": "i3t.com.tn",
+            "confidence": 1.0,
+            "source": "Empreinte technique / Page d'accueil"
+        },
+        "name": {
+            "value": "I3T",
+            "confidence": 1.0,
+            "source": "Page d'accueil"
+        },
+        "industry": {
+            "value": "Distribution de matériel IT et télécom, Visioconférence",
+            "confidence": 0.9,
+            "source": "Page d'accueil"
+        },
+        "founded_year": {
+            "value": "2012",
+            "confidence": 0.7,
+            "source": "Page d'accueil (Déduit de '12 ans d'expertise')"
+        },
+        "short_description": {
+            "value": "I3T est le premier distributeur de produits IT et télécom en Tunisie, spécialisé dans la vente de matériel de visioconférence, de solutions de réseaux informatiques, de fibre optique et de casques téléphoniques.",
+            "confidence": 0.9,
+            "source": "Page d'accueil"
+        },
+        "seo_description": {
+            "value": "I3T, le premier distributeur des produits IT et télécom en Tunisie, spécialisé dans la visioconférence et les réseaux informatiques.",
+            "confidence": 0.6,
+            "source": "Page d'accueil (Déduit du contenu principal)"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Aucune donnée financière trouvée"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Aucune donnée financière trouvée"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Aucune donnée de financement trouvée"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Aucune information directe sur les employés"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Aucune donnée de financement trouvée"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Aucune donnée financière directe ou indicateur de chiffre d'affaires précis trouvé dans les sources fournies."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/i3ttunisia/",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé sur le site"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.6,
+            "source": "Déduction (absence de mention de maison mère)"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non mentionné"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non mentionné"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.1,
+            "source": "Non mentionné"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "شارع 14 جانفي 2011, Ariana, Tunisia",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "city": {
+            "value": "Ariana",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "country": {
+            "value": "Tunisia",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        }
+    },
+    "technologies": [
+        {
+            "name": "OVHcloud",
+            "category": "Hosting",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Headers HTTP)"
+        },
+        {
+            "name": "PHP",
+            "category": "Programming Language",
+            "confidence": 0.95,
+            "source": "Déduction IA depuis empreinte technique (Headers HTTP)"
+        },
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Préfixes CSS, Regex)"
+        },
+        {
+            "name": "WooCommerce",
+            "category": "E-commerce",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Préfixes CSS)"
+        },
+        {
+            "name": "Muffin Group (likely Betheme)",
+            "category": "WordPress Theme/Builder",
+            "confidence": 0.85,
+            "source": "Déduction IA depuis empreinte technique (Préfixes CSS)"
+        },
+        {
+            "name": "Google Analytics",
+            "category": "Analytics",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Regex classiques)"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Regex classiques)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "visioconférence, matériel IT, télécom, distributeur, Tunisie, réseaux informatiques, fibre optique, casques téléphoniques, Yealink, intégrateurs, revendeurs",
+        "confidence": 0.9,
+        "source": "Page d'accueil"
+    },
+    "data_quality_score": {
+        "value": 0.68,
+        "confidence": 0.95,
+        "source": "L'identité, l'adresse et l'empreinte technique sont complètes, mais les données de performance (revenus, employés) et les réseaux sociaux professionnels sont manquants."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Disway Tunisia",
+            "Logicom Tunisia",
+            "Prologic Tunisia",
+            "Aetech",
+            "I-Tech Tunisia"
+        ]
+    }
+}

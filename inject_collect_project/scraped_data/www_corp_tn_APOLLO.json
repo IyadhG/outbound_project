@@ -1,0 +1,142 @@
+{
+    "identity": {
+        "domain": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        },
+        "name": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        },
+        "industry": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        },
+        "short_description": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        },
+        "seo_description": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Input data is null due to 404 error on source page"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Inferred from targeting directive"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Scraped text"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.0,
+            "source": "Scraped text"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Tunis, Tunisia",
+            "confidence": 1.0,
+            "source": "Targeting Directive"
+        },
+        "city": {
+            "value": "Tunis",
+            "confidence": 1.0,
+            "source": "Targeting Directive"
+        },
+        "country": {
+            "value": "Tunisia",
+            "confidence": 1.0,
+            "source": "Targeting Directive"
+        }
+    },
+    "technologies": [],
+    "funding_events": [],
+    "keywords": {
+        "value": null,
+        "confidence": 0.0,
+        "source": "Scraped text"
+    },
+    "data_quality_score": {
+        "value": 0.08,
+        "confidence": 1.0,
+        "source": "Assessment of completeness: identity, performance, and contact fields are missing"
+    },
+    "market_intelligence": {
+        "competitors": []
+    }
+}

@@ -1,0 +1,256 @@
+[
+    {
+        "first_name": "Thomas",
+        "full_name": "Thomas Cannon",
+        "last_name": "Cannon",
+        "gender": "male",
+        "address": "San Francisco Bay Area, United States, United States",
+        "city": "San Francisco Bay Area",
+        "country": "United States",
+        "job_summary": null,
+        "job_title_role": "engineering",
+        "job_title_level": "manager",
+        "job_company_name": "Tesla",
+        "job_company_website": "tesla.com",
+        "job_description": "I architect, deploy, secure, and support industrial control networks for multi-gigawatt scale energy storage solutions. The BESS yard and substation networks I design and implement support power generation plants, power grids, Island nations, and very large enterprises across the US, Australia, and the Pacific Islands.",
+        "job_company_linkedin_url": "linkedin.com/company/tesla-motors",
+        "education": [
+            {
+                "school": {
+                    "name": "Widener University"
+                },
+                "degree": [
+                    "Bachelor's degree"
+                ]
+            }
+        ],
+        "experience": [
+            {
+                "title": "Sr Staff Network Architect, Tesla Commercial Energy",
+                "duration": null,
+                "location": "California, United States",
+                "company": {
+                    "name": "Tesla",
+                    "lnkd_url1": "linkedin.com/company/tesla-motors"
+                },
+                "current": true,
+                "description": null,
+                "start_time": null,
+                "date1": null
+            },
+            {
+                "duration": "1 year 2 months",
+                "start_time": 2023,
+                "current": true,
+                "description": "I architect, deploy, secure, and support industrial control networks for multi-gigawatt scale energy storage solutions. The BESS yard and substation networks I design and implement support power generation plants, power grids, Island nations, and very large enterprises across the US, Australia, and the Pacific Islands.",
+                "location": "Austin, Texas, US",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/tesla-motors/",
+                    "name": "Tesla"
+                },
+                "title": "Staff IoT Network Engineer",
+                "date1": "Nov 2023 - Present"
+            },
+            {
+                "duration": "1 year 1 month",
+                "start_time": 2022,
+                "current": false,
+                "end_time": 2023,
+                "description": "I dove back into Linux and took over a Ceph storage cluster that housed all of the company's critical data, which was many petabytes too large to back up, and figured out how to upgrade the nodes to a common version, and then successfully upgraded the cluster and added more nodes and petabytes more storage -- all without a net. I also cut a hole in the server room wall and installed an exhaust fan and lowered the ambient temperature by 20 degrees. That resulted in the GPUs no longer rate limiting due for thermal reasons and the company enjoying three free weeks of machine learning in their data center per year from a $70 fix.",
+                "location": "San Francisco, US",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/pronto-dot-ai/",
+                    "name": "Pronto"
+                },
+                "title": "Senior System Engineer",
+                "date1": "Nov 2022 - Nov 2023"
+            },
+            {
+                "duration": "1 year",
+                "start_time": 2022,
+                "current": false,
+                "end_time": 2023,
+                "description": "I was the designated responsible individual overseeing enterprise network architecture, including hybrid connections between various government-only AWS and Azure networks and our physical network. My duties also included creating a high speed/fault tolerant network designs for ground support and launcher systems, the mission control network, video and webcast networking, high speed camera network support, connections to dish based tracking stations, and working with NASA to collect downrange telemetry from their network and designing and deploying the control and data networks for an experimental rocket engine testing facility in scenic Atwater, CA,",
+                "location": "Alameda, California, US",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/astraspace/",
+                    "name": "Astra"
+                },
+                "title": "Network Architect",
+                "date1": "Feb 2022 - Jan 2023"
+            },
+            {
+                "duration": "1 year",
+                "start_time": 2021,
+                "current": false,
+                "end_time": 2022,
+                "description": "A great many things are on my plate here. Much of it is network architecture and engineering, comprising terrestrial (launch control, range telemetry, WAN connectivity between launch sites, rocket support ground equipment, communications/video) as well as greenfield designs of space-based inter-satellite networks. I also work in the field with our red team, supporting hazardous launch operations in Kodiak, Alaska and Cape Canaveral, Florida, standing up rockets and launching them into space.",
+                "location": "Alameda, California, US",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/astraspace/",
+                    "name": "Astra"
+                },
+                "title": "Lead IT Systems Engineer, Mission Operations",
+                "date1": "Oct 2021 - Sep 2022"
+            },
+            {
+                "duration": "1 year 5 months",
+                "start_time": 2020,
+                "current": false,
+                "end_time": 2021,
+                "description": "Cancom is a global VAR based in Germany with Fortune 500 companies as customers. My role was to architect solutions for large enterprises and help them with connectivity throughout their workspace, to their various Azure/Oracle/Amazon cloud assets, and to the Internet. The solutions provided centered around Cisco routing and VSS switching, Palo Alto firewalls, Silver Peak SD-WAN, and creative uses of BGP. I also supported customers with their Linux and VMWare as environments as well. I also did a ton of wireless surveying and RF designs, which I rather enjoyed.",
+                "company": {
+                    "name": "CANCOM US"
+                },
+                "title": "Hybrid Network Security Architect",
+                "date1": "May 2020 - Sep 2021"
+            },
+            {
+                "duration": "9 months",
+                "start_time": 2019,
+                "current": false,
+                "end_time": 2020,
+                "description": "We were building a private content delivery network linking together movie theaters, nation wide, until COVID changed our plans. We were building a platform to host live concert performances, massive corporate meetings, large educational gatherings, eSports, all on the big screen in an out-of-home environment. We were building this using Juniper SRX firewalls, VPLS, Linux and Ruckus wireless.",
+                "location": "San Francisco, California, US",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/netlevelnetwork/",
+                    "name": "NetLevel"
+                },
+                "title": "Network System Architect // VP, Operations",
+                "date1": "Jul 2019 - Mar 2020"
+            },
+            {
+                "duration": "2 years 11 months",
+                "start_time": 2016,
+                "current": false,
+                "end_time": 2019,
+                "description": "This was a wonderful position upgrading and supporting a massive medical research facility with noble dreams but little operating budget, as it was mostly grant funded. The original equipment here was purchased from literally the same sales person I was buying gear from in 1999. I replaced the entire wired and wireless infrastructure, firewalls and added IDS/IPS to the network, and set up BGP dual homed ISP connections.",
+                "location": "San Francisco, California, US",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/gladstoneinstitutes/",
+                    "name": "Gladstone Institutes"
+                },
+                "title": "Senior Network Architect",
+                "date1": "Jun 2016 - Apr 2019"
+            },
+            {
+                "duration": "1 year 11 months",
+                "start_time": 2014,
+                "current": false,
+                "end_time": 2016,
+                "description": "Further maintenance of Beats Music while transforming it into Apple Music.",
+                "location": "Cupertino, California, US",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/apple/",
+                    "name": "Apple"
+                },
+                "title": "Network Systems Manager",
+                "date1": "Aug 2014 - Jun 2016"
+            },
+            {
+                "duration": "2 years 8 months",
+                "start_time": 2012,
+                "current": false,
+                "end_time": 2014,
+                "description": "I negotiated several million dollar purchases and recruited and hired amazing talent while still focusing on my engineering roots: I procured AS 27300 and brought it to life using Juniper MX80's accepting full BGP tables from multiple ISPs. I designed and deployed a multi-homed and multi-datacenter BGP anycast network, utilizing geographically diverse topology using 10G DWDM ECMP circuits between datacenters to keep the backend messaging queues and databases synchronized between locations. I also procured and maintained several petabytes of Netapp storage running over a storage area network tied to Nexus 5k's using FCoE and then VCP/MC-LAG to a virtual chassis of Juniper 4550s tying it to the core consisting of larger chassis (92xx) equipment.",
+                "location": "San Francisco, CA, US",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/beats-music/",
+                    "name": "Beats Music"
+                },
+                "title": "Director of Network Operations",
+                "date1": "Jan 2012 - Aug 2014"
+            },
+            {
+                "duration": "15 years 8 months",
+                "start_time": 1998,
+                "current": false,
+                "end_time": 2013,
+                "description": "Network, storage, and system architecture, troubleshooting, documenting, penetration testing, equipment purchasing, office builds, wireless auditing, documentation, all as either a consultant or full-time independent contractor. Companies I've done work for include Cisco, AMEX, VISA, SpaceX, Tesla, Infoblox, etc, along with various government agencies such as the Secret Service, FBI, NASA, Army Computer Crimes, and the Texas Rangers, who were not a prank phone call after all.Random highlights to keep my resume less tiresome:Working on one of the first IDS system with the Naval Surface Warfare Center; I submitted code to their SHADOW project. I solely built and ran the colo/office infrastructure for Splunk for seven years during enormous growth. I was hired by a founder after succeeding in doing the same for him previously.Anything SpaceX.NBCi was audited, security wise, while I was responsible for the security of the network. Someone unfortunately put an unpatched machine on the network which was compromised and I caught it in real time and left a congratulations note for the pentester. That was their only success. I was promoted after they gave their presentation to management saying our network was the only one they hadn't been able to breach aside from that one machine out of 700 various Windows, Solaris, FreeBSD and Linux machines under my watch.Foundry Networks (now Brocade): I wrote the technical documentation regarding streaming Real (company/codec) video using direct server return as their Real servers didn't support it at all and neither vendor had no idea how to make it work.",
+                "company": {
+                    "name": "Freelance"
+                },
+                "title": "Senior Consultant",
+                "date1": "Jan 1998 - Aug 2013"
+            }
+        ],
+        "interests": [],
+        "skills": [
+            "networking",
+            "systems",
+            "management",
+            "cloud computing",
+            "virtualization",
+            "leadership",
+            "enterprise software",
+            "linux",
+            "data center",
+            "storage",
+            "hardware",
+            "security",
+            "cisco systems products",
+            "firewalls",
+            "infrastructure",
+            "network security",
+            "network engineering",
+            "wireless technologies",
+            "virtual private network",
+            "network administration",
+            "storage area network",
+            "troubleshooting",
+            "system architecture",
+            "border gateway protocol",
+            "consulting",
+            "start ups",
+            "technical recruiting",
+            "juniper networks products",
+            "servers",
+            "solaris",
+            "unix",
+            "global talent acquisition",
+            "niche talent acquisition",
+            "switches",
+            "vendor management",
+            "routing",
+            "internet protocol suite"
+        ],
+        "languages": {},
+        "emails": [
+            {
+                "usability": "unknown",
+                "address": "tcannon@apple.com",
+                "attempted_at": "2026-02-24T19:09:12.776067+00:00",
+                "type": "professional",
+                "skip_reason": "domain_catch_all"
+            },
+            {
+                "usability": "current",
+                "address": "tcannon@astra.com",
+                "attempted_at": "2026-02-24T19:09:12.778491+00:00",
+                "type": "professional",
+                "skip_reason": "domain_catch_all"
+            }
+        ],
+        "phone_numbers": [],
+        "cb_rank": null,
+        "cb_logo_url": null,
+        "profile_picture_url": null,
+        "job_company_size": 76101,
+        "industry": "Motor Vehicle Manufacturing",
+        "job_title_detailed_role_s2": null,
+        "organization_founded_year_s2": null,
+        "organization_facebook_url_s2": null,
+        "organization_twitter_url_s2": null,
+        "organization_current_technologies_s2": null,
+        "emails_s2": null,
+        "phone_numbers_s2": null,
+        "raw_name_from_google": "Thomas Cannon",
+        "clean_name_used": "Thomas Cannon",
+        "linkedin_url": "https://www.linkedin.com/in/yes-hes-that-good",
+        "company": "Tesla",
+        "email": "thomasc@tesla.com",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io + AeroLeads (Profil Enrichi)"
+    }
+]

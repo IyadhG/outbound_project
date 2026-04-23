@@ -1,0 +1,192 @@
+--- PAGE D'ACCUEIL : Amazon.com. Spend less. Smile more. ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 2127 7th Avenue, Seattle, United States
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: CloudFront
+via: 1.1 6178d33f7463416ad021f955af8e68da.cloudfront.net (CloudFront)
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+images-na.ssl-images-amazon.com, m.media-amazon.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+a-*, awa-*, nav-*, search-*, autocomplete-*, two-*, left-*, right-*, glow-*, aok-*, gwm-*, window-*, horizontal-*, autorotation-*, csm-*, mobile-*, pd_rd_wg-*, pd_rd_w-*, pd_rd_r-*, _single-*, theming-*, experimental-*, content-*, pf_rd_p-*, pf_rd_r-*, c-*, gw-*, sign-*, _sign-*, _multi-*
+===================================
+Amazon.com. Spend less. Smile more.
+-
+### Find gifts for Mom
+-
+### Shop kitchen must-haves
+-
+### Gifts for techie Mom
+-
+### Shop all things beauty
+-
+### Start looking sharp
+-
+### Discover books you can't put down
+-
+### Fill your Easter basket with joy
+-
+### Toys for little ones
+-
+### Level up your PC here
+### Sign in for the best experience Sign in for the best experience
+Sign in securely Create an account Create an account
+### Score the top PCs & Accessories Score the top PCs & Accessories
+Desktops Desktops Laptops Laptops Hard Drives Hard Drives PC Accessories PC Accessories See more See more
+### Plug in with our electronics Plug in with our electronics
+Headphones Headphones Tablets Tablets Gaming Gaming Speakers Speakers Shop more Shop more
+### Gear up to get fit Gear up to get fit
+Clothing Clothing Trackers Trackers Equipment Equipment Deals Deals Shop more Shop more
+### Apparel under $25 Apparel under $25
+Women Women Men Men Girls Girls Boys Boys Shop all Shop all
+### Fantastic Finds for Home Fantastic Finds for Home
+Kitchen Kitchen Home Decor Home Decor Dining Dining Smart Home Smart Home See more See more
+### Shine brighter with your fashion faves Shine brighter with your fashion faves
+Jewelry Jewelry Handbags Handbags Footwear Footwear Beauty Beauty Shop more Shop more
+### Level up your PC here Level up your PC here
+Laptops Laptops PCs PCs Hard Drives Hard Drives Monitors Monitors Shop more Shop more
+### Unveil your radiance Unveil your radiance
+Hair Care Hair Care Fragrances Fragrances Make-up Make-up Skin Care Skin Care Shop more Shop more
+### Fashion trends in Shoes Fashion trends in Shoes
+Women's Women's Men's Men's Kids' Kids' All shoes All shoes Shop more Shop more
+### Home harmony Home harmony
+Kitchen essentials Kitchen essentials Home comfort Home comfort Decorate with elegance Decorate with elegance Light it Right Light it Right Shop more Shop more
+### Shoes Under $50 Shoes Under $50
+Women's Women's Men's Men's Girl's Girl's Boy's Boy's Shop all Shop all
+### What you need for furry friends What you need for furry friends
+Dogs Dogs Cats Cats Small Pets Small Pets Deals Deals Shop more Shop more
+### Video games & accessories Video games & accessories
+Xbox controllers Xbox controllers Nintendo Nintendo VR headsets VR headsets PS5 accessories PS5 accessories Explore now Explore now
+### Have more fun with the family Have more fun with the family
+Outdoor Play Sets Outdoor Play Sets Learning Toys Learning Toys Action Figures Action Figures Pretend Play Toys Pretend Play Toys See more See more
+### Finds in Home Finds in Home
+Bedsheets Bedsheets Pillows Pillows Duvet Covers Duvet Covers Throws Throws Shop more Shop more
+### Deals on top categories Deals on top categories
+Books Books Fashion Fashion PC PC Beauty Beauty Shop more Shop more
+### New home arrivals under $50 New home arrivals under $50
+Kitchen & dining Kitchen & dining Home improvement Home improvement Décor Décor Bedding & bath Bedding & bath Shop the latest from Home Shop the latest from Home
+### Discover the latest arrivals Discover the latest arrivals
+Electronics Electronics Home Home Beauty Beauty Fashion Fashion Shop Deals Shop Deals
+### Step into style Step into style
+Women's clothing Women's clothing Women's shoes Women's shoes Men's clothing Men's clothing Men's shoes Men's shoes Shop more Shop more
+### Top picks for Tunisia Top picks for Tunisia
+eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moisture Skin Care, Lightweight & Non-Greasy, Natural Shea, Vegan,... eos Shea Better Body Lotion Vanilla Cashmere, 24-Hour Moi… $9.97 $ 9 . 97 List:   $10.99 $10.99 DJI Mini 4K, Drone with 4K UHD Camera for Adults, Under 249 g, 3-Axis Gimbal Stabilization, 10km Video Transmission,... DJI Mini 4K, Drone with 4K UHD Camera for Adults, Under 249 g… $299.00 $ 299 . 00 Lenovo Idea Tab - College Tablet - 11″ 2.5K IPS Touchscreen Display - 90Hz - MediaTek Dimensity 6300-8 GB Memory - 256... Lenovo Idea Tab - College Tablet - 11″ 2.5K IPS Touchscreen Dis… $225.00 $ 225 . 00 List:   $249.99 $249.99
+### Accessorize your life Accessorize your life
+Fashion accessories Fashion accessories Men's accessories Men's accessories Health and beauty Health and beauty Sports Sports Shop more Shop more
+### Level up your beauty routine Level up your beauty routine
+Makeup Makeup Brushes Brushes Sponges Sponges Mirrors Mirrors See more See more
+### Get ready for a day out with your little one Get ready for a day out with your little one
+Snacks & food Snacks & food Toys Toys Strollers Strollers Car Seats Car Seats Explore more Explore more
+You've reached the end. Keep exploring!
+### Explore Departments Explore Departments
+Beauty Beauty Home and Kitchen Home and Kitchen Sports and Outdoors Sports and Outdoors Electronics Electronics Outdoor Clothing Outdoor Clothing Pet Supplies Pet Supplies All Departments All Departments
+# Browse all categories
+Sign in
+Browse
+Amazon
+Amazon Home
+Trending
+- Movers & Shakers Top Departments
+- Home
+- Health & Household
+- Books
+- PC
+- Amazon Music
+- Prime Video
+- Books
+- Echo & Alexa
+- Fire Tablets
+- Fire TV
+- Amazon Luna
+- Kindle
+- Audible Books & Originals
+- Clothing, Shoes, Jewelry & Watches
+- Home, Garden & Tools
+- Pets
+- Electronics
+- Office & School Supplies
+- Gift Cards
+- Amazon Appstore
+- Movies, Music & Games
+- Computers
+- Handmade
+- Beauty, Health & Personal Care
+- Food & Grocery
+- Toys, Kids & Baby
+- Sports & Outdoors
+- Automotive
+- Home Services
+- Amazon Global Store
+- Shop By Interest
+- Premium Fashion
+- Amazon Business
+- Amazon Custom
+- Amazon Haul
+- Amazon Live
+- Amazon Music
+- Amazon Outlet
+- Handpicked
+- Medical Care & Pharmacy
+- Amazon Physical Stores
+- Amazon Trade-in
+- Your Product Support
+- Amazon Second Chance
+- Amazon Resale
+- Audible
+- Baby Registry
+- Climate Pledge Friendly
+- Credit & Payment Products
+- Customers' Most-Loved Styles
+- Gift Shop
+- Gift Cards
+- Home Services
+- Amazon Luxury
+- Our Brands
+- Pet Profile
+- Prime
+- Amazon Photos
+- Prime Video
+- Purchase Reminders
+- Sell products on Amazon
+- Add Prime to your site
+- Subscribe & Save
+- Wedding Registry
+- Drone Delivery
+- See all See less
+Back to top
+
+
+--- PAGE STRATÉGIQUE : https://ir.aboutamazon.com/overview/default.aspx ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.googletagmanager.com, ir.aboutamazon.com, s2.q4cdn.com, widgets.q4app.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+Languageen-*, layout-*, pane-*, module-*, module_container-*, q4-*, list-*, sr-*, grid-*, grid_col-*, nav-*, module_item-*, container-*, stock-*, background-*, module_date-*, module_view-*, text-*
+===================================
+Amazon.com, Inc. - Overview
+
+
+--- PAGE STRATÉGIQUE : https://ir.aboutamazon.com/annual-reports/default.aspx ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.googletagmanager.com, ir.aboutamazon.com, s2.q4cdn.com, widgets.q4app.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+layout-*, pane-*, module-*, module_container-*, q4-*, list-*, sr-*, grid-*, grid_col-*, nav-*, background-*, text-*
+===================================
+Page Not Found

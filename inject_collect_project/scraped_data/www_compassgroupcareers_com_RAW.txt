@@ -1,0 +1,126 @@
+--- PAGE D'ACCUEIL : Compass Group Careers ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 2400 Yorkmont Road, Charlotte, United States
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+cdn.sites.paradox.ai, careers.compass-usa.com, cdn.userway.org, www.googletagmanager.com, dokumfe7mps0i.cloudfront.net, forms.daliajobs.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+lst-*, uwaw-*, uw-*, top-*, left-*, right-*, z-*, bg-*, px-*, py-*, max-*, items-*, justify-*, gap-*, text-*, font-*, leading-*, h-*, w-*, hamburger-*, lg:w-*, lg:h-*, shrink-*, image-*, desktop-*, lg:gap-*, flex-*, heading-*, transition-*, ease-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+WordPress, Google Tag Manager
+
+Compass Group Careers
+Your browser does not support the video tag.
+#
+A FAMILY OF COMPANIES,
+A CAREER FOR LIFE
+I'm Looking For Position near
+WE’RE COMPASS GROUP
+But you might know us by a
+##
+different name
+As the nation’s largest family of foodservice and facilities
+services companies, you could make an impact anywhere — from college
+quads and hospital dining rooms to ballparks, museums, school
+cafeterias, corporate cafés, airport lounges, and senior living
+communities.
+OUR FAMILY OF COMPANIES
+See your current employer? Then you’re already part of the team —
+you should apply for your next career move
+here .
+## MEET OLIVIA
+Our recruiting assistant, Olivia, can help you with your job
+search, answer questions about working at Compass Group, guide you
+through the application process, and even help schedule your
+interview. You can click on the button to chat or you can text
+"Job" to 75000.
+Chat with Olivia
+Invited to an interview
+You have been invited to a 30 min interview with Compass!
+Now
+## Our stats
+###
+160 k+
+NEW TEAM
+MEMBERS
+HIRED
+ANNUALLY
+###
+13,000 +
+NEW
+OPPORTUNITIES
+EVERY YEAR
+###
+28 +
+COMPANIES
+NATIONWIDE
+###
+13 M+
+MEALS SERVED
+DAILY
+###
+1 B+
+SQUARE FEET
+CLEANED DAILY
+###
+11 M+
+HOSPITAL
+PATIENTS
+TRANSPORTED
+ANNUALLY
+###
+300 k+
+ASSOCIATES IN
+THE U.S. AND CANADA
+###
+38 %
+OF OUR SALARIED
+TEAM MEMBERS ARE
+HIRED INTERNALLY
+## Awards
+Our success didn’t happen overnight. We’ve earned the top spot in
+our industry through decades of collaboration. Our awards say it
+best.
+World’s Most Admired Company*
+Best Employers for Women
+Best Employers for Diversity
+Best Employers for New Grads
+Most Innovative
+Companies
+Ranked #1 out of 50
+Compass in the news
+*Compass Group PLC, a Fortune 2023 & 2025 World's Most Admired
+Company and a Time 2024 World's Best Company
+** Number of years awards recieved.
+## ABOUT US
+It takes a special team to deliver world-class hospitality and
+support services on a stage this big.
+Learn More
+## WHY COMPASS?
+Benefits, career growth, recognition and more — there are so
+many reasons to choose a career at Compass Group.
+Learn More
+## CAREER AREAS
+Build a great career in hospitality or support services, or
+join the team behind the scenes at our corporate headquarters.
+Learn More
+##
+JOIN OUR TALENT COMMUNITY
+Stay up-to-date on our latest opportunities by signing up for job
+alerts in our talent community.
+SIGN ME UP
+##
+MEET US AT A HIRING EVENT
+Join us at one of our next hiring events, whether it’s virtual or
+in-person.
+FIND AN EVENT NEAR YOU
+### JOIN our FAMILY
+Your future is waiting. Let’s get started.
+Search Jobs

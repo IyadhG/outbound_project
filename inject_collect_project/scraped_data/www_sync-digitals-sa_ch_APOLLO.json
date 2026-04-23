@@ -1,0 +1,179 @@
+{
+    "identity": {
+        "domain": {
+            "value": "sync-digitals-sa.ch",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Groupe Sync Digitals",
+            "confidence": 0.9,
+            "source": "Page d'accueil"
+        },
+        "industry": {
+            "value": "Transformation digitale, Télécommunications, Industrie",
+            "confidence": 0.8,
+            "source": "Site web / domaines d’expertises"
+        },
+        "founded_year": {
+            "value": 2017,
+            "confidence": 0.9,
+            "source": "Page about / Le groupe"
+        },
+        "short_description": {
+            "value": "Groupe de services et solutions informatiques qui s'est agrandi par rachats et prises de participations, proposant ses services à travers 5 marques distinctes dans la transformation digitale, les télécommunications et l'industrie.",
+            "confidence": 0.8,
+            "source": "Page d'accueil / Le groupe"
+        },
+        "seo_description": {
+            "value": "Innovations et technologies. Un groupe. Plusieurs expertises.",
+            "confidence": 0.7,
+            "source": "Titre et H1 de la page d'accueil"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte pour l'entité ciblée ou le groupe"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte"
+        },
+        "estimated_num_employees": {
+            "value": "30",
+            "confidence": 0.8,
+            "source": "Page d'accueil - Chiffre global du groupe, non spécifique à Tunis"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Aucune donnée financière spécifique n'est disponible dans le texte source pour l'entité de Tunis ou le groupe global."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.9,
+            "source": "Le texte décrit 'Groupe Sync Digitals SA' comme un groupe parent de 5 marques distinctes."
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.95,
+            "source": "L'entité ciblée est le groupe lui-même."
+        },
+        "num_suborganizations": {
+            "value": 5,
+            "confidence": 0.7,
+            "source": "Site / Le groupe : 'propose ses services à travers 5 marques distinctes'."
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.2,
+            "source": "Site / Le groupe : mentionne 5 entreprises, mais sans les nommer explicitement."
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Directive de ciblage : Tunis, Tunisia. Aucune adresse spécifique trouvée dans le texte pour cette filiale."
+        },
+        "city": {
+            "value": "Tunis",
+            "confidence": 0.9,
+            "source": "Directive de ciblage (APOLLO)"
+        },
+        "country": {
+            "value": "Tunisia",
+            "confidence": 0.9,
+            "source": "Directive de ciblage (APOLLO)"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Apache",
+            "category": "Web Server",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Headers HTTP)"
+        },
+        {
+            "name": "Google Analytics",
+            "category": "Analytics",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Scripts externes / Regex)"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Scripts externes / Regex)"
+        },
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Préfixes CSS wp-* / Regex)"
+        },
+        {
+            "name": "Yoast SEO",
+            "category": "SEO",
+            "confidence": 0.9,
+            "source": "Déduction IA depuis empreinte technique (Préfixes CSS yoast-*)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "innovations, technologies, transformation digitale, télécommunications, industrie, solutions informatiques, services informatiques, connectivité, mobilité, tests et mesures",
+        "confidence": 0.8,
+        "source": "Site / domaines d’expertises, description du groupe"
+    },
+    "data_quality_score": {
+        "value": 0.65,
+        "confidence": 0.95,
+        "source": "Évaluation basée sur la présence de données d'identité, de l'empreinte technologique et des mots-clés, pondérée par l'absence de données financières et de liens sociaux valides."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Oxia",
+            "Sofrecom Tunisia",
+            "Talan Tunisia",
+            "Focus",
+            "Business & Decision Tunisia"
+        ]
+    }
+}

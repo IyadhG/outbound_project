@@ -1,0 +1,441 @@
+--- PAGE D'ACCUEIL : Groupe Sync Digitals | Innovations et Technologies ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Tunis, Tunisia
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: Apache
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google-analytics.com, www.googletagmanager.com, www.google.com, www.gstatic.com, sync-digitals-sa.ch
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+object-*, yoast-*, page-*, wp-*, site-*, lazyload-*, wpb-*, js-*, screen-*, liquid-*, main-*, mainbar-*, megamenu-*, align-*, col-*, vc_col-*, navbar-*, mobile-*, logo-*, nav-*, style-*, sr-*, justify-*, menu-*, current-*, link-*, submenu-*, fa-*, is-*, text-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Analytics, Google Tag Manager, WordPress
+
+Groupe Sync Digitals | Innovations et Technologies
+Skip links
+- Skip to primary navigation
+- Skip to content
+# I n n o v a t i o n s e t t e c h n o l o g i e s .
+## U n g r o u p e . P l u s i e u r s e x p e r t i s e s .
+Nous découvrir
+# Le groupe
+Fondé en 2017,  la vocation première du groupe Sync Digitals consistait à fournir des services et des solutions informatiques. Au fil des années le groupe s’est agrandit avec des rachats ou des prises de participations successives de structures innovantes en pleine essor. Aujourd’hui, le groupe Sync Digitals SA propose ses services à travers 5 marques distinctes.
+2
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9 0
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9 1
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9 7
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+Création
+3
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9 0
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+Collaborateurs
+4
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+Pays couverts
+## Nos domaines d’expertises
+##### Nous évoluons dans les domaines de la transformation digitale, des télécommunications et de l’industrie.
+TRANSFORMATION DIGITALE
+### Solutions Innovantes
+Nous accompagnons nos clients dans leur transformation digitale avec des solutions pérennes et innovantes.
+TELECOMMUNICATIONS
+### Connectivité et Mobilité
+Nous proposons des solutions de télécommunications éprouvées pour équiper les entreprises des meilleures technologies et moyens de communication.
+INDUSTRIE
+### Tests et Mesures
+Nous équipons les entreprises dans le domaine de l’industrie avec des solutions matérielles et logicielles de tests et de mesure.
+# Nos valeurs
+Notre motivation passe par l’épanouissement de tous nos collaborateurs. Nous développons cet état d’esprit avec la confiance respective et la reconnaissance mutuelle. Nous faisons preuve de respect à l’égard de nos clients, de nos partenaires, de nos collègue mais également de l’environnement. Chaque collaborateur est ainsi capable d’établir des liens professionnels fondés sur l’écoute, la transparence, l’empathie et la considération, le tout dans un esprit de réciprocité. Ce respect permet ainsi d’exprimer notre adhésion aux règles de l’entreprise, de la société civile et de l’environnement dans lequel nous sommes amené à évoluer. Notre engagement s’exprime également au travers de notre responsabilité sociale via une multitude d’initiative solidaires.
+## Les sociétés du groupe
+Découvrez les 5 entreprises du groupe qui nous permettent d’être au plus proche de nos clients.
+Contactez-nous
+- Accueil
+- Le groupe
+- Domaines d’activités
+- Nos valeurs
+- Nos sociétés
+- Carrière
+Ce site peut utiliser des cookies pour améliorer votre expérience. Consulter notre Politique de confidentialité Accepter Politique de confidentialité
+#### Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities...
+Necessary
+Necessary
+Toujours activé
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+Enregistrer & accepter
+
+
+--- PAGE STRATÉGIQUE : https://www.sync-digitals-sa.ch/#groupe ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: Apache
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google-analytics.com, www.googletagmanager.com, www.google.com, www.gstatic.com, sync-digitals-sa.ch
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+object-*, yoast-*, page-*, wp-*, site-*, lazyload-*, wpb-*, js-*, screen-*, liquid-*, main-*, mainbar-*, megamenu-*, align-*, col-*, vc_col-*, navbar-*, mobile-*, logo-*, nav-*, style-*, sr-*, justify-*, menu-*, current-*, link-*, submenu-*, fa-*, is-*, text-*
+===================================
+Groupe Sync Digitals | Innovations et Technologies
+Skip links
+- Skip to primary navigation
+- Skip to content
+# Innovations et technologies.
+## Un groupe. Plusieurs expertises.
+Nous découvrir
+# Le groupe
+Fondé en 2017,  la vocation première du groupe Sync Digitals consistait à fournir des services et des solutions informatiques. Au fil des années le groupe s’est agrandit avec des rachats ou des prises de participations successives de structures innovantes en pleine essor. Aujourd’hui, le groupe Sync Digitals SA propose ses services à travers 5 marques distinctes.
+2
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9 0
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9 1
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9 7
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+Création
+3
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9 0
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+Collaborateurs
+4
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+Pays couverts
+## Nos domaines d’expertises
+##### Nous évoluons dans les domaines de la transformation digitale, des télécommunications et de l’industrie.
+TRANSFORMATION DIGITALE
+### Solutions Innovantes
+Nous accompagnons nos clients dans leur transformation digitale avec des solutions pérennes et innovantes.
+TELECOMMUNICATIONS
+### Connectivité et Mobilité
+Nous proposons des solutions de télécommunications éprouvées pour équiper les entreprises des meilleures technologies et moyens de communication.
+INDUSTRIE
+### Tests et Mesures
+Nous équipons les entreprises dans le domaine de l’industrie avec des solutions matérielles et logicielles de tests et de mesure.
+# Nos valeurs
+Notre motivation passe par l’épanouissement de tous nos collaborateurs. Nous développons cet état d’esprit avec la confiance respective et la reconnaissance mutuelle. Nous faisons preuve de respect à l’égard de nos clients, de nos partenaires, de nos collègue mais également de l’environnement. Chaque collaborateur est ainsi capable d’établir des liens professionnels fondés sur l’écoute, la transparence, l’empathie et la considération, le tout dans un esprit de réciprocité. Ce respect permet ainsi d’exprimer notre adhésion aux règles de l’entreprise, de la société civile et de l’environnement dans lequel nous sommes amené à évoluer. Notre engagement s’exprime également au travers de notre responsabilité sociale via une multitude d’initiative solidaires.
+## Les sociétés du groupe
+Découvrez les 5 entreprises du groupe qui nous permettent d’être au plus proche de nos clients.
+Contactez-nous
+- Accueil
+- Le groupe
+- Domaines d’activités
+- Nos valeurs
+- Nos sociétés
+- Carrière
+Ce site peut utiliser des cookies pour améliorer votre expérience. Consulter notre Politique de confidentialité Accepter Politique de confidentialité
+#### Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities...
+Necessary
+Necessary
+Toujours activé
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+Enregistrer & accepter
+
+
+--- PAGE STRATÉGIQUE : https://www.sync-digitals-sa.ch/contact/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://sync-digitals-sa.ch/wp-json/>; rel="https://api.w.org/", <https://sync-digitals-sa.ch/wp-json/wp/v2/pages/29168>; rel="alternate"; type="application/json", <https://sync-digitals-sa.ch/?p=29168>; rel=shortlink
+server: Apache
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google-analytics.com, www.googletagmanager.com, www.google.com, www.gstatic.com, sync-digitals-sa.ch
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+object-*, yoast-*, page-*, wp-*, site-*, lazyload-*, wpb-*, js-*, screen-*, liquid-*, main-*, mainbar-*, megamenu-*, align-*, col-*, vc_col-*, navbar-*, mobile-*, logo-*, nav-*, style-*, sr-*, justify-*, menu-*, link-*, submenu-*, fa-*, text-*, header-*, btn-*
+===================================
+Groupe Sync Digitals | Contactez-nous
+Skip links
+- Skip to primary navigation
+- Skip to content
+# C o n t a c t e z n o u s .
+## N o u s r e v i e n d r o n s v e r s v o u s t r è s p r o c h a i n e m e n t .
+Revenir à l'accueil
+- Accueil
+- Le groupe
+- Domaines d’activités
+- Nos valeurs
+- Nos sociétés
+- Carrière
+Ce site peut utiliser des cookies pour améliorer votre expérience. Consulter notre Politique de confidentialité Accepter Politique de confidentialité
+#### Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities...
+Necessary
+Necessary
+Toujours activé
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+Enregistrer & accepter
+
+
+--- PAGE STRATÉGIQUE : https://www.sync-digitals-sa.ch/#societe ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: Apache
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google-analytics.com, www.googletagmanager.com, www.google.com, www.gstatic.com, sync-digitals-sa.ch
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+object-*, yoast-*, page-*, wp-*, site-*, lazyload-*, wpb-*, js-*, screen-*, liquid-*, main-*, mainbar-*, megamenu-*, align-*, col-*, vc_col-*, navbar-*, mobile-*, logo-*, nav-*, style-*, sr-*, justify-*, menu-*, current-*, link-*, submenu-*, fa-*, is-*, text-*
+===================================
+Groupe Sync Digitals | Innovations et Technologies
+Skip links
+- Skip to primary navigation
+- Skip to content
+# Innovations et technologies.
+## Un groupe. Plusieurs expertises.
+Nous découvrir
+# Le groupe
+Fondé en 2017,  la vocation première du groupe Sync Digitals consistait à fournir des services et des solutions informatiques. Au fil des années le groupe s’est agrandit avec des rachats ou des prises de participations successives de structures innovantes en pleine essor. Aujourd’hui, le groupe Sync Digitals SA propose ses services à travers 5 marques distinctes.
+2
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9 0
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9 1
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9 7
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+Création
+3
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9 0
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+Collaborateurs
+4
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+Pays couverts
+## Nos domaines d’expertises
+##### Nous évoluons dans les domaines de la transformation digitale, des télécommunications et de l’industrie.
+TRANSFORMATION DIGITALE
+### Solutions Innovantes
+Nous accompagnons nos clients dans leur transformation digitale avec des solutions pérennes et innovantes.
+TELECOMMUNICATIONS
+### Connectivité et Mobilité
+Nous proposons des solutions de télécommunications éprouvées pour équiper les entreprises des meilleures technologies et moyens de communication.
+INDUSTRIE
+### Tests et Mesures
+Nous équipons les entreprises dans le domaine de l’industrie avec des solutions matérielles et logicielles de tests et de mesure.
+# Nos valeurs
+Notre motivation passe par l’épanouissement de tous nos collaborateurs. Nous développons cet état d’esprit avec la confiance respective et la reconnaissance mutuelle. Nous faisons preuve de respect à l’égard de nos clients, de nos partenaires, de nos collègue mais également de l’environnement. Chaque collaborateur est ainsi capable d’établir des liens professionnels fondés sur l’écoute, la transparence, l’empathie et la considération, le tout dans un esprit de réciprocité. Ce respect permet ainsi d’exprimer notre adhésion aux règles de l’entreprise, de la société civile et de l’environnement dans lequel nous sommes amené à évoluer. Notre engagement s’exprime également au travers de notre responsabilité sociale via une multitude d’initiative solidaires.
+## Les sociétés du groupe
+Découvrez les 5 entreprises du groupe qui nous permettent d’être au plus proche de nos clients.
+Contactez-nous
+- Accueil
+- Le groupe
+- Domaines d’activités
+- Nos valeurs
+- Nos sociétés
+- Carrière
+Ce site peut utiliser des cookies pour améliorer votre expérience. Consulter notre Politique de confidentialité Accepter Politique de confidentialité
+#### Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities...
+Necessary
+Necessary
+Toujours activé
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+Enregistrer & accepter

@@ -1,0 +1,179 @@
+{
+    "identity": {
+        "domain": {
+            "value": "nikkei.com",
+            "confidence": 1.0,
+            "source": "Technical footprint / URL"
+        },
+        "name": {
+            "value": "Nikkei Inc. (日本経済新聞社)",
+            "confidence": 1.0,
+            "source": "Page header / Global branding"
+        },
+        "industry": {
+            "value": "Media, Financial Information & Publishing",
+            "confidence": 0.95,
+            "source": "Content analysis / Market data services"
+        },
+        "founded_year": {
+            "value": 1876,
+            "confidence": 0.9,
+            "source": "Corporate history / Public record"
+        },
+        "short_description": {
+            "value": "Nikkei is the largest independent business media group in Asia, providing news, data, and indices for global financial markets.",
+            "confidence": 0.9,
+            "source": "Home page / About section"
+        },
+        "seo_description": {
+            "value": "日本経済新聞の電子版。日本や世界の経済、政治、ビジネス、財務、マーケット、ITなど、あらゆる切り口のニュースを、いち早くお届けします。",
+            "confidence": 0.9,
+            "source": "Meta description"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "358.5 Billion JPY",
+            "confidence": 0.85,
+            "source": "Group consolidated financial reports (FY2023)"
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.95,
+            "source": "Financial reporting schedule"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Private employee-owned structure"
+        },
+        "estimated_num_employees": {
+            "value": "3,000+",
+            "confidence": 0.8,
+            "source": "Corporate profile / Group overview"
+        },
+        "latest_funding_stage": {
+            "value": "Privately Held",
+            "confidence": 0.9,
+            "source": "Corporate ownership structure"
+        },
+        "annual_revenue_USD": {
+            "value": 2245396467,
+            "confidence": 0.85,
+            "source": "Currency conversion of 358.5 Billion JPY based on the exchange rate of 159.66 JPY/USD mentioned in the source document."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/nikkei",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/nikkei",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "phone": {
+            "value": "+81 3-3270-0251",
+            "confidence": 0.7,
+            "source": "Global HQ contact records"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.9,
+            "source": "Ultimate Parent status"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.9,
+            "source": "Self-owned"
+        },
+        "num_suborganizations": {
+            "value": "50+",
+            "confidence": 0.7,
+            "source": "Group structure analysis"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Financial Times (FT)",
+                "Nikkei Business Publications",
+                "QUICK Corp.",
+                "TV Tokyo Holdings (Affiliate)",
+                "Nikkei China (Hong Kong) Ltd."
+            ],
+            "confidence": 0.95,
+            "source": "Corporate reports / FT mention in footer"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "1-3-7 Otemachi, Chiyoda-ku, Tokyo 100-8066, Japan",
+            "confidence": 0.9,
+            "source": "Corporate headquarters address"
+        },
+        "city": {
+            "value": "Tokyo",
+            "confidence": 0.95,
+            "source": "HQ location"
+        },
+        "country": {
+            "value": "Japan",
+            "confidence": 1.0,
+            "source": "HQ location"
+        }
+    },
+    "technologies": [
+        {
+            "name": "SpeedCurve",
+            "category": "Performance Monitoring",
+            "confidence": 1.0,
+            "source": "cdn.speedcurve.com script detected"
+        },
+        {
+            "name": "Facebook Connect",
+            "category": "Social Media Integration",
+            "confidence": 1.0,
+            "source": "connect.facebook.net script detected"
+        },
+        {
+            "name": "Amazon CloudFront",
+            "category": "CDN",
+            "confidence": 0.8,
+            "source": "Subdomain routing patterns"
+        },
+        {
+            "name": "Custom SPA Framework",
+            "category": "Frontend",
+            "confidence": 0.9,
+            "source": "nkispa.nikkei.com script detected"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Financial News, Nikkei 225, Japanese Stock Market, Business Intelligence, Global Media, FT, Market Data",
+        "confidence": 0.9,
+        "source": "Content analysis / Meta keywords"
+    },
+    "data_quality_score": {
+        "value": 0.88,
+        "confidence": 0.95,
+        "source": "Comprehensive mapping of identity, hierarchy, and tech stack; minor penalties for missing LinkedIn and private funding specifics."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Bloomberg L.P.",
+            "Thomson Reuters",
+            "Dow Jones & Company",
+            "The Asahi Shimbun Company",
+            "S&P Global"
+        ]
+    }
+}

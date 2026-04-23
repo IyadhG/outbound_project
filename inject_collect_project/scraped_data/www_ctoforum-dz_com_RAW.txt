@@ -1,0 +1,212 @@
+--- PAGE D'ACCUEIL : CTO Forum Algeria ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Algiers, Algeria
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: 
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.ctoforum-dz.com, www.googletagmanager.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+col-*, ms-*, dotted-*, popup-*, tp-*, btn-*, text-*, scroll-*, countdown-*, is-*, wm-*, align-*, fa-*, spacer-*, mb-*, offset-*, de-*, di-*, img-*, pricing-*, ps1-*, hgt-*, p-*, number-*, float-*, box-*, bg-*, hover-*, m-*, owl-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Tag Manager, Google Analytics
+
+CTO Forum Algeria
+Inscription Visiteur
+Réserver un Stand
+0 Heures 0 Minutes 0 Secondes
+Présentation
+# Présentation
+# Bienvenue au CTO Forum Algeria
+Le rendez-vous des principaux acteurs IT. Ce forum a vocation d'être la Vitrine
+des Technologies les plus innovantes mises à disposition des entreprises et
+des professionnels du secteur. Notre objectif est de privilégier le B2B entre Top
+décideurs et Exposants.
+Pourquoi participer
+# Pourquoi participer
+## POURQUOI EXPOSER ?
+CTO FORUM Algeria vous permettra de prospecter le marché. Il favorisera vos échanges directs avec les acteurs IT dans les secteurs public et privé.
+Un outil sera mis à votre disposition dans le cadre du forum pour concrétiser ces échanges. Exposants et Top décideurs pourront ainsi planifier leurs rendez-vous B2B avant l’évènement. En exposant, vous bénéficiez d'une audience professionnelle de qualité et bien ciblée.
+CTO FORUM Algeria constitue enfin une opportunité de bâtir de nouvelles relations et d’entreprendre des partenariats dans le domaine des TIC.
+Réserver un stand
+## POURQUOI VISITER ?
+CTO FORUM Algeria est l’évènement incontournable pour les décideurs IT. Visiter notre Forum vous donne la possibilité de vous tenir informés des dernières tendances et nouveautés du secteur.
+Il vous permet d'avoir une large sélection de solutions IT, d'effectuer une veille technologique, de donner lieu à des échanges professionnels dont des rendez-vous B2B planifiés à l’avance.
+CTO Forum Algeria vous permet bien évidemment de rencontrer vos futurs potentiels partenaires.
+Inscription visiteur
+Chiffres clés
+# Chiffres clés
+# Le business rencontre l’innovation
+CTO FORUM Algeria est l’espace propice pour la concrétisation de partenariats
+porteurs entre entreprises dans les TIC. Un lieu de rencontres et d’échanges qui regroupe l’ensemble des
+professionnels IT.
+# 3
+##### Jours
+# 4000
+##### Visiteurs
+# 150
+##### Exposants
+# 350
+##### DSI RSSI
+# 60
+##### Speakers
+Tables rondes, Conférences & Ateliers
+# 1000
+##### RDV B2B
+Thématique
+# Thématique
+#### IA
+#### IOT
+#### 5G
+#### CLOUD
+#### BIOTECH
+#### GREEN IT
+#### INDSUTRIE 4.0
+#### CYBERSECURITY
+#### OPEN INNOVATION
+#### Compétence numérique
+B2B
+# B2B
+Afin de donner de la fluidité aux rendez-vous B2B,
+un outil gratuit et disponible sur le site web du Forum,
+est mis à la disposition des Top décideurs et des exposants,
+leur permettant ainsi de planifier leurs rencontres aisément en amont de l'évènement.
+A travers cet outil, le Top décideur a une visibilité sur l'ensemble des exposants présents et les solutions qu’ils proposent,
+il peut alors fixer des rendez-vous à ces derniers, qui auront ensuite la possibilité de les décaler à leur convenance.
+Afin de donner de la fluidité aux rendez-vous B2B,
+un outil gratuit et disponible sur le site web du Forum,
+est mis à la disposition des Top décideurs et des exposants,
+leur permettant ainsi de planifier leurs rencontres aisément en amont de l'évènement.
+A travers cet outil, le Top décideur a une visibilité sur l'ensemble des exposants présents et les solutions qu’ils proposent,
+il peut alors fixer des rendez-vous à ces derniers, qui auront ensuite la possibilité de les décaler à leur convenance.
+Afin de donner de la fluidité aux rendez-vous B2B,
+un outil gratuit et disponible sur le site web du Forum,
+est mis à la disposition des Top décideurs et des exposants,
+leur permettant ainsi de planifier leurs rencontres aisément en amont de l'évènement.
+A travers cet outil, le Top décideur a une visibilité sur l'ensemble des exposants présents et les solutions qu’ils proposent,
+il peut alors fixer des rendez-vous à ces derniers, qui auront ensuite la possibilité de les décaler à leur convenance.
+Conférences & Ateliers
+# Conférences & Ateliers
+En marge de l’espace d’exposition, le Forum donnera lieu, durant trois jours, à des conférences et des ateliers sur l’ensemble des thématiques de l’IT.
+LES CONFÉRENCES
+Des conférences durant lesquelles la parole sera donnée à des experts et décideurs du secteur IT.
+LES PANELS
+Des panels composés d’experts du secteur IT, de dirigeants et de représentants d’entreprises pour témoigner, discuter, soulever et débattre de multiples thématiques du secteur IT.
+LES ATELIERS
+Des ateliers de 20 minutes donnant l’occasion aux exposants de fournir aux visiteurs de plus amples explications concernant les produits ou solutions qu’ils proposent.
+Sponsor Officiel
+# Sponsor Officiel
+Visiter le site web
+Visiter le site web
+Exposants
+# Exposants
+-
+A01
+C24
+-
+A02
+A04
+-
+A08
+A11
+-
+A13
+B03
+-
+B19
+C07
+-
+C17
+C18
+-
+C23
+C01
+-
+C11
+C06
+-
+A02
+C12
+-
+A14
+A12
+-
+C09
+B12
+-
+B14
+B16
+-
+C25
+C19
+-
+A07
+C02
+-
+C12
+C08
+-
+C26
+C22
+-
+B10
+C05
+-
+B01
+C10
+-
+B04
+-
+B07
+B20
+-
+B13
+C14
+-
+A09
+B02
+-
+C04
+B21
+-
+C21
+B01
+-
+A05
+B06
+-
+A06
+A10
+-
+B09
+B17
+-
+B11
+B15
+
+
+--- PAGE STRATÉGIQUE : https://www.ctoforum-dz.com/contact ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: 
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.ctoforum-dz.com, www.googletagmanager.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+col-*, ms-*, dotted-*, no-*, text-*, wm-*, align-*, offset-*, fa-*, form-*, input-*, btn-*, p-*, white-*, date-*, footer-*, ps1-*, social-*, id-*
+===================================
+CTO Forum Algeria
+Contact
+# Contact
+# Formulaire • Contact
+29 - 31
+Mars 2026

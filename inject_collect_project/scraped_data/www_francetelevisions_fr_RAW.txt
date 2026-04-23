@@ -1,0 +1,299 @@
+--- PAGE D'ACCUEIL : Le site du groupe France Télévisions, premier média audiovisuel français ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 7 Esplanade Henri France, Paris, France
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: Microsoft IIS 4.0
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+tag.aticdn.net, sdk.privacy-center.org, www.instagram.com, cdn.tagcommander.com, www.francetelevisions.fr, universe-static.elfsightcdn.com, static.elfsight.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+l-*, didomi-*, standard-*, highlight-*, shell-*, header__main-*, js-*, search-*, btn-*, hero-*, grid__col-*, offset-*, section-*, hidden-*, article-*, list-*, visible-*, widget-*, video-*, transcription-*, slider__play-*, sr-*, slick-*, grid-*, level-*, social-*, no-*, elfsight-*, eapps-*, es-*
+===================================
+Le site du groupe France Télévisions, premier média audiovisuel français Pour France Télévisions, le respect de votre vie privée est une priorité
+France Télévisions et ses partenaires utilisent des traceurs pour stocker et accéder à vos données personnelles (telles que votre adresse IP, vos données de navigation et les informations renseignées à la création de votre compte utilisateur) afin de mesurer l'audience de nos contenus, de personnaliser les contenus et les services.
+Vous pouvez exprimer votre consentement à ces traceurs en cliquant sur le bouton « tout accepter », les refuser en fermant cette fenêtre à l’aide de la croix "continuer sans accepter, ou vous informer sur le détail de chaque finalité et exprimer votre choix pour chacune d’entre elles en cliquant sur « paramétrer ».
+Vous pouvez modifier vos choix à tout moment en cliquant sur « Gérer mes traceurs » en bas des pages de ce site. Vous pouvez aussi consulter notre politique de gestion des traceurs pour plus d’informations.
+Regardez nos programmes
+Restez informés
+# Retour sur la matinée débat
+Découvrir
+# L'actualité du groupe
+Voir toutes les actualités
+-
+Culture et création
+## Le 79ème Festival de Cannes est à vivre sur France Télévisions
+-
+Récompenses
+## Le pôle Outre-mer de France Télévisions dévoile le palmarès 2026 du FIFOI
+-
+Récompenses
+## FiGRA : 11 prix décernés à France Télévisions
+Le Festival International du Grand Reportage d’Actualité et du documentaire de société, qui s'est tenu à Douai du 30 mars au 4 avril 2026, a décerné 11 prix à France Télévisions.
+Voir plus d'actualités
+###
+Transcription textuelle : On vous présente France Télévisions
+60 millions de Français regardent France Télévision chaque mois aux quatre coins de la planète.
+Et vous savez quoi? L'aventure commence.
+Ça veut dire que France Télévision est le premier média des Français.
+Avec des plateformes numériques, des chaînes nationales, des antennes locales, TV radio web dans plus de 130 implantations en régions et dans tous les territoires ultramarins qui rassemblent et représentent tous les Français.
+Bonjour à tous.
+C'est notre mission de service public. Alors pour vous, rien n'est trop beau.
+Pour bien vous informer, on voit les choses en grand.
+C'est simple, notre rédaction est la première d'Europe continentale et France Info, le premier site d'info est l'un des plus puissants médias globaux en Europe.
+C'est comme en amour hein, on a besoin de preuves.
+En voilà. 3000 journalistes en métropole, en outre-mer et dans le monde, des correspondants de Pékin à Washington nous proposent 70 heures d'infos par jour.
+Ravi de vous retrouver sur France 2.
+Dont chaque seconde est éclairée et vérifiée.
+Toujours décrypter ce qui se passe. Les Français nous font tellement confiance qu'ils sont 20 millions chaque jour à regarder nos JT.
+Bonjour à tous, voici les titres.
+Nos directs, nos investigations, notre liberté de ton, vous aident à comprendre ce monde qui change.
+Nous sommes devenus la source d'information plébiscitée par les Français.
+C'est une super nouvelle.
+Parce qu'on vous dit tout, ce qui se passe au bout du monde comme à côté de chez vous. On vous donne aussi la parole pour mieux vous répondre.
+De quelle opinion publique on parle?
+Et pour ceux qui nous regardent autrement, France.tv a largement étoffé son offre pour devenir la première plateforme de streaming gratuite en France avec des films, des docs, des événements.
+Des séries souvent exclusives, souvent en avant-première et souvent récompensées.
+Chaque mois, elle attire 36 millions de visiteurs uniques qui visionnent 184 millions de vidéos.
+Et ça augmente tous les ans.
+Je me sens puissante. Nous créons aussi des offres qui parlent des Français qui vivent au-delà des océans, d'autres qui les accompagnent à tous les âges de la vie.
+Pour aider les plus petits à s'épanouir, les jeunes à s'accomplir et les étudiants à s'instruire.
+Et ben on dirait bien. Et tout est gratuit.
+Oh là là, ça va être bien. Oh ça va être bien. Ça va être très très très bien.
+Et c'est pas tout.
+France Télévision est le premier investisseur dans la création audiovisuelle et ciné en France avec plus de 500 millions d'euros investis cette année.
+Pour vous offrir des milliers de documentaires, des tonnes de séries et d'œuvres d'animation pour vous faire vibrer et vous faire réfléchir à tous les âges et pour tous les goûts.
+Et comme on partage l'amour du 7e art, chaque année on accompagne 60 films et on en diffuse plus de 400.
+Et pour être encore plus fort, on collabore avec l'alliance européenne, l'UER et les médias francophones publics.
+Très précieux ce lien en particulier.
+Mais ce qu'on aime par-dessus tout, c'est partager des tonnes d'émotions jusqu'à en perdre haleine devant nos 4700 heures des plus grandes compétitions, les yeux pleins d'étoiles dans les événements les plus prestigieux et les plus beaux spectacles.
+Bienvenue dans Drag Race France.
+Pour faire battre tous les cœurs à l'unisson, pour faire rayonner nos valeurs, notre histoire, nos cultures et tous les arts et soutenir ensemble des causes qui nous sont chères.
+Car voilà notre ambition, être proche, s'ouvrir à tous les points de vue, permettre à chacun de se construire librement pour tous, imaginez un horizon commun.
+Vous êtes chez vous sur France Télévision.
+Lire la transcription textuelle de la vidéo On vous présente France Télévisions
+France Télévisions
+en chiffres
+France Télévisions
+en chiffres
+France Télévisions
+en chiffres
+France Télévisions
+en chiffres
+-
+-
+-
+-
+###### 1er
+média des Français avec 32.6% de PdA en février
+###### 43,9 M
+de visiteurs uniques en février sur son offre gratuite à la demande france.tv
+###### 50 M
+de Français s'informent chaque mois sur les antennes de France Télévisions
+###### 2,2 Md
+de vidéos vues en février sur nos réseaux sociaux
+### Un média engagé
+France Télévisions œuvre chaque jour en faveur de la diversité, de l'inclusion et de la préservation de l'environnement. Cet engagement se reflète aussi bien dans nos programmes que dans notre culture d'entreprise.
+Nos engagements
+# Nous suivre sur les réseaux sociaux
+- Nous suivre :
+-
+-
+-
+-
+-
+Instagram
+1.3K
+6
+Un @festivaldulivredeparis comme ça ou rien ! 📚
+Un @festivaldulivredeparis comme ça ou rien ! 📚
+1K
+10
+📺 🤔 Des séries + des films + des docs + de l’info + du sport… Sur 10 euros, l’essentiel va directement là où ça compte : les programmes ! Pas mal, non ? 👆
+📺 🤔 Des séries + des films + des docs + de l’info + du sport… Sur 10 euros, l’essentiel va directement là où ça compte : les programmes ! Pas mal, non ? 👆
+493
+31
+💬 77% des Européens estiment que la guerre informationnelle peut menacer nos démocraties. Face à cette réalité, comment les médias résistent-ils aux manipulations de l’information ? 🎙️ @leasalameoff décrypte ces enjeux et rappelle les fondamentaux du journalisme. 👆
+💬 77% des Européens estiment que la guerre informationnelle peut menacer nos démocraties. Face à cette réalité, comment les médias résistent-ils aux manipulations de l’information ? 🎙️ @leasalameoff décrypte ces enjeux et rappelle les fondamentaux du journalisme. 👆
+676
+12
+3€ par mois : c’est ce que coûte France Télévisions à chaque Français (et la moitié d’un thé matcha 😉) ! Mais concrètement, ces 3€, ils servent à quoi ? On vous explique. 👆 @entremeufspodcast
+3€ par mois : c’est ce que coûte France Télévisions à chaque Français (et la moitié d’un thé matcha 😉) ! Mais concrètement, ces 3€, ils servent à quoi ? On vous explique. 👆 @entremeufspodcast
+4.6K
+27
+@parismarathon + @celinedion = 🫶
+@parismarathon + @celinedion = 🫶
+694
+5
+Quand t’arrives au @parismarathon 🧚🏃🏃🏼‍♀️
+Quand t’arrives au @parismarathon 🧚🏃🏃🏼‍♀️
+2.7K
+29
+🔥 👟 Imagine @agathelecaron, @anneelisabeth5, @matthieulartot et @alexandreboyon vous encourager au 35e km du @parismarathon… 📲 Rendez-vous dimanche sur France 3 et @france.tv
+🔥 👟 Imagine @agathelecaron, @anneelisabeth5, @matthieulartot et @alexandreboyon vous encourager au 35e km du @parismarathon… 📲 Rendez-vous dimanche sur France 3 et @france.tv
+888
+13
+Le marathon 2026, c’est ce week-end ! 🏃 Qui dit grand événement dit grand dispositif technique, et @francetelevisions a mis - comme chaque année - la barre haute. Une expérience immersive France Télévisions attendra les coureurs au km 35. RDV sur la ligne d’arrivée ! 🏁 Collaboration commerciale
+Le marathon 2026, c’est ce week-end ! 🏃 Qui dit grand événement dit grand dispositif technique, et @francetelevisions a mis - comme chaque année - la barre haute. Une expérience immersive France Télévisions attendra les coureurs au km 35. RDV sur la ligne d’arrivée ! 🏁 Collaboration commerciale
+4.4K
+129
+Nina, Angelina et Melina ont été vi*lées quand elles étaient ados. Avec l’aide de leurs professeurs, les ados ont su poser des mots sur ce qu’elles ont vécues. Leur texte les a menés à l’Académie française, avec l’accompagnement de @fondation_emj . Leur histoire est à découvrir dans J’aime à dire, 4 épisodes diffusés sur france.tv et YouTube à partir du 24 avril. #reportage
+Nina, Angelina et Melina ont été vi*lées quand elles étaient ados. Avec l’aide de leurs professeurs, les ados ont su poser des mots sur ce qu’elles ont vécues. Leur texte les a menés à l’Académie française, avec l’accompagnement de @fondation_emj . Leur histoire est à découvrir dans J’aime à dire, 4 épisodes diffusés sur france.tv et YouTube à partir du 24 avril. #reportage
+477
+6
+L’exposition « K-Beauty. Beauté coréenne, histoire d’un phénomène» au @museeguimet décrypte les racines d’une esthétique qui a conquis le monde. ➡️ Rendez-vous jusqu’au 6 juillet 2026 pour découvrir l’exposition et ses chefs-d’œuvre. #expo #muséeguimet #kbeauty
+L’exposition « K-Beauty. Beauté coréenne, histoire d’un phénomène» au @museeguimet décrypte les racines d’une esthétique qui a conquis le monde. ➡️ Rendez-vous jusqu’au 6 juillet 2026 pour découvrir l’exposition et ses chefs-d’œuvre. #expo #muséeguimet #kbeauty
+440
+3
+❤️ Après "Partir un jour" en 2025, c'est à nouveau un film français, "La Vénus Électrique", qui ouvrira le Festival de Cannes cette année. Réalisé par Pierre Salvadori, le film réunira Pio Marmaï, Anaïs Demoustier, Gilles Lellouche, Gustave Kervern et Vimala Pons. Le synopsis : "Paris, 1928. Antoine Balestro, jeune peintre en vogue, n’arrive plus à travailler depuis la mort de son épouse et désespère Armand, son galeriste. Un soir d’ivresse, Antoine tente d’entrer en contact avec sa femme par l’intermédiaire d’une voyante. Sans le savoir, il parle en réalité avec Suzanne, une modeste foraine qui s’est glissée dans la roulotte pour y voler de la nourriture. Suzanne se révèle douée pour l’imposture et, rapidement secondée par Armand, elle enchaîne les fausses séances. Peu à peu, Antoine retrouve l’inspiration mais, pour Suzanne, les choses se compliquent alors qu’elle tombe doucement amoureuse de l’homme qu’elle manipule…" Le film ouvrira le Festival le 12 mai dont la Cérémonie sera à vivre sus nos antennes, et sera visible au cinéma le jour même. Une co-production France Télévisions, partenaire officiel du Festival de Cannes. @festivaldecannes @piomarmai @diaphana #Cannes2026
+❤️ Après "Partir un jour" en 2025, c'est à nouveau un film français, "La Vénus Électrique", qui ouvrira le Festival de Cannes cette année. Réalisé par Pierre Salvadori, le film réunira Pio Marmaï, Anaïs Demoustier, Gilles Lellouche, Gustave Kervern et Vimala Pons. Le synopsis : "Paris, 1928. Antoine Balestro, jeune peintre en vogue, n’arrive plus à travailler depuis la mort de son épouse et désespère Armand, son galeriste. Un soir d’ivresse, Antoine tente d’entrer en contact avec sa femme par l’intermédiaire d’une voyante. Sans le savoir, il parle en réalité avec Suzanne, une modeste foraine qui s’est glissée dans la roulotte pour y voler de la nourriture. Suzanne se révèle douée pour l’imposture et, rapidement secondée par Armand, elle enchaîne les fausses séances. Peu à peu, Antoine retrouve l’inspiration mais, pour Suzanne, les choses se compliquent alors qu’elle tombe doucement amoureuse de l’homme qu’elle manipule…" Le film ouvrira le Festival le 12 mai dont la Cérémonie sera à vivre sus nos antennes, et sera visible au cinéma le jour même. Une co-production France Télévisions, partenaire officiel du Festival de Cannes. @festivaldecannes @piomarmai @diaphana #Cannes2026
+22.6K
+624
+Poussière dans l'œil 🥺 C'est le plus beau cadeau que Céline Dion pouvait se faire. Et nous faire. La star se produira à Paris à partir de septembre. Toutes les infos sont à retrouver sur le site celinedion.com France Télévisions, partenaire des plus grands événements @celinedion
+Poussière dans l'œil 🥺 C'est le plus beau cadeau que Céline Dion pouvait se faire. Et nous faire. La star se produira à Paris à partir de septembre. Toutes les infos sont à retrouver sur le site celinedion.com France Télévisions, partenaire des plus grands événements @celinedion
+LinkedIn 🎬 France Télévisions et le cinéma : c’est l’amour ouf !
+En tant que premier diffuseur en clair du cinéma et partenaire du Festival de Cannes, on affirme notre rôle central dans le financement et l’exposition du 7e art.
+Soutien à la création, richesse de l’offre, accessibilité, émergence de nouveaux talents, partenariat avec le Festival de Cannes… Tour d’horizon de notre engagement en faveur du cinéma. 👇
+👉 https://lnkd.in/e4aZkqfW
+Stéphane Sitbon Gomez I Manuel Alduy | Cécile Négrier France Télévisions il y a 21 heures 72 3 Combien coûte concrètement l'audiovisuel public ?
+51€ par an et par Français pour Radio France, ARTE, France Médias Monde, TV5MONDE, l’ INA - Institut national de l'audiovisuel et... France Télévisions.
+Un montant qui se situe dans la moyenne basse des grands pays européens.
+Alors, ça vaut le coup, non ? Nouvel épisode pour vous expliquer tout ça. 👇 France Télévisions il y a 1 jour 103 4 📺 🤔 Actualités locales, nationales et internationales, fictions, grands rendez-vous sportifs, documentaires…
+Avec 10 euros, France Télévisions investit principalement dans ce qui compte le plus pour vous : les programmes !
+👉 Pour savoir comment on utilise et répartit nos ressources pour vous offrir cette richesse au quotidien, c'est par ici : https://lnkd.in/gfRaM9Bs France Télévisions il y a 4 jours 109 1 📚📖 Promouvoir la littérature, soutenir les auteurs, partager la passion du livre, donner envie de lire : des missions qui nous tiennent à coeur !
+Toute l’année, on valorise la littérature sur nos antennes, on soutient les auteurs et les libraires, on met en lumière la création à travers des prix littéraires décernés par nos publics et une programmation culturelle unique.
+🤝 On vous attend au Festival du Livre de Paris 2026 dont on est partenaire !
+📣 Au programme :
+• Dialoguez avec les équipes et auteurs des grandes adaptations littéraires ("La Quête d’Ewilan", "Le Rouge et le Noir")
+• Partagez des moments ludiques avec vos enfants grâce à des ateliers et des rencontres littéraires autour des adaptations jeunesse ; profitez avec eux de séances de lecture avec Yétili.
+• Participez au casting « Les Conseils de lecture – La Caravane Lumni » pour les enfants de 8-12 ans
+• Testez votre orthographe lors de La Grande Dictée, organisée par le Festival du Livre, animée par Augustin Trapenard et Selene Godoy, et diffusée le 22 avril sur nos antennes
+Tout le programme est ici 👉 https://lnkd.in/eR7GvQie
+On vous attend !
+📸 : Vincent Damarin / Festival du Livre de Paris France Télévisions il y a 5 jours 148 1 🚀 #Alternance2026 | Besoin d’une alternance pour la rentrée ?
+Voici ce qui vous attend si vous postulez chez nous. 🎥
+📍 À Paris, en régions et en Outre-mer, on recrute des alternants sur des métiers variés :
+• opérateur de prises de vues
+• aide comptable
+• assistant(e) chargé(e) de programmation … et bien d’autres opportunités à découvrir !
+Postulez dès maintenant par ici 👉 https://lnkd.in/eTbdrs8p France Télévisions il y a 5 jours 145 3 💬 77 % des Européens estiment que la guerre informationnelle peut menacer nos démocraties.
+Face à cette réalité, comment les médias peuvent-ils résister aux manipulations de l’information ?
+Lors du colloque “L’information, nouvelle ligne de front”, Léa Salamé a rappelé les fondamentaux du journalisme au sein de France Télévisions :
+👉 la présence de correspondants sur le terrain
+👉 le recours à des agences de référence comme Agence France-Presse
+👉 le travail de vérification mené par la cellule des Révélateurs
+Des piliers essentiels pour garantir une information fiable, dans un contexte de guerre informationnelle.
+📲 Le replay est disponible ici : https://lnkd.in/eFAJ7Pah France Télévisions 15 avril 140 5 🔴 💬 L’information, nouvelle ligne de front !
+Guerre, ingérences, désinformation : comment les médias font-ils face à la guerre informationnelle ?
+Alors que les ingérences se multiplient, que le débat démocratique se fragilise et que les plateformes numériques occupent une place croissante, le rôle de l’audiovisuel public n’a jamais été aussi crucial : garantir une information fiable, indépendante et accessible à tous.
+• Quels outils avons-nous pour nous défendre ?
+• Lesquels restent à inventer ?
+• Sommes-nous prêts à faire face ?
+Ces questions ont été au cœur d’une matinée de débats animée par Mélanie Taravant et Thomas Snégaroff, aux côtés de journalistes, experts, acteurs de la défense et représentants de télévisions publiques européennes, pour répondre à un constat partagé : l’information est devenue une ligne de front.
+🎥 Retour en images sur ces rencontres. 👇
+👉 Pour en savoir plus : https://lnkd.in/euVRRzjR France Télévisions 14 avril 167 5 3€ par mois : c’est ce que coûte France Télévisions à chaque Français !
+Mais concrètement, ces 3€, ils servent à quoi ?
+• ils permettent de financer une information indépendante, fiable et accessible à tous, partout en France
+• ils soutiennent la création de programmes variés : documentaires, fictions, magazines, émissions jeunesse… pour tous les publics
+• ils contribuent à la production et à la diffusion de grands événements sportifs, culturels et citoyens, en clair et sans abonnement
+• Ils favorisent l’innovation et l’accessibilité, avec des contenus adaptés à tous les écrans et à tous les publics.
+Tous nos chiffres sont disponibles ici 👉 https://lnkd.in/gfRaM9Bs France Télévisions 13 avril 150 12 💚🏃‍♂️ Le Marathon de Paris avec France Télévisions, ça donne ça ! 👇
+Cette année, on a déployé une “bulle sonore” immersive sur 4 écrans géants au 35e km pour accompagner les près de 60 000 coureurs jusqu’à l’arrivée.
+Sur ces écrans géants : des messages d’encouragement portés par Agathe Lecaron, Anne-Élisabeth Lemoine, Matthieu Lartot et Alexandre Boyon qui ont donné aux coureurs l’énergie d’aller au bout.
+On laisse Gautier CURTIL, directeur de la communication digitale, expliquer le projet. 👇
+P.S : on recommence l’année prochaine ? 😉 France Télévisions 13 avril 226 9 💚 🏃‍♂️ Un club d’athlé comme ça… ou rien !
+Fort de 80 coureurs, le club France Télévisions rassemble des passionnés autour d’une même énergie : se dépasser, ensemble.
+Porté par Laëtitia LE BRESTEC, la présidente, et avec la complicité de Laurent Eric Le Lay, le collectif s’entraîne chaque semaine au stade Suzanne Lenglen, à Paris, sous l’impulsion du coach Jean De Latour.
+Après des semaines de préparation, ils seront au départ du Marathon de Paris, aux côtés de 60 000 participants. Un défi à la hauteur de leur engagement et qui mérite les plus beaux encouragements. Et qui de mieux que France Télévisions pour les soutenir ? 🙌
+Cette année, au 35e km, on déploie un dispositif immersif inédit : Agathe Lecaron, Anne-Elisabeth Lemoine, Matthieu Lartot et Alexandre Boyon accompagneront les coureurs avec des messages pour leur donner l’énergie d’aller au bout. 🔥
+Alors, on se donne rendez-vous au 35e km dimanche ? 😉 France Télévisions 11 avril 234 10 "Faut-il interviewer les dirigeants des puissances hostiles lorsqu’ils mentent, esquivent ou instrumentalisent la parole publique ? La question n’est pas nouvelle. Elle resurgit avec force à la suite de l’entretien de Sergueï Lavrov diffusé au journal de 20 heures le 26 mars dernier."
+Tribune de Philippe Corbé, directeur de l’information de France Télévisions, dans Le Point
+👉 https://lnkd.in/eWAsnakG France Télévisions 9 avril 158 5 🎥 À France Télévisions, on révèle les talents, quels que soient leurs horizons.
+On a confié aux étudiants de la Classe Alpha, un programme de l’INA campus, la réalisation de vidéos mettant en avant des femmes inspirantes de France Télévisions.
+À travers leurs regards, ils ont exploré la richesse des différences : origines, cultures, milieux et parcours.
+🎙️ Pour porter ces échanges, qui mieux qu’Emilie Tran Nguyen, marraine de cette sixième promotion et journaliste, pour apporter son éclairage ?
+Olivier GUIGNER | Béatrice Le Fouest | Yannick Monsnereau | Sonia Charbit | Elies Chahwan France Télévisions 9 avril 377 10 Passer les réseaux sociaux et aller au pied de page 0 nouvelle publication Instagram chargée
+Instagram
+
+
+--- PAGE STRATÉGIQUE : https://www.francetelevisions.fr/groupe/publications ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: Microsoft IIS 4.0
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+tag.aticdn.net, sdk.privacy-center.org, www.instagram.com, cdn.tagcommander.com, www.francetelevisions.fr
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+l-*, didomi-*, standard-*, highlight-*, shell-*, header__main-*, js-*, search-*, btn-*, section-*, breadcrumbs-*, is-*, title-*, text-*, publications-*, nav-*, list-*
+===================================
+Publications | Groupe France Télévisions Pour France Télévisions, le respect de votre vie privée est une priorité
+France Télévisions et ses partenaires utilisent des traceurs pour stocker et accéder à vos données personnelles (telles que votre adresse IP, vos données de navigation et les informations renseignées à la création de votre compte utilisateur) afin de mesurer l'audience de nos contenus, de personnaliser les contenus et les services.
+Vous pouvez exprimer votre consentement à ces traceurs en cliquant sur le bouton « tout accepter », les refuser en fermant cette fenêtre à l’aide de la croix "continuer sans accepter, ou vous informer sur le détail de chaque finalité et exprimer votre choix pour chacune d’entre elles en cliquant sur « paramétrer ».
+Vous pouvez modifier vos choix à tout moment en cliquant sur « Gérer mes traceurs » en bas des pages de ce site. Vous pouvez aussi consulter notre politique de gestion des traceurs pour plus d’informations.
+Regardez nos programmes
+Restez informés
+- Accueil
+- Publications
+Texte de référence
+et liens utiles
+- DECLARATION DE PERFORMANCES EXTRA FINANCIERES 2025 PDF (2.42 Mo)
+- RAPPORT ANNUEL FINANCIER 2025 PDF (0.21 Mo)
+- Plan de vigilance 2025 PDF (0.36 Mo)
+- RAPPORT D'ACTIVITE 2024
+Découvrir
+- CHARTE D'ETHIQUE PDF (3.68 Mo)
+- CHARTE RELATIONS FOURNISSEURS & ACHATS RESPONSABLES PDF (0.57 Mo)
+- CODE DE CONDUITE DES PARTENAIRES COMMERCIAUX PDF (0.41 Mo)
+- POLITIQUE ACHATS RESPONSABLES DE FRANCE TELEVISIONS PDF (1.01 Mo)
+- CODE DE CONDUITE ANTI-CORRUPTION PDF (0.37 Mo)
+- Accueil
+- Publications
+
+
+--- PAGE STRATÉGIQUE : https://www.francetelevisions.fr/mentions-legales ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: Microsoft IIS 4.0
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+tag.aticdn.net, sdk.privacy-center.org, www.instagram.com, cdn.tagcommander.com, www.francetelevisions.fr
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+l-*, didomi-*, standard-*, highlight-*, shell-*, header__main-*, js-*, search-*, btn-*, breadcrumbs-*, is-*, article-*, share-*, section-*, grid-*, grid__col-*, nav-*, list-*
+===================================
+Mentions légales France Télévisions | Groupe France.tv Pour France Télévisions, le respect de votre vie privée est une priorité
+France Télévisions et ses partenaires utilisent des traceurs pour stocker et accéder à vos données personnelles (telles que votre adresse IP, vos données de navigation et les informations renseignées à la création de votre compte utilisateur) afin de mesurer l'audience de nos contenus, de personnaliser les contenus et les services.
+Vous pouvez exprimer votre consentement à ces traceurs en cliquant sur le bouton « tout accepter », les refuser en fermant cette fenêtre à l’aide de la croix "continuer sans accepter, ou vous informer sur le détail de chaque finalité et exprimer votre choix pour chacune d’entre elles en cliquant sur « paramétrer ».
+Vous pouvez modifier vos choix à tout moment en cliquant sur « Gérer mes traceurs » en bas des pages de ce site. Vous pouvez aussi consulter notre politique de gestion des traceurs pour plus d’informations.
+Regardez nos programmes
+Restez informés
+- Accueil
+- Confidentialité
+- Mentions légales France Télévisions
+# Mentions légales France Télévisions
+## 1. Editeur
+France Télévisions
+Siège social : 7, Esplanade Henri de France
+75015 PARIS
+Société Anonyme au capital de 424 741 000 euros
+RCS de Paris : 432 766 947
+Direction de la Publication : Delphine Ernotte Cunci
+Tel : (+33) 08 90 71 02 02 (0.15 €/min)
+## 2. Hébergeur
+Jaguar Networks
+Siège social : 71 Avenue André Roussin BP 50067 - 13321 Marseille Cedex 16
+Tel : (+33) 0811 656 111
+## 3. Crédits
+Les dépêches de presse et contenus graphiques d'agence utilisés dans la préparation des informations sont la propriété intellectuelle des différentes agences partenaires de francetvinfo (AFP, Reuters, MaxpPPP, Sipa, Getty).
+Certains sites de France Télévisions sont créés à partir des logiciels libres (sous licence GPL) de publication Spip (https://www.spip.net/fr) et Drupal (https://drupal.org
+Publié le 21 février 2019 Partager
+## Le 79ème Festival de Cannes est à vivre sur France Télévisions
+## Le 79ème Festival de Cannes est à vivre sur France Télévisions

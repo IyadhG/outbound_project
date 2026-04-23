@@ -1,0 +1,366 @@
+--- PAGE D'ACCUEIL : LinkedIn: Log In or Sign Up ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+static.licdn.com, platform.linkedin.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+skip-*, btn-*, z-*, -*, focus:top-*, guest-*, google-*, base-*, flex-*, items-*, top-*, right-*, bg-*, pl-*, pr-*, pt-*, pb-*, w-*, rounded-*, shadow-*, text-*, font-*, linkedin-*, !text-*, loader-*, mb-*, overflow-*, inline-*, loader__icon-*, lazy-*
+===================================
+LinkedIn: Log In or Sign Up
+Skip to main content
+#
+Welcome to your professional community
+Sign in with email
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement , Privacy Policy , and Cookie Policy .
+New to LinkedIn? Join now
+##
+Explore top LinkedIn content
+Discover relevant posts and expert insights — curated by topic and in one place.
+-
+Career
+-
+Productivity
+-
+Finance
+-
+Soft Skills & Emotional Intelligence
+-
+Project Management
+-
+Education
+-
+Technology
+-
+Leadership
+-
+Ecommerce
+-
+Show all
+##
+Find the right job or internship for you
+-
+Engineering
+-
+Business Development
+-
+Finance
+-
+Administrative Assistant
+-
+Retail Associate
+-
+Customer Service
+-
+Operations
+-
+Information Technology
+-
+Marketing
+-
+Human Resources
+-
+Healthcare Service
+-
+Sales
+-
+Program and Project Management
+-
+Accounting
+-
+Arts and Design
+-
+Community and Social Services
+-
+Consulting
+-
+Education
+-
+Entrepreneurship
+-
+Legal
+-
+Media and Communications
+-
+Military and Protective Services
+-
+Product Management
+-
+Purchasing
+-
+Quality Assurance
+-
+Real Estate
+-
+Research
+-
+Support
+-
+Administrative
+##
+Post your job for millions of people to see
+Post a job
+##
+Discover the best software tools
+Connect with buyers who have first-hand experience to find the best products for you.
+-
+E-Commerce Platforms
+-
+CRM Software
+-
+Human Resources Management Systems
+-
+Recruiting Software
+-
+Sales Intelligence Software
+-
+Project Management Software
+-
+Help Desk Software
+-
+Social Networking Software
+-
+Desktop Publishing Software
+-
+Show all
+##
+Keep your mind sharp with games
+Take a break and reconnect with your network through quick daily games.
+-
+Patches
+-
+Zip
+-
+Mini Sudoku
+-
+Queens
+-
+Tango
+-
+Pinpoint
+-
+Crossclimb
+No more previous content
+-
+##
+Let the right people know you’re open to work
+With the Open To Work feature, you can privately tell recruiters or publicly share with the LinkedIn community that you are looking for new job opportunities.
+-
+##
+Conversations today could lead to opportunity tomorrow
+Sending messages to people you know is a great way to strengthen relationships as you take the next step in your career.
+-
+##
+Stay up to date on your industry
+From live videos, to stories, to newsletters and more, LinkedIn is full of ways to stay up to date on the latest discussions in your industry.
+No more next content
+##
+Connect with people who can help
+Find people you know
+##
+Learn the skills you need to succeed
+-
+Artificial Intelligence for Business
+1,020+ course
+-
+Business Analysis and Strategy
+2,010+ courses
+-
+Business Software and Tools
+3,470+ courses
+-
+Career Development
+720+ courses
+-
+Customer Service
+320+ courses
+-
+Diversity, Equity, and Inclusion (DEI)
+340+ courses
+-
+Finance and Accounting
+370+ courses
+-
+Human Resources
+800+ courses
+-
+Leadership and Management
+2,670+ courses
+-
+Marketing
+1,210+ course
+-
+Professional Development
+2,580+ courses
+-
+Project Management
+750+ courses
+-
+Sales
+380+ courses
+-
+Small Business and Entrepreneurship
+420+ courses
+-
+Training and Education
+380+ courses
+-
+AEC
+1,540+ course
+-
+Animation and Illustration
+1,860+ course
+-
+Audio and Music
+440+ courses
+-
+Graphic Design
+1,150+ course
+-
+Motion Graphics and VFX
+930+ courses
+-
+Photography
+1,260+ course
+-
+Product and Manufacturing
+1,550+ course
+-
+User Experience
+710+ courses
+-
+Video
+720+ courses
+-
+Visualization and Real-Time
+1,370+ course
+-
+Web Design
+580+ courses
+-
+Artificial Intelligence (AI)
+1,270+ course
+-
+Cloud Computing
+1,860+ course
+-
+Cybersecurity
+1,420+ course
+-
+Data Science
+1,930+ course
+-
+Database Management
+630+ courses
+-
+DevOps
+670+ courses
+-
+Hardware
+110+ courses
+-
+IT Help Desk
+430+ courses
+-
+Mobile Development
+520+ courses
+-
+Network and System Administration
+1,410+ course
+-
+Software Development
+3,640+ courses
+-
+Web Development
+2,190+ courses
+##
+Who is LinkedIn for?
+Anyone looking to navigate their professional life.
+-
+Find a coworker or classmate
+-
+Find a new job
+-
+Find a course or training
+##
+Join your colleagues, classmates, and friends on LinkedIn
+Get started
+###
+General
+-
+Sign Up
+-
+Help Center
+-
+About
+-
+Press
+-
+Blog
+-
+Careers
+-
+Developers
+###
+Browse LinkedIn
+-
+Learning
+-
+Jobs
+-
+Games
+-
+Mobile
+-
+Services
+-
+Products
+-
+Top Companies
+-
+Top Startups
+-
+Top Colleges
+###
+Business Solutions
+-
+Talent
+-
+Marketing
+-
+Sales
+-
+Learning
+###
+Directories
+-
+Members
+-
+Jobs
+-
+Companies
+-
+Featured
+-
+Learning
+-
+Posts
+-
+Articles
+-
+Schools
+-
+News
+-
+News Letters
+-
+Services
+-
+Products
+-
+Advice
+-
+People Search

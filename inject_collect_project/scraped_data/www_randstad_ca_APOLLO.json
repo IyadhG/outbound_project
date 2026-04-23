@@ -1,0 +1,202 @@
+{
+    "identity": {
+        "domain": {
+            "value": "randstad.ca",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Randstad Canada",
+            "confidence": 0.95,
+            "source": "Page titles / Homepage content"
+        },
+        "industry": {
+            "value": "Staffing & Recruitment Agency, HR Services",
+            "confidence": 0.9,
+            "source": "Homepage / Strategic page titles"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Not explicitly found for Randstad Canada in text"
+        },
+        "short_description": {
+            "value": "Randstad Canada is a leading staffing and recruitment agency providing full-time, temporary, and professional talent solutions, connecting job seekers and employers across Canada.",
+            "confidence": 0.85,
+            "source": "Homepage / Contact pages"
+        },
+        "seo_description": {
+            "value": "Full-Time Jobs, Temp Jobs, Staffing & Recruitment Agency. Top Talent Recruitment Services in Canada.",
+            "confidence": 0.8,
+            "source": "Homepage title / Contact page title"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "No specific revenue figure found for Randstad Canada or global entity in provided text"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Not found in text"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not found in text"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "No specific employee count found for Randstad Canada in text"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not found in text"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "No specific revenue figure found for Randstad Canada in provided text or global entity data for this regional focus."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/RandstadCanada",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": "1.800.540.3594",
+            "confidence": 0.9,
+            "source": "Randstad Head Office (Canada) phone number on contact-us page"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 0.9,
+            "source": "Mention of 'Randstad Canada' and 'global footprint' implies it's a subsidiary of Randstad N.V."
+        },
+        "parent_company": {
+            "value": "Randstad N.V.",
+            "confidence": 0.9,
+            "source": "Implied from 'Randstad Canada' and 'global footprint'"
+        },
+        "num_suborganizations": {
+            "value": 26,
+            "confidence": 0.8,
+            "source": "Locations page states '26 offices found' in Canada"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Barrie, Ontario office",
+                "Brantford, Ontario office",
+                "Brossard, Quebec office",
+                "Burlington, Ontario office",
+                "Calgary, Alberta (North) office"
+            ],
+            "confidence": 0.7,
+            "source": "Examples from 'Our Locations' page for Canadian offices"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "11 King St W, Suite 1700, Toronto, ON M5H 4C7, Canada",
+            "confidence": 0.9,
+            "source": "Randstad Head Office (Canada) on contact-us page. The requested '777 Bay Street, Toronto' was not found in the scraped text, so providing the official Randstad Canada HQ address in Toronto."
+        },
+        "city": {
+            "value": "Toronto",
+            "confidence": 0.9,
+            "source": "Randstad Head Office (Canada) on contact-us page"
+        },
+        "country": {
+            "value": "Canada",
+            "confidence": 0.9,
+            "source": "Randstad Head Office (Canada) on contact-us page"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Amazon S3",
+            "category": "Cloud Storage / Hosting",
+            "confidence": 0.99,
+            "source": "Headers HTTP (server)"
+        },
+        {
+            "name": "Amazon CloudFront",
+            "category": "CDN",
+            "confidence": 0.99,
+            "source": "Headers HTTP (via)"
+        },
+        {
+            "name": "Nginx",
+            "category": "Web Server",
+            "confidence": 0.9,
+            "source": "Headers HTTP (server) - only on locations page"
+        },
+        {
+            "name": "Express.js",
+            "category": "Web Framework",
+            "confidence": 0.8,
+            "source": "Headers HTTP (x-powered-by) - only on locations page"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management / Analytics",
+            "confidence": 0.99,
+            "source": "Scripts Externes Chargés / Regex Matches"
+        },
+        {
+            "name": "Cookie Consent Management",
+            "category": "Privacy / Compliance",
+            "confidence": 0.9,
+            "source": "Scripts Externes Chargés (cdn.cookielaw.org) / Cookie Preference Center content"
+        },
+        {
+            "name": "HubSpot Forms",
+            "category": "Form Management",
+            "confidence": 0.9,
+            "source": "Scripts Externes Chargés (js.hsforms.net)"
+        },
+        {
+            "name": "Tailwind CSS (or similar utility-first framework)",
+            "category": "CSS Framework",
+            "confidence": 0.75,
+            "source": "Préfixes CSS Détectés (e.g., rel_*, lg:rel_*)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Staffing, Recruitment, Full-Time Jobs, Temp Jobs, Talent Solutions, HR Services, Digital Transformation, Workforce Solutions, Career Opportunities, Permanent Staffing, Temporary Staffing, Contract Search, Executive Search",
+        "confidence": 0.85,
+        "source": "Homepage, About pages, Services descriptions"
+    },
+    "data_quality_score": {
+        "value": 0.65,
+        "confidence": 0.9,
+        "source": "Expert analysis of JSON completeness and quality. Strong data in identity, hierarchy, location, and technologies, but significant gaps in performance and some contact/social details."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Adecco Group Canada",
+            "ManpowerGroup Canada",
+            "Kelly Services Canada",
+            "Robert Half Canada"
+        ]
+    }
+}

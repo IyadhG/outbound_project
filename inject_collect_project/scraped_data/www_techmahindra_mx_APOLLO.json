@@ -1,0 +1,179 @@
+{
+    "identity": {
+        "domain": {
+            "value": "techmahindra.mx",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Tech Mahindra Mexico",
+            "confidence": 0.95,
+            "source": "Site title and regional targeting"
+        },
+        "industry": {
+            "value": "IT Services & IT Consulting",
+            "confidence": 0.9,
+            "source": "Site content / service descriptions"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Not mentioned in local scraped text"
+        },
+        "short_description": {
+            "value": "Technology services provider specializing in hybrid cloud, modernization, and migration systems.",
+            "confidence": 0.9,
+            "source": "Homepage content"
+        },
+        "seo_description": {
+            "value": "Technology services to power your software-driven future. Empowering Tomorrow, Today.",
+            "confidence": 0.85,
+            "source": "Meta description tags"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "6.5 Billion USD",
+            "confidence": 0.7,
+            "source": "Global revenue mentioned on homepage; branch-specific revenue not found in scraped text"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Not found in provided text"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.6,
+            "source": "Entity belongs to a publicly traded parent"
+        },
+        "estimated_num_employees": {
+            "value": "118,000",
+            "confidence": 0.6,
+            "source": "Global headcount mentioned on homepage; branch-specific headcount not found"
+        },
+        "latest_funding_stage": {
+            "value": "Publicly Traded",
+            "confidence": 0.95,
+            "source": "Corporate profile (Tech Mahindra Ltd)"
+        },
+        "annual_revenue_USD": {
+            "value": 6500000000,
+            "confidence": 0.7,
+            "source": "Extracted and converted from global revenue metric '6.5 Billion USD' provided in the source text; branch-specific revenue for Mexico is not explicitly mentioned."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/techmahindramx",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Not found in provided text"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Regional domain and corporate structure"
+        },
+        "parent_company": {
+            "value": "Tech Mahindra",
+            "confidence": 1.0,
+            "source": "Site branding and global revenue metrics"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Not mentioned"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.5,
+            "source": "No sub-entities mentioned for the Mexican branch"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "127 Boulevard Licenciado Gustavo Diaz Ordaz, Monterrey, Mexico",
+            "confidence": 1.0,
+            "source": "Direct target input"
+        },
+        "city": {
+            "value": "Monterrey",
+            "confidence": 1.0,
+            "source": "Direct target input"
+        },
+        "country": {
+            "value": "Mexico",
+            "confidence": 1.0,
+            "source": "Direct target input"
+        }
+    },
+    "technologies": [
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 0.99,
+            "source": "WP-prefixes and header links"
+        },
+        {
+            "name": "Cloudflare",
+            "category": "CDN/Security",
+            "confidence": 0.99,
+            "source": "Server HTTP header"
+        },
+        {
+            "name": "Elementor",
+            "category": "Page Builder",
+            "confidence": 0.99,
+            "source": "CSS prefix 'elementor-'"
+        },
+        {
+            "name": "Yoast SEO",
+            "category": "SEO Plugin",
+            "confidence": 0.99,
+            "source": "CSS prefix 'yoast-'"
+        },
+        {
+            "name": "Astra",
+            "category": "WordPress Theme",
+            "confidence": 0.95,
+            "source": "CSS prefix 'ast- / astra-'"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Hybrid Cloud, Modernization, Migration, Consulting, Technology Services, Software-driven, Connected World",
+        "confidence": 0.9,
+        "source": "Homepage headlines and descriptions"
+    },
+    "data_quality_score": {
+        "value": 0.65,
+        "confidence": 0.95,
+        "source": "Calculated based on high confidence in location, hierarchy, and technology stack, offset by null values for regional financial data, founding date, and missing social links (LinkedIn/Twitter)."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Tata Consultancy Services (TCS)",
+            "Infosys",
+            "Wipro",
+            "Softtek",
+            "HCLTech"
+        ]
+    }
+}

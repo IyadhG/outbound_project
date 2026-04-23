@@ -1,0 +1,197 @@
+{
+    "identity": {
+        "domain": {
+            "value": "yha.org.uk",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "YHA (England & Wales)",
+            "confidence": 1.0,
+            "source": "Page d'accueil"
+        },
+        "industry": {
+            "value": "Hospitality / Non-profit Organization",
+            "confidence": 0.95,
+            "source": "Site web / mentions charité"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non mentionné dans le texte scrapé"
+        },
+        "short_description": {
+            "value": "Organisation caritative proposant des services d'hébergement en auberges de jeunesse, camping et glamping en Angleterre et au Pays de Galles.",
+            "confidence": 0.9,
+            "source": "Page d'accueil"
+        },
+        "seo_description": {
+            "value": "Hostels, camping & glamping | YHA",
+            "confidence": 0.9,
+            "source": "Meta Title"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Information non présente dans les extraits fournis"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non mentionné"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non mentionné"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non mentionné"
+        },
+        "latest_funding_stage": {
+            "value": "Charity / Non-Profit",
+            "confidence": 0.9,
+            "source": "Mentions répétées de mission caritative"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "No financial information found in the provided text for the Matlock entity or the general organization."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/yhaofficial",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/WeAreYHA",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé dans le texte"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 0.8,
+            "source": "Mention de l'affiliation à Hostelling International"
+        },
+        "parent_company": {
+            "value": "Hostelling International",
+            "confidence": 0.85,
+            "source": "Mention dans la section Explore YHA"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non mentionné"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.0,
+            "source": "Non listées"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Dimple Road, Matlock, United Kingdom",
+            "confidence": 1.0,
+            "source": "ADRESSE CIBLE fournie dans les directives"
+        },
+        "city": {
+            "value": "Matlock",
+            "confidence": 1.0,
+            "source": "ADRESSE CIBLE fournie dans les directives"
+        },
+        "country": {
+            "value": "United Kingdom",
+            "confidence": 1.0,
+            "source": "ADRESSE CIBLE fournie dans les directives"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Drupal 10",
+            "category": "CMS",
+            "confidence": 0.99,
+            "source": "Header x-generator"
+        },
+        {
+            "name": "Cloudflare",
+            "category": "CDN / Security / Hosting",
+            "confidence": 0.99,
+            "source": "Header server"
+        },
+        {
+            "name": "Varnish",
+            "category": "Cache",
+            "confidence": 0.95,
+            "source": "Header via"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Scripts externes"
+        },
+        {
+            "name": "Hotjar",
+            "category": "Analytics / UX",
+            "confidence": 0.99,
+            "source": "Scripts externes"
+        },
+        {
+            "name": "Monsido",
+            "category": "Compliance / Accessibility",
+            "confidence": 0.99,
+            "source": "Scripts externes"
+        },
+        {
+            "name": "CookieHub",
+            "category": "Consent Management",
+            "confidence": 0.99,
+            "source": "Scripts externes"
+        },
+        {
+            "name": "Usersnap",
+            "category": "Feedback Management",
+            "confidence": 0.99,
+            "source": "Scripts externes"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Hostels, camping, glamping, England, Wales, charity, youth travel, outdoor activities, budget accommodation",
+        "confidence": 0.9,
+        "source": "Analyse du contenu textuel de la page d'accueil"
+    },
+    "data_quality_score": {
+        "value": 0.72,
+        "confidence": 1.0,
+        "source": "Strong identity, technological, and location data, but lacks critical performance metrics (revenue, employees) and founding year."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Hostelworld",
+            "The Camping and Caravanning Club",
+            "Travelodge UK",
+            "Hostelling Scotland (SYHA)",
+            "Premier Inn"
+        ]
+    }
+}

@@ -1,0 +1,194 @@
+--- PAGE D'ACCUEIL : Home - ALTEN Spain ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 3 Calle Via de los Poblados, Madrid, Spain
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://www.alten.es/wp-json/>; rel="https://api.w.org/", <https://www.alten.es/wp-json/wp/v2/pages/6>; rel="alternate"; title="JSON"; type="application/json", <https://www.alten.es/>; rel=shortlink
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.googletagmanager.com, maps.googleapis.com, tarteaucitron.io, www.alten.es, cdn.tarteaucitron.io
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, fixed-*, d-*, is-*, h-*, py-*, custom-*, menu-*, search-*, icon-*, w-*, flex-*, form-*, has-*, js-*, px-*, use-*, card-*, current-*, nav-*, ms-*, my-*, site-*, align-*, toolbar-*, col-*, mx-*, row-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Analytics, WordPress, Google Tag Manager
+
+Home - ALTEN Spain
+-
+-
+OFICINAS
+-
+SECTORES
+-
+EMPLEO
+-
+CERTIFICACIONES
+-
+CONTACTA
+## LÍDER EN INGENIERÍA Y SERVICIOS IT
+En ALTEN apoyamos las estrategias de desarrollo de nuestros clientes en las áreas de innovación, I+D y sistemas de información tecnológica.
+Creado hace más de 30 años y con sede en 30 países, el Grupo se ha consolidado como líder mundial en Ingeniería y Servicios IT.
+Trabajamos con actores clave en los sectores de Aeronáutica y Espacio, Defensa y Naval, Seguridad, Automoción, Ferrocarril, Energía, Life Sciences, Finanzas, Retail, Telecomunicaciones y Servicios.
+Con una facturación de más de 4,10 mil millones de euros, actualmente contamos con más de 57.400 empleados en todo el mundo.
+MÁS INFORMACIÓN SOBRE EL GRUPO
+## principales cifras
++342 m€
+facturación 2025
++5.500
+personas en el equipo en 2025
+11
+sedes
+## NUESTROS SECTORES
+Administración Pública
+Transformar la labor pública mediante tecnología digital
+Aeronáutica
+Embarcarse en la innovación
+Automoción
+Una carrera hacia la innovación
+Banca, Finanzas & Seguros
+Mejora continua del digital journey
+Defensa, Seguridad & Naval
+Identificar. Proteger.
+Detectar. Responder.
+Energía & Medio Ambiente
+Adaptándonos a los retos de la transición energética
+Equipamiento Industrial & Electrónica
+Inteligencia con precisión: Afrontar los retos de los equipos industriales y la electrónica
+Espacio
+Explorar nuevos espacios
+Ferroviario & Movilidad
+Reinventando la movilidad a gran escala
+Life Sciences & Salud
+Poner la ciencia al servicio de la vida
+Retail, Servicios & Media
+Transformación digital: revolucionar la experiencia del cliente y la eficiencia operativa
+Telco
+En el epicentro de un mundo ultra conectado
+## ÚNETE A NUESTRO EQUIPO
+Tú decides tu futuro, tú decides hasta dónde quieres llegar.
+Perfiles técnicos
+You are the builders of tomorrow’s world!
+Business Manager
+You are the future leader!
+Puestos internos
+You are the cornerstones of the Group!
+ALTEN campus
+VER TODAS LAS OFERTAS PUBLICADAS
+## Certificaciones
+ISO 9001
+Sistemas de Gestión de Calidad
+ISO 20000
+Tecnología de la Información, Gestión del Servicio
+ISO 27701
+Gestión de la Privacidad
+ISO 33000
+Evaluación de Procesos de Desarrollo de Software
+ISO 9100
+Sistemas de Gestión de Calidad para la Industria Aeroespacial
+ISO 14001
+Sistemas de Gestión Ambiental
+ISO 45001
+Sistemas de Gestión de Seguridad y Salud en el Trabajo
+ENS
+Certificacion de conformidad con el
+ISO 27001
+Sistemas de Gestión de la Seguridad de la Información
+ISO 14064
+Cálculo de la Huella de Carbono
+ISO 22301
+Continuidad de Negocio
+RSC
+Política de Responsabilidad Social Corporativa
+## Dónde estamos
+Gracias a nuestras ocho sedes, ofrecemos a nuestros clientes una cobertura geográfica total.
+Barcelona
+Pamplona
+Madrid
+Valladolid
+Cádiz
+Sevilla
+Vigo
+MÁLAGA
+Murcia
+#### Barcelona
+Avinguda Parc Logístic, 22-26
+Edificio B, Planta 1ª
+08040 Barcelona
+View on Google Maps
+(+34) 93 550 99 00
+#### Pamplona
+Calle de Arcadio María Larraona, 1
+2ª planta, oficina 333
+31008 Pamplona
+View on Google Maps
+(+34) 91 791 00 00
+#### Madrid
+Parque Empresarial Cristalia
+C/ Vía de los Poblados, 3
+Edificio 5 – Planta 2ª
+28033 Madrid
+View on Google Maps
+(+34) 91 791 00 00
+#### Valladolid
+Parque Tecnológico de Boecillo
+Edificio Galileo
+Módulo Rojo, Oficina 103
+47151 Boecillo (Valladolid)
+View on Google Maps
+(+34) 983 54 81 68
+#### Cádiz
+Av. Isaac Newton, 14
+11500 El Puerto de Santa María (Cádiz)
+View on Google Maps
+(+34) 91 791 00 00
+#### Sevilla
+Calle Aviación, 14
+Edificio Morera y Vallejo II
+Planta 2, Oficina 211
+41007 Sevilla
+View on Google Maps
+(+34) 95 511 49 33
+#### Vigo
+Centro de Negocios Porto do Molle – ZFV
+Rúa das Pontes (Vial A) 4, Oficina 305
+36350 Nigrán (Pontevedra)
+View on Google Maps
+(+34) 91 791 00 00
+#### MÁLAGA
+Plaza de la Solidaridad, 12
+Planta 5 29006 Málaga
+View on Google Maps
+(+34) 91 640 46 59
+#### Murcia
+Plaza Castellini, 10
+Planta 2ªA
+30201 Cartagena (Murcia)
+View on Google Maps
+(+34) 91 791 00 00
+¿Quieres unirte a ALTEN?
+Envíanos tu CV
+Panel de gestión de cookies Panel de gestión de cookies
+Aceptando estos servicios de terceros, estás aceptando sus cookies y el uso de tecnologías de rastreo necesarias para su correcto funcionamiento.
+Ajustes para todos los servicios
+- APIs se utilizan para cargar scripts: geolocalización, motor de búsqueda, traducciones, ...
+- Google Tag Manager rechazado - Este servicio ha instalado 1 cookie.
+- El gestor de comentarios facilita la clasificación de comentarios y luchar contra spam.
+- Google puede utilizar tus datos para la medición de audiencia, rendimiento publicitario o para ofrecerte anuncios personalizados.
+- Los servicios de medición de audiencia se usan para generar estadísticas útiles para mejorar el sitio.
+- Google Analytics (GA4) rechazado - Este servicio ha instalado 3 cookies.
+- Servicios para mostrar contenido web.
+- Las redes publicitarias pueden generar ingresos mediante la venta de espacios publicitarios en el sitio.
+- Facebook Pixel rechazado - Este servicio no ha instalado ninguna cookie.
+- Google Ads rechazado - Este servicio ha instalado 2 cookies.
+- Google Ads (personalized ads) rechazado - Este servicio no usa cookies.
+- Linkedin Insight rechazado - Este servicio no ha instalado ninguna cookie.
+- Las redes sociales pueden aumentar la usabilidad del sitio web y ayudar a promoverlo a través de la contribución.
+- Los servicios de soporte te permiten contactar con el sitio web y ayudar a mejorarlo.
+- Los servicios para compartir videos ayudan a añadir contenido enriquecido en el sitio web y aumentar su visibilidad.
+- Este sitio web no utiliza ninguna cookie que requiera su consentimiento. Utilizamos cookies para proporcionarle la mejor experiencia y para mejorar nuestros sitios y servicios. Nos encargamos de obtener su consentimiento para el uso de sus datos y nos comprometemos a respetarlos.

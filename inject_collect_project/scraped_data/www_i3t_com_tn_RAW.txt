@@ -1,0 +1,79 @@
+--- PAGE D'ACCUEIL : I3T: Vente matériel visioconférence en Tunisie ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : شارع 14 جانفي 2011, Ariana, Tunisia
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: OVHcloud
+x-powered-by: PHP/7.4
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+i3t.com.tn
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, theme-*, woocommerce-*, mfn-*, template-*, color-*, content-*, input-*, style-*, button-*, layout-*, if-*, hide-*, no-*, subheader-*, responsive-*, mobile-*, be-*, product-*, wishlist-*, shop-*, mcb-*, close-*, default-*, show-*, one-*, tablet-*, laptop-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Analytics, Google Tag Manager, WordPress
+
+I3T: Vente matériel visioconférence en Tunisie
+# I3T, le premier distributeur des produits
+IT et télécom en Tunisie
+Des produits fiables, un partenaire de confiance
+## Yealink MVC S40-C4
+Système de visioconférence
+## La technologie qui vous connecte,
+l’expertise qui vous accompagne.
+Trouvez tout votre matériel de télécom
+##  + 12 ans d'expertise, des centaines de clients accompagnés
++ 12 ans
+D'Expertise
++ 20
+PARTENAIRES
++ 500
+CLIENTS
++ 5000
+PROJETS DéVELOPéS avec succès
+### Une solution pour chaque besoin, une expertise pour chaque projet
+réseaux informatique
+Visio conférence
+FIBRE OPTIQUE
+Casques TELEPHONIQUES
+## REJOIGNEZ
+### NOTRE RÉSEAU DE REVENDEURS
+- Produits certifiés et marques reconnues
+- Support technique dédié & Formations gratuites
+- Tarifs revendeur préférentiels & disponibilité de stock
+- Accès à un espace partenaire dédié DEVENIR REVENDEUR
+## Intégrateurs
+et Pro
+Commandez
+en direct
+Traiter
+des demandes
+de Devis
+sous 24h / 48h
+Demander un devis
+Démo gratuit
+sur site, partout
+en Tunisie
+Parlons de votre projet
+Service après-vente
+fiable
+et accompagnement
+sur mesure
+Demander un devis
+Conseils
+et assistance technique
+personnalisés
+Parlons de votre projet
+## Restez connecté
+avec i3t
+Recevez nos nouveautés produits, offres exclusives et conseils techniques directement dans votre boîte mail.
+✕
+Proceed to checkout
+View cart
+Ce site utilise des cookies pour améliorer votre expérience. En utilisant ce site, vous acceptez notre Politique de protection des données. Read more

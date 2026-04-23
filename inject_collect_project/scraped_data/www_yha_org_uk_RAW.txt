@@ -1,0 +1,226 @@
+--- PAGE D'ACCUEIL : Hostels, camping & glamping | YHA ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Dimple Road, Matlock, United Kingdom
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+via: varnish
+x-generator: Drupal 10 (https://www.drupal.org)
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.googletagmanager.com, www.yha.org.uk, app-script.monsido.com, cdn.cookiehub.eu, on.yha.org.uk, static.cloudflareinsights.com, script.hotjar.com, widget.usersnap.com, static.hotjar.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+path-*, page-*, ch2-*, dialog-*, skip-*, container-*, site-*, menu-*, account-*, visually-*, primary-*, subnav-*, link-*, text-*, button-*, usp-*, has-*, is-*, hero-*, splide-*, splide__arrows-*, splide__arrow-*, splide__track-*, paragraph-*, hero__content-*, hidden-*, splide__pagination-*, bg-*, p-*, search-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Tag Manager, Hotjar
+
+Hostels, camping & glamping | YHA
+Cookies on yha.org.uk
+We use cookies – small files saved on your device, to make our website work properly and to improve your experience. Some cookies are essential for core functions like security and accessibility, and these are always active.
+By clicking "Accept all cookies", you agree to the use of additional cookies that help us understand how our site is used, personalise content, and deliver relevant advertising. This may include sharing anonymised data with trusted partners like Google to improve how we measure and tailor our campaigns.
+You can manage your cookie preferences or find out more by clicking 'Manage cookies'.
+Learn more
+-
+Save 10% on your booking
+-
+Book direct for the best price
+-
+Join YHA's charity mission
+Find your feel good
+Follow that spring feeling with YHA
+Book now
+20% off with our hot deals
+View offer
+10 things you might not know about YHA hostels
+Read blog article
+# Walk with YHA
+Discover walks for every pace with our free resources
+Download our maps
+# No Child Left Behind
+Support our appeal to give more children access to amazing adventures
+Donate today
+-
+-
+-
+-
+-
+## Search for a hostel
+## YHA (England & Wales)
+# Hostels, camping and glamping in England and Wales
+With a varied landscape and inspiring views, England and Wales has something for everyone. Discover the best of these two magnificent countries with YHA's excellent accommodation in the most beautiful and accessible locations.
+If you're interested in travelling overseas, Hostelling International provides access to over 60 youth hostel associations around the world, with a total of over 2,500 hostels in almost 60 countries.
+## Explore YHA
+Places to stay
+Accommodation in England and Wales
+Explore locations
+YHA membership
+Exclusive discounts and more
+Discover membership
+Support YHA
+Help transform young lives forever
+Donate today
+## Book direct with YHA
+## Book direct and save
+You'll always get the lowest price when you book direct with us. Guaranteed.
+Book direct with YHA
+## What YHA offers
+### Hire the whole hostel
+Planning an overdue get-together? Make your special occasion extra special by hiring the whole hostel, cottage or house with YHA Exclusive Hire.
+YHA Exclusive Hire
+### Membership discount
+Become a YHA member and save 10% off every booking you make (including meals) at any of our hostels across England and Wales.
+YHA membership
+### Kids eat for £1
+Under 10s can enjoy a kid's meal for just £1 whenever you buy an unlimited breakfast costing £10.95 or main meal costing £6 or more.
+View offer
+### Group bookings for 16+ people
+Looking for a place to stay for more than 15 guests? YHA offers flexible accommodation for school trips, walking groups and more.
+Group bookings
+## Popular places to stay
+###
+Cornwall
+Cornwall is famous for its diversity of activities, entertainment and sights to see. The ultimate haven for UK summer holidays – as well as the cultural homeland of Britain's surfers.
+View more
+###
+Lake District
+For those with an interest in outdoor activities, the Lake District is the real capital of Britain. Comprised of 885 square miles of mountains, woodland, lakes and vast open spaces.
+View more
+###
+London
+A metropolis of culture, history and amazing nightlife, London is an exciting balance of old and new. Sightseeing takes on a new role in this adventurous city, with hundreds of places to visit.
+View more
+###
+Peak District
+Spread over six counties, the Peak District has long been a firm favourite with anyone who loves the great outdoors. Explore the awe-inspiring countryside of Britain's oldest national park.
+View more
+View all places to stay
+## Hire the whole hostel
+###
+Wales
+Packed with Celtic culture, nightlife and scenery, Wales has it all. Choose from the Eryri (Snowdonia) National Park with lakes and hiking trails in the north, or vast countryside and beautiful beaches in the south.
+View more
+###
+Yorkshire
+Explore God's Own Country, Yorkshire. This historic county is situated in the north of England and is home to Norman castles, medieval abbeys, industrial revolution-era cities and two national parks.
+View more
+###
+Lake District
+Get ready to make memories and experience a rural getaway exploring one of England’s most loved national park with family and friends. Some of our properties allow you to holiday with your dog too!
+View more
+###
+Cornwall
+If you have your heart set on a trip to Cornwall, YHA have got you covered with properties lining much of the county's unique coastline. Step out of our front doors to enjoy its majesty for yourself.
+View more
+View all properties to hire
+## Discover YHA
+-
+National parks & landscapes
+-
+City centres
+-
+Sea views
+-
+Dog-friendly
+-
+Group bookings
+-
+Hire the entire hostel
+-
+Cafés & restaurants
+-
+Bell tents
+-
+Camping pods
+-
+Walking routes
+## Discover YHA
+Many hostels have been awarded for their excellence
+As seen on BBC One’s Interior Design Masters with Alan Carr
+School Travel Awards Best Residential Experience finalist 2025
+We invest in people, Gold 2013-2024
+
+
+--- PAGE STRATÉGIQUE : https://www.yha.org.uk/about-yha ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.yha.org.uk, challenges.cloudflare.com, static.cloudflareinsights.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch, onappinstalled
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, lang-*, ch-*, spacer-*, loading-*, lds-*, footer-*, diagnostic-*, ray-*
+===================================
+Just a moment...
+# www.yha.org.uk
+## Performing security verification
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+## Verification successful. Waiting for www.yha.org.uk to respond
+Ray ID: 9ec67a756dd9d0de Performance and Security by Cloudflare Privacy
+
+
+--- PAGE STRATÉGIQUE : https://www.yha.org.uk/about-yha/strategy ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.yha.org.uk, challenges.cloudflare.com, static.cloudflareinsights.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch, onappinstalled
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, lang-*, ch-*, spacer-*, loading-*, lds-*, footer-*, diagnostic-*, ray-*
+===================================
+Just a moment...
+# www.yha.org.uk
+## Performing security verification
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+## Verification successful. Waiting for www.yha.org.uk to respond
+Ray ID: 9ec67a8d5b66d0de Performance and Security by Cloudflare Privacy
+
+
+--- PAGE STRATÉGIQUE : https://www.yha.org.uk/about-yha/awards ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.yha.org.uk, challenges.cloudflare.com, static.cloudflareinsights.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch, onappinstalled
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, lang-*, ch-*, spacer-*, loading-*, lds-*, footer-*, diagnostic-*, ray-*
+===================================
+Just a moment...
+# www.yha.org.uk
+## Performing security verification
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+## Verification successful. Waiting for www.yha.org.uk to respond
+Ray ID: 9ec67b09bb56d0de Performance and Security by Cloudflare Privacy
+
+
+--- PAGE STRATÉGIQUE : https://www.yha.org.uk/our-policies ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.yha.org.uk, challenges.cloudflare.com, static.cloudflareinsights.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch, onappinstalled
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, lang-*, ch-*, spacer-*, loading-*, lds-*, footer-*, diagnostic-*, ray-*
+===================================
+Just a moment...
+# www.yha.org.uk
+## Performing security verification
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+## Verification successful. Waiting for www.yha.org.uk to respond
+Ray ID: 9ec67b1f393bd0de Performance and Security by Cloudflare Privacy

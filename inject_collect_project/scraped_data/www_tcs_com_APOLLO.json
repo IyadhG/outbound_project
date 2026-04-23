@@ -1,0 +1,155 @@
+{
+    "identity": {
+        "domain": {
+            "value": "tcs.com",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Tata Consultancy Services",
+            "confidence": 0.9,
+            "source": "Déduction du domaine"
+        },
+        "industry": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "short_description": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "seo_description": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé pour l'entité ciblée (Mumbai, Inde)"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé pour l'entité ciblée (Mumbai, Inde)"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé pour l'entité ciblée (Mumbai, Inde)"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé pour l'entité ciblée (Mumbai, Inde)"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Mumbai, India",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "city": {
+            "value": "Mumbai",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "country": {
+            "value": "India",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Akamai",
+            "category": "CDN",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Headers HTTP)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": null,
+        "confidence": 0.1,
+        "source": "Non trouvé"
+    },
+    "data_quality_score": {
+        "value": 0.35,
+        "confidence": 0.9,
+        "source": "Évaluation de l'analyste basée sur la complétude des champs"
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Infosys",
+            "Wipro",
+            "HCLTech",
+            "Cognizant",
+            "Accenture"
+        ]
+    }
+}

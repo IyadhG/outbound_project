@@ -1,0 +1,161 @@
+{
+    "identity": {
+        "domain": {
+            "value": "digital.nhs.uk",
+            "confidence": 1.0,
+            "source": "URL/Technical footprint"
+        },
+        "name": {
+            "value": "NHS Digital (Leeds Office)",
+            "confidence": 0.95,
+            "source": "URL and Target Address Directive"
+        },
+        "industry": {
+            "value": "Healthcare Information Technology / Public Sector",
+            "confidence": 0.9,
+            "source": "Domain context"
+        },
+        "founded_year": {
+            "value": "2013",
+            "confidence": 0.7,
+            "source": "Corporate history of HSCIC/NHS Digital"
+        },
+        "short_description": {
+            "value": "National provider of information, data and IT systems for health and social care in England.",
+            "confidence": 0.9,
+            "source": "Public record/Entity context"
+        },
+        "seo_description": {
+            "value": "NHS Digital - Performing security verification",
+            "confidence": 0.8,
+            "source": "Meta Title/Page context"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Scraped text contains only a security bot challenge; no financial data available in source."
+        },
+        "fiscal_year_end": {
+            "value": "March",
+            "confidence": 0.8,
+            "source": "Standard UK Public Sector fiscal cycle"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Government funded entity; no private funding rounds"
+        },
+        "estimated_num_employees": {
+            "value": "6000",
+            "confidence": 0.6,
+            "source": "Historical reporting for NHS Digital headquarters"
+        },
+        "latest_funding_stage": {
+            "value": "Public Sector / Government Body",
+            "confidence": 0.9,
+            "source": "Organizational structure"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Regional administrative office of a public sector entity; government-funded bodies do not generate commercial revenue for specific local offices."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/nhsdigital",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Not visible in bot-protected text"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 0.9,
+            "source": "Merged into NHS England in February 2023"
+        },
+        "parent_company": {
+            "value": "NHS England",
+            "confidence": 0.95,
+            "source": "UK Government corporate restructuring data"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Unknown"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.5,
+            "source": "Primary entity for data services"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "3 Trevelyan Square, Leeds, United Kingdom",
+            "confidence": 1.0,
+            "source": "Target Address Directive"
+        },
+        "city": {
+            "value": "Leeds",
+            "confidence": 1.0,
+            "source": "Target Address Directive"
+        },
+        "country": {
+            "value": "United Kingdom",
+            "confidence": 1.0,
+            "source": "Target Address Directive"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Cloudflare",
+            "category": "CDN / Security",
+            "confidence": 1.0,
+            "source": "HTTP Server Header and Ray ID"
+        },
+        {
+            "name": "Cloudflare Bot Management",
+            "category": "Security",
+            "confidence": 1.0,
+            "source": "Technical footprint / challenges.cloudflare.com"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Healthcare IT, Data Services, NHS, Public Health, Security Verification, Leeds Office",
+        "confidence": 0.8,
+        "source": "Entity context and scraped technical data"
+    },
+    "data_quality_score": {
+        "value": 0.68,
+        "confidence": 0.95,
+        "source": "High accuracy on identity, location, and hierarchy, but limited by bot protection and missing specific financial metrics for a regional cost center."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "EMIS Health",
+            "TPP (The Phoenix Partnership)",
+            "Kainos",
+            "Accenture Health",
+            "DXC Technology"
+        ]
+    }
+}

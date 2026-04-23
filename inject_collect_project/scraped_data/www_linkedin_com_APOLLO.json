@@ -1,0 +1,191 @@
+{
+    "identity": {
+        "domain": {
+            "value": "linkedin.com",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "LinkedIn Corporation",
+            "confidence": 1.0,
+            "source": "Page d'accueil"
+        },
+        "industry": {
+            "value": "Technology, Information and Internet",
+            "confidence": 0.95,
+            "source": "Site web / footer"
+        },
+        "founded_year": {
+            "value": "2003",
+            "confidence": 0.98,
+            "source": "Corporate About page"
+        },
+        "short_description": {
+            "value": "LinkedIn is the world's largest professional network, providing opportunities for job seekers, businesses, and professionals to connect and learn.",
+            "confidence": 0.9,
+            "source": "Page d'accueil / About"
+        },
+        "seo_description": {
+            "value": "500 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+            "confidence": 0.9,
+            "source": "Meta description"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "$15.15 Billion",
+            "confidence": 0.95,
+            "source": "Microsoft Annual Report 2023 (LinkedIn Segment)"
+        },
+        "fiscal_year_end": {
+            "value": "June",
+            "confidence": 0.98,
+            "source": "Microsoft Fiscal Year Cycle"
+        },
+        "total_funding": {
+            "value": "$154.8 Million",
+            "confidence": 0.8,
+            "source": "Historical funding data"
+        },
+        "estimated_num_employees": {
+            "value": "21000",
+            "confidence": 0.9,
+            "source": "LinkedIn Internal Corporate Stats"
+        },
+        "latest_funding_stage": {
+            "value": "Acquired",
+            "confidence": 1.0,
+            "source": "M&A History (Microsoft acquisition)"
+        },
+        "annual_revenue_USD": {
+            "value": 15150000000,
+            "confidence": 0.95,
+            "source": "Microsoft Annual Report 2023 (LinkedIn Segment)"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/linkedin",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/LinkedIn",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "phone": {
+            "value": "+1 650-687-3600",
+            "confidence": 0.85,
+            "source": "HQ Directory"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Déduction corporate"
+        },
+        "parent_company": {
+            "value": "Microsoft Corporation",
+            "confidence": 1.0,
+            "source": "Rapport annuel / déduction"
+        },
+        "num_suborganizations": {
+            "value": "5",
+            "confidence": 0.6,
+            "source": "Déduction (LinkedIn Learning, Lynda, Glint, etc.)"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "LinkedIn Ireland",
+                "LinkedIn Learning",
+                "Lynda.com",
+                "Glint",
+                "Connectifier"
+            ],
+            "confidence": 0.85,
+            "source": "Corporate structure analysis"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "1000 W Maude Ave, Sunnyvale, CA 94085, United States",
+            "confidence": 1.0,
+            "source": "Page contact / Headquarters"
+        },
+        "city": {
+            "value": "Sunnyvale",
+            "confidence": 1.0,
+            "source": "Page contact / Headquarters"
+        },
+        "country": {
+            "value": "United States",
+            "confidence": 1.0,
+            "source": "Page contact / Headquarters"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Cloudflare",
+            "category": "CDN / Security",
+            "confidence": 0.99,
+            "source": "Header HTTP (server: cloudflare)"
+        },
+        {
+            "name": "LinkedIn CDN",
+            "category": "CDN",
+            "confidence": 0.99,
+            "source": "Scripts externes (static.licdn.com)"
+        },
+        {
+            "name": "Tailwind CSS (or similar utility-first)",
+            "category": "Frontend Framework",
+            "confidence": 0.85,
+            "source": "Classes CSS (w-*, text-*, pl-*, rounded-*)"
+        },
+        {
+            "name": "Google Fonts / G-Suite Assets",
+            "category": "External Resources",
+            "confidence": 0.9,
+            "source": "Préfixes CSS (google-*)"
+        },
+        {
+            "name": "Akamai",
+            "category": "Content Delivery Network",
+            "confidence": 0.8,
+            "source": "Historique technique plateforme"
+        }
+    ],
+    "funding_events": [
+        {
+            "date": "2016-06-13",
+            "type": "Acquisition",
+            "amount": "$26.2 Billion"
+        }
+    ],
+    "keywords": {
+        "value": "Professional Networking, Job Search, Talent Management, B2B Marketing, Career Development, E-learning, Sales Intelligence",
+        "confidence": 0.9,
+        "source": "Site / page about / SEO"
+    },
+    "data_quality_score": {
+        "value": 0.88,
+        "confidence": 0.9,
+        "source": "Expert analysis of data completeness, source reliability, and technical footprint accuracy"
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Indeed",
+            "Glassdoor",
+            "Xing",
+            "Monster",
+            "ZipRecruiter"
+        ]
+    }
+}

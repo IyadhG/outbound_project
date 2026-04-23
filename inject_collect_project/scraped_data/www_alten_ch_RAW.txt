@@ -1,0 +1,23 @@
+--- PAGE D'ACCUEIL : Nur einen Moment… ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 11 Riedstrasse, Cham, Switzerland
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+challenges.cloudflare.com, www.alten.ch
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch, onappinstalled
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, lang-*, ch-*, spacer-*, loading-*, lds-*, footer-*, diagnostic-*, ray-*
+===================================
+Nur einen Moment…
+# www.alten.ch
+## Sicherheitsüberprüfung wird durchgeführt
+Diese Website nutzt einen Sicherheitsservice, um sich vor böswilligen Bots zu schützen. Diese Seite wird angezeigt, solange die Website überprüft, dass Sie kein Bot sind.
+## Überprüfung erfolgreich. Warten auf Antwort von www.alten.ch
+Ray ID: 9f059a714c497788 Performance und Sicherheit von Cloudflare Privatsphäre

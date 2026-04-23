@@ -1,0 +1,69 @@
+--- PAGE D'ACCUEIL : Aubay | Team Extension & Nearshore Projects ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Avenida Duque d'Avila, Lisbon, Portugal
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: Vercel
+x-powered-by: Next.js
+x-vercel-id: cdg1::cdg1::4ctlp-1776185344993-4ddc57325527
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.aubay.pt, snap.licdn.com, assets.apollo.io, www.googletagmanager.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+zi-*, c-*, fw-*, fs-*, lh-*, pt-*, pr-*, pb-*, pl-*, bc-*, btlr-*, btrr-*, fdr-*, ml-*, dn-*, mt-*, mr-*, o-*, col-*, df-*, br-*, p-*, g-*, mb-*, aic-*, opacity-*, animation-*, word-*, ls-*, left-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Next.js, Google Tag Manager
+
+Aubay | Team Extension & Nearshore Projects
+A Aubay usa cookies Por defeito, este site usa cookies. Estes cookies destinam-se a otimizar a sua experiência de navegação neste site. Saiba mais. pt en PT EN Serviços Clientes Blog Carreiras Academia Consultores Sobre Serviços Clientes Blog Carreiras Academia Consultores Sobre pt
+# Ser Inovador é humano
+Inovar na Consultoria em IT com os humanos mais talentosos é a nossa especialidade.
+S e r v i ç o s
+## I m p u l s i o n a m o s o s e u n e g ó c i o
+C o m u m a e q u i p a d e d i c a d a e s o l u ç õ e s t e c n o l ó g i c a s i n o v a d o r a s , i n v e s t i m o s a n o s s a e n e r g i a e a n o s s a c r i a t i v i d a d e p a r a q u e s e p o s s a f o c a r n o q u e r e a l m e n t e i m p o r t a : o s e u n e g ó c i o . S a i b a c o m o a p o i a m o s a s s u a s n e c e s s i d a d e d e t e c n o l o g i a ! Team Extension Tech Turnkey &
+Projects Nearshore A u b a y P o r t u g a l
+## A s N o s s a s G a r a n t i a s
+E q u i p a s e s p e c i a l i z a d a s , c o m f o c o e m a g i l i d a d e , e x p e r t i s e e f l e x i b i l i d a d e p a r a a p o i a r o s p r o j e t o s t e c n o l ó g i c o s d o s n o s s o s c l i e n t e s . 0 + Especialistas IT 0 Redução de custos 2024 95% Satisfação T e a m E x t e n s i o n
+## D e s a f i o s q u e R e s o l v e m o s
+S o m o s m o v i d o s a d e s a f i o s . A t u a m o s c o m o u m a e x t e n s ã o r e a l d a s u a e q u i p a , a c e l e r a n d o e n t r e g a s , e l e v a n d o a q u a l i d a d e t é c n i c a e t r a z e n d o i n o v a ç ã o p a r a r e s o l v e r p r o b l e m a s c o m p l e x o s c o m f o c o e m r e s u l t a d o . Escassez de Talentos Aceda a um vasto mercado global de especialistas IT qualificados, superando as restrições do mercado local. Custos Elevados Reduza significativamente os custos associados ao recrutamento, formação e retenção de talentos especializados. Projetos Atrasados Acelere o desenvolvimento com recursos adicionais, melhorando os prazos de entrega em até 30%. P r o j e t o s e S e r v i ç o s
+## S o l u ç õ e s P e r s o n a l i z a d a s
+A j u d a m o s a s u a e m p r e s a a m a n t e r - s e c o m p e t i t i v a n o m u n d o d i g i t a l , c o m c o n s u l t o r i a e s p e c i a l i z a d a e m t r a n s f o r m a ç ã o d i g i t a l e o t i m i z a ç ã o d e i n f r a e s t r u t u r a s I T .
+Projetos e Serviços
+Inteligência Artificial
+Criamos ferramentas de IA para que a sua equipa foque no essencial
+Cibersegurança
+Proteção avançada para os seus dados e sistemas
+Soluções Cloud
+Migração e implementação de infraestruturas escaláveis
+Fábrica de Software
+Software personalizado para as necessidades do seu negócio
+N e a r s h o r e
+## V a n t a g e n s d e T r a b a l h a r C o n n o s c o
+E q u i p a s e m P o r t u g a l c o m m é t o d o s d e t r a b a l h o a l i n h a d o s c o m o s s e u s , f a c i l i t a n d o a i n t e g r a ç ã o e c o m u n i c a ç ã o . Custo-Benefício Acesso a talentos de alta qualidade com custos mais competitivos que o outsourcing tradicional. Controlo Total Mantenha a supervisão completa sobre a equipa e o desenvolvimento do projeto. Fuso Horário Colaboração em tempo real eliminando atrasos na comunicação. C a s e s
+### C a s o s d e S u c e s s o
+S a i b a p o r q u e o s n o s s o s c l i e n t e s f i c a m c o n o s c o d u r a n t e m u i t o s a n o s e c o m o é q u e c o n s t r u í m o s o s s e u s p r o j e t o s - d o s m a i s s i m p l e s a o s m a i s c o m p l e x o s . Beyond Gravity
+Recrutamento de Engenharia Espacial e Talento Digital
+Setor da Banca
+Cliente do setor bancário escolhe a Aubay para reforçar equipas IT e modernizar processos
+Setor dos bens de consumo
+Cliente do setor de bens de consumo acelera modernização com equipa técnica da Aubay
+C u l t u r a
+### C u l t u r a A u b a y
+A n o s s a C u l t u r a e s t á a s s e n t e e m p i l a r e s c o m o a p r o x i m i d a d e , o b e m - e s t a r , o t r a b a l h o e m e q u i p a , o f e e d b a c k c o n s t a n t e e a a p r e n d i z a g e m c o n t í n u a . Ouves-me Aubay Ouves-me Aubay Ouves-me Aubay Ouves-me Aubay Pulse by Aubay Pulse by Aubay Pulse by Aubay Pulse by Aubay Eventos Eventos Eventos Eventos AubayConnect AubayConnect AubayConnect AubayConnect A u b a y N e w s
+### F i c a p o r d e n t r o d o m u n d o A u b a y
+A s ú l t i m a s n o v i d a d e s s o b r e n ó s p a s s a m p o r a q u i . Aubay Portugal
+José Cruz, CEO da Aubay Portugal, em entrevista ao Pitch da CNN Portugal
+Aubay Portugal
+Resultados 2025: conciliação da vida profissional, familiar e pessoal
+Aubay Portugal
+José Cruz é o novo CEO da Aubay Portugal
+S o c i a l m e d i a
+### J á s e g u e s a A u b a y ?
+J u n t a - t e a n ó s e f a z p a r t e d a n o s s a c o m u n i d a d e . aubaypt aubay-portugal aubayportugal N ã o p e r c a m a i s t e m p o , v a m o s c o n v e r s a r ! Aceita um café? Aubay Contatos Grupo Aubay Canal de Denúncias Portal de Reclamações Termos e Condições Políticas e Certificações Política do Sistema de Gestão Integrado Política para Fornecedores Certificações Código de conduta e Política Anti-Corrupção Políticas de Privacidade Made by Una Studio + Littlebox Copyright © 2025 – Aubay Portugal  |
+All Rights Reserved

@@ -1,0 +1,69 @@
+--- PAGE D'ACCUEIL : Un instant… ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Rabat, Morocco
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+static.cloudflareinsights.com, www.morocconow.com, challenges.cloudflare.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch, onappinstalled
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, lang-*, ch-*, spacer-*, loading-*, lds-*, footer-*, diagnostic-*, ray-*
+===================================
+Un instant…
+# www.morocconow.com
+## Vérification de sécurité en cours
+Ce site utilise un service de sécurité pour se protéger contre les bots malveillants. Cette page s’affiche pendant que le site vérifie que vous n’êtes pas un bot.
+## Vérification réussie. En attente de la réponse de www.morocconow.com.
+Ray ID: 9e9a19bf3cf5e238 Performances et sécurité par Cloudflare Confidentialité
+
+
+--- PAGE STRATÉGIQUE : https://www.google.com/search?q=company+annual+revenue+financial+report ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: gws
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.gstatic.com, www.google.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+g-*
+===================================
+https://www.google.com/search?q=company+annual+revenue+financial+report&sei=t7PXabAdxY727w-r5dOADA
+À propos de cette page
+Nos systèmes ont détecté un trafic exceptionnel sur votre réseau informatique. Cette page permet de vérifier que c'est bien vous qui envoyez des requêtes, et non un robot. Que s'est-il passé ?
+Cette page s'affiche lorsque Google détecte automatiquement des requêtes émanant de votre réseau informatique qui semblent enfreindre les Conditions d'utilisation . Le blocage prendra fin peu après l'arrêt de ces requêtes. En attendant, la saisie de l'image CAPTCHA ci-dessus vous permettra de continuer à utiliser nos services.
+Des applications malveillantes, un plug-in de navigateur ou un script qui envoie des requêtes automatiques peuvent être à l'origine de ce trafic. Si vous utilisez une connexion réseau partagée, demandez de l'aide à votre administrateur. Il est possible qu'un autre ordinateur utilisant la même adresse IP soit en cause. En savoir plus
+Vous pouvez être invité à saisir les caractères de l'image CAPTCHA si vous utilisez des termes avancés auxquels les robots ont recours ou si vous envoyez des requêtes très rapidement.
+Adresse IP : 2c0f:4280:6050:214b:54f8:e845:d2e6:9775
+Heure : 2026-04-09T14:12:07Z
+URL : https://www.google.com/search?q=company+annual+revenue+financial+report&sei=t7PXabAdxY727w-r5dOADA
+
+
+--- PAGE STRATÉGIQUE : https://www.google.com/search?q=company+investor+relations+annual+report ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: gws
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.gstatic.com, www.google.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+g-*
+===================================
+https://www.google.com/search?q=company+investor+relations+annual+report&sei=u7PXaaFWrv7v9Q-xpaLwCg
+À propos de cette page
+Nos systèmes ont détecté un trafic exceptionnel sur votre réseau informatique. Cette page permet de vérifier que c'est bien vous qui envoyez des requêtes, et non un robot. Que s'est-il passé ?
+Cette page s'affiche lorsque Google détecte automatiquement des requêtes émanant de votre réseau informatique qui semblent enfreindre les Conditions d'utilisation . Le blocage prendra fin peu après l'arrêt de ces requêtes. En attendant, la saisie de l'image CAPTCHA ci-dessus vous permettra de continuer à utiliser nos services.
+Des applications malveillantes, un plug-in de navigateur ou un script qui envoie des requêtes automatiques peuvent être à l'origine de ce trafic. Si vous utilisez une connexion réseau partagée, demandez de l'aide à votre administrateur. Il est possible qu'un autre ordinateur utilisant la même adresse IP soit en cause. En savoir plus
+Vous pouvez être invité à saisir les caractères de l'image CAPTCHA si vous utilisez des termes avancés auxquels les robots ont recours ou si vous envoyez des requêtes très rapidement.
+Adresse IP : 2c0f:4280:6050:214b:54f8:e845:d2e6:9775
+Heure : 2026-04-09T14:12:11Z
+URL : https://www.google.com/search?q=company+investor+relations+annual+report&sei=u7PXaaFWrv7v9Q-xpaLwCg

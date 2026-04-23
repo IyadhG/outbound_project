@@ -1,0 +1,191 @@
+{
+    "identity": {
+        "domain": {
+            "value": "everience.com",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Everience Tunisie",
+            "confidence": 0.95,
+            "source": "Target Directive / Tunisia selection page"
+        },
+        "industry": {
+            "value": "IT Services and IT Consulting",
+            "confidence": 0.9,
+            "source": "Site content: Conseil et services numériques"
+        },
+        "founded_year": {
+            "value": 1994,
+            "confidence": 0.8,
+            "source": "Calculated from '30 Années d'existence' in 2024 content"
+        },
+        "short_description": {
+            "value": "Groupe international de conseil et de services numériques spécialisé dans la symbiose homme-IA, l'expérience employé, la cybersécurité et le cloud.",
+            "confidence": 0.9,
+            "source": "Page d'accueil"
+        },
+        "seo_description": {
+            "value": "Everience | Conseil & services numériques augmentés - Accompagnement dans la symbiose homme-IA en entreprise.",
+            "confidence": 0.85,
+            "source": "Meta description deduction"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "280 M€",
+            "confidence": 0.9,
+            "source": "Reported for global group; branch-specific revenue not disclosed in text"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Not specified in text"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Not mentioned"
+        },
+        "estimated_num_employees": {
+            "value": "4000+",
+            "confidence": 0.9,
+            "source": "Global group figure provided in 'Le groupe en chiffres'"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Not specified"
+        },
+        "annual_revenue_USD": {
+            "value": 302400000,
+            "confidence": 0.85,
+            "source": "Calculated from global group revenue of 280 M€ using an exchange rate of 1.08 USD/EUR"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not found in text"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Regional branch of Everience Group"
+        },
+        "parent_company": {
+            "value": "Everience Group",
+            "confidence": 1.0,
+            "source": "Corporate structure mentioned in page content"
+        },
+        "num_suborganizations": {
+            "value": 23,
+            "confidence": 0.8,
+            "source": "Based on '23 pays d'intervention'"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Everience Belgium",
+                "Everience Romania",
+                "Everience Germany",
+                "Everience Italy",
+                "Everience Tunisia"
+            ],
+            "confidence": 0.9,
+            "source": "Geographic selection list"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Jeanne d'Arc, Tunisia",
+            "confidence": 1.0,
+            "source": "Target Directive"
+        },
+        "city": {
+            "value": "Tunis",
+            "confidence": 0.8,
+            "source": "Inferred from Jeanne d'Arc district location"
+        },
+        "country": {
+            "value": "Tunisia",
+            "confidence": 1.0,
+            "source": "Target Directive"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Apache",
+            "category": "Web Server",
+            "confidence": 0.99,
+            "source": "HTTP Header"
+        },
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 0.99,
+            "source": "CSS class prefixes wp-*"
+        },
+        {
+            "name": "Yoast SEO",
+            "category": "Marketing/SEO",
+            "confidence": 0.95,
+            "source": "CSS class prefixes yoast-*"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Analytics",
+            "confidence": 0.99,
+            "source": "External script load"
+        },
+        {
+            "name": "Microsoft Clarity",
+            "category": "Analytics",
+            "confidence": 0.99,
+            "source": "External script load"
+        },
+        {
+            "name": "Axeptio",
+            "category": "Privacy/Consent Management",
+            "confidence": 0.99,
+            "source": "External script load"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "IA générative, transformation digitale, cybersécurité, cloud, data, intelligent workplace, expérience employé, conseil IT",
+        "confidence": 0.9,
+        "source": "Site expertise sections"
+    },
+    "data_quality_score": {
+        "value": 0.78,
+        "confidence": 1.0,
+        "source": "Detailed technical stack and hierarchical structure available, but specific contact details and branch-specific financials for Tunisia are missing"
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Sopra Steria",
+            "Talan",
+            "Vermeg",
+            "Atos",
+            "Capgemini"
+        ]
+    }
+}

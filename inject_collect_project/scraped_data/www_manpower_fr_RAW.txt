@@ -1,0 +1,180 @@
+--- PAGE D'ACCUEIL : Manpower : Offres d’emploi Intérim, CDI, CDD, Alternance ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 6 Place des Degres, Puteaux, France
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+x-powered-by: Express
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+vosagences.manpower.fr, www.googletagmanager.com, maps.googleapis.com, www.manpower.fr, cdn.cookielaw.org
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+d-*, navbar-*, bg-*, fixed-*, menu__submenu-*, ms-*, justify-*, connexion-*, btn-*, ng-*, dropdown-*, py-*, form-*, fs-*, custom-*, input-*, mt-*, container-*, offcanvas-*, p-*, nav-*, text-*, pt-*, mb-*, pb-*, br-*, toast-*, me-*, position-*, rounded-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Tag Manager
+
+Manpower : Offres d’emploi Intérim, CDI, CDD, Alternance
+Connexion Mon Manpower : votre matricule intérimaire ou une adresse mail créée par l’agence ne permettent plus l’accès à votre espace logué. Utilisez une adresse mail personnelle pour vous connecter.
+# Trouvez
+# Challengez
+# Décrochez
+# Découvrez
+# Trouvez
+# Challengez
+# Décrochez
+# Découvrez
+# votre job.
+Où ? Lancez-vous
+## Nos dernières offres d'emploi
+Voir toutes les offres
+#### Technicien automobile Expert - Diagnostic (H/F)
+Voir plus de détails
+#### Maçon (H/F)
+Voir plus de détails
+#### Office manager (H/F)
+Voir plus de détails
+#### Gestionnaire service client export (H/F)
+Voir plus de détails
+#### Ingénieur études de prix (GC,TP, Ouvrage d'art & fluviaux) (H/F)
+Voir plus de détails
+#### Opérateur de production réparation (H/F)
+Voir plus de détails
+#### Opérateur de centre d'usinage (H/F)
+Voir plus de détails
+#### Mécanicien poids lourds ou bus (H/F)
+Voir plus de détails
+#### Peintre industriel (H/F)
+Voir plus de détails
+#### Mécanicien poids lourds BUS (H/F)
+Voir plus de détails
+#### Technicien automobile Expert - Diagnostic (H/F)
+Voir plus de détails
+#### Maçon (H/F)
+Voir plus de détails
+#### Office manager (H/F)
+Voir plus de détails
+#### Gestionnaire service client export (H/F)
+Voir plus de détails
+#### Ingénieur études de prix (GC,TP, Ouvrage d'art & fluviaux) (H/F)
+Voir plus de détails
+#### Opérateur de production réparation (H/F)
+Voir plus de détails
+#### Opérateur de centre d'usinage (H/F)
+Voir plus de détails
+#### Mécanicien poids lourds ou bus (H/F)
+Voir plus de détails
+#### Peintre industriel (H/F)
+Voir plus de détails
+#### Mécanicien poids lourds BUS (H/F)
+Voir plus de détails
+Voir toutes les offres
+À la une
+## Prêt·e à révéler ta puissance ?
+Rejoins le programme MyPath®
+et avance avec un Agent de Talents à tes côtés,
+à chaque étape de ton parcours.
+En savoir plus
+À la une
+## Décollage imminent
+avec Manpower et Airbus
+Monte à bord et découvre nos jobs dans l'aéronautique
+Postule
+À la une
+## Déterminé à te proposer
+aussi un CDI
+Accède à plus de 5 000 postes en CDI/CDD
+Postule
+À la une
+## Cet été :
+choisis ton terrain
+20 000+ offres d'emploi en intérim, CDI et CDD
+disponibles dès maintenant, près de chez toi
+Découvre les offres
+À la une
+## Compte Epargne Temps
+(CET)
+Prépare un projet, fais-toi plaisir ou sois prévoyant
+grâce à ton Compte Epargne Temps
+En savoir plus
+À la une
+## Prêt·e à révéler ta puissance ?
+Rejoins le programme MyPath®
+et avance avec un Agent de Talents à tes côtés,
+à chaque étape de ton parcours.
+En savoir plus
+À la une
+## Décollage imminent
+avec Manpower et Airbus
+Monte à bord et découvre nos jobs dans l'aéronautique
+Postule
+À la une
+## Déterminé à te proposer
+aussi un CDI
+Accède à plus de 5 000 postes en CDI/CDD
+Postule
+À la une
+## Cet été :
+choisis ton terrain
+20 000+ offres d'emploi en intérim, CDI et CDD
+disponibles dès maintenant, près de chez toi
+Découvre les offres
+À la une
+## Compte Epargne Temps
+(CET)
+Prépare un projet, fais-toi plaisir ou sois prévoyant
+grâce à ton Compte Epargne Temps
+En savoir plus
+À la une
+## Prêt·e à révéler ta puissance ?
+Rejoins le programme MyPath®
+et avance avec un Agent de Talents à tes côtés,
+à chaque étape de ton parcours.
+En savoir plus prev next
+## Trouvez une agence près de chez vous
+Retrouvez nos 800 agences et cabinets partout en France et rencontrez nos recruteurs experts
+## 15325 offres à pourvoir partout en France
+Découvrez nos offres d'emploi disponibles dans votre région.
+Auvergne-Rhône-Alpes 3013 Nouvelle-Aquitaine 1563 Hauts-de-France 1517 Pays de la Loire 1376 Grand Est 1174 Île-de-France 1157 Occitanie 1028 Normandie 1023 Bretagne 1015 Bourgogne-Franche-Comté 967 Provence-Alpes-Côte d'Azur 801 Centre-Val de Loire 679 Corse 2 Dom Tom 2 Consultez nos offres Toulouse 178 Le Havre 139 Nantes 107 Bordeaux 105 Amiens 97 Reims 87 Saint-Étienne 84 Lorient 78 Dijon 77 Saint-Nazaire 64 Clermont-Ferrand 53 Valenciennes 51 Brive-la-Gaillarde 52 Maubeuge 50 Limoges 49 Consultez nos offres Mission en intérim 10012 CDI 4707 CDD 345 CDI Intérimaire 212 Contrat de professionnalisation 49 Consultez nos offres
+## + simple, + rapide, + pratique
+avec l'appli Mon Manpower
+Créez votre compte et facilitez vos démarches.
+Déjà plus de trois millions de personnes l'ont téléchargée, pourquoi pas vous ?
+- Postulez à nos offres
+- Activez vos alertes de recherche
+- Déposez vos justificatifs
+- Signez vos contrats et bien plus encore ! Découvrez l'appli
+## Les secteurs d'activité qui recrutent
+Trouvez le métier fait pour vous
+BTP & Construction Transport & Logistique Banque & Assurance IT Ingénierie Tertiaire Aeronautique Automobile Agroalimentaire Industrie BTP & Construction Transport & Logistique Banque & Assurance IT Ingénierie Tertiaire Aeronautique Automobile Agroalimentaire Industrie BTP & Construction Transport & Logistique
+## MANPOWER RECRUTE
+## AUSSI POUR MANPOWER
+## MANPOWER RECRUTE
+## AUSSI POUR MANPOWER
+DEVENEZ UN EXPERT DE L'EMPLOI
+Manpower, c’est une histoire de talents, de confiance et d’opportunités. CDI, alternance, stage : trouvez le métier qui vous ressemble et construisez votre avenir en rejoignant nos équipes.
+Rejoignez l'aventure !
+Nous utilisons des cookies pour nous assurer du bon fonctionnement de notre site, pour mesurer et analyser notre trafic ainsi que pour personnaliser notre contenu et nos publicités. Avec votre accord, nous partageons des informations quant à votre navigation sur notre site avec nos partenaires publicitaires de réseaux sociaux. Politique de Cookies.
+## Centre de préférences de la confidentialité
+Lorsque vous consultez un site Web, des données peuvent être stockées dans votre navigateur ou récupérées à partir de celui-ci, généralement sous la forme de cookies. Ces informations peuvent porter sur vous, sur vos préférences ou sur votre appareil et sont principalement utilisées pour s'assurer que le site Web fonctionne correctement. Les informations ne permettent généralement pas de vous identifier directement, mais peuvent vous permettre de bénéficier d'une expérience Web personnalisée. Parce que nous respectons votre droit à la vie privée, nous vous donnons la possibilité de ne pas autoriser certains types de cookies. Cliquez sur les différentes catégories pour obtenir plus de détails sur chacune d'entre elles, et modifier les paramètres par défaut. Toutefois, si vous bloquez certains types de cookies, votre expérience de navigation et les services que nous sommes en mesure de vous offrir peuvent être impactés.
+Plus d’informations
+### Gérer les préférences de consentement
+#### Mesure d'audience
+Mesure d'audience
+Ces cookies nous permettent de déterminer le nombre de visites et les sources du trafic, afin de mesurer et d’améliorer les performances de notre site Web. Ils nous aident également à identifier les pages les plus / moins visitées et d’évaluer comment les visiteurs naviguent sur le site Web. Toutes les informations collectées par ces cookies sont agrégées et donc anonymisées. Si vous n'acceptez pas ces cookies, nous ne serons pas informé de votre visite sur notre site.
+#### Cookies strictement nécessaires
+Toujours actif
+Ces cookies sont nécessaires au fonctionnement du site Web et ne peuvent pas être désactivés dans nos systèmes. Ils sont généralement établis en tant que réponse à des actions que vous avez effectuées et qui constituent une demande de services, telles que la définition de vos préférences en matière de confidentialité, la connexion ou le remplissage de formulaires. Vous pouvez configurer votre navigateur afin de bloquer ou être informé de l'existence de ces cookies, mais certaines parties du site Web peuvent être affectées. Ces cookies ne stockent aucune information d’identification personnelle.
+#### Cookies pour une publicité ciblée
+Cookies pour une publicité ciblée
+Ces cookies peuvent être mis en place au sein de notre site Web par nos partenaires publicitaires. Ils peuvent être utilisés par ces sociétés pour établir un profil de vos intérêts et vous proposer des publicités pertinentes sur d'autres sites Web. Ils ne stockent pas directement des données personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, votre publicité sera moins ciblée.
+#### Cookies de personnalisation
+Cookies de personnalisation
+Ces cookies permettent d’améliorer et de personnaliser les fonctionnalités du site Web. Ils peuvent être activés par nos équipes, ou par des tiers dont les services sont utilisés sur les pages de notre site Web. Si vous n'acceptez pas ces cookies, une partie ou la totalité de ces services risquent de ne pas fonctionner correctement.
+### Liste des cookies
+checkbox label label Consent Leg.Interest checkbox label label checkbox label label checkbox label label

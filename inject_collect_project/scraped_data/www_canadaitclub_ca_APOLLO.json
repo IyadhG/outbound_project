@@ -1,0 +1,196 @@
+{
+    "identity": {
+        "domain": {
+            "value": "canadaitclub.ca",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Canada IT Club",
+            "confidence": 1.0,
+            "source": "Page title / Multiple mentions"
+        },
+        "industry": {
+            "value": "IT Community & Job Board",
+            "confidence": 0.85,
+            "source": "Site web / page d'accueil / about"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte"
+        },
+        "short_description": {
+            "value": "Canada IT Club is a dynamic community that brings together IT professionals from across Canada, fostering collaboration, knowledge sharing, and career growth.",
+            "confidence": 0.9,
+            "source": "Page d'accueil / about"
+        },
+        "seo_description": {
+            "value": "Canada IT Club is a dynamic community and trusted job board connecting IT professionals across Canada, fostering collaboration, knowledge sharing, and career growth in the technology sector.",
+            "confidence": 0.8,
+            "source": "Synthèse de descriptions du site"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.9,
+            "source": "Déduit, présenté comme une initiative autonome"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Adresse physique spécifique non trouvée pour l'organisation"
+        },
+        "city": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Ville spécifique non trouvée pour l'organisation malgré la directive de ciblage Toronto"
+        },
+        "country": {
+            "value": "Canada",
+            "confidence": 0.95,
+            "source": "Site web / description de l'entreprise (opère à travers le Canada)"
+        }
+    },
+    "technologies": [
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (wp-json, wp-*, regex)"
+        },
+        {
+            "name": "Nginx",
+            "category": "Web Server",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (server: nginx header)"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (script www.googletagmanager.com, regex)"
+        },
+        {
+            "name": "Google AdSense",
+            "category": "Advertising",
+            "confidence": 0.95,
+            "source": "Déduction IA depuis empreinte technique (script pagead2.googlesyndication.com)"
+        },
+        {
+            "name": "Jetpack",
+            "category": "WordPress Plugin",
+            "confidence": 0.9,
+            "source": "Déduction IA depuis empreinte technique (scripts c0.wp.com, stats.wp.com)"
+        },
+        {
+            "name": "Yoast SEO",
+            "category": "WordPress Plugin",
+            "confidence": 0.9,
+            "source": "Déduction IA depuis empreinte technique (yoast-* CSS prefix)"
+        },
+        {
+            "name": "Elementor",
+            "category": "WordPress Plugin / Page Builder",
+            "confidence": 0.9,
+            "source": "Déduction IA depuis empreinte technique (elementor-*, e-* CSS prefixes)"
+        },
+        {
+            "name": "Google Analytics",
+            "category": "Analytics",
+            "confidence": 0.9,
+            "source": "Déduction IA depuis empreinte technique (souvent déployé via Google Tag Manager, regex)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Canada IT Club, Job Board, IT Professionals, Canada Jobs, Career Growth, Networking, Technology, Software Development, Data Science, Agile & Project Management, Quality Assurance and Testing, Business Analysis, IT Infrastructure and Operations",
+        "confidence": 0.85,
+        "source": "Site web / page about / popular job categories"
+    },
+    "data_quality_score": {
+        "value": 0.55,
+        "confidence": 0.9,
+        "source": "Évaluation globale de la complétude et de la fiabilité des champs existants. Les sections 'performance', 'contact_social' et 'location_detailed' (hors pays) sont significativement incomplètes, tandis que 'identity', 'technologies' et 'keywords' sont très solides."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "TechJobs.ca",
+            "LinkedIn (Canada)",
+            "Indeed Canada",
+            "Workopolis"
+        ]
+    }
+}

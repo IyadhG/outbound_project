@@ -1,0 +1,198 @@
+{
+    "identity": {
+        "domain": {
+            "value": "mcinet.gov.ma",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Ministère de l’Industrie et du Commerce",
+            "confidence": 1.0,
+            "source": "Page d'accueil"
+        },
+        "industry": {
+            "value": "Administration publique / Gouvernement",
+            "confidence": 0.95,
+            "source": "Missions du ministère"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non mentionné dans le texte"
+        },
+        "short_description": {
+            "value": "Organisme gouvernemental marocain chargé de la conception et de la mise en œuvre de la politique industrielle et commerciale.",
+            "confidence": 0.9,
+            "source": "Page missions"
+        },
+        "seo_description": {
+            "value": "Ministère de l’Industrie et du Commerce du Royaume du Maroc",
+            "confidence": 0.8,
+            "source": "Meta-tags déduits"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "370 Billion MAD",
+            "confidence": 0.6,
+            "source": "Chiffre des exportations industrielles monitorées (Nov 2025) utilisé comme indicateur de performance sectorielle"
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.9,
+            "source": "Calendrier budgétaire standard de l'administration publique marocaine"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Entité publique non financée par levées de fonds privées"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Information non disponible dans les extraits"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non applicable (Secteur public)"
+        },
+        "annual_revenue_USD": {
+            "value": 37000000000,
+            "confidence": 0.6,
+            "source": "Calculated from 370 Billion MAD sectoral export performance mentioned in the source text using an approximate exchange rate of 0.10 USD/MAD"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/mcinetgov_ma",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "facebook_url": {
+            "value": "https://web.facebook.com/miciengov?_rdc=1&_rdr",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Page contact identifiée mais numéros non extraits du texte brut"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 0.95,
+            "source": "Département gouvernemental sous l'autorité du Chef du Gouvernement"
+        },
+        "parent_company": {
+            "value": "Gouvernement du Royaume du Maroc",
+            "confidence": 1.0,
+            "source": "Structure constitutionnelle"
+        },
+        "num_suborganizations": {
+            "value": 6,
+            "confidence": 1.0,
+            "source": "Page organismes sous tutelle"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "MAROC PME",
+                "OMPIC",
+                "ISCAE",
+                "IMANOR",
+                "Ecole Centrale Casablanca",
+                "Ecole Arts et Métiers campus de Rabat"
+            ],
+            "confidence": 1.0,
+            "source": "Page organismes sous tutelle"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Avenue Chellah, Rabat, Morocco",
+            "confidence": 1.0,
+            "source": "Directive de ciblage (Adresse Cible)"
+        },
+        "city": {
+            "value": "Rabat",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "country": {
+            "value": "Morocco",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Google Analytics",
+            "category": "Analytics",
+            "confidence": 0.99,
+            "source": "Scripts externes (www.google-analytics.com)"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Scripts externes (www.googletagmanager.com)"
+        },
+        {
+            "name": "Cloudflare CDN",
+            "category": "Content Delivery Network",
+            "confidence": 0.99,
+            "source": "Scripts externes (cdnjs.cloudflare.com)"
+        },
+        {
+            "name": "Highcharts",
+            "category": "Data Visualization",
+            "confidence": 0.99,
+            "source": "Scripts externes (code.highcharts.com)"
+        },
+        {
+            "name": "ShareThis",
+            "category": "Social Sharing",
+            "confidence": 0.99,
+            "source": "Scripts externes (ws.sharethis.com)"
+        },
+        {
+            "name": "Font Awesome",
+            "category": "Icon Library",
+            "confidence": 0.95,
+            "source": "Préfixes CSS (fa-*)"
+        },
+        {
+            "name": "Bootstrap",
+            "category": "Frontend Framework",
+            "confidence": 0.9,
+            "source": "Préfixes CSS (col-*, pull-*, glyphicon-*)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Industrie, Commerce, Maroc, Normalisation, Propriété Industrielle, Exportation, Investissement, PME, Taskforce Souveraineté, Décarbonation",
+        "confidence": 0.9,
+        "source": "Analyse sémantique des sections Nouveautés et Secteurs"
+    },
+    "data_quality_score": {
+        "value": 0.88,
+        "confidence": 0.95,
+        "source": "Comprehensive mapping of identity, hierarchical structure, and technical footprint; null values are contextually accurate for a government entity"
+    },
+    "market_intelligence": {
+        "competitors": [
+            "AMDIE (Agence Marocaine de Développement des Investissements et des Exportations)",
+            "Ministère de l'Économie et des Finances du Maroc",
+            "Ministry of Trade and Industry (Egypt)",
+            "Ministry of Investment (Saudi Arabia)",
+            "Ministry of Industry, Mines and Energy (Tunisia)"
+        ]
+    }
+}

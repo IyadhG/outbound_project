@@ -1,0 +1,614 @@
+--- PAGE D'ACCUEIL : Offres d'emploi en intérim, CDI, CDD - Agence d'Intérim | Synergie ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Boulogne-Billancourt, France
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+x-nextjs-cache: HIT
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.synergie.fr, cdn.signalfx.com, static.axept.io, www.googletagmanager.com, v2.synergie.intconv.kmblabs.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+min-*, w-*, scroll-*, flex-*, left-*, top-*, z-*, bg-*, px-*, py-*, !text-*, focus:top-*, focus:outline-*, lg:m-*, max-*, gap-*, p-*, lg:mx-*, lg:flex-*, lg:justify-*, lg:bg-*, lg:py-*, size-*, shrink-*, lg:h-*, lg:w-*, header-*, items-*, justify-*, lg:gap-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Next.js, Google Tag Manager
+
+Offres d'emploi en intérim, CDI, CDD - Agence d'Intérim | Synergie
+- Accéder au menu
+- Accéder au contenu
+- Accéder au pied de page Vous n’avez pas de CV ?
+### Mon premier job en intérim
+Définition, avantages, droits des travailleurs : découvrez tout ce qu’il faut savoir sur l’intérim.
+En savoir plus
+### Je trouve un emploi rapidement
++8 000 offres sans qualification
+En savoir plus
+### Cadres & Experts : saisissez de nouvelles opportunités
+En savoir plus
+### Faites décoller votre carrière avec Airbus
+En savoir plus
+### Des centaines d’emplois saisonniers à pourvoir avec Synergie
+En savoir plus
+### Emploi Senior : Synergie vous aide dans votre recherche
+En savoir plus
+### Rejoignez La Poste et donnez du sens à votre quotidien
+En savoir plus
+### Synergie recrute pour Synergie
+Découvrez des opportunités de carrière stimulantes au sein d’un Groupe en pleine expansion.
+En savoir plus
+### Mon premier job en intérim
+Définition, avantages, droits des travailleurs : découvrez tout ce qu’il faut savoir sur l’intérim.
+En savoir plus
+### Je trouve un emploi rapidement
++8 000 offres sans qualification
+En savoir plus
+### Cadres & Experts : saisissez de nouvelles opportunités
+En savoir plus
+### Faites décoller votre carrière avec Airbus
+En savoir plus
+### Des centaines d’emplois saisonniers à pourvoir avec Synergie
+En savoir plus
+### Emploi Senior : Synergie vous aide dans votre recherche
+En savoir plus
+### Rejoignez La Poste et donnez du sens à votre quotidien
+En savoir plus
+### Synergie recrute pour Synergie
+Découvrez des opportunités de carrière stimulantes au sein d’un Groupe en pleine expansion.
+En savoir plus
+1 / 1
+## Explorez nos offres
+BTP / Matériaux de construction / Architecture Publiée le 15/04/2026 Conducteur de pelle F/H Lieu
+Rodez (12000)
+Salaire
+20-25 K€
+Durée
+2 mois
+Type
+Interim
+Industrie Aéronautique Publiée le 15/04/2026 Mécanicien automobile F/H Lieu
+Rodez (12000)
+Salaire
+20-25 K€
+Durée
+2 mois
+Type
+Interim
+Industrie Publiée le 15/04/2026 Agent de production F/H Lieu
+Rodez (12000)
+Salaire
+20-25 K€
+Type
+CDII
+Commerce / Négoce / Distribution Publiée le 15/04/2026 Boulanger pâtissier F/H Lieu
+Guémené-Penfao (44290)
+Salaire
+Salaire non renseigné
+Durée
+4 mois
+Type
+Interim
+1 / 1 Découvrir toutes nos offres
+## Découvrez les secteurs qui recrutent actuellement
+## Découvrez les secteurs qui recrutent actuellement
+Tous nos secteurs
+### Aéronautique
+Travailler dans l’aéronautique, c’est choisir un domaine professionnel à la pointe de l’innovation, aux enjeux nécessitant une concertation permanente et une créativité sans cesse renouvelée.
+En savoir plus
+### BTP et énergies
+Choisir de travailler dans le BTP et les énergies, c’est contribuer à façonner le monde de demain dans un secteur en pleine croissance.
+En savoir plus
+### Santé
+Pour répondre à vos besoins, Synergie dispose d’une marque spécifiquement dédiée au secteur de la santé, avec Synergie Care.
+En savoir plus
+### Logistique et transport
+Travailler dans le transport et la logistique avec Synergie permet de profiter d’un domaine professionnel dynamique, en constante évolution.
+En savoir plus
+### Industrie
+Avec Synergie, rejoignez le secteur de l’industrie et participez aux grands chantiers de demain.
+En savoir plus
+### Hôtellerie, Restauration​ ou Tourisme
+Construisez votre carrière dans l’hôtellerie-restauration ou le secteur du tourisme avec l’accompagnement de Synergie.
+En savoir plus
+### Aéronautique
+Travailler dans l’aéronautique, c’est choisir un domaine professionnel à la pointe de l’innovation, aux enjeux nécessitant une concertation permanente et une créativité sans cesse renouvelée.
+En savoir plus
+### BTP et énergies
+Choisir de travailler dans le BTP et les énergies, c’est contribuer à façonner le monde de demain dans un secteur en pleine croissance.
+En savoir plus
+### Santé
+Pour répondre à vos besoins, Synergie dispose d’une marque spécifiquement dédiée au secteur de la santé, avec Synergie Care.
+En savoir plus
+### Logistique et transport
+Travailler dans le transport et la logistique avec Synergie permet de profiter d’un domaine professionnel dynamique, en constante évolution.
+En savoir plus
+### Industrie
+Avec Synergie, rejoignez le secteur de l’industrie et participez aux grands chantiers de demain.
+En savoir plus
+### Hôtellerie, Restauration​ ou Tourisme
+Construisez votre carrière dans l’hôtellerie-restauration ou le secteur du tourisme avec l’accompagnement de Synergie.
+En savoir plus
+1 / 1 Tous nos secteurs
+## Nos équipes à vos côtés
+###
+421 agences pour vous accompagner dans toute la France
+- Trouver une agence à Paris
+- Trouver une agence à Lyon
+- Trouver une agence à Marseille Toutes nos agences Toutes nos agences
+## L'actualité de l'emploi
+Événement
+### Candidats, boostez votre carrière avec le Forum Séniors & Talents !
+Actualité
+### Synergie obtient la médaille Gold EcoVadis 2025
+Conseil
+### Nos conseils emploi
+- Comment s’inscrire en agence d’intérim ?
+- Quels métiers recrutent en intérim ?
+- Comment faire un CV ?
+- Comment valoriser ses soft-skills ?
+Actualité
+###  Synergie reconnue parmi les Diversity Leaders européens 2026
+Actualité
+### Opération parrainage, recevez 100 € !
+Actualité
+### Synergie parmi les meilleurs cabinets de recrutement 2026
+## L'intérim avec Synergie
+Quote Grâce à Synergie, j’ai pu découvrir le métier d’Intégrateur-câbleur et suivre une formation qui m’a tout de suite plu. Ils ont été à l’écoute, réactifs à mes attentes et ont assuré un bon suivi. J’ai pu acquérir des compétences et après 18 mois, obtenir un CDI chez Airbus.
+Océane
+Intégrateur-câbleur chez Airbus
+Quote Grâce à Synergie, j'ai pu suivre un certain nombre de formations : AIPR, ASST, ASS4, CACES..., qui m'ont permis d'acquérir des compétences venues s'ajouter à toute l'expérience et à tout ce que l'on peut acquérir en travaillant au quotidien.
+Renato
+Assistant directeur de travaux chez Synergie
+Quote Nous sommes proches de nos intérimaires : nous nous déplaçons sur les chantiers, nous les recevons en agence pour écouter leurs problématiques et répondre à leurs demandes. La sécurité de nos intérimaires est essentielle pour nous, que ce soit par le biais de formations spécifiques ou grâce à des équipements de sécurité de qualité que nous leur fournissons. Nous recrutons tous types de profils, du manœuvre sans diplôme, que nous pouvons former, jusqu'au chef de chantier.
+Michael
+Directeur d'agences BTP chez Synergie
+1 / 3
+## Bénéficiez d’indemnités de fin de mission
+Vous avez droit à une indemnité de fin de mission (IFM) dont le taux est fixé à 10 % de la rémunération totale brute de votre salaire.
+C’est votre agence Synergie qui verse l’IFM à la fin de chaque mission et elle figurera donc sur votre dernier bulletin de salaire.
+## Bénéficiez de formations
+En plus du dispositif classique commun à l’ensemble des salariés (le Compte Personnel de Formation), il existe des programmes spécifiques aux entreprises d'intérim, pour développer vos compétences afin de mieux répondre aux besoins de leurs clients.
+## Profitez d’une flexibilité
+Vous pouvez choisir les missions qui vous conviennent en fonction de vos disponibilités, de vos envies et de vos projets professionnels. La durée de vos missions peut varier de quelques heures à plusieurs mois, vous permettant ainsi de garder le contrôle sur votre emploi du temps et de maintenir un équilibre entre vie professionnelle et vie personnelle.
+1 / 3
+## L'app mySynergie
+Consultez vos missions intérim et gérez vos contrats directement depuis votre mobile !
+En savoir plus En savoir plus
+## Nos énergies en commun
+Synergie vous accompagne tout au long de votre parcours professionnel, en favorisant votre montée en compétences dans une relation de confiance et de proximité. En France comme à l'international, nos équipes s'engagent activement pour soutenir la réussite de chacun.
+Découvrir Synergie
+Les Échos – Meilleurs Cabinets de Recrutement 2026
+Reconnaissance de l’expertise et de la qualité du service en recrutement.
+EcoVadis
+Médaille Or 2025 - Top 2% des entreprises de Travail Temporaire et Top 5% tous secteurs, pour notre démarche RSE.
+Financial Times - Meilleurs Employeurs Europe 2025
+Distinction qui souligne le développement des compétences, la qualité de vie au travail et un environnement inclusif.
+Label AFNOR Égalité Professionnelle
+Récompense des efforts en matière d’égalité entre les femmes et les hommes.
+Financial Times - Leader in Diversity 2026
+Distinction pour l’engagement en faveur de la diversité et de l’inclusion en entreprise.
+Label "Engagements pour les + de 50 ans"
+Mise en avant des actions en faveur de l’emploi et du maintien en activité des seniors.
+Label AFAQ et Certification ISO 9001
+Garantie d’un management de qualité et d’une amélioration continue des processus de recrutement.
+
+
+--- PAGE STRATÉGIQUE : https://www.synergie.fr/le-groupe ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+x-nextjs-cache: HIT
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+static.axept.io, www.googletagmanager.com, www.synergie.fr, cdn.signalfx.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+min-*, w-*, scroll-*, flex-*, left-*, top-*, z-*, bg-*, px-*, py-*, !text-*, focus:top-*, focus:outline-*, lg:m-*, max-*, gap-*, p-*, lg:mx-*, lg:flex-*, lg:justify-*, lg:bg-*, lg:py-*, size-*, shrink-*, lg:h-*, lg:w-*, header-*, items-*, justify-*, lg:gap-*
+===================================
+Synergie, expert international en recrutement et développement de talents | Synergie
+- Accéder au menu
+- Accéder au contenu
+- Accéder au pied de page
+Le Groupe Synergie, c’est un écosystème de services et de solutions innovantes permettant de répondre de manière précise et rapide aux enjeux de recrutement temporaire ou permanent de votre secteur.
+- Synergie accompagne ses clients depuis + de 50 ans
+- 1 500 consultants en France et plus de 2000 à travers le monde
+- + de 15 expertises sectorielles avec des équipes dédiées
+- 800 bureaux de recrutement et agences dans 17 pays
+## Nos engagements
+Le Groupe Synergie est avant tout un groupe engagé au service de l’emploi durable , qui prend soin de mettre en place une démarche responsable. La gestion des ressources humaines proposée par le Groupe est en effet guidée par une politique RSE bien ancrée : respect des Droits de l’Homme, limitation de l’impact environnemental, mise en place de règles d’éthique et de déontologie, etc.
+En savoir plus sur nos engagements
+## Nos valeurs
+En savoir plus sur nos valeurs En savoir plus sur nos valeurs
+Les valeurs du Groupe Synergie guident toutes nos actions en faveur de l’emploi, pour répondre à vos enjeux avec conviction.
+L'innovation
+L'innovation est au cœur de notre démarche. En alliant technologies et expertise humaine, nous développons des solutions agiles qui renforcent nos relations, sources de satisfaction et de succès partagés.
+L’esprit d’équipe
+Nous privilégions une approche collaborative , aussi bien avec nos clients qu’avec nos candidats. L’idée est de travailler ensemble sur des objectifs communs autour de l’emploi.
+La proximité
+L’ancrage territorial de Synergie en France et à l’international est une force dont le Groupe Synergie est particulièrement fier . Grâce à notre réseau de 800 agences à travers le monde, dont 400 en France , le Groupe Synergie noue une véritable relation de confiance avec l’ensemble des parties prenantes de vos projets RH. Des experts sont en effet disponibles près de chez vous et vous offrent un accompagnement sur mesure , adapté à votre organisation et aux problématiques de votre secteur dans votre bassin d’emploi.
+La diversité
+L’égalité des chances, l’inclusion et la diversité sont autant de valeurs auxquelles nous sommes tous attachés. En tant qu’entreprise citoyenne et responsable, nous menons des actions concrètes pour lutter contre les discriminations.
+En savoir plus sur nos valeurs En savoir plus sur nos valeurs
+## Nos atouts
+L’expertise, la proximité, la réactivité, le positionnement multi-sectoriel , l’engagement RSE ou encore la formation sont autant d’atouts qui font du Groupe Synergie un des leaders dans le domaine du recrutement et de l’emploi.
+Voir nos atouts Voir nos atouts
+## Nos différentes marques
+En savoir plus sur nos marques En savoir plus sur nos marques
+À travers ses différentes marques, Synergie Groupe répond à tous vos enjeux RH liés au recrutement et au développement de vos talents. Et ce, quels que soient votre secteur d’activité et les profils recherchés, en France comme à l’international.
+En savoir plus sur nos marques En savoir plus sur nos marques
+Synergie Care
+Une expertise approfondie et des solutions adaptées aux spécificités des métiers de la santé .
+En savoir plus En savoir plus
+Synergie Executive
+La chasse et le recrutement haut niveau , spécialement dédié aux cadres dirigeants et directeurs.
+En savoir plus En savoir plus
+S&you
+Une approche personnalisée dans la quête des meilleurs talents pour des postes cadres et experts dans de multiples secteurs .
+En savoir plus En savoir plus
+Synergie Insertion
+Des opportunités d’ insertion professionnelle pour les personnes éloignées de l’emploi.
+En savoir plus En savoir plus
+DCS
+Une gamme complète de services pour assurer les performances et la sécurité des systèmes d’information .
+En savoir plus En savoir plus
+HRed
+Cabinet de Conseil RH et Formation. Accélérateur de transformation RH et compétences.
+En savoir plus En savoir plus
+## Toute l’actualité de Synergie
+Retrouver toutes les actualités Synergie
+Retrouver toutes les actualités Synergie
+Événement
+### Entreprises, boostez vos recrutements avec le Forum Séniors & Talents
+Actualité
+### Guide Pratique : structurez et sécurisez vos recrutements saisonniers
+Conseil
+### Nos conseils emploi
+- Recherche d'emploi : méthode et astuces
+- Le salaire en intérim : pourquoi est-il plus élevé qu’en CDI ?
+- Développer son employabilité
+- Travailler en intérim : ces 8 avantages que vous ne connaissez peut-être pas
+Actualité
+### Synergie obtient la médaille Gold EcoVadis 2025
+Événement
+### Candidats, boostez votre carrière avec le Forum Séniors & Talents !
+Retrouver toutes les actualités Synergie
+Retrouver toutes les actualités Synergie
+## Nos distinctions
+- Les ECHOS – Meilleurs cabinets de recrutement ;
+- Ecovadis : Médaille Or 2025 – 81/100 ; Top 2% des entreprises de Travail Temporaire et Top 5% tous secteurs ;
+- Financial Times – Diversity Leaders : reconnaissance de l’engagement pour la diversité et l’inclusion de ses salariés ;
+- AFNOR Label égalité F/H : récompense envers notre engagement en faveur de l’égalité entre les femmes et les hommes ;
+- Le point : Entreprise socialement responsable : 7ème de la catégorie entreprise d’intérim et recrutement ;
+- Index Egalité : 79/100.
+- AFAQ - Procédures certifiées ISO 9001 version 2023 : haut niveau de qualité et d’excellence opérationnelle ;
+- Capital : Top 5 du classement "Meilleurs Employeurs 2026”, dans la catégorie "Services à l'emploi"
+### Envie d’en savoir plus sur Synergie ?
+Contactez-nous ! Nos équipes sont disponibles pour répondre à toutes vos questions et vous proposer un accompagnement personnalisé.
+Nous contacter
+Nous contacter
+
+
+--- PAGE STRATÉGIQUE : https://www.synergie.fr/mentions-legales ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+x-nextjs-cache: HIT
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+static.axept.io, www.googletagmanager.com, www.synergie.fr, cdn.signalfx.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+min-*, w-*, scroll-*, flex-*, left-*, top-*, z-*, bg-*, px-*, py-*, !text-*, focus:top-*, focus:outline-*, lg:m-*, max-*, gap-*, p-*, lg:mx-*, lg:flex-*, lg:justify-*, lg:bg-*, lg:py-*, size-*, shrink-*, lg:h-*, lg:w-*, header-*, items-*, justify-*, lg:gap-*
+===================================
+Mentions légales - Synergie | Synergie
+- Accéder au menu
+- Accéder au contenu
+- Accéder au pied de page
+La société SYNERGIE est une société de gestion des ressources humaines notamment le travail temporaire, le recrutement, le portage salarial, la formation et le conseil qui permet à l'Utilisateur d'accéder à ces services par le biais du site internet et de l’application mySynergie.
+## Éditeur du site
+SYNERGIE
+- Société Européenne au capital de 121.810.000
+- Siège social : 160 bis, rue de Paris 92100 Boulogne Billancourt
+- RCS : 329 925 010 NANTERRE
+- Directeur de publication : Mélanie Dollé
+- Téléphone : 01.55.60.30.30
+## Hébergeur :
+ALTER WAY
+- Siège social : 1 rue royale, Bat D
+- 227, les Bureaux de la colline
+- 92210 St Cloud
+- Téléphone: 01.41.40.11.00
+- www.alterway.fr
+### CONDITIONS GENERALES D’UTILISATION DU SITE « WWW.SYNERGIE.FR »
+Préambule :
+SYNERGIE dispose des moyens techniques, des compétences et des ressources permettant à l'Utilisateur d'accéder à ses services, dont les conditions d’accès et d’utilisation sont régies par les présentes.
+## Article 1– Définitions :
+« Application »  : désigne l’application mySynergie, éditée par la société SYNERGIE et téléchargeable depuis les plateformes « Apple Store » et « Google Play Store »
+« Conditions Générales d’Utilisation » ou « CGU »  : désigne les dispositions prévues aux présentes, régissant l’accès et l’utilisation des Services.
+« Compte Personnel »  : désigne l’espace créé par l’Utilisateur sur le site et/ou l’Application, accessible via identifiants après inscription préalable, lui permettant d’accéder aux Services Personnalisés.
+« Données »  : désigne l’ensemble des informations communiquées par l’Utilisateur lors de son utilisation des Services, ainsi que tout élément recueilli automatiquement par le biais du Site et/ou de l’Application lors de sa visite, et utilisé aux fins de la fourniture et de l’amélioration des Services.
+« Site »  : désigne le site internet de SYNERGIE situé à l’adresse URL « www.synergie.fr », ainsi que l'ensemble des pages dudit site, accessibles en direct ou via un portail partenaire.
+« Services »  :  désigne tous services offerts par SYNERGIE sur son Site et/ou son Application, en direct ou via un portail partenaire.
+« Services Personnalisés »  : désigne les Services accessibles via l’utilisation d’un Compte Personnel et décrits à l’article 3.
+« Utilisateur »   : désigne toute personne morale ou physique utilisant les Services » en direct ou via un portail partenaire.
+## Article 2– Objet
+2.1. Les présentes Conditions Générales d’Utilisation ont pour objet de définir les modalités et conditions d’utilisation des Services que SYNERGIE met à disposition des Utilisateurs ainsi que les relations entre SYNERGIE et les Utilisateurs.
+Toute utilisation des Services emporte automatiquement acceptation totale et sans réserve des présentes CGU par l’Utilisateur.
+Les CGU applicables sont celles en vigueur au moment de chaque utilisation des Services par l’Utilisateur. Par conséquent l’Utilisateur est invité à prendre connaissance des CGU à chacune de ses utilisations.
+Ces CGU peuvent être modifiées par SYNERGIE autant que de besoin. Dans ce cas, l’Utilisateur reconnait que son utilisation des Services après modification des CGU emportera automatiquement acceptation des CGU ainsi modifiées.
+2.2. Si un Utilisateur utilise les Services pour le compte d’une entité (ex. : association, société, fondation), il garantit détenir toutes les autorisations nécessaires pour accepter les CGU au nom de l’entité pour laquelle il utilise les Services. Dans ce cas, son utilisation des Services emportera également acceptation sans réserve des CGU par l’entité en question.
+2.3. SYNERGIE exerce son activité en conformité avec les règles déontologiques de la profession ainsi qu'avec les principes constitutionnels, légaux et réglementaires en matière de non-discrimination. De ce fait, les fonctions et titres présents sur les Services sont indiqués au masculin uniquement à titre générique.
+## Article 3– Description des Services :
+L’accès aux Services est gratuit. Toutefois, l’accès aux Services Personnalisés est soumis à une inscription préalable de l’Utilisateur, son identification et l’utilisation d’un Compte Personnel.
+3.1 Les Services Personnalisés permettent aux Utilisateurs :
+- d’accéder à des offres d’emploi,
+- d’adresser des candidatures et des CV à SYNERGIE,
+- de mettre en place des alertes emplois sur les offres d’emploi susceptibles de les intéresser,
+- de gérer leurs candidatures envoyées,
+- de piloter leurs missions d’intérim,
+- de consulter via le coffre-fort numérique des contrats/avenants à signer et de les signer électroniquement,
+- de consulter, via le coffre-fort numérique les bulletins de paie, les certificats et attestations de travail,
+- d’effectuer des demandes d’attestations (France Travail) et certificats,
+- d’effectuer des demandes d'acompte,
+Pour ce faire, l’Utilisateur devra remplir les conditions suivantes :
+- Être une personne physique,
+- Compléter sa fiche d’inscription et fournir l’intégralité des données obligatoires qui lui seront demandées et mentionnées.
+Si l’Utilisateur souhaite accéder aux Services Personnalisés pour les intérimaires, il devra également avoir signé un contrat de mission avec SYNERGIE ou l’une ses filiales.
+Si l’une quelconque de ces conditions n’était pas remplie, l’ouverture du Compte Personnel pourra être refusée à l’Utilisateur.
+En créant un Compte Personnel, l’Utilisateur reçoit un mail d’activation qui contient un lien hypertexte. Une fois, l’activation effectuée, il reçoit un nouveau mail de confirmation de création de son Compte Personnel.
+Ces 2 mails contiendront des liens hypertextes lui permettant d’accéder aux présentes CGU.
+L’Utilisateur peut demander à tout moment la fermeture de son Compte Personnel par courriel à l’adresse visée à l’article 7 ou directement sur le Site ou l’Application.
+3.2. Le Site permet également aux Utilisateurs clients qui recherchent des salariés d’adresser leur besoin de personnel à SYNERGIE au moyen d’un formulaire en ligne afin que SYNERGIE puisse diffuser leur besoin ou offre d’emploi auprès de ses agences et candidats.
+Pour ce faire, l’Utilisateur devra remplir les conditions suivantes :
+- Être une personne physique,
+- Être majeur,
+## Article 4– Données à caractère personnel :
+SYNERGIE respecte la législation applicable en matière de protection des données personnelles des Utilisateurs et en particulier le Règlement (UE) 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la Directive 95/46/CE (Règlement Général sur la Protection des Données dit "RGPD").
+4.1 Les données relatives aux Utilisateurs que SYNERGIE peut collecter sont les suivantes :
+-
+Données collectées lors de la création et l’utilisation d’un Compte Personnel :
+Les données sont les suivantes : le nom, le prénom de l’Utilisateur, sa civilité, son adresse postale personnelle, son adresse email, son métier, son CV et les informations professionnelles qu’il contient et de manière générale, toutes les informations nécessaires à l’établissement des contrats de mission et avenants en application de l’article L1251-16 du Code du travail, la signature électronique de l’Utilisateur, les données figurant sur les attestations et les données bancaires (pour les demandes d’acomptes).
+Il est précisé que dans le cadre de l’utilisation des Services Personnalisés, Synergie collecte les données de géolocalisation de l’Utilisateur.
+Certaines de ces données sont obligatoires et signalées par un astérisque. Si l’Utilisateur ne les transmet pas, il ne pourra pas accéder aux Services Personnalisés.
+-
+Données collectées lors de l’envoi d’un besoin en personnel :
+Les données collectées sont les suivantes : nom, prénom, fonction, téléphone, adresse email.
+Certaines de ces données sont obligatoires et signalées par un astérisque. Si l’Utilisateur ne les transmet pas, il ne pourra pas accéder aux Services.
+4.2 Le traitement de ces Données est nécessaire pour permettre aux Utilisateurs d’utiliser les Services et d'obtenir une réponse aux messages adressés à SYNERGIE,
+et, s’agissant des Utilisateurs des Services Personnalisés,  de créer et gérer leur Compte Personnel et d’utiliser les Services qui leur sont réservés et notamment de recevoir des alertes emploi, de gérer leurs candidatures à des offres d’emploi disponibles et de recevoir des notifications sur le statut des offres sur lesquelles l’Utilisateur  ils ont postulé, des invitations sur des tests à effectuer. Les informations demandées et recueillies lors de l’utilisation des Services ont pour finalité le recrutement des candidats et le pilotage de leurs missions par les intérimaires.
+Elles sont exclusivement destinées à SYNERGIE et aux entreprises intéressées par le profil des candidats ou chez lesquelles les intérimaires ont été délégués.
+Les données de connexion sont utilisées à des fins de statistiques quant à l’utilisation des Services et au trafic qu’elle génère.
+4.3 Les Données des Utilisateurs sont stockées par SYNERGIE pour la durée nécessaire à l'utilisation des Services qui leur sont rendus accessibles par SYNERGIE.
+4.4 Chaque Utilisateur ayant ouvert un Compte Personnel dispose d'un droit d'accès, de portabilité, de rectification et de suppression de ses Données conformément aux dispositions du Règlement (UE) 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la Directive 95/46/CE (Règlement Général sur la Protection des Données).
+Il peut avoir accès et modifier ses données :
+- soit directement en ligne par le biais de son Compte Personnel s’il en dispose,
+- soit via le formulaire disponible sur le Site et sur l’Application
+- soit par courrier en adressant un courrier électronique à l’adresse suivante : dpo@synergie.fr ou en adressant un courrier postal à l’adresse suivante : SYNERGIE - Délégué à la Protection des Données - 160 bis, rue de Paris 92100 Boulogne Billancourt.
+## Article 5– Traceurs :
+SYNERGIE peut souhaiter implanter des traceurs dans l’appareil de l’Utilisateur afin de faciliter et améliorer sa navigation sur les Services.
+À cet effet, le traceur recueille les informations de navigation de l’appareil de l’Utilisateur.
+5.1 Pour le Site :
+L’Utilisateur peut accepter ou refuser les cookies, par le biais du bandeau d'information préalable qui apparaît au moment où l'Utilisateur arrive sur la page d'accueil du Site. Ce bandeau d'information préalable permet à l'internaute de refuser l'utilisation et l'enregistrement de cookies sur son ordinateur en modifiant les paramètres de navigation de son navigateur, sachant que le refus des cookies peut parfois bloquer l’accès à tout ou partie des fonctionnalités du Site.
+Des informations sur l’utilisation des cookies sont disponibles auprès des éditeurs de logiciel de navigation.
+Ainsi, il est possible d’avoir des informations sur l’utilisation des cookies par les logiciels suivants aux pages suivantes :
+- Chrome (Google) :  https://support.google.com/chrome/answer/95647
+- Safari (Apple) :  https://support.apple.com/fr-fr/guide/safari/sfri11471/mac
+- Edge (Microsoft) :  https://support.microsoft.com/fr-fr/microsoft-edge/supprimer-les-cookies-dans-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09
+- Firefox (Mozilla) : https://support.mozilla.org/fr/kb/protection-renforcee-contre-pistage-firefox-ordinateur
+Les cookies et autres flux d’échanges présents sur le site sont les suivants :
+- Cookies de fonctionnement : Synergie.fr (obligatoire)
+- Cookies de performance : Google Analytics (statistiques), Google Tag Manager (statistiques)
+- Cookies de personnalisation : YouTube, Google.com (map)
+- Cookies de partage : Facebook, LinkedIn, WhatsApp
+5.2 Pour l’Application :
+L’Application utilise des technologies similaires aux cookies (tracking Firebase et local storage) afin d’assurer son fonctionnement, mesurer son audience et améliorer l’expérience de l’Utilisateur.
+## Article 6– Déclarations et Obligations de l’Utilisateur :
+6.1 En accédant aux Services, l'Utilisateur reconnaît :
+- Avoir connaissance des principes qui sous-tendent au fonctionnement d'Internet et accepter ses caractéristiques et limites ;
+- Avoir connaissance du fait que SYNERGIE ne peut exercer aucun contrôle sur la nature et les caractéristiques des données accessibles sur Internet et qu'en conséquence SYNERGIE ne peut assumer aucune responsabilité qui découlerait directement ou indirectement de ces données ;
+- Avoir connaissance que les données circulant sur Internet ne peuvent être complètement protégées contre d'éventuels détournements et qu'il résulte que toute communication est faite aux risques et périls de l'Utilisateur. En effet, SYNERGIE met en place des mesures techniques appropriées conçues pour protéger les données contre toute perte accidentelle ou tout accès ou diffusion non autorisé. Toutefois, Internet demeure un système ouvert et SYNERGIE ne peut garantir que des tiers non autorisés ne pourront passer outre ces mesures et accéder aux données. Dans tous les cas, la responsabilité de SYNERGIE en cas d’accès, perte ou diffusion non-autorisée des données des Utilisateurs lui incombant, est limitée au préjudice direct subi par l’Utilisateur et ne saurait être supérieure à un million (1.000.000) d’euros.
+- Avoir connaissance du fait que des virus peuvent être introduits par des tiers sur Internet et reconnaît en conséquence qu'il lui appartient de prendre toutes mesures propres à assurer la protection des données stockées sur son matériel informatique ; par ailleurs, l'Utilisateur s'engage à ne pas enregistrer de document contenant un virus.
+En utilisant les Services, l'Utilisateur assume les risques relatifs à la complétude, exactitude ou l'actualité des informations disponibles.
+6.2 Lorsque l’Utilisateur fournit, enregistre, met à disposition de SYNERGIE et des autres Utilisateurs et des partenaires de SYNERGIE des éléments et informations (ex. : informations sur l’Utilisateur, son CV, etc.), il s’engage à ce que ceux-ci :
+- Ne soient pas contraires ou n’enfreignent pas les codes et les lois en vigueur,
+- Ne contiennent pas de virus ou de logiciel susceptibles de nuire au bon fonctionnement du Site ou de l’endommager,
+- Ne violent pas les droits des tiers,
+- Ne soient pas mensongers, inexacts ou trompeurs,
+- Ne contiennent pas d’éléments diffamatoires, injurieux, violents, incitant à la haine raciale ou ethnique, susceptibles de porter atteinte au respect de la personne humaine et de sa dignité ainsi qu’à la protection des mineurs,
+- Ne portent pas atteinte à l’image de SYNERGIE.
+6.3 L'Utilisateur garantit SYNERGIE et ses partenaires contre tout recours ou action de tout tiers, et leurs conséquences pécuniaires éventuelles, trouvant leur source dans l'utilisation des Services par l'Utilisateur ou dans la violation par l’Utilisateur des CGU ou des dispositions réglementaires en vigueur.
+6.4 L'Utilisateur doit veiller à respecter les CGU et les mesures techniques utilisées pour assurer la sécurité et l’accès des Services. À ce titre, chaque Utilisateur s'interdit d'utiliser tout matériel ou logiciel susceptible d'altérer, d'entraver ou de fausser le fonctionnement des Services.
+Toute violation de cette obligation pourra être sanctionnée tant civilement que pénalement. En outre, SYNERGIE se réserve le droit de supprimer ou désactiver sans délai le Compte Personnel de l’Utilisateur qui ferait un usage frauduleux ou illicite de son Compte Personnel ou ne respectant pas les présentes CGU.
+## Article 7– Accès aux Services :
+SYNERGIE s’efforce de permettre l'accès aux Services 24 heures sur 24, 7 jours sur 7, sauf dans l'hypothèse de force majeure, telle que définie par l'article 1218 du Code civil et par la jurisprudence française et sous réserve également des éventuelles pannes et interventions de maintenance ou de mise à niveau du Site ou de l’Application sans que ces interruptions n’ouvrent de droit à indemnité pour l’Utilisateur.
+De même, l’Utilisateur accepte que SYNERGIE puisse être amenée à interrompre tout ou partie de ses Services à tout moment et sans préavis.
+La responsabilité de SYNERGIE ne saurait être engagée en cas d’impossibilité d’accès et/ou d’utilisation des Services, les Utilisateurs renonçant à toute réclamation ou action à cet égard.
+## Article 8– Compte Personnel et identifiants :
+L'Utilisateur est seul et entièrement responsable de l'utilisation et de la conservation de ses identifiants et mots de passe liés à son Compte Personnel. Il s'engage en conséquence à prendre toutes les mesures pour en assurer la parfaite sécurité et confidentialité et à ne pas les divulguer à des tiers, sous quelque forme et à quelque titre que ce soit.
+En conséquence, l'Utilisateur reconnaît être seul et unique responsable à l'égard de SYNERGIE de tous actes effectués à partir de son Compte Personnel.
+En cas de perte ou de vol d'un ou plusieurs de ses identifiants, l'Utilisateur est seul responsable des conséquences dommageables qui pourraient en résulter et doit en informer SYNERGIE, dans les plus brefs délais, soit par courrier en adressant un courrier électronique à l'adresse suivante : contact@synergie.fr ou en adressant un courrier postal à l'adresse suivante ; SYNERGIE - Direction Juridique - 160 bis, rue de Paris 92100 Boulogne Billancourt.
+## Article 9– Navigation (uniquement pour le Site) :
+Le Site est optimisé pour les navigateurs WEB dans leur dernière version, c'est à dire au 10/03/2026 :
+- Chrome 145
+- Firefox 148
+- Edge 145
+- Safari 26
+- Opera 127
+Un comportement dégradé, sans impact sur les fonctionnalités peut apparaître sur les navigateurs dans leur version suivante :
+- Chrome 143 et antérieures
+- Firefox 146 et antérieures
+- Edge 143 et antérieures
+- Safari 17 et antérieures
+- Opera 125 et antérieures
+Par sécurité, il est recommandé de toujours effectuer les dernières mises à jour des navigateurs WEB.
+Systèmes d'exploitation : le Site n'est pas conçu pour un système d'exploitation spécifique, il est compatible avec l'ensemble des systèmes d'exploitation des navigateurs (Windows, Mac, Linux, Android, iOS).
+## Article 10– Liens Hypertextes :
+Les Services peuvent proposer à l'Utilisateur de se rendre sur des liens hypertextes conduisant vers des sites Internet. La liaison du Site et/ou de l’Application à ces sites est jugée comme pouvant apporter un surplus d'informations qualifiées. En aucun cas, SYNERGIE ne peut être tenue responsable du contenu de ces sites qu’elle n’édite pas, l’Utilisateur reconnaissant que ces sites et services de tiers ou de partenaires sont totalement indépendants de SYNERGIE. La redirection proposée vers un site tiers ne vaut pas recommandation et SYNERGIE n'est en aucun cas responsable du contenu éditorial proposé dans les sites concernés.
+## Article 11– Propriété Intellectuelle :
+11.1 Dispositions générales :
+Les Services sont un tout indissociable. Les informations y figurant sont réservées à un usage exclusivement personnel et ne peuvent être en tout ou partie ni reproduites, ni communiquées à des tiers à quelque titre que ce soit. L'ensemble des données (textes, sons ou images) figurant sur les pages du Site et/ou l’Application est la propriété exclusive de SYNERGIE.
+Toute reproduction, représentation ou diffusion, à des fins autres que personnelles, en tout ou partie du contenu des Services sur quelque support ou par tout procédé que ce soit est interdite. Le non-respect de cette interdiction constitue notamment une contrefaçon au sens des articles L. 335-2 et suivants du Code de la propriété intellectuelle susceptible d'engager la responsabilité civile et pénale du contrefacteur.
+11.2 Crédits Photos :
+Tous droits réservés pour les photographies illustrant ces Services.
+- Getty Images / Unsplash
+11.3 Marques :
+Il est strictement interdit au sens de l'article L.713-2 du Code de la propriété intellectuelle d'utiliser ou de reproduire la marque "SYNERGIE" et / ou son logo, seuls ou associés, à quelque titre que ce soit, et notamment à des fins publicitaires, sans l'accord préalable écrit de SYNERGIE.
+## Article 12– Limitation de responsabilités :
+Les informations contenues dans le Site et/ou l’Application sont données à titre purement informatif et les Services sont fournis en l’état. A ce titre, ils ne peuvent engager la responsabilité de SYNERGIE qui ne donne aucune garantie, explicite ou implicite, et n'assume aucune responsabilité relative à l'utilisation de ces informations et des Services.
+L’Utilisateur reconnaît que ni SYNERGIE, ni aucune de ses filiales, ni les membres du réseau SYNERGIE ne pourront être tenus responsables des dommages directs ou indirects, et notamment préjudice matériel, préjudice immatériel, perte de données ou de programme, préjudice financier, résultant de l'accès, de l’impossibilité d’accès ou de l'utilisation des Services ou de tous sites qui leur sont liés ou du fait, notamment, de l'interruption, de la suspension, de la modification ou de l'abandon des Services ou d'un de ses éléments.
+Par ailleurs, la responsabilité de SYNERGIE ne saurait être recherchée en cas d’inaccessibilité des Services notamment en période de maintenance ou en cas de force majeure.
+En outre, SYNERGIE ne garantit pas l’exhaustivité, l’actualité et la pertinence des informations diffusées par les Services, notamment l'existence ou la disponibilité de toute offre mentionnée, ni les termes définitifs ou la durée de celle-ci.
+SYNERGIE ne garantit pas qu'un employeur ou un client proposera un entretien, ni embauchera un Utilisateur, ni que l'Utilisateur sera disponible ou correspondra aux besoins d'un employeur ou d'un client.
+L'Utilisateur est avisé que SYNERGIE fournira tout renseignement permettant ou facilitant l'identification de toute personne s'étant rendue coupable d'une infraction à la législation ou d'une atteinte aux droits de SYNERGIE ou d'un tiers sur requête d'une autorité ou juridiction, tels qu’adresses IP et heures de connexion.
+Dans le cas où la responsabilité de SYNERGIE serait judiciairement recherchée en raison d'un manquement par un Utilisateur aux obligations lui incombant, SYNERGIE pourra appeler ce dernier en garantie.
+L'Utilisateur reconnaît qu'il est seul responsable de l'utilisation des Services.
+## Article 13– Droit applicable :
+Tant les Services que les modalités et conditions de leur utilisation sont régis par le droit français, quel que soit le lieu d'utilisation.
+Si l'une quelconque des stipulations des présentes CGU est jugée nulle ou sans objet par toute autorité ou juridiction, elle sera réputée non écrite et n'entraînera pas la nullité des autres dispositions qui demeureront en vigueur.
+## Article 14– Juridiction applicable :
+Tout litige résultant de l'utilisation de ce Site et des Services qu’il propose ou de la diffusion des informations qu'il contient sera de la compétence exclusive des Tribunaux de Nanterre faisant application de la Loi française.
+
+
+--- PAGE STRATÉGIQUE : https://www.synergie.fr/le-groupe/nos-marques ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+x-nextjs-cache: HIT
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+static.axept.io, www.googletagmanager.com, www.synergie.fr, cdn.signalfx.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+min-*, w-*, scroll-*, flex-*, left-*, top-*, z-*, bg-*, px-*, py-*, !text-*, focus:top-*, focus:outline-*, lg:m-*, max-*, gap-*, p-*, lg:mx-*, lg:flex-*, lg:justify-*, lg:bg-*, lg:py-*, size-*, shrink-*, lg:h-*, lg:w-*, header-*, items-*, justify-*, lg:gap-*
+===================================
+Nos marques - Synergie | Synergie
+- Accéder au menu
+- Accéder au contenu
+- Accéder au pied de page
+À travers ses différentes marques et filiales, le groupe Synergie apporte des réponses précises à tous vos projets RH et vous accompagne avec une offre 360 adaptée à chacun de vos enjeux : intérim, recrutement de cadres, conseil RH, recrutement médical... Découvrez nos expertises spécifiques pour répondre à vos besoins.
+## Le Groupe Synergie, expert en recrutement
+Synergie est l’un des leaders européens en recrutement et délégation de professionnels, cadres et non-cadres, dans les principaux secteurs d’activité, privés et publics.
+Depuis plus de 50 ans, Synergie rapproche les entreprises qui recrutent des candidats à la recherche d’un emploi. Grâce à un réseau de 400 agences et une parfaite connaissance des différents secteurs d’activité (BTP, aéronautique, logistique, industrie...), nos équipes sont de véritables partenaires de proximité qui participent activement à votre compétitivité.
+## S&you, cabinet de recrutement d’Experts et Cadres
+Avec plus de 30 consultants en France et présent dans 17 pays, S&you est spécialisé dans le recrutement d’Experts & Cadres. Ses cabinets spécialisés par métiers et domaines d’activité permettent de répondre de façon précise et pointue à vos enjeux spécifiques : informatique, finance, juridique, ingénierie, marketing...
+Le cabinet attache une grande importance à la proximité et à la relation de confiance que nous mettons en place avec vous – candidats, clients, collaborateurs - autour de vos projets et de vos objectifs.
+Tout savoir sur S&you Tout savoir sur S&you
+## Synergie Executive, cabinet de conseil RH et top management
+Cabinet international de conseil RH dédié aux cadres dirigeants, Synergie Executive s'engage depuis plus de 20 ans à répondre aux besoins spécifiques des entreprises et des talents de haut niveau. Sa mission est d' accompagner les organisations dans leurs transformations et les leaders dans leurs évolutions professionnelles en offrant des solutions sur mesure et innovantes.
+Executive Search, management de transition, coaching, assessment : Synergie Executive propose un accompagnement sur mesure pour tous les recrutements stratégiques.
+Plus d’infos sur Synergie Executive
+## Synergie Care, le spécialiste des métiers de la santé
+Filiale du Groupe, Synergie Care est un réseau d’agences d’emploi spécialisées dans le médical, le paramédical et le social . Les experts du domaine vous accompagnent au mieux dans la gestion de votre carrière et de vos recrutements dans le secteur de la santé : intérim, vacation, recrutement CDD-CDI. Avec plus de 50 ans d’expertise dans les métiers de la santé et nos 24 agences de proximité partout en France, Synergie Care vous offre une expertise approfondie et des solutions adaptées aux spécificités des métiers de la santé.
+Découvrir Synergie Care Découvrir Synergie Care
+## Synergie Insertion, favoriser l’accès à l’emploi pour tous
+Créer le lien entre les personnes éloignées de l’emploi et les entreprises locales à la recherche de nouveaux talents, telle est la mission de Synergie Insertion , le réseau d’agences d’emploi spécialisé dans l’intérim d’insertion . Au-delà de déléguer des candidats, les agences Synergie Insertion offrent également un accompagnement personnalisé des candidats et un suivi tout au long de leur parcours vers l’autonomie socioprofessionnelle.
+Découvrir Synergie Insertion
+## DCS, l’expert en management et support d’infrastructures IT
+Créé il y plus de 50 ans, DCS est le spécialiste de vos enjeux IT. Grâce à l'engagement de ses collaborateurs et à son esprit collaboratif,
+DCS innove et propose une gamme complète de services pour assurer les performances et la sécurité de vos systèmes d’information : work place management, cybersécurité, ingénierie data, solutions digitales...
+En savoir plus sur DCS En savoir plus sur DCS
+## HRed, accélérateur de transformation RH et compétences
+Cabinet de conseil RH et formation, HRed accompagne les entreprises industrielles face aux mutations du marché du travail : digitalisation, transitions écologiques, innovations technologiques, pénurie de talents… La mission de HRed est de faire évoluer les organisations et les collaborateurs grâce à des solutions sur mesure en conseil RH et formation.
+Découvrir HRed
+### Intéressé par l’une de nos marques ?
+Une marque du Groupe Synergie correspond à vos besoins ? Contactez-nous ! Nos experts sont disponibles et répondent à toutes vos questions.
+Nous contacter
+Nous contacter
+## Synergie, l’expert 360
+Le Groupe Synergie vous offre un accompagnement sur mesure. Candidats, intérimaires, entreprises… Nous répondons à vos enjeux et besoins, avec une offre 100% personnalisée.
+### Découvrir Synergie
+- Découvrez le Groupe Synergie Découvrez le Groupe Synergie
+- Nos engagements et valeurs Nos engagements et valeurs
+- Nos atouts Nos atouts
+
+
+--- PAGE STRATÉGIQUE : https://www.synergie.fr/actualites ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+x-nextjs-cache: HIT
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+static.axept.io, www.googletagmanager.com, www.synergie.fr, cdn.signalfx.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+min-*, w-*, scroll-*, flex-*, left-*, top-*, z-*, bg-*, px-*, py-*, !text-*, focus:top-*, focus:outline-*, lg:m-*, max-*, gap-*, p-*, lg:mx-*, lg:flex-*, lg:justify-*, lg:bg-*, lg:py-*, size-*, shrink-*, lg:h-*, lg:w-*, header-*, items-*, justify-*, lg:gap-*
+===================================
+Nos actualités | Synergie
+- Accéder au menu
+- Accéder au contenu
+- Accéder au pied de page
+## Découvrez nos thématiques
+Partenariats Événements RSE Recrutement Le Groupe
+## Synergie obtient la médaille Gold EcoVadis 2025
+Le groupe Synergie vient d’être distingué par la Médaille d’Or 2025 décernée par EcoVadis, organisme de référence mondiale en matière de responsabilité sociétale des entreprises.
+En savoir plus En savoir plus
+## Actualités
+Événements
+7 avril 2026
+Entreprises, boostez vos recrutements avec le Forum Séniors & Talents
+Événements
+Entreprises, boostez vos recrutements avec le Forum Séniors & Talents
+Événements
+Recrutement
+7 avril 2026
+Candidats, boostez votre carrière avec le Forum Séniors & Talents !
+Participez au Forum dédié aux +50 ans à Paris et rencontrez des recruteurs qui valorisent votre expérience.
+Événements
+Recrutement
+Candidats, boostez votre carrière avec le Forum Séniors & Talents !
+Recrutement
+3 avril 2026
+Guide Pratique : structurez et sécurisez vos recrutements saisonniers
+Recrutement
+Guide Pratique : structurez et sécurisez vos recrutements saisonniers
+Événements
+Recrutement
+27 février 2026
+Rendez-vous au Salon de l’Emploi de Nantes
+Événements
+Recrutement
+Rendez-vous au Salon de l’Emploi de Nantes
+Le Groupe
+RSE
+23 février 2026
+Synergie obtient la médaille Gold EcoVadis 2025
+Le Groupe
+RSE
+Synergie obtient la médaille Gold EcoVadis 2025
+Le Groupe
+RSE
+20 février 2026
+Synergie reconnue parmi les Diversity Leaders européens 2026
+Le Groupe
+RSE
+Synergie reconnue parmi les Diversity Leaders européens 2026
+Le Groupe
+RSE
+20 février 2026
+Synergie parmi les meilleurs cabinets de recrutement 2026
+Synergie figure pour la 9ᵉ année consécutive parmi les meilleurs cabinets de recrutement en France et obtient deux distinctions 5 étoiles au palmarès 2026 des Échos et Statista. 🏆
+Le Groupe
+RSE
+Synergie parmi les meilleurs cabinets de recrutement 2026
+Événements
+RSE
+12 février 2026
+Fidéliser les talents féminins : et si tout se jouait dès le recrutement ?
+Événements
+RSE
+Fidéliser les talents féminins : et si tout se jouait dès le recrutement ?
+Événements
+26 janvier 2026
+Opération parrainage, recevez 100 € !
+Présentez-nous une personne de votre entourage et recevez 100 € en carte cadeau jusqu'au 31/12/2026 ! 🎁
+Événements
+Opération parrainage, recevez 100 € !
+### Vous avez un projet de recrutement ?
+Nous vous accompagnons dans tous vos questionnements RH.
+Nous contacter
+Nous contacter

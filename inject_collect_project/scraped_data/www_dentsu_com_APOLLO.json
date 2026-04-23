@@ -1,0 +1,191 @@
+{
+    "identity": {
+        "domain": {
+            "value": "dentsu.com",
+            "confidence": 1.0,
+            "source": "Scripts / Technical footprint"
+        },
+        "name": {
+            "value": "Dentsu Group Inc.",
+            "confidence": 1.0,
+            "source": "Site header / Global branding"
+        },
+        "industry": {
+            "value": "Advertising, Digital Media, and Consulting",
+            "confidence": 0.95,
+            "source": "Page content: 'integrated growth and transformation partner'"
+        },
+        "founded_year": {
+            "value": "1901",
+            "confidence": 0.9,
+            "source": "Corporate historical records"
+        },
+        "short_description": {
+            "value": "An integrated growth and transformation partner providing marketing, technology, and consulting services globally.",
+            "confidence": 0.9,
+            "source": "Page Introduction"
+        },
+        "seo_description": {
+            "value": "Global Advertising and Digital Media Agency | Dentsu MENA",
+            "confidence": 0.9,
+            "source": "Meta title tag"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "1.304 Trillion JPY",
+            "confidence": 0.95,
+            "source": "2023 Annual Report / Dentsu Group Financials"
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.95,
+            "source": "Standard fiscal reporting cycle for Dentsu Group"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Publicly traded on Tokyo Stock Exchange"
+        },
+        "estimated_num_employees": {
+            "value": "72,000",
+            "confidence": 0.85,
+            "source": "Corporate reporting / Global workforce data"
+        },
+        "latest_funding_stage": {
+            "value": "Publicly Traded",
+            "confidence": 1.0,
+            "source": "Tokyo Stock Exchange Listing"
+        },
+        "annual_revenue_USD": {
+            "value": 8900000000,
+            "confidence": 0.9,
+            "source": "Conversion of 1.304 Trillion JPY based on 2023 average exchange rates"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/dentsu_global",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/globaldentsu",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "phone": {
+            "value": "+81-3-6216-5111",
+            "confidence": 0.85,
+            "source": "Tokyo Global Headquarters contact"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.9,
+            "source": "Primary Global Entity"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.9,
+            "source": "Ultimate Parent Entity"
+        },
+        "num_suborganizations": {
+            "value": "160+",
+            "confidence": 0.7,
+            "source": "Network description"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Carat",
+                "iProspect",
+                "Dentsu Creative",
+                "Merkle",
+                "Dentsu X"
+            ],
+            "confidence": 0.9,
+            "source": "Network / Our Work section"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "1-8-1, Higashi-shimbashi, Minato-ku, Tokyo 105-7001, Japan",
+            "confidence": 0.95,
+            "source": "Global HQ Registry"
+        },
+        "city": {
+            "value": "Tokyo",
+            "confidence": 1.0,
+            "source": "Global HQ Registry"
+        },
+        "country": {
+            "value": "Japan",
+            "confidence": 1.0,
+            "source": "Global HQ Registry"
+        }
+    },
+    "technologies": [
+        {
+            "name": "OneTrust",
+            "category": "Privacy and Compliance",
+            "confidence": 0.99,
+            "source": "cdn.cookielaw.org / onetrust-* classes"
+        },
+        {
+            "name": "Salesforce Pardot",
+            "category": "Marketing Automation",
+            "confidence": 0.99,
+            "source": "pi.pardot.com script"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "www.googletagmanager.com script"
+        },
+        {
+            "name": "Google Maps API",
+            "category": "Mapping / GIS",
+            "confidence": 0.99,
+            "source": "maps.googleapis.com script"
+        },
+        {
+            "name": "Cloudflare",
+            "category": "CDN",
+            "confidence": 0.95,
+            "source": "cdnjs.cloudflare.com"
+        }
+    ],
+    "funding_events": [
+        {
+            "date": "2001",
+            "type": "IPO",
+            "amount": "Tokyo Stock Exchange Listing"
+        }
+    ],
+    "keywords": {
+        "value": "advertising, digital media, business transformation, sustainable growth, marketing technology, consulting, innovation, consumer experience",
+        "confidence": 0.9,
+        "source": "Extracted from service offerings and core messaging"
+    },
+    "data_quality_score": {
+        "value": 0.92,
+        "confidence": 1.0,
+        "source": "Assessment of data completeness across identity, financial, and technical attributes; minor deduction for missing LinkedIn URL."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "WPP",
+            "Publicis Groupe",
+            "Omnicom Group",
+            "Interpublic Group (IPG)",
+            "Havas"
+        ]
+    }
+}

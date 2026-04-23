@@ -1,0 +1,200 @@
+{
+    "identity": {
+        "domain": {
+            "value": "staffing-tunisia.com",
+            "confidence": 1.0,
+            "source": "HTTP Headers"
+        },
+        "name": {
+            "value": "Staffing Tunisia",
+            "confidence": 1.0,
+            "source": "Page d'accueil"
+        },
+        "industry": {
+            "value": "Recrutement et Intérim",
+            "confidence": 1.0,
+            "source": "Page about"
+        },
+        "founded_year": {
+            "value": "2018",
+            "confidence": 1.0,
+            "source": "Page about"
+        },
+        "short_description": {
+            "value": "Cabinet de recrutement et agence d’intérim opérant sur tout le réseau national tunisien avec des solutions de recrutement de cadres, intérim et outsourcing.",
+            "confidence": 0.9,
+            "source": "Page d'accueil"
+        },
+        "seo_description": {
+            "value": "Staffing Tunisia - Cabinet de recrutement Tunisie, Agence d’intérim, Cabinet de recrutement Sfax, Sousse, Tunis",
+            "confidence": 0.9,
+            "source": "Meta Title"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Donnée non disponible dans le texte"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Donnée non disponible dans le texte"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Donnée non disponible"
+        },
+        "estimated_num_employees": {
+            "value": "10-50",
+            "confidence": 0.6,
+            "source": "Déduit du nombre d'agences et de l'équipe listée"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Donnée non disponible"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Aucune donnée financière ou chiffre d'affaires n'est mentionné dans le contenu textuel ou les en-têtes HTTP."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/StaffingTunisia",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": "(00216) 31 360 300",
+            "confidence": 1.0,
+            "source": "Page contact (Siège Sfax)"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.9,
+            "source": "Identifié comme siège (Siège : Avenue Majida Boulila)"
+        },
+        "parent_company": {
+            "value": "Staffing Tunisia",
+            "confidence": 1.0,
+            "source": "Structure autonome"
+        },
+        "num_suborganizations": {
+            "value": "2",
+            "confidence": 0.9,
+            "source": "Agences Sousse et Tunis"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Agence Sousse",
+                "Agence Tunis"
+            ],
+            "confidence": 0.9,
+            "source": "Page contact"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Avenue Majida Boulila, Immeuble Mirage 3, Sfax",
+            "confidence": 1.0,
+            "source": "Page contact / Adresse cible"
+        },
+        "city": {
+            "value": "Sfax",
+            "confidence": 1.0,
+            "source": "Page contact"
+        },
+        "country": {
+            "value": "Tunisia",
+            "confidence": 1.0,
+            "source": "Page contact"
+        }
+    },
+    "technologies": [
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 1.0,
+            "source": "Headers HTTP / wp-json"
+        },
+        {
+            "name": "OVHcloud",
+            "category": "Hosting",
+            "confidence": 0.99,
+            "source": "Header Server"
+        },
+        {
+            "name": "PHP 7.2",
+            "category": "Programming Language",
+            "confidence": 0.99,
+            "source": "Header x-powered-by"
+        },
+        {
+            "name": "Google Analytics",
+            "category": "Analytics",
+            "confidence": 0.99,
+            "source": "Scripts externes"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Scripts externes"
+        },
+        {
+            "name": "WPBakery / Visual Composer",
+            "category": "Page Builder",
+            "confidence": 0.95,
+            "source": "Classes CSS vc_*"
+        },
+        {
+            "name": "WPML",
+            "category": "Translation Plugin",
+            "confidence": 0.95,
+            "source": "Classes CSS wpml-*"
+        },
+        {
+            "name": "Revolution Slider",
+            "category": "UI Component",
+            "confidence": 0.95,
+            "source": "Classes CSS revslider-*"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "recrutement, intérim, Tunisie, RH, Sfax, Sousse, Tunis, capital humain, talentisme, outsourcing, externalisation RH, chasseur de têtes",
+        "confidence": 0.9,
+        "source": "Contenu textuel / Services"
+    },
+    "data_quality_score": {
+        "value": 0.82,
+        "confidence": 0.95,
+        "source": "Le profil est très complet sur l'identité, la localisation précise, l'équipe dirigeante et la stack technologique, mais manque de données financières réelles (Revenu, Funding)."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Manpower Tunisia",
+            "Adecco Tunisia",
+            "ReKrute.com",
+            "Tanitjobs",
+            "Dreamer Consulting"
+        ]
+    }
+}

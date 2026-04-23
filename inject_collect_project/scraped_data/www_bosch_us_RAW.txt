@@ -1,0 +1,186 @@
+--- PAGE D'ACCUEIL : Home | Bosch in the USA ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 38000 Hills Tech Dr, Farmington Hills, United States
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.googletagmanager.com, track.sv.rkdms.com, www.bosch.us, dock.ui.bosch.tech
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+O-*, -*, a-*, e-*, M-*, is-*, boschicon-*, ui-*, m-*, A-*, o-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Tag Manager
+
+Home | Bosch in the USA
+#
+THE MORE YOU BOSCH, THE MORE YOU FEEL LIKE A BOSCH
+## Bosch Annual Report 2024
+Products and services
+Our open positions
+Get in touch
+## Our products for your home
+Show all products
+Home appliances
+Power tools
+Heating and hot water
+## Our solutions for business clients
+### Mobility
+Bosch brings together comprehensive expertise in vehicle technology with hardware, software, and services to offer complete mobility solutions.
+Discover the entire portfolio
+### Industry and trades
+Bosch offers innovative products and services for industry and trades.
+Learn more about our solutions
+## Explore our stories
+-
+Story
+### Homegrown Touch, International Reach
+-
+### Feeling the Impact
+-
+Story Making Impactful Investments
+### Environmental Education Report
+-
+### Boosting Environmental Stewardship
+-
+### Finding the Limit
+## Cross-Domain Solutions from Bosch
+Operating across four business sectors – Mobility Solutions, Industrial Technology, Consumer Goods, and Energy and Building Technology – Bosch is uniquely positioned to offer customers a multitude of value-add, cross-sector solutions across a diversity of industry applications.
+In addition to providing outstanding products, we utilize expertise in sensor technology, systems integration, software and services, as well as our own IoT cloud, to offer each customer connected, cross-domain solutions from a single source.
+To Cross-Domain Solutions from Bosch
+Follow us into a connected world Learn more about IoT on our global website
+Explore and experience Bosch — story by story Visit our global website
+For news about Bosch in North America, please visit our Media Center. Go to Bosch Media Center
+##
+Bosch on social media
+Follow us for the latest information about the company.
+## Bosch customer service
+You need service or support? Our customer support is here for you whenever you need it.
+To contact overview
+Looking for a job?
+Apply now. Bosch careers
+Become a business partner. Purchasing and logistics
+
+
+--- PAGE STRATÉGIQUE : https://www.bosch.us/our-company/bosch-group-worldwide/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.googletagmanager.com, track.sv.rkdms.com, www.bosch.us, dock.ui.bosch.tech
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+O-*, -*, a-*, e-*, M-*, is-*, boschicon-*, ui-*, m-*, o-*, A-*
+===================================
+Bosch Group worldwide | Bosch in the USA
+Bosch worldwide
+# The Bosch Group at a glance
+## What we do
+The Bosch Group is a leading global supplier of technology and services. It employs roughly 413,000 associates worldwide (as of December 31, 2025). The company generated sales of 91 billion euros in 2025. Its operations are divided into four business sectors: Mobility, Industrial Technology, Consumer Goods, and Energy and Building Technology. With its business activities, the company aims to use technology to help shape universal trends such as automation, digitalization, electrification, and artificial intelligence. In this context, Bosch’s broad diversification across regions and industries strengthens its innovativeness and robustness. Bosch uses its proven expertise in hardware, software, and services to offer customers cross-domain solutions from a single source. It also applies its expertise in connectivity and artificial intelligence in order to develop and manufacture intelligent, user-friendly, and sustainable products. With technology that is “Invented for life,” Bosch wants to help improve quality of life and conserve natural resources.
+## Bosch at a glance
+Sales revenue, associates, locations — key figures and brands at a glance
+(figures as of December 31, 2025 | values rounded)
+### 412,800
+associates worldwide
+### 91
+billion euros sales revenue
+### 82,100
+associates in research and development
+### 500
+subsidiaries and regional companies in some 60 countries
+### 1.8
+billion euros EBIT from operations
+### 7.9
+billion euros on research and development
+## Publications
+You can download up-to-date information about Bosch as PDF files here.
+### Bosch today
+All you need to know about Bosch in a clear and concise format.
+Download Bosch today
+### Annual report 2025
+Company profile and annual report for 2025
+Download annual report
+## Our business sectors
+### Mobility
+#### Mobility
+Bosch, as a supplier of original automotive equipment, has a wide range of activities covered by the following business divisions. This includes our activities in electromobility (Electrified Motion), control units, sensors, and semiconductors (Mobility Electronics), powertrain (Power Solutions), brake, steering, and occupant safety systems (Vehicle Motion), driver assistance systems and vehicle computing (Cross-Domain Computing Solutions), as well as vehicle base software, middleware and cybersecurity solutions (ETAS GmbH). The business sector also includes the aftermarket business (Mobility Aftermarket), Bosch eBike Systems, activities in two-wheelers and off-road vehicles, as well as engineering and software services.
+### Industrial Technology
+#### Industrial Technology
+The business sector comprises the Drive and Control Technology division (Bosch Rexroth), other activities in the field of special-purpose mechanical engineering, and Industry 4.0 software solutions and services. Bosch Rexroth AG specializes in drive and control technologies for machines and systems of any type and size.
+### Consumer Goods
+#### Consumer Goods
+The business sector comprises the Power Tools and BSH Hausgeräte divisions. This Power Tools division’s extensive product range serves both professional users in trade and industry and do-it-yourselfers. It offers power, garden tools, measuring technology, and power tool accessories. The BSH Hausgeräte product portfolio ranges from washing machines and tumble dryers through refrigerators and freezers, stoves and ovens, and dishwashers, to small appliances such as vacuum cleaners, automatic coffee makers, and food processors.
+### Energy and Building Technology
+#### Energy and Building Technology
+The business sector comprises the Building Technologies, Home Comfort, and Bosch Global Service Solutions divisions. The Building Technologies division specializes in the regional systems integration business, offering solutions and customized services for building security, energy efficiency, and building automation in selected countries. Home Comfort offers its customers a wide range of solutions for heating, cooling, and well-being in buildings. The portfolio includes electric heat pumps and heat pump-hybrid solutions, condensing boiler technology, water heaters, air-conditioning systems, and ventilation technology for residential and commercial buildings, as well as systems for process heat. The Bosch Global Service Solutions division focuses on technology-based services for customers in the areas of mobility (such as emergency call services for cars), fleet management (such as allocating parking spaces for trucks), logistics (such as cold-chain monitoring), and building management (such as emergency call services for lifts).
+## Ownership structure and organization
+The ownership structure of Robert Bosch GmbH guarantees the Bosch Group’s entrepreneurial independence. It enables the company to plan over the long term and to undertake significant upfront investments in the safeguarding of its future. The not-for-profit foundation Robert Bosch Stiftung GmbH holds roughly 94 percent of the share capital of Robert Bosch GmbH, but has no influence on the strategic or business orientation of the Bosch Group. The remaining shares are held by a company owned by the Bosch family (roughly 5 percent) and Robert Bosch GmbH (roughly 1 percent). Of the voting rights, some 93 percent are held by Robert Bosch Industrietreuhand KG. The approximately 7 percent of voting rights remaining are held by the founder’s descendants.
+-
+-
+## Robert Bosch Stiftung
+Since it was established in 1964, Robert Bosch Stiftung GmbH has been carrying on the company founder’s public welfare endeavors. It helps smooth the path toward viable solutions for social challenges. The support it provides can take the form of projects of its own, of partnerships, and of grants for third-party initiatives. The Stiftung finances its work from the dividend it receives as a shareholder in Robert Bosch GmbH.
+Learn more about the Robert Bosch Stiftung
+##
+Bosch on social media
+Follow us for the latest information about the company.
+## Bosch customer service
+You need service or support? Our customer support is here for you whenever you need it.
+To contact overview
+## Find more about Bosch
+-
+### Bosch in the USA
+Learn more
+-
+### The story of our success
+Learn more
+
+
+--- PAGE STRATÉGIQUE : https://www.bosch.us/contact/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+track.sv.rkdms.com, dock.ui.bosch.tech, www.googletagmanager.com, btm.bosch.com, www.bosch.us
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+O-*, -*, a-*, e-*, M-*, is-*, boschicon-*, ui-*, m-*, o-*, A-*, T-*, mwf-*
+===================================
+Contact | Bosch in the USA
+How can we help you?
+# Contact us
+## Our customer service for private customers
+-
+### Home appliances
+Bosch home appliances service
+-
+### Heating, climate, heat pumps
+Home comfort service
+-
+### eBike
+eBike services
+## Our customer service for business customers
+-
+### Mobility Aftermarket
+Aftermarket help center
+-
+### Professional power tools
+Bosch professional service
+-
+### Life Safety Systems
+Customer service
+-
+### Drive and control technology
+Bosch Rexroth service
+-
+### eBike systems
+eBike partner portal
+## General questions about Bosch
+We are happy to help you with your request — via e-mail, phone or live chat.
+-
+-
+-
+## (917) 421-7209

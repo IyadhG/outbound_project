@@ -1,0 +1,188 @@
+{
+    "identity": {
+        "domain": {
+            "value": "careers.compass-usa.com",
+            "confidence": 1.0,
+            "source": "Empreinte technique / URL de recrutement"
+        },
+        "name": {
+            "value": "Compass Group USA",
+            "confidence": 1.0,
+            "source": "Directive de ciblage / Texte de la page d'accueil"
+        },
+        "industry": {
+            "value": "Foodservice and Facilities Services",
+            "confidence": 1.0,
+            "source": "Description du site (nation’s largest family of foodservice and facilities services companies)"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Non mentionné explicitement dans le texte scrapé"
+        },
+        "short_description": {
+            "value": "Largest family of foodservice and facilities services companies in the United States, providing services to hospitals, schools, ballparks, and corporate offices.",
+            "confidence": 0.95,
+            "source": "Description textuelle du site"
+        },
+        "seo_description": {
+            "value": "Compass Group Careers - A family of companies, a career for life. Recruiting for foodservice and facilities services roles nationwide.",
+            "confidence": 0.8,
+            "source": "Déduction meta-description / H1"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Donnée financière spécifique à la filiale US non présente dans le texte"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Non mentionné dans le texte fourni"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.5,
+            "source": "Société mère cotée en bourse (Publicly Traded)"
+        },
+        "estimated_num_employees": {
+            "value": "300,000+",
+            "confidence": 1.0,
+            "source": "Section 'Our Stats' (Associates in the U.S. and Canada)"
+        },
+        "latest_funding_stage": {
+            "value": "Public",
+            "confidence": 0.9,
+            "source": "Mention de 'Compass Group PLC' et Fortune 2023"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "La valeur de performance.annual_revenue est nulle dans le JSON fourni et aucun montant chiffré n'est présent dans le texte source pour la filiale USA."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://x.com/compassgroupusa",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": "Text 'Job' to 75000",
+            "confidence": 0.9,
+            "source": "Section 'Meet Olivia' (Recruiting hotline)"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Directive de ciblage et mention de la maison mère PLC"
+        },
+        "parent_company": {
+            "value": "Compass Group PLC",
+            "confidence": 1.0,
+            "source": "Mention explicite dans les awards (Fortune 2023 & 2025 World's Most Admired Company)"
+        },
+        "num_suborganizations": {
+            "value": "28+",
+            "confidence": 0.95,
+            "source": "Section 'Our Stats' (28+ Companies Nationwide)"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Foodservice companies",
+                "Facilities services companies"
+            ],
+            "confidence": 0.8,
+            "source": "Description des secteurs d'activité"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "2400 Yorkmont Road, Charlotte, United States",
+            "confidence": 1.0,
+            "source": "Directive de ciblage (Adresse cible)"
+        },
+        "city": {
+            "value": "Charlotte",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "country": {
+            "value": "United States",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Paradox AI",
+            "category": "Recruiting AI / Chatbot",
+            "confidence": 0.99,
+            "source": "cdn.sites.paradox.ai / Olivia assistant"
+        },
+        {
+            "name": "Dalia",
+            "category": "Candidate Experience Platform",
+            "confidence": 0.99,
+            "source": "forms.daliajobs.com"
+        },
+        {
+            "name": "UserWay",
+            "category": "Accessibility",
+            "confidence": 0.99,
+            "source": "cdn.userway.org"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Analytics",
+            "confidence": 0.99,
+            "source": "www.googletagmanager.com"
+        },
+        {
+            "name": "Amazon CloudFront",
+            "category": "CDN",
+            "confidence": 0.95,
+            "source": "cloudfront.net headers"
+        },
+        {
+            "name": "Tailwind CSS",
+            "category": "Frontend Framework",
+            "confidence": 0.9,
+            "source": "Déduction depuis classes CSS (lg:w-*, gap-*, flex-*, bg-*)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Foodservice, Facilities Management, Hospitality, Careers, Recruiting, Corporate Dining, Healthcare Dining, School Cafeterias, Support Services",
+        "confidence": 0.9,
+        "source": "Analyse du contenu des secteurs d'activité"
+    },
+    "data_quality_score": {
+        "value": 0.85,
+        "confidence": 0.95,
+        "source": "Excellente précision sur l'identité, la hiérarchie et la technographie, mais manque de données financières et de réseaux sociaux validés."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Aramark",
+            "Sodexo",
+            "Elior North America",
+            "Delaware North",
+            "HMSHost"
+        ]
+    }
+}

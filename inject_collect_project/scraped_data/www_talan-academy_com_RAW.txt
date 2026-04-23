@@ -1,0 +1,36 @@
+--- PAGE D'ACCUEIL : Talan — Site en construction ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 10 Rue de l'energie solaire, Tunis, Tunisia
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: Apache
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+bg-*, logo-*, badge-*
+===================================
+Talan — Site en construction
+En cours de construction
+#
+Quelque chose de
+remarquable
+arrive bientôt.
+Nos équipes travaillent à vous offrir une expérience digitale à la hauteur de notre ambition.
+Restez connectés.
+
+
+--- PAGE STRATÉGIQUE : https://www.google.com/search?q=company+annual+revenue+financial+report ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: gws
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+===================================
+Error 403 (Forbidden)!!1
+403. That’s an error.
+Your client does not have permission to get URL /search?q=company+annual+revenue+financial+report from this server. That’s all we know.

@@ -1,0 +1,176 @@
+--- PAGE D'ACCUEIL : ALDI Grocery Stores - Quality Food. Everyday Low Prices. ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 1200 North Kirk Road, Batavia, United States
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: nginx
+via: 1.1 428178e04c8c5f5460c3935b1e7203be.cloudfront.net (CloudFront)
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+d2guulkeunn7d8.cloudfront.net, e44177b6b805.cdn4.forter.com, cdn.cookielaw.org, s.pinimg.com, js.adsrvr.org, analytics.tiktok.com, connect.facebook.net, www.googletagmanager.com, js.stripe.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+store-*, ad-*, carbon-*, js-*, e-*, compact-*, screen-*, u-*, v4-*, legacy-*, __reakit-*, onetrust-*, ot-*, vertical-*, has-*, privacy-*, category-*, back-*, save-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Stripe, Google Tag Manager, Google Analytics
+
+ALDI Grocery Stores - Quality Food. Everyday Low Prices.
+# ALDI - Shop
+## Featured Pages
+Price Drops
+Weekly Ad
+ALDI Finds
+Mother's Day
+Cinco de Mayo
+Seasonal Products
+New & Trending
+ALDI Brands
+Shop By Diet
+Frozen
+Prepared Foods
+Meat & Seafood
+Fresh Produce
+This is a carousel of items cards. Use Next and Previous buttons to navigate.
+-
+## Always low prices. You're welcome.
+- Current price: $1.79 $ 1 79 Strawberries, Package 1 lb Many in stock
+- Current price: $2.89 $ 2 89 Mandarins, Bag 3 lb Many in stock
+- Current price: $2.45 $ 2 45 Multi-Colored Peppers, Package 3 ct Many in stock
+- Current price: $3.29 $ 3 29 Original Price: $3.55
+$3.55
+Pink Lady Apples, Bag 3 lb Many in stock
+- Current price: $1.99 $ 1 99 Cantaloupe 1 each Many in stock
+- Current price: $7.69 $ 7 69 Kirkwood Seasoned Turkey Burgers 32 oz Many in stock
+- Current price: $3.29 $ 3 29 Park Street Deli Fried Pickle & Ranch Dip 10 oz
+- Current price: $2.19 $ 2 19 Clancy's Loaded Bacon Potato Chips 8 flavors
+- Current price: $3.85 $ 3 85 Specially Selected Gourmet Peaches Passion Fruit 19.5 oz
+- Current price: $4.39 $ 4 39 Macaroni Salad 32 oz This is a carousel. Use Next and Previous buttons to navigate on desktop or swipe with your finger on mobile.
+## Price Drops
+View all (100+)
+- Current price: $1.89 $ 1 89 Original Price: $2.09
+$2.09
+10% off Baby Bella Mushrooms 8 oz Many in stock
+- Current price: $1.75 $ 1 75 Original Price: $1.99
+$1.99
+12% off Sliced White Mushrooms, Package 8 oz Many in stock
+- Current price: $3.29 $ 3 29 Original Price: $3.55
+$3.55
+7% off Pink Lady Apples, Bag 3 lb Many in stock
+- Current price: $0.89 $ 0 89 Original Price: $0.95
+$0.95
+6% off Mango 1 each Many in stock
+- Current price: $1.95 $ 1 95 Original Price: $2.05
+$2.05
+5% off Clancy's White Cheddar Cheese Popcorn 6.75 oz Many in stock
+- Gluten free Current price: $4.85 $ 4 85 Original Price: $4.95
+$4.95
+Clancy's Movie Theater Butter Microwave Popcorn 12 x 2.5 oz Many in stock This is a carousel of items cards. Use Next and Previous buttons to navigate.
+-
+## Summer Seasonal Products
+### New summer flavors are here.
+- Current price: $4.39 $ 4 39 Alouette Smoky Jalapeno Cheese Spread 6.5 oz
+- Current price: $4.39 $ 4 39 Alouette Toasted Everything Cheese Spread 6.5 oz
+- Current price: $3.69 $ 3 69 Bomb Pop Original Popsicle 12 ct
+- Current price: $4.39 $ 4 39 Klondike Ice Cream Bars 27 oz Many in stock
+- Current price: $5.15 $ 5 15 Snickers Ice Cream Bars 6 ct
+- Current price: $4.19 $ 4 19 Park Street Deli Hot Honey Pepperoni Dip 10 oz
+- Current price: $2.19 $ 2 19 Clancy's Loaded Bacon Potato Chips 8 flavors
+- Current price: $8.89 $ 8 89 Florility Organic Pinot Grigio 750 ml
+- Current price: $3.65 $ 3 65 Stonemill Amazing Burger Grill Seasoning 5.75 oz
+- Current price: $8.89 $ 8 89 Bare Water Spipked Water 12 fl oz This is a carousel. Use Next and Previous buttons to navigate on desktop or swipe with your finger on mobile.
+## Best Sellers
+View all (200+)
+- Current price: $0.16 each (estimated) $ 0 16
+each (est.)
+Bananas $0.48 / lb About 0.33 lb each Many in stock
+- Current price: $1.79 $ 1 79 Strawberries, Package 1 lb Many in stock
+- Current price: $1.85 $ 1 85 Goldhen Grade A Large Eggs 12 ct Many in stock
+- Current price: $0.65 $ 0 65 Large Avocado 1 each
+- Current price: $2.89 $ 2 89 Mandarins, Bag 3 lb Many in stock
+- Current price: $2.45 $ 2 45 Multi-Colored Peppers, Package 3 ct Many in stock
+## Prices you can count on. Every single day.
+### Protein Foods
+High-quality protein products designed to fuel your active lifestyle.
+### Mother's Day
+Only the best for Mom.
+### New & Trending
+Check out ALDI's new arrivals.
+- This is a carousel of items cards. Use Next and Previous buttons to navigate.
+-
+## Mother's Day Gift Ideas
+### Wow Mom this Mother's Day.
+- Current price: $16.99 $ 16 99 Serra Ladies Woven Maxi Dress - Maroon, S 1 each
+- Current price: $16.99 $ 16 99 Serra Ladies Woven Maxi Dress - Maroon, M 1 each
+- Current price: $16.99 $ 16 99 Serra Ladies Woven Maxi Dress - Maroon, L 1 each
+- Current price: $16.99 $ 16 99 Serra Ladies Woven Maxi Dress - Maroon, XL 1 each
+- Current price: $16.99 $ 16 99 Serra Ladies Woven Maxi Dress - Multi Color, S 1 each
+-
+-
+-
+-
+-
+## See what's new this week at ALDI.
+### Garden Retreat
+Take your backyard up a notch.
+### Outdoor Sports
+Outdoor fun called. Answer.
+### This Week's ALDI Finds
+See what's new at ALDI this week.
+-
+## Have you tried these yet?
+-
+-
+-
+-
+-
+-
+## Fresh Produce
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+# How would you like to shop?
+-
+-
+-
+## How would you like to shop?
+Item pricing and availability may vary.
+Already have an account?
+## Cookie Notice
+ALDI and our third-party technology providers use cookies, pixels, and similar tracking technologies on this site to enable essential site functionality and for business analytics purposes, including to analyze site usage and performance and assist in our internal marketing efforts. You may customize your cookie preferences by clicking the “Cookie Preferences” button below. You can also choose accept or reject all non-essential cookies by clicking the buttons below. To learn more, review our Privacy Policy.
+Your opt-out signal has been honored.
+## Cookie Preferences
+When you visit our website, we and certain third parties, including advertising companies, use cookies, pixels, tags, and similar tracking technologies to collect information about you, your browser and device, and your visits to our website. We and third parties use the information for various purposes such as to make the site work as you expect it to and to improve your experience, to enhance website security, and to show you personalized content, including delivering advertisements that may be relevant to your interests.
+To opt-out of certain categories of cookies, please click on the toggle button below so it turns grey. Please be sure to click the “Confirm Choices” button at the bottom to save your preferences.
+If you use different devices or browsers, you may need to indicate your opt-out choices on each of those devices and browsers.
+Learn more about how we collect and process your data in our Privacy Policy.
+### Manage Consent Preferences
+#### Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function (such as setting your privacy preferences, remembering your settings, or filling in forms) and cannot be switched off in our systems.
+#### Targeting Cookies
+Targeting Cookies
+We and certain third-party advertising, analytics, social media, and similar partners may collect data from visitors through cookies for various purposes, including to serve you targeted ads and content. If you opt-out of these cookies, you will still see advertising on our site and elsewhere online, but the advertisements you see may be less relevant to you. Under certain circumstances, the collection of personal information through these cookies may be considered “sales” or “sharing” or “targeted advertising” under applicable privacy laws.
+#### Performance Cookies
+Performance Cookies
+These cookies enable the website to provide enhanced functionality and user experience (for example, to remember choices you make when using our site, like your region, language preferences, or login details). They may also allow us to count visits and traffic sources so we can measure and improve the performance of our site, to help us to know which pages are the most and least popular and see how visitors move around the site. They may be set by us or by third party providers whose services we have added to our pages.
+### Cookie List
+- checkbox label label Consent Leg.Interest checkbox label label checkbox label label checkbox label label Your Privacy [`dialog closed`]

@@ -1,0 +1,233 @@
+{
+    "identity": {
+        "domain": {
+            "value": "wfpusa.org",
+            "confidence": 1.0,
+            "source": "HTTP Headers / Scraped URL"
+        },
+        "name": {
+            "value": "World Food Program USA",
+            "confidence": 1.0,
+            "source": "Page Title / Header"
+        },
+        "industry": {
+            "value": "Non-profit Organization Management",
+            "confidence": 0.95,
+            "source": "Site content / Mission description"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Text mentions 1961 for WFP Global but not specific date for USA branch"
+        },
+        "short_description": {
+            "value": "World Food Program USA supports the mission of the United Nations World Food Programme by mobilizing American resources to fight global hunger.",
+            "confidence": 0.9,
+            "source": "About / Mission sections"
+        },
+        "seo_description": {
+            "value": "World Food Program USA | Fighting Global Hunger",
+            "confidence": 1.0,
+            "source": "HTML Title Tag"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Specific USD revenue for the USA branch is not present in the scraped text"
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.7,
+            "source": "Inferred from mention of annual tax receipts sent in February 2025"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Entity is a non-profit receiving donations rather than venture funding"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not explicitly stated in text"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Non-profit status"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Aucun chiffre d'affaires spécifique en USD pour l'entité américaine n'est présent dans le texte extrait ; les données mentionnées concernent les repas globaux du PAM (WFP global)."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/WFPUSA",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/WFPUSA",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not found in scraped text"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Identity as the US-based affiliate/partner of the UN World Food Programme"
+        },
+        "parent_company": {
+            "value": "United Nations World Food Programme",
+            "confidence": 1.0,
+            "source": "Site content / About section"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not mentioned"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.5,
+            "source": "No sub-entities mentioned for the US branch"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "1750 H St NW, Washington, United States",
+            "confidence": 1.0,
+            "source": "Target Address Directive"
+        },
+        "city": {
+            "value": "Washington",
+            "confidence": 1.0,
+            "source": "Target Address Directive"
+        },
+        "country": {
+            "value": "United States",
+            "confidence": 1.0,
+            "source": "Target Address Directive"
+        }
+    },
+    "technologies": [
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 1.0,
+            "source": "WP Engine headers and wp-json paths"
+        },
+        {
+            "name": "WP Engine",
+            "category": "Hosting",
+            "confidence": 1.0,
+            "source": "x-powered-by header"
+        },
+        {
+            "name": "NitroPack",
+            "category": "Performance",
+            "confidence": 1.0,
+            "source": "nitro- prefixes and nitrocdn.com scripts"
+        },
+        {
+            "name": "Elementor",
+            "category": "Page Builder",
+            "confidence": 1.0,
+            "source": "elementor- CSS classes"
+        },
+        {
+            "name": "Astra",
+            "category": "Theme",
+            "confidence": 1.0,
+            "source": "astra- CSS classes"
+        },
+        {
+            "name": "Cloudflare",
+            "category": "Security/CDN",
+            "confidence": 1.0,
+            "source": "server header"
+        },
+        {
+            "name": "Fundraise Up",
+            "category": "Fundraising",
+            "confidence": 1.0,
+            "source": "fundraiseup.com scripts"
+        },
+        {
+            "name": "The Giving Block",
+            "category": "Fundraising/Crypto",
+            "confidence": 1.0,
+            "source": "thegivingblock.com scripts"
+        },
+        {
+            "name": "Pardot",
+            "category": "Marketing Automation",
+            "confidence": 1.0,
+            "source": "pardot.com scripts"
+        },
+        {
+            "name": "Microsoft Clarity",
+            "category": "Analytics",
+            "confidence": 1.0,
+            "source": "clarity.ms scripts"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 1.0,
+            "source": "googletagmanager.com scripts"
+        },
+        {
+            "name": "Shift4",
+            "category": "Payments",
+            "confidence": 1.0,
+            "source": "shift4.com scripts"
+        },
+        {
+            "name": "OptinMonster",
+            "category": "Conversion",
+            "confidence": 1.0,
+            "source": "omappapi.com scripts"
+        },
+        {
+            "name": "Yoast SEO",
+            "category": "SEO",
+            "confidence": 1.0,
+            "source": "yoast- CSS classes"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Hunger relief, Food assistance, United Nations, Donations, World Food Program, Global Hunger, Zero Hunger, Philanthropy, Crypto donations, Sudan relief, Gaza aid",
+        "confidence": 0.9,
+        "source": "Site content / Headlines"
+    },
+    "data_quality_score": {
+        "value": 0.76,
+        "confidence": 0.95,
+        "source": "Excellente complétude des métadonnées techniques, de l'identité et de la localisation, mais absence de données financières précises et d'effectifs pour la branche USA."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Feeding America",
+            "Action Against Hunger",
+            "Save the Children",
+            "Mercy Corps",
+            "CARE"
+        ]
+    }
+}

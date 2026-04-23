@@ -1,0 +1,287 @@
+--- PAGE D'ACCUEIL : IBM ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : USA
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.googletagmanager.com, cloud.ibm.com, d2c7xlmseob604.cloudfront.net, www.ibm.com, scripts.clarity.ms, cdnapisec.kaltura.com, 1.www.s81c.com, www-api.ibm.com, scripts.demandbase.com, bat.bing.com, munchkin.marketo.net, cdn.mgln.ai, googleads.g.doubleclick.net, rum.hlx.page, www.redditstatic.com, cs.ns1p.net, web-chat.global.assistant.watson.appdomain.cloud, cdn.decibelinsight.net, tags.tiqcdn.com, snap.licdn.com, visitor-service-eu-central-1.tealiumiq.com, assets.adobedtm.com, js.adsrvr.org, www.clarity.ms, consent.trustarc.com, hybrid-cloud-widgets-production.s3.us.cloud-object-storage.appdomain.cloud, cdn.id5-sync.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+content-*, page-*, cmp-*, new-*, earth-*, short-*, theme-*, productive-*, text-*, leadspace-*, cds-*, expressive-*, enhanced-*, lead-*, cms-*, c4d-*, ibm-*, target-*, newsfeed__pagination-*, table-*, tile-*, ibmcom-*, image-*, mbox-*, logo-*, nested-*, statistic-*, aem-*, promotional-*, add-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Marketo, Google Tag Manager, Google Analytics
+
+IBM
+Support What's new
+- Overview Resolve product issues with self-service tools
+- Community Share knowledge in a collaborative environment to unlock innovation
+- Developer Access digital resources, code samples and code trials
+- Documentation Understand, develop and deploy our products with comprehensive technical resources
+- IBM Cloud platform Access subject matter experts and content to address questions and issues about IBM Cloud
+- Implementation Drive better business outcomes with an experienced team of IBM product experts
+- Training Develop your skills with premiere educational offerings and credentials
+- Technology Lifecycle Services Elevate your support experience with a holistic approach to data center management across your IT environment
+My IBM
+Log in
+Think 2026 is almost here
+Explore the session catalog and register today
+#
+Turn data into engagement
+For 30 years, IBM has helped the Masters become a smarter business, engaging fans by turning decades of data into an award-winning digital experience. Discover how possibilities grow when business becomes smarter.
+Explore the Masters experience
+Let's create smarter business
+Latest News
+IBM to Announce First-Quarter 2026 Financial Results
+First-Ever ‘Masters at Madison Square Park’ Watch Party Tee’d Up for April 9-12
+IBM Announces Strategic Collaboration with Arm to Shape the Future of Enterprise Computing
+IBM Expands FedRAMP Portfolio with Authorization of 11 Software Solutions, Including watsonx
+IBM and ETH Zurich Join Forces to Shape the Future of Algorithms for the AI and Quantum Era
+IBM Quantum Computer Accurately Simulates Real Magnetic Materials, Reproducing National Laboratory Data
+Enterprise AI Finds its Voice: ElevenLabs and IBM Bring Premium Voice Capabilities to Agentic AI
+IBM Debuts New AI Enabled Digital Experiences for the 90th Masters Tournament
+##### Recommended for you
+News
+Explore how AI brings new depth to the 90th Masters Tournament
+Services
+Drive smarter decisions with modern data architecture and governed AI
+Solutions
+See how intelligent AI agents integrate with your systems to simplify work
+Insights
+Activate AI agents and scale real value through measurable progress
+##
+Smarter business. Real impact.
+-
+-
+-
+-
+### US Open
+To help the USTA stay on the cutting edge of customer experience, IBM Consulting® works side by side with the USTA digital team to transform a massive volume and variety of US Open data into content and insight that informs and engages fans.
+14M
+World-class digital experiences for more than 14 million fans around the globe
+7M
+IBM captures and analyzes more than 7 million data points throughout the tournament
+Explore how the US Open is becoming a smarter business
+### Pfizer
+Pfizer needed the ability to scale up to run large SAP workloads. To accomplish this goal, the company selected the IBM® Power® solution as its mission-critical server platform for SAP applications and their supporting databases, as well as related business systems for track and trace, invoicing and more.
+93%
+database reduction from SAP ECC 6.0 to SAP S/4HANA
+20%
+cost avoidance forecasted for new projects
+Explore how Pfizer is digitally transforming to help save lives
+### UFC
+IBM Build Engineering collaborated closely with UFC to architect, develop and deploy the UFC Insights Engine to improve the experience for fans. This technical partnership involved building numerous data analytics pipelines, developing advanced generative AI narration capabilities, implementing data querying systems and creating agentic capabilities to translate UFC’s rich history into production-grade insights.
+3x
+estimated increase in insight volume
+40%
+estimated reduction in query generation time
+Explore how UFC delivers faster, more engaging content across platforms
+### Scuderia Ferrari HP
+The Ferrari brand is fueled by a relentless drive to innovate. They’re constantly evolving, testing new ideas and striving for peak performance. It’s this shared value of continuous innovation that makes the collaboration between Ferrari and IBM so powerful. To make that vision a reality, the F1 team partnered with IBM Consulting® to completely reimagine their mobile app.
+2x
+increase in daily active users
+35%
+increase in average time spent in-app
+Learn how Ferrari puts race day in your pocket
+Save 30% on select IBM products
+Shop deals on smart solutions that are easy to deploy and even easier on the wallet—until 15 April 2026!
+Claim the offer now
+##
+Enterprise technology
+From next-generation AI to cutting-edge  software , our deep expertise across industries can help you reinvent how your business works in the age of AI.
+AI productivity
+Automate work and drive smarter decisions with intelligent agents and applications
+Data management
+Unify and govern your data to power trusted, real‑time AI across the enterprise
+Security and governance
+Unify security, compliance and resilience to protect your most critical data​ and scale with confidence
+Integration and resilience
+Build a connected, resilient foundation for the agentic enterprise
+Hybrid infrastructure management
+Modernize and manage hybrid cloud with confidence
+AI models
+Get started with cost-efficient AI models, tailored for business and optimized for scale
+Analytics
+Support data-driven decisions for your business
+Consulting
+Engage with IBM Consulting® to design, build and operate high-performing businesses
+Training for what's next
+##
+Training for what's next
+Professional training
+Explore flexible courses and certifications to deepen your skills and prepare for new challenges.
+Strengthen your expertise
+Foundational skills
+Develop essential skills, unlock new possibilities and get ready for the next stage of your career.
+Start shaping tomorrow
+Student pathways
+Elevate your career readiness with learning paths and courses on the skills shaping tomorrow’s jobs.
+Begin your success journey
+##
+Stay connected
+Products
+Consulting services
+Industries
+Case studies
+Financing
+Research
+LinkedIn
+X
+Instagram
+YouTube
+Podcasts
+Business partners
+Documentation
+Events
+Newsletters
+Support
+TechXchange community
+Overview
+Careers
+Investor relations
+Leadership
+Newsroom
+Security, privacy and trust
+United States — English
+Contact IBM
+Privacy
+Terms of use
+Accessibility
+Latest News
+IBM to Announce First-Quarter 2026 Financial Results
+First-Ever ‘Masters at Madison Square Park’ Watch Party Tee’d Up for April 9-12
+IBM Announces Strategic Collaboration with Arm to Shape the Future of Enterprise Computing
+IBM Expands FedRAMP Portfolio with Authorization of 11 Software Solutions, Including watsonx
+IBM and ETH Zurich Join Forces to Shape the Future of Algorithms for the AI and Quantum Era
+IBM Quantum Computer Accurately Simulates Real Magnetic Materials, Reproducing National Laboratory Data
+Enterprise AI Finds its Voice: ElevenLabs and IBM Bring Premium Voice Capabilities to Agentic AI
+IBM Debuts New AI Enabled Digital Experiences for the 90th Masters Tournament
+IBM web domains
+ibm.com, ibm.org, ibm-zcouncil.com, insights-on-business.com, jazz.net, mobilebusinessinsights.com, promontory.com, proveit.com, ptech.org, s81c.com, securityintelligence.com, skillsbuild.org, softlayer.com, storagecommunity.org, think-exchange.com, thoughtsoncloud.com, alphaevents.webcasts.com, ibm-cloud.github.io, ibmbigdatahub.com, bluemix.net, mybluemix.net, ibm.net, ibmcloud.com, galasa.dev, blueworkslive.com, swiss-quantum.ch, blueworkslive.com, cloudant.com, ibm.ie, ibm.fr, ibm.com.br, ibm.co, ibm.ca, community.watsonanalytics.com, datapower.com, skills.yourlearning.ibm.com, bluewolf.com, carbondesignsystem.com, openliberty.io About cookies on this site Our websites require some cookies to function properly (required). In addition, other cookies may be used with your consent to analyze site usage, improve the user experience and for advertising. For more information, please review your  options. By visiting our website, you agree to our processing of information as described in IBM’s privacy statement .  To provide a smooth navigation, your cookie preferences will be shared across the IBM web domains listed  here .
+# Chat window
+Return to assistant
+#### Powered by IBM watsonx
+IBM watsonx is powered by the latest AI models to intelligently process conversations and provide help whenever and wherever you may need it. Restart conversation Close the chat window
+#### Powered by IBM watsonx
+IBM watsonx is powered by the latest AI models to intelligently process conversations and provide help whenever and wherever you may need it. Restart conversation Close the chat window The chat window has been closed
+
+
+--- PAGE STRATÉGIQUE : https://www.ibm.com/investor ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+cs.ns1p.net, www.clarity.ms, www.googletagmanager.com, munchkin.marketo.net, js.adsrvr.org, d2c7xlmseob604.cloudfront.net, rum.hlx.page, www.ibm.com, consent.trustarc.com, scripts.clarity.ms, hybrid-cloud-widgets-production.s3.us.cloud-object-storage.appdomain.cloud, tags.tiqcdn.com, 1.www.s81c.com, visitor-service-eu-central-1.tealiumiq.com, assets.adobedtm.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+content-*, page-*, cmp-*, new-*, earth-*, leadspace-*, cds-*, cms-*, table-*, tile-*, expressive-*, ibmcom-*, image-*, mbox-*, modular-*, standalone-*, enhanced-*, col-*, structured-*, block-*, intro-*, fullwidth-*, no-*, card-*, is-*, inside-*, mobile-*, themed-*, theme-*, video-*
+===================================
+Investor Relations | IBM
+Support What's new
+- Overview Resolve product issues with self-service tools
+- Community Share knowledge in a collaborative environment to unlock innovation
+- Developer Access digital resources, code samples and code trials
+- Documentation Understand, develop and deploy our products with comprehensive technical resources
+- IBM Cloud platform Access subject matter experts and content to address questions and issues about IBM Cloud
+- Implementation Drive better business outcomes with an experienced team of IBM product experts
+- Training Develop your skills with premiere educational offerings and credentials
+- Technology Lifecycle Services Elevate your support experience with a holistic approach to data center management across your IT environment
+My IBM
+Log in
+#
+Investor Relations
+Today’s IBM has defined a clear strategy to lead in the era of hybrid cloud and AI
+Bank of America CEO Series Q&A
+Upcoming: 1Q 2026 Earnings Announcement
+#####
+2025 Investor Day
+Quantum Day
+Events and presentations
+Articles and news
+### Quarterly earnings
+2025 Q4
+Earnings announcement
+Press release
+Charts
+Prepared remarks
+2025 Q3
+Earnings announcement
+Press release
+Charts
+Prepared remarks
+2025 Q2
+Earnings announcement
+Press release
+Charts
+Prepared remarks
+2025 Q1
+Earnings announcement
+Press release
+Charts
+Prepared remarks
+##
+Upcoming and recent events
+See all events
+Bank of America CEO Series Q&A
+March 05, 2026
+IBM Quantum Day
+October 30, 2025
+Goldman Sachs 2025 Communacopia and Technology Conference
+September 08, 2025
+BofA Securities Global Technology Conference
+June 04, 2025
+##
+Latest IBM articles
+See all articles
+March 12, 2025
+IBM to Update Revenue Categories within Reportable Segments
+September 11, 2024
+IBM Transfers a Portion of U.S. Pension Obligations
+May 20, 2024
+IBM and Palo Alto Networks to Jointly Provide AI-Powered Security Offerings
+February 26, 2024
+IBM Provides Historical Data as a Result of 2024 Segment Reporting Changes
+##
+Latest results
+Financial reporting
+Current and past financial reports
+Dividends
+Current and past dividend payments
+Stock charts
+See today’s IBM stock performance
+Stock history
+Use this look-up tool to obtain historical IBM stock prices
+Products
+Consulting services
+Industries
+Case studies
+Financing
+Research
+LinkedIn
+X
+Instagram
+YouTube
+Podcasts
+Business partners
+Documentation
+Events
+Newsletters
+Support
+TechXchange community
+Overview
+Careers
+Investor relations
+Leadership
+Newsroom
+Security, privacy and trust
+United States — English
+Contact IBM
+Privacy
+Terms of use
+Accessibility
+IBM web domains
+ibm.com, ibm.org, ibm-zcouncil.com, insights-on-business.com, jazz.net, mobilebusinessinsights.com, promontory.com, proveit.com, ptech.org, s81c.com, securityintelligence.com, skillsbuild.org, softlayer.com, storagecommunity.org, think-exchange.com, thoughtsoncloud.com, alphaevents.webcasts.com, ibm-cloud.github.io, ibmbigdatahub.com, bluemix.net, mybluemix.net, ibm.net, ibmcloud.com, galasa.dev, blueworkslive.com, swiss-quantum.ch, blueworkslive.com, cloudant.com, ibm.ie, ibm.fr, ibm.com.br, ibm.co, ibm.ca, community.watsonanalytics.com, datapower.com, skills.yourlearning.ibm.com, bluewolf.com, carbondesignsystem.com, openliberty.io About cookies on this site Our websites require some cookies to function properly (required). In addition, other cookies may be used with your consent to analyze site usage, improve the user experience and for advertising. For more information, please review your  options. By visiting our website, you agree to our processing of information as described in IBM’s privacy statement .  To provide a smooth navigation, your cookie preferences will be shared across the IBM web domains listed  here .

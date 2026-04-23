@@ -1,0 +1,185 @@
+{
+    "identity": {
+        "domain": {
+            "value": "sea-electronics.com",
+            "confidence": 1.0,
+            "source": "HTTP Headers / Scraped URL"
+        },
+        "name": {
+            "value": "SEA Group - SEA Electronics Tunisia",
+            "confidence": 0.95,
+            "source": "Page d'accueil / Titre"
+        },
+        "industry": {
+            "value": "Industrial Automation & Robotics",
+            "confidence": 0.95,
+            "source": "Description des services : Automatisme, Robotique, Mécatronique"
+        },
+        "founded_year": {
+            "value": 1999,
+            "confidence": 0.7,
+            "source": "Déduit de la mention 'plus que 25 ans d'expertise' en 2024"
+        },
+        "short_description": {
+            "value": "Expertise en ingénierie, automatisme et robotique industrielle offrant des solutions clés en main en mécatronique et travaux électriques.",
+            "confidence": 0.9,
+            "source": "Section 'Qui sommes-nous'"
+        },
+        "seo_description": {
+            "value": "SEA Group - Answers the needs of industrials - Usine 4.0 - Solutions d'automatisation sur mesure.",
+            "confidence": 0.8,
+            "source": "Meta description et titres de sections"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Donnée non disponible dans le texte scrapé"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Donnée non disponible"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Donnée non disponible"
+        },
+        "estimated_num_employees": {
+            "value": "50",
+            "confidence": 0.85,
+            "source": "Texte: 'une cinquantaine d’ingénieurs et cadres'"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Donnée non disponible"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Aucune donnée financière (revenu annuel) n'a été trouvée dans le JSON source ou les données scrapées pour permettre une conversion."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Page contact présente mais numéro non scrapé"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.7,
+            "source": "Le site représente l'entité principale SEA Group basée en Tunisie"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.5,
+            "source": "Indépendant ou holding SEA Group"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Donnée non disponible"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.3,
+            "source": "Donnée non disponible"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Tunisia",
+            "confidence": 1.0,
+            "source": "Ciblage géographique demandé / Projets à Tozeur et El Borma"
+        },
+        "city": {
+            "value": null,
+            "confidence": 0.4,
+            "source": "Multiples localisations de projets (Tozeur, El Borma)"
+        },
+        "country": {
+            "value": "Tunisia",
+            "confidence": 1.0,
+            "source": "Matches regex et directive de ciblage"
+        }
+    },
+    "technologies": [
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 0.99,
+            "source": "Empreinte technique (Regex match / CSS prefixes)"
+        },
+        {
+            "name": "OVHcloud",
+            "category": "Hosting",
+            "confidence": 0.99,
+            "source": "HTTP Header: server: OVHcloud"
+        },
+        {
+            "name": "WPBakery",
+            "category": "Page Builder",
+            "confidence": 0.95,
+            "source": "CSS prefix: wpb-*"
+        },
+        {
+            "name": "Slider Revolution",
+            "category": "JavaScript Graphics",
+            "confidence": 0.95,
+            "source": "CSS prefix: revslider-* / rs-*"
+        },
+        {
+            "name": "Yoast SEO",
+            "category": "SEO Plugin",
+            "confidence": 0.95,
+            "source": "CSS prefix: yoast-*"
+        },
+        {
+            "name": "Isotope",
+            "category": "JavaScript Library",
+            "confidence": 0.9,
+            "source": "CSS prefix: isotope-*"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Automatisme, Robotique industrielle, Mécatronique, Cobotique, SCADA, DCS, Industrie 4.0, Maintenance industrielle, Pesage, Traitement d'eau, Formation technique, Tunisie",
+        "confidence": 0.9,
+        "source": "Analyse du menu de solutions et des actualités"
+    },
+    "data_quality_score": {
+        "value": 0.58,
+        "confidence": 0.9,
+        "source": "Calculé sur la base de la complétude du profil : excellente identification de l'industrie et des technologies (90%+), mais absence totale de liens sociaux, de données financières et de coordonnées téléphoniques."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "SOTECA Electric",
+            "I-ROBOTS Tunisia",
+            "ADEPPT (Automation and Engineering Projects)",
+            "AII (Automatismes Informatique Industrielle)",
+            "Vignal Industrial Solutions"
+        ]
+    }
+}

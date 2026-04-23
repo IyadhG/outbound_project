@@ -1,0 +1,192 @@
+{
+    "identity": {
+        "domain": {
+            "value": "www.synergie.fr",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Synergie",
+            "confidence": 0.95,
+            "source": "Page d'accueil / Mentions Légales"
+        },
+        "industry": {
+            "value": "Ressources humaines, Travail temporaire, Recrutement, Portage salarial, Formation, Conseil RH",
+            "confidence": 0.9,
+            "source": "Mentions Légales / Page d'accueil"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Non spécifié, 'plus de 50 ans' mentionné"
+        },
+        "short_description": {
+            "value": "Expert international en recrutement et développement de talents, proposant des offres d'emploi en intérim, CDI, CDD et un écosystème de services RH.",
+            "confidence": 0.85,
+            "source": "Page d'accueil / Le Groupe"
+        },
+        "seo_description": {
+            "value": "Offres d'emploi en intérim, CDI, CDD - Agence d'Intérim | Synergie. Spécialisé en recrutement et services RH en France et à l'international.",
+            "confidence": 0.7,
+            "source": "Titre de la page d'accueil / Déduction"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Chiffre d'affaires annuel non trouvé pour l'entité ciblée ou globale. Capital social de 121.810.000 EUR mentionné."
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé"
+        },
+        "estimated_num_employees": {
+            "value": "1500",
+            "confidence": 0.8,
+            "source": "Page 'Le Groupe' (consultants en France)"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Le chiffre d'affaires annuel n'est pas spécifié. Seul le capital social en EUR est mentionné, mais il ne s'agit pas d'un revenu."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": "https://fr.linkedin.com/company/synergie",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/SynergieGroupe/?locale=fr_FR",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "phone": {
+            "value": "01.55.60.30.30",
+            "confidence": 0.9,
+            "source": "Mentions Légales (Siège social Boulogne Billancourt)"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.9,
+            "source": "L'entité à Boulogne-Billancourt est le siège social de la 'Société Européenne SYNERGIE', qui semble être l'entité centrale du 'Groupe Synergie'."
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.8,
+            "source": "L'entité 'SYNERGIE' à Boulogne-Billancourt est le siège du 'Groupe Synergie'."
+        },
+        "num_suborganizations": {
+            "value": 6,
+            "confidence": 0.8,
+            "source": "Page 'Nos marques' (Synergie Care, Synergie Executive, S&you, Synergie Insertion, DCS, HRed)"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Synergie Care",
+                "Synergie Executive",
+                "S&you",
+                "Synergie Insertion",
+                "DCS",
+                "HRed"
+            ],
+            "confidence": 0.85,
+            "source": "Page 'Nos marques'"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "160 bis, rue de Paris 92100 Boulogne Billancourt",
+            "confidence": 0.95,
+            "source": "Mentions Légales (Siège social)"
+        },
+        "city": {
+            "value": "Boulogne Billancourt",
+            "confidence": 0.95,
+            "source": "Mentions Légales (Siège social)"
+        },
+        "country": {
+            "value": "France",
+            "confidence": 0.95,
+            "source": "Directive de ciblage / Mentions Légales (RCS NANTERRE, adresse)"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Next.js",
+            "category": "Framework Web",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (x-nextjs-cache, Regex)"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Gestion de balises",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Scripts, Regex, Cookies)"
+        },
+        {
+            "name": "Axeptio",
+            "category": "Consentement Cookies",
+            "confidence": 0.9,
+            "source": "Déduction IA depuis empreinte technique (Scripts)"
+        },
+        {
+            "name": "SignalFx",
+            "category": "Monitoring / Observabilité",
+            "confidence": 0.8,
+            "source": "Déduction IA depuis empreinte technique (Scripts)"
+        },
+        {
+            "name": "Google Analytics",
+            "category": "Analyse d'audience",
+            "confidence": 0.9,
+            "source": "Déduction IA depuis empreinte technique (Cookies)"
+        },
+        {
+            "name": "Firebase",
+            "category": "Backend as a Service (BaaS) / Mobile development",
+            "confidence": 0.7,
+            "source": "Déduction IA depuis empreinte technique (Application uses tracking Firebase)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "intérim, recrutement, emploi, CDI, CDD, ressources humaines, travail temporaire, formation, conseil RH, BTP, aéronautique, logistique, industrie, santé, transport, hôtellerie-restauration",
+        "confidence": 0.85,
+        "source": "Site web (pages d'accueil, le groupe, nos marques, actualités)"
+    },
+    "data_quality_score": {
+        "value": 0.75,
+        "confidence": 0.9,
+        "source": "Évaluation interne des champs renseignés et manquants. Bonnes données sur l'identité, la hiérarchie, la localisation et les technologies. Manques significatifs sur les données financières et de financement."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Adecco France",
+            "Manpower France",
+            "Randstad France",
+            "Crit France",
+            "PageGroup"
+        ]
+    }
+}

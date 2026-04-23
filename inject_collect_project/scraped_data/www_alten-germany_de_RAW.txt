@@ -1,0 +1,86 @@
+--- PAGE D'ACCUEIL : Nur einen Moment… ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 81A Frankfurter Ring, Munich, Germany
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+challenges.cloudflare.com, www.alten-germany.de
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch, onappinstalled
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, lang-*, ch-*, spacer-*, loading-*, lds-*, footer-*, diagnostic-*, ray-*
+===================================
+Nur einen Moment…
+# www.alten-germany.de
+## Sicherheitsüberprüfung wird durchgeführt
+Diese Website nutzt einen Sicherheitsservice, um sich vor böswilligen Bots zu schützen. Diese Seite wird angezeigt, solange die Website überprüft, dass Sie kein Bot sind.
+## Überprüfung erfolgreich. Warten auf Antwort von www.alten-germany.de
+## Warum dauert diese Überprüfung länger?
+Diese Überprüfung kann bei einem älteren Gerät oder einer langsamen Internetverbindung länger dauern.
+Nächste Schritte:
+- Warten Sie kurz. Durch eine Aktualisieren der Seite wird die Sicherheitsüberprüfung neu gestartet, somit dauert der Vorgang ggf. länger.
+- Wenn die Überprüfung noch immer nicht abgeschlossen wird, aktualisieren Sie diese Seite .
+- Wenn Sie nach einer Seitenaktualisierung immer noch nicht weitergeleitet werden, finden Sie weitere Hilfe in der Dokumentation zur Fehlerbehebung von Cloudflare. Ray ID: 9e9967764d747782 Performance und Sicherheit von Cloudflare Privatsphäre
+
+
+--- PAGE STRATÉGIQUE : https://www.alten-germany.de/impressum/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+challenges.cloudflare.com, www.alten-germany.de
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch, onappinstalled
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, lang-*, ch-*, spacer-*, loading-*, lds-*, footer-*, diagnostic-*, ray-*
+===================================
+Nur einen Moment…
+# www.alten-germany.de
+## Sicherheitsüberprüfung wird durchgeführt
+Diese Website nutzt einen Sicherheitsservice, um sich vor böswilligen Bots zu schützen. Diese Seite wird angezeigt, solange die Website überprüft, dass Sie kein Bot sind.
+## Überprüfung erfolgreich. Warten auf Antwort von www.alten-germany.de
+Ray ID: 9e9969001deb7782 Performance und Sicherheit von Cloudflare Privatsphäre
+
+
+--- PAGE STRATÉGIQUE : https://www.alten-germany.de/kontakt/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://www.alten-germany.de/wp-json/>; rel="https://api.w.org/", <https://www.alten-germany.de/wp-json/wp/v2/pages/6296>; rel="alternate"; title="JSON"; type="application/json", <https://www.alten-germany.de/?p=6296>; rel=shortlink
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+maps.googleapis.com, www.gstatic.com, www.google.com, cdn.tarteaucitron.io, tarteaucitron.io, www.alten-germany.de, www.googletagmanager.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, fixed-*, d-*, is-*, h-*, py-*, custom-*, menu-*, search-*, icon-*, w-*, flex-*, form-*, nav-*, align-*, mx-*, language-*, has-*, js-*, px-*, use-*, card-*, ms-*, my-*, site-*, toolbar-*, col-*, row-*
+===================================
+Kontakt - Senden Sie hier Ihre Anfrage I ALTEN Deutschland
+- Home
+- Kontakt
+# Kontakt
+Auswählen* Cookie-Einstellungen Cookie-Einstellungen
+Wenn Sie diese Dienste nutzen, erlauben Sie deren 'Cookies' und Tracking-Funktionen, die zu ihrer ordnungsgemäßen Funktion notwendig sind.
+Einstellungen für alle Dienste
+- APIs werden benutzt um Skripte zu laden, wie: Geolokalisierung, Suchmaschinen, Übersetzungen, ...
+- Google Tag Manager nicht erlaubt - Dieser Dienst verwendet 1 Cookie.
+- Dienste zum Anzeigen von Web-Inhalten.
+- Die verwendeten Besucher Zähldienste generieren Statistiken die dabei helfen, die Seite zu verbessern.
+- Google Analytics (GA4) nicht erlaubt - Dieser Dienst verwendet 3 Cookies.
+- Kommentar Manager erleichtern die Organisation von Kommentaren und helfen dabei Spam zu verhindern.
+- Soziale Netzwerke können die Benutzbarkeit der Seite verbessern und ihren Bekanntheitsgrad erhöhen.
+- Google kann Ihre Daten zur Messung der Zielgröße, Werbeleistung oder zur Bereitstellung personalisierter Anzeigen verwenden.
+- Support Dienste erlauben es die Urheber der Seite zu kontaktieren und sie zu verbessern.
+- Videoplattformen erlauben Videoinhalte einzublenden und die Sichtbarkeit der Seite zu erhöhen.
+- Werbenetzwerke können mit dem Verkauf von Werbeplatzierungen auf der Seite Einnahmen erhalten.
+- Facebook Pixel nicht erlaubt - Dieser Dienst hat keine 'Cookies' installiert.
+- Google Ads nicht erlaubt - Dieser Dienst verwendet 2 Cookies.
+- Google Ads (personalized ads) nicht erlaubt - Dieser Dienst nutzt keine 'Cookies'.
+- Linkedin Insight nicht erlaubt - Dieser Dienst hat keine 'Cookies' installiert.
+- Diese Website verwendet keine Cookies, die Ihrer Zustimmung bedürfen. Diese Webseite verwendet 'Cookies' um Inhalte und Anzeigen zu personalisieren und zu analysieren. Bestimmen Sie, welche Dienste benutzt werden dürfen

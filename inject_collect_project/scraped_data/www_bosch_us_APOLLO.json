@@ -1,0 +1,178 @@
+{
+    "identity": {
+        "domain": {
+            "value": "bosch.us",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Bosch in the USA (Robert Bosch LLC)",
+            "confidence": 0.95,
+            "source": "Page d'accueil / Titre du site"
+        },
+        "industry": {
+            "value": "Technology, Mobility, and Industrial Engineering",
+            "confidence": 0.9,
+            "source": "Page about / business sectors description"
+        },
+        "founded_year": {
+            "value": "1886",
+            "confidence": 0.7,
+            "source": "Déduction (Année de fondation du groupe global Robert Bosch GmbH)"
+        },
+        "short_description": {
+            "value": "A leading global supplier of technology and services, operating in Mobility, Industrial Technology, Consumer Goods, and Energy and Building Technology.",
+            "confidence": 0.9,
+            "source": "The Bosch Group at a glance"
+        },
+        "seo_description": {
+            "value": "Home | Bosch in the USA",
+            "confidence": 0.8,
+            "source": "Meta Title"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "91 billion euros (Global)",
+            "confidence": 0.85,
+            "source": "Rapport annuel 2025 cité dans le texte (Chiffre Global)"
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.95,
+            "source": "Texte: figures as of December 31, 2025"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Non mentionné (Propriété de Robert Bosch Stiftung GmbH)"
+        },
+        "estimated_num_employees": {
+            "value": "412,800 (Global)",
+            "confidence": 0.9,
+            "source": "The Bosch Group at a glance (associates worldwide)"
+        },
+        "latest_funding_stage": {
+            "value": "Privately Held",
+            "confidence": 0.9,
+            "source": "Ownership structure section"
+        },
+        "annual_revenue_USD": {
+            "value": 98735000000,
+            "confidence": 0.85,
+            "source": "Converted from global 91 billion EUR figure using approximate exchange rate (1.085 USD/EUR) as reported for the 2025 fiscal period."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://www.twitter.com/BoschUSA",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/BoschUSA",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "phone": {
+            "value": "(917) 421-7209",
+            "confidence": 0.9,
+            "source": "Page contact"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Ciblage regional USA / Maison mère Robert Bosch GmbH"
+        },
+        "parent_company": {
+            "value": "Robert Bosch GmbH",
+            "confidence": 1.0,
+            "source": "Ownership structure and organization"
+        },
+        "num_suborganizations": {
+            "value": "500",
+            "confidence": 0.8,
+            "source": "Bosch at a glance (Global figure)"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Bosch Rexroth AG",
+                "BSH Hausgeräte",
+                "ETAS GmbH",
+                "Bosch Global Service Solutions"
+            ],
+            "confidence": 0.9,
+            "source": "Section business sectors"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "38000 Hills Tech Dr, Farmington Hills, United States",
+            "confidence": 1.0,
+            "source": "Directive de ciblage / Localisation fournie"
+        },
+        "city": {
+            "value": "Farmington Hills",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "country": {
+            "value": "United States",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Scripts externes chargés"
+        },
+        {
+            "name": "RKDMS (Rockerbox)",
+            "category": "Marketing Attribution",
+            "confidence": 0.9,
+            "source": "Scripts externes (track.sv.rkdms.com)"
+        },
+        {
+            "name": "Bosch UI Framework",
+            "category": "Front-end Framework",
+            "confidence": 0.95,
+            "source": "Préfixes CSS boschicon- / dock.ui.bosch.tech"
+        },
+        {
+            "name": "IoT Cloud",
+            "category": "Infrastructure",
+            "confidence": 0.85,
+            "source": "Texte: our own IoT cloud"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Mobility Solutions, Industrial Technology, Consumer Goods, Energy and Building Technology, IoT, AI, Sensors, Connectivity, Electromobility, Automation",
+        "confidence": 0.9,
+        "source": "Section business sectors et mission"
+    },
+    "data_quality_score": {
+        "value": 0.88,
+        "confidence": 0.95,
+        "source": "High completeness in identity, hierarchy, and tech stack; regional financial data is extrapolated from global reporting."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Continental AG",
+            "Denso Corporation",
+            "Honeywell",
+            "Stanley Black & Decker",
+            "Samsung Electronics"
+        ]
+    }
+}

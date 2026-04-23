@@ -1,0 +1,142 @@
+{
+    "identity": {
+        "domain": {
+            "value": "morocconow.com",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Morocco Now",
+            "confidence": 0.95,
+            "source": "Target Directive / Domain"
+        },
+        "industry": {
+            "value": "Investment Promotion / Economic Development",
+            "confidence": 0.9,
+            "source": "Domain association (AMDIE)"
+        },
+        "founded_year": {
+            "value": "2021",
+            "confidence": 0.7,
+            "source": "Public brand launch context"
+        },
+        "short_description": {
+            "value": "Morocco's national investment and export brand.",
+            "confidence": 0.9,
+            "source": "Domain context"
+        },
+        "seo_description": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Blocked by security"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Blocked by security/Cloudflare"
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.6,
+            "source": "Standard Moroccan public agency cycle"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "N/A"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "N/A"
+        },
+        "latest_funding_stage": {
+            "value": "Government Funded",
+            "confidence": 0.8,
+            "source": "Institutional nature"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Blocked by security"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 0.8,
+            "source": "Brand under AMDIE management"
+        },
+        "parent_company": {
+            "value": "AMDIE (Agence Marocaine de Développement des Investissements et des Exportations)",
+            "confidence": 0.9,
+            "source": "Institutional context"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "N/A"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.1,
+            "source": "N/A"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Rabat, Morocco",
+            "confidence": 1.0,
+            "source": "Target Directive"
+        },
+        "city": {
+            "value": "Rabat",
+            "confidence": 1.0,
+            "source": "Target Directive"
+        },
+        "country": {
+            "value": "Morocco",
+            "confidence": 1.0,
+            "source": "Target Directive"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Cloudflare",
+            "category": "Security / CDN",
+            "confidence": 0.99,
+            "source": "HTTP Header / Cloudflare Turnstile"
+        },
+        {
+            "name": "Google Web Server",
+            "category": "Infrastructure",
+            "confidence": 0.9,
+            "source": "HTTP Header (gws)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Investment, Export, Morocco, Trade, Economic Development",
+        "confidence": 0.8,
+        "source": "Domain context"
+    }
+}

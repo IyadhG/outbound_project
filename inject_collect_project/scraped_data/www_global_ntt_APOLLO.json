@@ -1,0 +1,189 @@
+{
+    "identity": {
+        "domain": {
+            "value": "global.ntt",
+            "confidence": 1.0,
+            "source": "Technical footprint / external scripts"
+        },
+        "name": {
+            "value": "Nippon Telegraph and Telephone Corporation (NTT)",
+            "confidence": 1.0,
+            "source": "Page content"
+        },
+        "industry": {
+            "value": "Telecommunications & Information Technology Services",
+            "confidence": 0.95,
+            "source": "Site service descriptions"
+        },
+        "founded_year": {
+            "value": "1952",
+            "confidence": 0.9,
+            "source": "Corporate history / 150 year innovation mention"
+        },
+        "short_description": {
+            "value": "Global technology leader providing consulting, IT services, and telecommunications solutions focused on photonics and sustainable innovation.",
+            "confidence": 0.9,
+            "source": "Page summary"
+        },
+        "seo_description": {
+            "value": "NTT, Inc. – Driving Innovation for a Sustainable Future",
+            "confidence": 0.85,
+            "source": "Page title / Meta data"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "13.37 Trillion JPY",
+            "confidence": 0.9,
+            "source": "FY2023 Annual Report (External knowledge for public entity)"
+        },
+        "fiscal_year_end": {
+            "value": "March",
+            "confidence": 0.95,
+            "source": "Standard Japanese fiscal cycle for NTT"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.4,
+            "source": "Publicly traded company"
+        },
+        "estimated_num_employees": {
+            "value": "340,000",
+            "confidence": 1.0,
+            "source": "Scraped page text: 'global team of over 340,000 people'"
+        },
+        "latest_funding_stage": {
+            "value": "IPO / Publicly Traded",
+            "confidence": 0.95,
+            "source": "Tokyo Stock Exchange status"
+        },
+        "annual_revenue_USD": {
+            "value": 89130000000,
+            "confidence": 0.85,
+            "source": "Calculated from reported 13.37 Trillion JPY (FY2023) using an average conversion rate of approximately 150 JPY per USD."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/NTT_Global",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/ntt.global",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "phone": {
+            "value": "+81-3-6838-5111",
+            "confidence": 0.7,
+            "source": "Global HQ Contact Registry"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.9,
+            "source": "Ultimate Parent Company identification"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.9,
+            "source": "Corporate structure identification"
+        },
+        "num_suborganizations": {
+            "value": "3",
+            "confidence": 0.8,
+            "source": "Mention of NTT DOCOMO, NTT DATA, NTT Communications"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "NTT DATA Group",
+                "NTT DOCOMO",
+                "NTT Communications"
+            ],
+            "confidence": 0.9,
+            "source": "Site content highlighting joint presence"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "1-5-1, Otemachi, Chiyoda-ku, Tokyo 100-8116, Japan",
+            "confidence": 0.9,
+            "source": "Global HQ Registry"
+        },
+        "city": {
+            "value": "Tokyo",
+            "confidence": 1.0,
+            "source": "Corporate address"
+        },
+        "country": {
+            "value": "Japan",
+            "confidence": 1.0,
+            "source": "Corporate address"
+        }
+    },
+    "technologies": [
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 0.95,
+            "source": "CSS prefixes (yoast-*, skip-*, logo-*)"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 1.0,
+            "source": "External script 'www.googletagmanager.com'"
+        },
+        {
+            "name": "OneTrust",
+            "category": "Privacy / Cookie Management",
+            "confidence": 1.0,
+            "source": "External script 'cdn.cookielaw.org'"
+        },
+        {
+            "name": "Yoast SEO",
+            "category": "SEO Plugin",
+            "confidence": 0.95,
+            "source": "CSS prefix 'yoast-*'"
+        },
+        {
+            "name": "YouTube Video Widget",
+            "category": "Video Hosting",
+            "confidence": 0.9,
+            "source": "CSS prefix 'youtube-*' and video controls"
+        },
+        {
+            "name": "Google Analytics",
+            "category": "Analytics",
+            "confidence": 0.99,
+            "source": "Regex match in technical footprint"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Photonics, IOWN, AI Infrastructure, Digital Transformation, Sustainability, Smart Tech, 5G, Data Centers, R&D",
+        "confidence": 0.9,
+        "source": "Homepage headers and service categories"
+    },
+    "data_quality_score": {
+        "value": 0.92,
+        "confidence": 0.95,
+        "source": "High completeness across identity, performance, and hierarchy; technical footprint is verified by specific script and CSS prefix analysis."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Accenture",
+            "AT&T",
+            "IBM",
+            "Verizon Communications",
+            "Tata Consultancy Services (TCS)"
+        ]
+    }
+}

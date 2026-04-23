@@ -1,0 +1,398 @@
+--- PAGE D'ACCUEIL : Würth IT | Italy ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Bolzano, Italy
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google.com, www.wuerth-it.it, www.gstatic.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, elementor-*, e-*, menu-*, has-*, sub-*, fa-*, wpml-*, attachment-*, size-*, mega-*, intro-*, overflow-*, padding-*, carousel-*, swiper-*, rocket-*, text-*, image-*, no-*, caption-*, top-*, bottom-*, partner-*, footer-*, legal-*, pum-*, popmake-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Tag Manager, WordPress
+
+Würth IT | Italy
+# Controlla il gioco. Sceglici come tuo IT partner
+La partita più impegnativa da giocare è restare al passo con la trasformazione digitale.
+CONTATTACI PER VINCERE
+###### D365+
+##### Business Applications
+Gestisci i processi aziendali in modo più efficiente, migliora la produttività e promuovi la collaborazione tra dipartimenti.
+###### NETEYE
+##### Cyber Security
+Monitora e gestisci in modo olistico e automatico l’intero ambiente IT per avere tutto sotto controllo in minor tempo.
+###### NETEYE
+##### Service Management
+Monitora e gestisci in modo olistico e automatico l’intero ambiente IT per avere tutto sotto controllo in minor tempo.
+###### NETEYE
+##### IT Systems Management
+Monitora e gestisci in modo olistico e automatico l’intero ambiente IT per avere tutto sotto controllo in minor tempo.
+## Affronta la sfida con un compagno di squadra pronto a supportarti
+###### nell’analisi dei processi, nella scelta degli strumenti ideali, nell’implementazione dei cambiamenti più significativi per il tuo business e…vinci la partita!🏆
+### …more than software,
+#### your IT partner
+Appassionati di tecnologia, scendiamo in campo per supportare la crescita e il benessere delle aziende con soluzioni di Enterprise Resource Planning (ERP), Customer Relationship Management (CRM), Business Intelligence, Sales Force Automation, IT Systems Management, Service Management e Cyber Security.
+I servizi di consulenza, project management, supporto, sviluppo software, system integration e formazione fanno parte del nostro schema di gioco.
+Le soluzioni IT pensate e create negli anni per supportare la digital transformation sono il nostro punto di forza.
+## SETTORI DI APPLICAZIONE
+Il miglioramento dell’efficienza operativa, la gestione ottimizzata delle risorse, l’aumento della produttività e l’ottimizzazione dei processi sono aspetti fondamentali per tutti i settori industriali senza eccezioni. Tuttavia, riconosciamo che ogni settore ha le proprie peculiarità.
+##### Enterprise
+Accelera la crescita della tua azienda attraverso l’automazione e la digitalizzazione dei processi
+Scopri di più
+##### Fashion
+Unisci l’arte, la passione, l’eleganza dei tessuti al digitale per il successo sostenibile della tua azienda di moda
+Scopri di più
+##### Commercio all’ingrosso
+Incrementa l’efficienza operativa del tuo magazzino e ottimizza le tempistiche di distribuzione
+Scopri di più
+##### Manifatturiero
+Trasforma e ottimizza i processi produttivi del tuo business con il digitale
+Scopri di più
+## I NOSTRI PARTNER
+La sinergia con gli specialisti del settore ci consente di offrire soluzioni complete e di alta qualità , mantenendo sempre il passo con le ultime innovazioni tecnologiche
+#### I NOSTRI PARTNER
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+#### I NOSTRI CLIENTI
+#### BLOG POST
+##### “Capture the Flag” WP CTF 2025
+Leggi tutto
+##### Processo di Change Management: fasi, modelli e strumenti
+Leggi tutto
+##### Change Management: cos’è e come funziona in ambito IT
+Leggi tutto
+##### Knowledge Management: cos’è e come crea valore per l’azienda
+Leggi tutto
+##### IT Asset Management per gestire le risorse digitali aziendali
+Leggi tutto
+##### Incident Management cos’è e best practices
+Leggi tutto
+VAI AL BLOG
+## VUOI METTERTI IN GIOCO
+###### CON LE NOSTRE SOLUZIONI?
+Siamo pronti ad affiancarti per ottenere il massimo dalle tue risorse, ottimizzare i processi aziendali ed eccellere nel mercato. Fai Touchdown!
+CONTATTACI!
+### Alessandro Mizzaro
+### Thomas Forrer
+Fa parte del Gruppo Würth dal 2010 e nel corso degli anni si e’ sempre principalmente occupato del mantenimento e sviluppo del prodotto NetEye. Appassionato di tecnologia e innovazione con un particolare debole per gli aspetti di cybersecurity, oggi e’ team leader della ricerca e sviluppo di NetEye.
+### Federico Corona
+Fa parte di Würth Phoenix da tre anni. Specializzato in cyber security, si occupa principalmente di red teaming e penetration tests, garantendo alti standard di sicurezza per i clienti di Würth Phoenix.
+### Beatrice Dall’Omo
+Appassionata di sicurezza informatica con una forte inclinazione per la sicurezza offensiva e il red teaming lavora in Wuerth Phoenix da 2 anni.
+### SIMONE RAGONESI
+Lavora da 10 anni nel campo della sicurezza informatica, con un solido background in DevSecOps e sicurezza offensiva.
+Nel red team di Würth Phoenix, ha il compito di pensare come un’attaccante e di mettere in pratica le tecniche di hacking al fine di individuare falle di sicurezza nei sistemi delle aziende.
+### Anna Kostrzewska
+At Teclib has has been responsible for Central and Eastern Europe for almost 3 years. She assists partners in finalizing the sale of professional GLPI subscriptions and in developing GLPI’s visibility in their respective countries.
+### Renato Cilento
+IT Service Management/Technical Analyst presso CSE
+### Mirko Morandini
+PhD, dal 2015 consulente senior per i processi e le soluzioni di IT service management e asset management, con applicazioni OSS (GLPI, Znuny/OTRS/EriZone) e l’ecosistema Atlassian (JSM, Assets), lavorando sia sul mercato tedesco (DACH) che su quello italiano.
+È uno dei pochi consulenti in Italia con un’esperienza approfondita di OTRS/Znuny ed attualmente uno dei pochi esperti GLPI sul mercato tedesco, in partnership con TecLib.
+### Simone Pancaldi
+Channel Manager Europa Sud presso Atlassian
+### Stefano Radaelli
+Stefano Radaelli si occupa di ICT Security dal 1997 come consulente per diverse multinazionali su tematiche quali IT GRC e Security Incident and Event Management. Dal 2023 è entrato a far parte del Team Italia di Elastic con la qualifica di Senior Solution Architect dove si occupa di tematiche di Security & Observability.
+### Mauro Biagi
+CIO presso Diennea
+### Cesare Raoss
+CIO presso Menz&Gasser
+### Christian Canal
+IT Professional presso RAS
+### Georg Kostner
+Ha iniziato la sua carriera nel 1991 presso Würth Italia come sviluppatore C per implementare la nuova logistica a Egna con passione per l’ingegneria del software e la tecnologia.
+Nel corso degli anni, ha affinato le sue competenze in materia di leadership, strategia di prodotto e cybersecurity.
+Guida NetEye con passione
+Con 2024 è a capo del Centro di Cyber Defense
+### Nicola Degara
+Fa parte del Gruppo Würth dal 2003 e nel corso degli anni ha ricoperto molteplici ruoli a livello internazionale.
+Oggi è il leader del team di gestione tecnica dell’ecosistema aziendale di Atlassian per il Gruppo Würth e coordina il servizio gestito.
+### Nicola Biada
+Project Manager, Technical Presale e Fullstack Developer con oltre 20 anni di esperienza ha ricoperto praticamente tutti i principali ruoli tecnici ed organizzativi nel mondo IT. Vive ai piedi delle Alpi, ama creare progetti di successo e relazioni durature con colleghi e clienti. Collabora con WürthPhoenix da oltre 10 anni ed è stato uno dei creatori della soluzione di Service Management EriZone. Consulente per i clienti entreprise dell’azienda e technical presale, affianca il team Sales e il team Delivery per garantire continuità ed efficacia dei progetti, garantendo una visione customer oriented.
+### Massimo Giaimo
+Opera nel mondo della cybersecurity da più di 20 anni, proponendo attività di consulenza e hacking etico. Affianca le aziende eseguendo simulazioni di attacco su diversi ambiti (Network Infrastructure, Application Security, Physical Security Control, Business Process, Human Behavior, SCADA/PLC) volte a trovare le vulnerabilità e a sanarle prima che possano essere sfruttate dai cybercriminali. Ideatore della Cyber Threat Intelligence Platform SATAYO. Appassionato di ingegneria sociale, ha sviluppato il gioco di ruolo ETEL – Exploiting The Eighth Layer, con l’obiettivo di verificare le vulnerabilità lato umano.
+### Luciano Quartarone
+Luciano Quartarone ha più di 20 anni di esperienza nel campo dell’ICT, con particolare focus alle PKI, firme elettroniche e sistemi di conservazione. Ha lavorato su numerosi progetti di system integration specializzandosi nel campo della sicurezza delle informazioni, nell’analisi del rischio e nella conformità alle norme nazionali e internazionali su questi ambiti. Inoltre, è un Senior Lead auditor ISO/IEC 27001 e trainer certificato presso il PECB, nonché Senior Lead Implementer presso lo stesso ente. Partecipa alla Commissione UNINFO UNI/CT 510 su Sicurezza, alla Commissione UNINFO UNI/CT 522 su e-Business e i servizi finanziari ed alla UNI/CT 533 Intelligenza Artificiale.
+Attualmente è anche Convenor della UNI/CT 501 – GL 03 “Distruzione dei supporti di dati”. Ha collaborato alla redazione di diverse norme riguardanti la sicurezza delle informazioni, la conservazione dei dati a lungo termine, la distruzione dei supporti dati e la definizione di profili professionali per la sicurezza delle informazioni e la protezione dei dati personali. Da dicembre 2018 ricopre il ruolo di CISO e Data Protection Officer presso Archiva Group.
+
+
+--- PAGE STRATÉGIQUE : https://www.wuerth-it.it/azienda/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google.com, www.wuerth-it.it, www.gstatic.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, elementor-*, e-*, menu-*, current-*, has-*, sub-*, fa-*, wpml-*, attachment-*, size-*, mega-*, intro-*, padding-*, image-*, no-*, overflow-*, carousel-*, swiper-*, rocket-*, text-*, top-*, caption-*, footer-*, legal-*, pum-*, popmake-*, theme-*
+===================================
+Chi Siamo: Storia di Passione e Dedizione | Würth Phoenix
+# Chi siamo
+La nostra storia
+## …more than a company
+Würth IT Italy è molto più di un’azienda, è una storia di passione e dedizione che da sempre si spinge oltre i confini della tecnologia e delle soluzioni informatiche.
+Dietro ogni linea di codice, ogni infrastruttura IT, ogni piattaforma c’è la storia di persone, analisi, intuizione e collaborazione che contribuiscono ad un risultato straordinario.
+Würth IT Italy , originariamente conosciuta come Würth Phoenix, è stata fondata nel 2000 a Bolzano sotto la guida di Hubert Kofler, con un obiettivo chiaro: progettare l’IT come leva strategica per rafforzare i modelli di business, stabilizzare i processi e abilitare una crescita sostenibile. Le sue origini risalgono al progetto ERP Auratix, sviluppato per il Gruppo Würth e consolidato in contesti complessi e internazionali.   Con l’ingresso di Michael Piok nella direzione nel 2002, l’azienda ha avviato una fase di scalabilità internazionale mirata, sia dal punto di vista tecnologico che organizzativo e strategico.
+L’ingresso di Thomas Burkhart nel 2024 ha ulteriormente rafforzato il management, imprimendo un chiaro focus su allineamento strategico dell’IT, efficienza, sicurezza e capacità di affrontare il futuro. Oggi la direzione combina una solida esperienza operativa con una chiara attenzione agli obiettivi di business. Con sedi a Bolzano, Roma e Milano, Würth IT Italy è presente dove le decisioni vengono prese. Questa vicinanza ci consente di intercettare tempestivamente le sfide, ridurre i rischi e offrire soluzioni in grado di generare un impatto di business misurabile.   Dal 2025, l’azienda opera con il nome Würth IT Italy come parte integrante del network globale di Würth IT. Per i decision‑maker questo significa elevata scalabilità, best practice consolidate, massima stabilità e accesso a competenze internazionali, unite alla flessibilità e alla reattività di un partner locale.
+Würth IT Italy affonda le sue radici nella cultura dell’eccellenza e della qualità del gruppo Würth.
+Il Gruppo Würth, presente in oltre 80 Paesi con più di 400 aziende, è leader mondiale nella distribuzione di prodotti e sistemi per il fissaggio ed il montaggio con oltre 130.000 prodotti in gamma.
+GRUPPO WÜRTH
+Würth IT Italy negli anni ha maturato la sua identità nel terreno fertile dell’innovazione e della digitalizzazione. Oggi, non è solo una pietra miliare nell’ecosistema Würth ma anche un leader nel settore IT, grazie all’esperienza maturata e alle soluzioni su misura offerte ai clienti. La nostra missione è supportare la crescita e il benessere delle aziende con soluzioni di Enterprise Resource Planning (ERP), Customer Relationship Management (CRM), Business Intelligence, Sales Force Automation, IT Systems Management, IT Service Management e Cyber Security.
+##
+### LE NOSTRE CERTIFICAZIONI
+### LA NOSTRA
+#### FILOSOFIA
+Le caratteristiche di Würth IT Italy sono le fondamenta su cui si costruisce la nostra identità aziendale e guidano ogni aspetto del nostro lavoro quotidiano. Rappresentano l’essenza del nostro modo di operare e riflettono l’impegno e l’etica con cui affrontiamo le sfide e ci relazioniamo con i nostri clienti, colleghi e partner
+##### COMPETENZA
+Valorizziamo e coltiviamo le competenze di ogni individuo. Siamo consapevoli che il successo dell'azienda è il risultato diretto della somma delle competenze di ciascun membro del nostro team. Investiamo nella formazione continua e nella crescita professionale, fornendo le risorse e le opportunità per sviluppare le competenze tecniche e manageriali necessarie per affrontare le sfide più complesse e affrontare nuove opportunità.
+##### ESPERIENZA
+Possediamo una profonda conoscenza maturata attraverso anni di attività e interazioni con clienti provenienti da diverse industrie e settori. Utilizziamo questo prezioso tesoro per fornire consulenza strategica e soluzioni personalizzate che rispondano alle specifiche esigenze dei nostri clienti. La nostra esperienza ci consente di anticipare le tendenze del mercato e di adattarci con flessibilità alle mutevoli dinamiche dell'industria tecnologica.
+##### SOLUZIONI SU MISURA
+Crediamo che ogni cliente sia unico e meriti una soluzione personalizzata per affrontare le sue sfide specifiche. Mettiamo in primo piano la comprensione profonda delle esigenze e dei processi aziendali di ciascun cliente. Questa attenzione ci permette di sviluppare soluzioni informatiche su misura, mirate a massimizzare il valore e l'efficacia delle operazioni aziendali dei nostri clienti.
+##### INNOVAZIONE
+Siamo mossi da una costante sete di innovazione. Abbracciamo il cambiamento e incoraggiamo il pensiero creativo, cercando sempre di superare i confini dell'ordinario. L'innovazione è il motore che ci spinge a offrire soluzioni all'avanguardia e a individuare nuove opportunità per il successo dei nostri clienti.
+## I NOSTRI PLUS
+Anni
++
+19
+di esperienza, passione e innovazione
+Collaboratori
++
+195
+con la dedizione e le competenze per l’IT
+Clienti
++
+1076
+utilizzano le nostre soluzioni in Italia e nel mondo
+#### BLOG POST
+##### “Capture the Flag” WP CTF 2025
+Leggi tutto
+##### Processo di Change Management: fasi, modelli e strumenti
+Leggi tutto
+##### Change Management: cos’è e come funziona in ambito IT
+Leggi tutto
+##### Knowledge Management: cos’è e come crea valore per l’azienda
+Leggi tutto
+##### IT Asset Management per gestire le risorse digitali aziendali
+Leggi tutto
+##### Incident Management cos’è e best practices
+Leggi tutto
+VAI AL BLOG
+### Alessandro Mizzaro
+### Thomas Forrer
+Fa parte del Gruppo Würth dal 2010 e nel corso degli anni si e’ sempre principalmente occupato del mantenimento e sviluppo del prodotto NetEye. Appassionato di tecnologia e innovazione con un particolare debole per gli aspetti di cybersecurity, oggi e’ team leader della ricerca e sviluppo di NetEye.
+### Federico Corona
+Fa parte di Würth Phoenix da tre anni. Specializzato in cyber security, si occupa principalmente di red teaming e penetration tests, garantendo alti standard di sicurezza per i clienti di Würth Phoenix.
+### Beatrice Dall’Omo
+Appassionata di sicurezza informatica con una forte inclinazione per la sicurezza offensiva e il red teaming lavora in Wuerth Phoenix da 2 anni.
+### SIMONE RAGONESI
+Lavora da 10 anni nel campo della sicurezza informatica, con un solido background in DevSecOps e sicurezza offensiva.
+Nel red team di Würth Phoenix, ha il compito di pensare come un’attaccante e di mettere in pratica le tecniche di hacking al fine di individuare falle di sicurezza nei sistemi delle aziende.
+### Anna Kostrzewska
+At Teclib has has been responsible for Central and Eastern Europe for almost 3 years. She assists partners in finalizing the sale of professional GLPI subscriptions and in developing GLPI’s visibility in their respective countries.
+### Renato Cilento
+IT Service Management/Technical Analyst presso CSE
+### Mirko Morandini
+PhD, dal 2015 consulente senior per i processi e le soluzioni di IT service management e asset management, con applicazioni OSS (GLPI, Znuny/OTRS/EriZone) e l’ecosistema Atlassian (JSM, Assets), lavorando sia sul mercato tedesco (DACH) che su quello italiano.
+È uno dei pochi consulenti in Italia con un’esperienza approfondita di OTRS/Znuny ed attualmente uno dei pochi esperti GLPI sul mercato tedesco, in partnership con TecLib.
+### Simone Pancaldi
+Channel Manager Europa Sud presso Atlassian
+### Stefano Radaelli
+Stefano Radaelli si occupa di ICT Security dal 1997 come consulente per diverse multinazionali su tematiche quali IT GRC e Security Incident and Event Management. Dal 2023 è entrato a far parte del Team Italia di Elastic con la qualifica di Senior Solution Architect dove si occupa di tematiche di Security & Observability.
+### Mauro Biagi
+CIO presso Diennea
+### Cesare Raoss
+CIO presso Menz&Gasser
+### Christian Canal
+IT Professional presso RAS
+### Georg Kostner
+Ha iniziato la sua carriera nel 1991 presso Würth Italia come sviluppatore C per implementare la nuova logistica a Egna con passione per l’ingegneria del software e la tecnologia.
+Nel corso degli anni, ha affinato le sue competenze in materia di leadership, strategia di prodotto e cybersecurity.
+Guida NetEye con passione
+Con 2024 è a capo del Centro di Cyber Defense
+### Nicola Degara
+Fa parte del Gruppo Würth dal 2003 e nel corso degli anni ha ricoperto molteplici ruoli a livello internazionale.
+Oggi è il leader del team di gestione tecnica dell’ecosistema aziendale di Atlassian per il Gruppo Würth e coordina il servizio gestito.
+### Nicola Biada
+Project Manager, Technical Presale e Fullstack Developer con oltre 20 anni di esperienza ha ricoperto praticamente tutti i principali ruoli tecnici ed organizzativi nel mondo IT. Vive ai piedi delle Alpi, ama creare progetti di successo e relazioni durature con colleghi e clienti. Collabora con WürthPhoenix da oltre 10 anni ed è stato uno dei creatori della soluzione di Service Management EriZone. Consulente per i clienti entreprise dell’azienda e technical presale, affianca il team Sales e il team Delivery per garantire continuità ed efficacia dei progetti, garantendo una visione customer oriented.
+### Massimo Giaimo
+Opera nel mondo della cybersecurity da più di 20 anni, proponendo attività di consulenza e hacking etico. Affianca le aziende eseguendo simulazioni di attacco su diversi ambiti (Network Infrastructure, Application Security, Physical Security Control, Business Process, Human Behavior, SCADA/PLC) volte a trovare le vulnerabilità e a sanarle prima che possano essere sfruttate dai cybercriminali. Ideatore della Cyber Threat Intelligence Platform SATAYO. Appassionato di ingegneria sociale, ha sviluppato il gioco di ruolo ETEL – Exploiting The Eighth Layer, con l’obiettivo di verificare le vulnerabilità lato umano.
+### Luciano Quartarone
+Luciano Quartarone ha più di 20 anni di esperienza nel campo dell’ICT, con particolare focus alle PKI, firme elettroniche e sistemi di conservazione. Ha lavorato su numerosi progetti di system integration specializzandosi nel campo della sicurezza delle informazioni, nell’analisi del rischio e nella conformità alle norme nazionali e internazionali su questi ambiti. Inoltre, è un Senior Lead auditor ISO/IEC 27001 e trainer certificato presso il PECB, nonché Senior Lead Implementer presso lo stesso ente. Partecipa alla Commissione UNINFO UNI/CT 510 su Sicurezza, alla Commissione UNINFO UNI/CT 522 su e-Business e i servizi finanziari ed alla UNI/CT 533 Intelligenza Artificiale.
+Attualmente è anche Convenor della UNI/CT 501 – GL 03 “Distruzione dei supporti di dati”. Ha collaborato alla redazione di diverse norme riguardanti la sicurezza delle informazioni, la conservazione dei dati a lungo termine, la distruzione dei supporti dati e la definizione di profili professionali per la sicurezza delle informazioni e la protezione dei dati personali. Da dicembre 2018 ricopre il ruolo di CISO e Data Protection Officer presso Archiva Group.
+
+
+--- PAGE STRATÉGIQUE : https://www.wuerth-it.it/contatti/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google.com, www.wuerth-it.it, www.gstatic.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, elementor-*, e-*, menu-*, current-*, has-*, sub-*, fa-*, wpml-*, attachment-*, size-*, mega-*, padding-*, no-*, image-*, screen-*, wpcf7-*, hidden-*, form-*, column-*, form_gdpr-*, footer-*, legal-*, pum-*, popmake-*, theme-*, ui-*, wpcode-*
+===================================
+Contatti e Nostri Uffici | Würth Phoenix
+# LE NOSTRE SEDI
+E UFFICI
+WÜRTH IT ITALY S.R.L.
+CONTATTI DIRETTI HQ
+mail: info.italy@wuerth-it.com
+PEC: wuerth-it-italy@legalmail.it
++390471564111
+SUPPORTO  IT SYSTEMS MANAGEMENT
+servicedesk@wuerth-it.com
++390471564101
+BOLZANO
+Via Johann Kravogl 4
+39100 Bolzano BZ, Italy
+ROMA
+Via Tiberina Km 17, 600
+00060 Capena (Rm), Italy
+MILANO
+Via Sangro, 13/A
+20132 Milano, Italy
+### DESIDERI CONTATTARCI?
+#### COMPILA IL FORM SOTTOSTANTE
+### Alessandro Mizzaro
+### Thomas Forrer
+Fa parte del Gruppo Würth dal 2010 e nel corso degli anni si e’ sempre principalmente occupato del mantenimento e sviluppo del prodotto NetEye. Appassionato di tecnologia e innovazione con un particolare debole per gli aspetti di cybersecurity, oggi e’ team leader della ricerca e sviluppo di NetEye.
+### Federico Corona
+Fa parte di Würth Phoenix da tre anni. Specializzato in cyber security, si occupa principalmente di red teaming e penetration tests, garantendo alti standard di sicurezza per i clienti di Würth Phoenix.
+### Beatrice Dall’Omo
+Appassionata di sicurezza informatica con una forte inclinazione per la sicurezza offensiva e il red teaming lavora in Wuerth Phoenix da 2 anni.
+### SIMONE RAGONESI
+Lavora da 10 anni nel campo della sicurezza informatica, con un solido background in DevSecOps e sicurezza offensiva.
+Nel red team di Würth Phoenix, ha il compito di pensare come un’attaccante e di mettere in pratica le tecniche di hacking al fine di individuare falle di sicurezza nei sistemi delle aziende.
+### Anna Kostrzewska
+At Teclib has has been responsible for Central and Eastern Europe for almost 3 years. She assists partners in finalizing the sale of professional GLPI subscriptions and in developing GLPI’s visibility in their respective countries.
+### Renato Cilento
+IT Service Management/Technical Analyst presso CSE
+### Mirko Morandini
+PhD, dal 2015 consulente senior per i processi e le soluzioni di IT service management e asset management, con applicazioni OSS (GLPI, Znuny/OTRS/EriZone) e l’ecosistema Atlassian (JSM, Assets), lavorando sia sul mercato tedesco (DACH) che su quello italiano.
+È uno dei pochi consulenti in Italia con un’esperienza approfondita di OTRS/Znuny ed attualmente uno dei pochi esperti GLPI sul mercato tedesco, in partnership con TecLib.
+### Simone Pancaldi
+Channel Manager Europa Sud presso Atlassian
+### Stefano Radaelli
+Stefano Radaelli si occupa di ICT Security dal 1997 come consulente per diverse multinazionali su tematiche quali IT GRC e Security Incident and Event Management. Dal 2023 è entrato a far parte del Team Italia di Elastic con la qualifica di Senior Solution Architect dove si occupa di tematiche di Security & Observability.
+### Mauro Biagi
+CIO presso Diennea
+### Cesare Raoss
+CIO presso Menz&Gasser
+### Christian Canal
+IT Professional presso RAS
+### Georg Kostner
+Ha iniziato la sua carriera nel 1991 presso Würth Italia come sviluppatore C per implementare la nuova logistica a Egna con passione per l’ingegneria del software e la tecnologia.
+Nel corso degli anni, ha affinato le sue competenze in materia di leadership, strategia di prodotto e cybersecurity.
+Guida NetEye con passione
+Con 2024 è a capo del Centro di Cyber Defense
+### Nicola Degara
+Fa parte del Gruppo Würth dal 2003 e nel corso degli anni ha ricoperto molteplici ruoli a livello internazionale.
+Oggi è il leader del team di gestione tecnica dell’ecosistema aziendale di Atlassian per il Gruppo Würth e coordina il servizio gestito.
+### Nicola Biada
+Project Manager, Technical Presale e Fullstack Developer con oltre 20 anni di esperienza ha ricoperto praticamente tutti i principali ruoli tecnici ed organizzativi nel mondo IT. Vive ai piedi delle Alpi, ama creare progetti di successo e relazioni durature con colleghi e clienti. Collabora con WürthPhoenix da oltre 10 anni ed è stato uno dei creatori della soluzione di Service Management EriZone. Consulente per i clienti entreprise dell’azienda e technical presale, affianca il team Sales e il team Delivery per garantire continuità ed efficacia dei progetti, garantendo una visione customer oriented.
+### Massimo Giaimo
+Opera nel mondo della cybersecurity da più di 20 anni, proponendo attività di consulenza e hacking etico. Affianca le aziende eseguendo simulazioni di attacco su diversi ambiti (Network Infrastructure, Application Security, Physical Security Control, Business Process, Human Behavior, SCADA/PLC) volte a trovare le vulnerabilità e a sanarle prima che possano essere sfruttate dai cybercriminali. Ideatore della Cyber Threat Intelligence Platform SATAYO. Appassionato di ingegneria sociale, ha sviluppato il gioco di ruolo ETEL – Exploiting The Eighth Layer, con l’obiettivo di verificare le vulnerabilità lato umano.
+### Luciano Quartarone
+Luciano Quartarone ha più di 20 anni di esperienza nel campo dell’ICT, con particolare focus alle PKI, firme elettroniche e sistemi di conservazione. Ha lavorato su numerosi progetti di system integration specializzandosi nel campo della sicurezza delle informazioni, nell’analisi del rischio e nella conformità alle norme nazionali e internazionali su questi ambiti. Inoltre, è un Senior Lead auditor ISO/IEC 27001 e trainer certificato presso il PECB, nonché Senior Lead Implementer presso lo stesso ente. Partecipa alla Commissione UNINFO UNI/CT 510 su Sicurezza, alla Commissione UNINFO UNI/CT 522 su e-Business e i servizi finanziari ed alla UNI/CT 533 Intelligenza Artificiale.
+Attualmente è anche Convenor della UNI/CT 501 – GL 03 “Distruzione dei supporti di dati”. Ha collaborato alla redazione di diverse norme riguardanti la sicurezza delle informazioni, la conservazione dei dati a lungo termine, la distruzione dei supporti dati e la definizione di profili professionali per la sicurezza delle informazioni e la protezione dei dati personali. Da dicembre 2018 ricopre il ruolo di CISO e Data Protection Officer presso Archiva Group.
+
+
+--- PAGE STRATÉGIQUE : https://www.wuerth-it.it/compliance/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.google.com, www.wuerth-it.it, www.gstatic.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, elementor-*, e-*, intro-*, padding-*, pum-*, popmake-*, theme-*, size-*, ui-*, wpcode-*, grecaptcha-*, g-*
+===================================
+Compliance | Würth IT
+# Compliance
+## I nostri principi fondamentali
+Fiducia reciproca, affidabilità, onestà e franchezza, sia verso l’interno che verso l’esterno, sono i principi fondamentali profondamente radicati nella cultura aziendale del Gruppo Würth. Il nostro impegno nei confronti di questi valori è stato sancito per la prima volta nella Filosofia Aziendale, scritta da Reinhold Würth negli anni ’70.
+Questi principi non comprendono solo il rispetto di tutte le norme e le leggi vigenti, ma anche la mentalità corretta dei dipendenti, che costituisce parte integrante del successo aziendale del Gruppo Würth.
+Il nostro obiettivo è promuovere questa mentalità. Allo stesso tempo, questa mentalità comporta la stretta osservanza da parte dei nostri dipendenti di tutte le norme e le leggi nazionali e internazionali applicabili. Per rendere questi principi più trasparenti per i nostri dipendenti, così come per i nostri clienti, fornitori e altri partner commerciali, abbiamo sviluppato regole di condotta pratiche sulla base dei nostri valori aziendali, che sono riassunte nel Codice di Compliance del Gruppo Würth.
+Sistema di reporting a livello di Gruppo
+Il nostro Codice di Compliance rappresenta il nostro impegno a trattare gli altri con integrità, insieme ai nostri clienti, fornitori e altri partner commerciali. Alcuni studi hanno dimostrato che le segnalazioni ricevute da terzi hanno spesso contribuito a risolvere casi di criminalità economica. Proprio per questo motivo, abbiamo creato un sistema che consente sia ai dipendenti del Gruppo Würth sia a terzi di segnalare atti criminali e altre importanti violazioni della compliance. Questo strumento basato sul web si chiama BKMS System (Business Keeper Monitoring System).
+Se desiderate segnalare un incidente tramite questo sistema, potete farlo sia in forma anonima che con il vostro nome. Tuttavia, poiché desideriamo coltivare un ambiente di comunicazione aperto, vi invitiamo a indicare il vostro nome quando inviate le segnalazioni. Tratteremo le vostre informazioni personali con la massima riservatezza e terremo conto dei legittimi interessi di tutte le parti coinvolte.
+La preghiamo di creare una casella di posta elettronica nel sistema BKMS attraverso la quale possiamo contattarla. Questo è importante nel caso in cui avessimo domande di approfondimento o nel caso in cui lei volesse aggiungere ulteriori informazioni al suo rapporto in un secondo momento. Se lo si desidera, la comunicazione tramite la casella di posta elettronica può essere mantenuta anonima.
+Il sistema ha il solo scopo di richiamare l’attenzione su casi sospetti di criminalità economica o di gravi violazioni della compliance all’interno del Gruppo Würth. Qualsiasi uso improprio di questo sistema per altri scopi può costituire un reato penale.
+## CODICE DI COMPLIANCE DEL GRUPPO WÜRTH
+Potete inviare una segnalazione qui: www.bkms-system.net/wuerth
+Grazie mille per il vostro supporto!
+### Alessandro Mizzaro
+### Thomas Forrer
+Fa parte del Gruppo Würth dal 2010 e nel corso degli anni si e’ sempre principalmente occupato del mantenimento e sviluppo del prodotto NetEye. Appassionato di tecnologia e innovazione con un particolare debole per gli aspetti di cybersecurity, oggi e’ team leader della ricerca e sviluppo di NetEye.
+### Federico Corona
+Fa parte di Würth Phoenix da tre anni. Specializzato in cyber security, si occupa principalmente di red teaming e penetration tests, garantendo alti standard di sicurezza per i clienti di Würth Phoenix.
+### Beatrice Dall’Omo
+Appassionata di sicurezza informatica con una forte inclinazione per la sicurezza offensiva e il red teaming lavora in Wuerth Phoenix da 2 anni.
+### SIMONE RAGONESI
+Lavora da 10 anni nel campo della sicurezza informatica, con un solido background in DevSecOps e sicurezza offensiva.
+Nel red team di Würth Phoenix, ha il compito di pensare come un’attaccante e di mettere in pratica le tecniche di hacking al fine di individuare falle di sicurezza nei sistemi delle aziende.
+### Anna Kostrzewska
+At Teclib has has been responsible for Central and Eastern Europe for almost 3 years. She assists partners in finalizing the sale of professional GLPI subscriptions and in developing GLPI’s visibility in their respective countries.
+### Renato Cilento
+IT Service Management/Technical Analyst presso CSE
+### Mirko Morandini
+PhD, dal 2015 consulente senior per i processi e le soluzioni di IT service management e asset management, con applicazioni OSS (GLPI, Znuny/OTRS/EriZone) e l’ecosistema Atlassian (JSM, Assets), lavorando sia sul mercato tedesco (DACH) che su quello italiano.
+È uno dei pochi consulenti in Italia con un’esperienza approfondita di OTRS/Znuny ed attualmente uno dei pochi esperti GLPI sul mercato tedesco, in partnership con TecLib.
+### Simone Pancaldi
+Channel Manager Europa Sud presso Atlassian
+### Stefano Radaelli
+Stefano Radaelli si occupa di ICT Security dal 1997 come consulente per diverse multinazionali su tematiche quali IT GRC e Security Incident and Event Management. Dal 2023 è entrato a far parte del Team Italia di Elastic con la qualifica di Senior Solution Architect dove si occupa di tematiche di Security & Observability.
+### Mauro Biagi
+CIO presso Diennea
+### Cesare Raoss
+CIO presso Menz&Gasser
+### Christian Canal
+IT Professional presso RAS
+### Georg Kostner
+Ha iniziato la sua carriera nel 1991 presso Würth Italia come sviluppatore C per implementare la nuova logistica a Egna con passione per l’ingegneria del software e la tecnologia.
+Nel corso degli anni, ha affinato le sue competenze in materia di leadership, strategia di prodotto e cybersecurity.
+Guida NetEye con passione
+Con 2024 è a capo del Centro di Cyber Defense
+### Nicola Degara
+Fa parte del Gruppo Würth dal 2003 e nel corso degli anni ha ricoperto molteplici ruoli a livello internazionale.
+Oggi è il leader del team di gestione tecnica dell’ecosistema aziendale di Atlassian per il Gruppo Würth e coordina il servizio gestito.
+### Nicola Biada
+Project Manager, Technical Presale e Fullstack Developer con oltre 20 anni di esperienza ha ricoperto praticamente tutti i principali ruoli tecnici ed organizzativi nel mondo IT. Vive ai piedi delle Alpi, ama creare progetti di successo e relazioni durature con colleghi e clienti. Collabora con WürthPhoenix da oltre 10 anni ed è stato uno dei creatori della soluzione di Service Management EriZone. Consulente per i clienti entreprise dell’azienda e technical presale, affianca il team Sales e il team Delivery per garantire continuità ed efficacia dei progetti, garantendo una visione customer oriented.
+### Massimo Giaimo
+Opera nel mondo della cybersecurity da più di 20 anni, proponendo attività di consulenza e hacking etico. Affianca le aziende eseguendo simulazioni di attacco su diversi ambiti (Network Infrastructure, Application Security, Physical Security Control, Business Process, Human Behavior, SCADA/PLC) volte a trovare le vulnerabilità e a sanarle prima che possano essere sfruttate dai cybercriminali. Ideatore della Cyber Threat Intelligence Platform SATAYO. Appassionato di ingegneria sociale, ha sviluppato il gioco di ruolo ETEL – Exploiting The Eighth Layer, con l’obiettivo di verificare le vulnerabilità lato umano.
+### Luciano Quartarone
+Luciano Quartarone ha più di 20 anni di esperienza nel campo dell’ICT, con particolare focus alle PKI, firme elettroniche e sistemi di conservazione. Ha lavorato su numerosi progetti di system integration specializzandosi nel campo della sicurezza delle informazioni, nell’analisi del rischio e nella conformità alle norme nazionali e internazionali su questi ambiti. Inoltre, è un Senior Lead auditor ISO/IEC 27001 e trainer certificato presso il PECB, nonché Senior Lead Implementer presso lo stesso ente. Partecipa alla Commissione UNINFO UNI/CT 510 su Sicurezza, alla Commissione UNINFO UNI/CT 522 su e-Business e i servizi finanziari ed alla UNI/CT 533 Intelligenza Artificiale.
+Attualmente è anche Convenor della UNI/CT 501 – GL 03 “Distruzione dei supporti di dati”. Ha collaborato alla redazione di diverse norme riguardanti la sicurezza delle informazioni, la conservazione dei dati a lungo termine, la distruzione dei supporti dati e la definizione di profili professionali per la sicurezza delle informazioni e la protezione dei dati personali. Da dicembre 2018 ricopre il ruolo di CISO e Data Protection Officer presso Archiva Group.

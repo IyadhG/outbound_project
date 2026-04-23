@@ -1,0 +1,206 @@
+{
+    "identity": {
+        "domain": {
+            "value": "aldi.us",
+            "confidence": 0.95,
+            "source": "Standard mapping for ALDI US entity"
+        },
+        "name": {
+            "value": "ALDI US (Batavia)",
+            "confidence": 1.0,
+            "source": "Targeting Directive / Page Header"
+        },
+        "industry": {
+            "value": "Grocery Retail",
+            "confidence": 0.95,
+            "source": "Product list and page content"
+        },
+        "founded_year": {
+            "value": "1976",
+            "confidence": 0.8,
+            "source": "Industry knowledge for US market entry"
+        },
+        "short_description": {
+            "value": "Discount grocery retailer offering high-quality food, exclusive brands, and weekly finds at low prices.",
+            "confidence": 0.9,
+            "source": "Page content summary"
+        },
+        "seo_description": {
+            "value": "ALDI Grocery Stores - Quality Food. Everyday Low Prices.",
+            "confidence": 1.0,
+            "source": "Meta Title / Page Header"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "$27 Billion",
+            "confidence": 0.75,
+            "source": "Estimated revenue for ALDI US operations (Private Company)"
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.6,
+            "source": "Standard retail fiscal cycle"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Private family-owned structure"
+        },
+        "estimated_num_employees": {
+            "value": "25,000+",
+            "confidence": 0.7,
+            "source": "Estimated for US regional operations"
+        },
+        "latest_funding_stage": {
+            "value": "Private",
+            "confidence": 1.0,
+            "source": "Corporate structure"
+        },
+        "annual_revenue_USD": {
+            "value": 27000000000,
+            "confidence": 0.75,
+            "source": "Conversion of performance.annual_revenue ($27 Billion) estimated for ALDI US operations"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/aldiusa",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Not found in home page scraper"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Targeting directive / ALDI Süd structure"
+        },
+        "parent_company": {
+            "value": "ALDI Süd (ALDI South Group)",
+            "confidence": 0.95,
+            "source": "Global corporate structure knowledge"
+        },
+        "num_suborganizations": {
+            "value": "2,300+ stores",
+            "confidence": 0.8,
+            "source": "US Store footprint estimate"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "ALDI US Regional Divisions",
+                "ALDI Corporate (Batavia)"
+            ],
+            "confidence": 0.7,
+            "source": "Organizational deduction"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "1200 North Kirk Road, Batavia, IL 60510, United States",
+            "confidence": 1.0,
+            "source": "Targeting Directive"
+        },
+        "city": {
+            "value": "Batavia",
+            "confidence": 1.0,
+            "source": "Targeting Directive"
+        },
+        "country": {
+            "value": "United States",
+            "confidence": 1.0,
+            "source": "Targeting Directive"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Nginx",
+            "category": "Web Server",
+            "confidence": 0.99,
+            "source": "HTTP Header: server"
+        },
+        {
+            "name": "Amazon CloudFront",
+            "category": "Content Delivery Network",
+            "confidence": 0.99,
+            "source": "HTTP Header: via"
+        },
+        {
+            "name": "Forter",
+            "category": "Fraud Detection",
+            "confidence": 0.99,
+            "source": "Script: cdn4.forter.com"
+        },
+        {
+            "name": "OneTrust",
+            "category": "Consent Management",
+            "confidence": 0.99,
+            "source": "Script: cdn.cookielaw.org"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Script: googletagmanager.com"
+        },
+        {
+            "name": "Stripe",
+            "category": "Payment Processing",
+            "confidence": 0.95,
+            "source": "Script: js.stripe.com"
+        },
+        {
+            "name": "The Trade Desk",
+            "category": "Advertising",
+            "confidence": 0.95,
+            "source": "Script: js.adsrvr.org"
+        },
+        {
+            "name": "Facebook Pixel",
+            "category": "Analytics/Advertising",
+            "confidence": 0.99,
+            "source": "Script: connect.facebook.net"
+        },
+        {
+            "name": "TikTok Pixel",
+            "category": "Analytics/Advertising",
+            "confidence": 0.99,
+            "source": "Script: analytics.tiktok.com"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Grocery, Low Prices, Weekly Ad, ALDI Finds, Exclusive Brands, Batavia Headquarters, Retail",
+        "confidence": 0.9,
+        "source": "Scraped page content"
+    },
+    "data_quality_score": {
+        "value": 0.82,
+        "confidence": 0.9,
+        "source": "High accuracy in identity and technical footprint; notable gaps in contact_social and funding data (private entity status)"
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Lidl US",
+            "Walmart",
+            "The Kroger Co.",
+            "Trader Joe's",
+            "Save A Lot"
+        ]
+    }
+}

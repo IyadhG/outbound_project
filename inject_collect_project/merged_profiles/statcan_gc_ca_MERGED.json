@@ -1,0 +1,553 @@
+{
+    "alexa_ranking": 22197,
+    "annual_revenue": "642,398,829 CAD",
+    "city": "Ottawa",
+    "country": "Canada",
+    "departments": {
+        "finance": 74,
+        "business_development": 52,
+        "data_science": 164,
+        "administrative": 55,
+        "information_technology": 114,
+        "support": 53,
+        "human_resources": 55,
+        "operations": 103,
+        "engineering": 182,
+        "media_and_commmunication": 82,
+        "education": 16,
+        "sales": 6,
+        "consulting": 11,
+        "arts_and_design": 11,
+        "legal": 4,
+        "product_management": 2,
+        "marketing": 4,
+        "entrepreneurship": 1,
+        "accounting": 0
+    },
+    "domain": "statcan.gc.ca",
+    "estimated_num_employees": "5,800",
+    "facebook_url": "https://facebook.com/StatisticsCanada/",
+    "founded_year": "1918",
+    "funding_events": [],
+    "industry": "Government Administration",
+    "keywords": [
+        "statistics",
+        "statistique",
+        "data",
+        "statistics & statistique",
+        "donnees",
+        "data quality standards",
+        "environmental statistics",
+        "data science in statistics",
+        "census engagement",
+        "data collection methods",
+        "environmental census",
+        "services",
+        "data quality toolkit",
+        "research and policy support",
+        "labour market statistics",
+        "data analytics",
+        "government statistics",
+        "data linkage and integration",
+        "surveys and statistical programs",
+        "data visualization dashboards",
+        "b2b",
+        "population demographics analysis",
+        "data linkage",
+        "statistical methodology",
+        "data quality and standards",
+        "custom data products",
+        "population data",
+        "data privacy and confidentiality",
+        "data access",
+        "environmental census data",
+        "data privacy protection",
+        "data analysis publications",
+        "economic indicators",
+        "demographic data",
+        "data collaboration",
+        "environmental resource statistics",
+        "official statistics standards",
+        "population estimates",
+        "official statistics canada",
+        "data privacy",
+        "data governance and ethics",
+        "web search portals, libraries, archives, and other information services",
+        "data reporting",
+        "data linkage and linkage environment",
+        "data privacy laws",
+        "data collection innovations",
+        "data linkage projects",
+        "data analysis tools",
+        "data quality assurance processes",
+        "microdata access",
+        "environmental data",
+        "international statistical cooperation",
+        "data quality assurance",
+        "data governance",
+        "data management",
+        "survey data",
+        "data confidentiality and privacy",
+        "statistical standards and norms",
+        "data integration techniques",
+        "data stewardship",
+        "data security measures",
+        "international data sharing",
+        "data publication",
+        "data services",
+        "data service centers",
+        "big data",
+        "data security protocols",
+        "data dissemination",
+        "statistical reports and publications",
+        "data visualization tools",
+        "data standards",
+        "public data access",
+        "official statistics",
+        "data interpretation",
+        "data integration",
+        "census data",
+        "data analysis",
+        "data quality",
+        "data collection",
+        "data linkage techniques",
+        "agricultural census",
+        "data confidentiality",
+        "data security",
+        "data standards and norms",
+        "microdata",
+        "data collection technology",
+        "economic and social data",
+        "market research",
+        "government",
+        "census of population",
+        "data standards compliance",
+        "data linkage environment",
+        "data transparency and accountability",
+        "government data support",
+        "innovation",
+        "data dissemination platforms",
+        "data-driven decision making",
+        "data-driven insights",
+        "indigenous data collection",
+        "data transparency",
+        "data analysis methodologies",
+        "economic data",
+        "data privacy and security measures",
+        "census of environment",
+        "data privacy policies",
+        "national statistical agency",
+        "data collection and analysis",
+        "data analysis and interpretation",
+        "data privacy compliance",
+        "data governance policies",
+        "data science",
+        "data governance frameworks",
+        "data support services",
+        "microdata access platform",
+        "data visualization",
+        "data stewardship and management",
+        "statistical data",
+        "socioeconomic analysis",
+        "public statistics",
+        "government reports",
+        "demographic information",
+        "health statistics",
+        "transportation data",
+        "customized products",
+        "trade balance",
+        "consumer price index",
+        "unemployment rates",
+        "retail sales",
+        "weekly earnings",
+        "economic research",
+        "market trends",
+        "income statistics",
+        "quality of life",
+        "surveys and questionnaires",
+        "regional data",
+        "data hubs",
+        "statistical services",
+        "mobile applications",
+        "privacy and confidentiality",
+        "workshops and training",
+        "online statistics",
+        "infographics",
+        "economic analysis",
+        "gender statistics",
+        "income distribution",
+        "food price data",
+        "life expectancy",
+        "agricultural statistics",
+        "national statistics",
+        "data reliability",
+        "reference resources",
+        "education",
+        "enterprise software",
+        "enterprises",
+        "computer software",
+        "information technology & services",
+        "computer & network security",
+        "mobile apps",
+        "Canada",
+        "Census",
+        "Economy",
+        "Social Data",
+        "Open Data",
+        "Government Agency",
+        "Ottawa"
+    ],
+    "latest_funding_stage": "Government Appropriation",
+    "linkedin_url": "http://www.linkedin.com/company/statcan",
+    "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69a39b3c42b29e0001d79ce2/picture",
+    "name": "Statistics Canada / Statistique Canada",
+    "num_suborganizations": "Regional offices in Halifax, Montréal, Toronto, Winnipeg, Edmonton, Vancouver",
+    "phone": "1-800-263-1136",
+    "postal_code": "K1A 0T6",
+    "raw_address": "150 Tunney's Pasture Drwy, Ottawa, ON K1A 0T6, Canada",
+    "seo_description": "Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada",
+    "short_description": "Canada's national statistical agency providing data on the economy, society, and environment.",
+    "state": "Ontario",
+    "street_address": "150 Tunney's Pasture Drwy",
+    "suborganizations": [
+        "Regional Data Centers",
+        "Federal Research Data Centre Network"
+    ],
+    "technologies": [
+        {
+            "uid": "gis",
+            "name": ".GIS",
+            "category": "Other"
+        },
+        {
+            "uid": "amp",
+            "name": "AMP",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "act",
+            "name": "Act!",
+            "category": "Other"
+        },
+        {
+            "uid": "acunetix",
+            "name": "Acunetix",
+            "category": "Event Management"
+        },
+        {
+            "uid": "adobe_coldfusion",
+            "name": "Adobe Coldfusion",
+            "category": "CMS"
+        },
+        {
+            "uid": "adobe_marketing_cloud",
+            "name": "Adobe Marketing Cloud",
+            "category": "Search Marketing"
+        },
+        {
+            "uid": "adobe_media_optimizer",
+            "name": "Adobe Media Optimizer",
+            "category": "Search Marketing"
+        },
+        {
+            "uid": "air",
+            "name": "Air",
+            "category": "Other"
+        },
+        {
+            "uid": "amazon_managed_streaming_for_apache_kafka_amazon_msk",
+            "name": "Amazon Managed Streaming for Apache Kafka (Amazon MSK)",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "amazon_ses",
+            "name": "Amazon SES",
+            "category": "Email Delivery"
+        },
+        {
+            "uid": "analyzer",
+            "name": "Analyzer",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "arcgis",
+            "name": "ArcGIS",
+            "category": "Other"
+        },
+        {
+            "uid": "base",
+            "name": "BASE",
+            "category": "Other"
+        },
+        {
+            "uid": "board",
+            "name": "Board",
+            "category": "Other"
+        },
+        {
+            "uid": "brocade_switches",
+            "name": "Brocade Switches",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "browserstack",
+            "name": "Browserstack",
+            "category": "Other"
+        },
+        {
+            "uid": "cat",
+            "name": "CAT",
+            "category": "ERP"
+        },
+        {
+            "uid": "cet",
+            "name": "CET",
+            "category": "Other"
+        },
+        {
+            "uid": "drupal",
+            "name": "Drupal",
+            "category": "CMS"
+        },
+        {
+            "uid": "elite_software_hvac_solution",
+            "name": "Elite Software HVAC Solution",
+            "category": "Other"
+        },
+        {
+            "uid": "front",
+            "name": "Front",
+            "category": "Widgets"
+        },
+        {
+            "uid": "gas",
+            "name": "GAS",
+            "category": "Other"
+        },
+        {
+            "uid": "gem",
+            "name": "Gem",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "github_hosting",
+            "name": "GitHub Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "gitkraken",
+            "name": "GitKraken",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "google_play",
+            "name": "Google Play",
+            "category": "Widgets"
+        },
+        {
+            "uid": "harmony_email_collaboration",
+            "name": "Harmony Email & Collaboration",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "icp",
+            "name": "ICP",
+            "category": "Other"
+        },
+        {
+            "uid": "idc",
+            "name": "IDC",
+            "category": "Other"
+        },
+        {
+            "uid": "iso",
+            "name": "ISO+™",
+            "category": "Other"
+        },
+        {
+            "uid": "jquery_1_11_1",
+            "name": "JQuery 1.11.1",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "kaspersky",
+            "name": "Kaspersky",
+            "category": "Event Management"
+        },
+        {
+            "uid": "micro",
+            "name": "Micro",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft",
+            "name": "Microsoft Azure Hosting",
+            "category": "Hosting"
+        },
+        {
+            "uid": "office_365",
+            "name": "Microsoft Office 365",
+            "category": "Other"
+        },
+        {
+            "uid": "microsoft_teams",
+            "name": "Microsoft Teams",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "mobile_friendly",
+            "name": "Mobile Friendly",
+            "category": "Other"
+        },
+        {
+            "uid": "nginx",
+            "name": "Nginx",
+            "category": "Load Balancers"
+        },
+        {
+            "uid": "ning",
+            "name": "Ning",
+            "category": "CMS"
+        },
+        {
+            "uid": "outlook",
+            "name": "Outlook",
+            "category": "Email Providers"
+        },
+        {
+            "uid": "postpresso",
+            "name": "Postpresso",
+            "category": "Affiliate Advertising Network"
+        },
+        {
+            "uid": "powerbi_tiles",
+            "name": "PowerBI Tiles",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "python",
+            "name": "Python",
+            "category": "Frameworks and Programming Languages"
+        },
+        {
+            "uid": "quip",
+            "name": "Quip",
+            "category": "Communication and Collaboration"
+        },
+        {
+            "uid": "room",
+            "name": "ROOM",
+            "category": "Other"
+        },
+        {
+            "uid": "shl",
+            "name": "SHL",
+            "category": "Other"
+        },
+        {
+            "uid": "security",
+            "name": "Security",
+            "category": "Security"
+        },
+        {
+            "uid": "servicenow_configuration_management_database",
+            "name": "ServiceNow Configuration Management Database",
+            "category": "Cloud Services"
+        },
+        {
+            "uid": "sharepoint",
+            "name": "SharePoint",
+            "category": "CMS"
+        },
+        {
+            "uid": "siemens_simatic_scada",
+            "name": "Siemens SIMATIC SCADA",
+            "category": "Other"
+        },
+        {
+            "uid": "snowplow",
+            "name": "Snowplow",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "spreadsheet_server_by_insightsoftware",
+            "name": "Spreadsheet Server by insightsoftware",
+            "category": "Business Intelligence"
+        },
+        {
+            "uid": "tsys",
+            "name": "TSYS",
+            "category": "Payments"
+        },
+        {
+            "uid": "tor",
+            "name": "Tor",
+            "category": "Security"
+        },
+        {
+            "uid": "vizergy_central_reservation_system",
+            "name": "Vizergy Central Reservation System",
+            "category": "Reservation Software"
+        },
+        {
+            "uid": "vue_js_library",
+            "name": "VueJS",
+            "category": "CSS and JavaScript Libraries"
+        },
+        {
+            "uid": "wagtail_cms",
+            "name": "Wagtail CMS",
+            "category": "CMS"
+        },
+        {
+            "uid": "wolters_kluwer_passport",
+            "name": "Wolters Kluwer Passport",
+            "category": "ERP"
+        },
+        {
+            "uid": "wordpress_org",
+            "name": "WordPress.org",
+            "category": "CMS"
+        },
+        {
+            "uid": "workday_prism_analytics",
+            "name": "Workday Prism Analytics",
+            "category": "Analytics and Tracking"
+        },
+        {
+            "uid": "xray",
+            "name": "Xray",
+            "category": "Other"
+        },
+        {
+            "uid": "adobe_dynamic_tag_management",
+            "name": "Adobe Dynamic Tag Management",
+            "category": "Analytics/Tag Management"
+        },
+        {
+            "uid": "web_experience_toolkit_(wet)",
+            "name": "Web Experience Toolkit (WET)",
+            "category": "Frontend Framework"
+        },
+        {
+            "uid": "bootstrap",
+            "name": "Bootstrap",
+            "category": "Frontend Framework"
+        }
+    ],
+    "total_funding": null,
+    "twitter_url": "https://twitter.com/statcan_eng",
+    "website_url": "http://www.statcan.gc.ca",
+    "fiscal_year_end": "March",
+    "annual_revenue_USD": 475375133,
+    "is_subsidiary": true,
+    "parent_company": "Government of Canada",
+    "data_quality_score": 0.88,
+    "competitors": [
+        "U.S. Census Bureau",
+        "Office for National Statistics (ONS)",
+        "Eurostat",
+        "The Conference Board of Canada",
+        "OECD Statistics Directorate"
+    ]
+}

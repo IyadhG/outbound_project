@@ -1,0 +1,25 @@
+--- PAGE D'ACCUEIL : Welcome to the Health Canada Web site | Bienvenue au site Web de Santé Canada ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Ottawa, Canada
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: Apache/2.2.34 (Linux/SUSE)
+x-powered-by: PHP/5.3.17
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+ajax.googleapis.com, health.canada.ca
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+wb-*, sp-*, col-*, text-*, btn-*, glyphicon-*, mrgn-*
+===================================
+Welcome to the Health Canada Web site | Bienvenue au site Web de Santé Canada
+# Canada.ca
+## Health Canada
+English
+## Santé Canada
+Français
+Terms and conditions Avis

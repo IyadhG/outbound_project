@@ -1,0 +1,217 @@
+--- PAGE D'ACCUEIL : NTT, Inc. – Driving Innovation for a Sustainable Future ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.googletagmanager.com, cdn.cookielaw.org, www.global.ntt
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, skip-*, logo-*, burger-*, aside-*, hero-*, line-*, icon-*, cards-*, horizontal-*, no-*, dark-*, force-*, flex-*, round-*, white-*, cta-*, light-*, optional-*, scrollbar-*, video-*, pause-*, text-*, ntt-*, color-*, close-*, youtube-*, story-*, carousel-*, custom-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+WordPress, Google Analytics, Google Tag Manager
+
+NTT, Inc. – Driving Innovation for a Sustainable Future
+#
+Innovating a
+Sustainable Future
+for
+People
+and
+Planet
+## What do you care about?
+-
+### ABOUT US
+What defines our actions and identity?
+Explore
+Explore
+-
+### IOWN
+How does tomorrow’s infrastructure look?
+Explore
+Explore
+-
+### SUSTAINABILITY
+What does sustainability mean to us?
+Explore
+Explore
+-
+### R&D
+Where do breakthroughs begin?
+Explore
+Explore
+### We are a global team of over 340,000 people that is connected and committed to a common goal: Innovating to create a better future for people, society and planet.
+Discover more about NTT
+##
+News spotlight
+Discover our Insights Hub
+-
+###
+#### NTT at MWC Barcelona 2026
+NTT, NTT DOCOMO and NTT DATA Group returned to MWC with the first joint presence since 2019, showcasing how photonics unlocks an intelligent power-optimized future. We featured a range of AI-powered services, solutions, and applications in digital infrastructure.
+Discover more about the event
+-
+###
+#### Building a more inclusive future with Project Humanity and IOWN
+Project Humanity reimagines inclusion through technology. With IOWN, NTT is enabling real-time, barrier-free experiences that help people connect and create, without limits.
+Learn more about this project
+-
+###
+#### Reimagining Data Centers with IOWN
+Explore how NTT is using IOWN to optimize data centers for AI, cut energy use, and extend infrastructure capabilities.
+-
+###
+#### Photonics unlocks an intelligent power-optimized future
+At MWC 2026, NTT demonstrated how photonics is reshaping AI infrastructure, delivering higher performance, lower power consumption and scalable innovation for the future.
+Read NTT Insight
+-
+###
+#### NTT’s Vision for Photonics-Powered Innovation
+Discover more about NTT’s vision for photonics-based innovation, its role in the IOWN Global Forum, and the real-world applications transforming industries like finance and construction.
+-
+###
+#### The Photonics Revolution
+By combining light and data, PEC delivers faster processing, reduced power consumption, and a foundation for sustainable digital growth.
+Read more about PEC
+-
+###
+#### NTT at MWC Barcelona 2026
+NTT, NTT DOCOMO and NTT DATA Group returned to MWC with the first joint presence since 2019, showcasing how photonics unlocks an intelligent power-optimized future. We featured a range of AI-powered services, solutions, and applications in digital infrastructure.
+Discover more about the event
+-
+###
+#### Building a more inclusive future with Project Humanity and IOWN
+Project Humanity reimagines inclusion through technology. With IOWN, NTT is enabling real-time, barrier-free experiences that help people connect and create, without limits.
+Learn more about this project
+-
+###
+#### Reimagining Data Centers with IOWN
+Explore how NTT is using IOWN to optimize data centers for AI, cut energy use, and extend infrastructure capabilities.
+-
+###
+#### Photonics unlocks an intelligent power-optimized future
+At MWC 2026, NTT demonstrated how photonics is reshaping AI infrastructure, delivering higher performance, lower power consumption and scalable innovation for the future.
+Read NTT Insight
+-
+###
+#### NTT’s Vision for Photonics-Powered Innovation
+Discover more about NTT’s vision for photonics-based innovation, its role in the IOWN Global Forum, and the real-world applications transforming industries like finance and construction.
+-
+###
+#### The Photonics Revolution
+By combining light and data, PEC delivers faster processing, reduced power consumption, and a foundation for sustainable digital growth.
+Read more about PEC
+-
+###
+#### NTT at MWC Barcelona 2026
+NTT, NTT DOCOMO and NTT DATA Group returned to MWC with the first joint presence since 2019, showcasing how photonics unlocks an intelligent power-optimized future. We featured a range of AI-powered services, solutions, and applications in digital infrastructure.
+Discover more about the event
+-
+###
+#### Building a more inclusive future with Project Humanity and IOWN
+Project Humanity reimagines inclusion through technology. With IOWN, NTT is enabling real-time, barrier-free experiences that help people connect and create, without limits.
+Learn more about this project
+-
+###
+#### Reimagining Data Centers with IOWN
+Explore how NTT is using IOWN to optimize data centers for AI, cut energy use, and extend infrastructure capabilities.
+-
+###
+#### Photonics unlocks an intelligent power-optimized future
+At MWC 2026, NTT demonstrated how photonics is reshaping AI infrastructure, delivering higher performance, lower power consumption and scalable innovation for the future.
+Read NTT Insight
+-
+###
+#### NTT’s Vision for Photonics-Powered Innovation
+Discover more about NTT’s vision for photonics-based innovation, its role in the IOWN Global Forum, and the real-world applications transforming industries like finance and construction.
+-
+###
+#### The Photonics Revolution
+By combining light and data, PEC delivers faster processing, reduced power consumption, and a foundation for sustainable digital growth.
+Read more about PEC
+-
+-
+-
+-
+-
+-
+1 / 2
+##
+Artificial Intelligence
+We are pioneering the future of AI, shaping the infrastructure and data centers that will power tomorrow’s intelligent technologies.
+Discover our approach to AI
+##
+NTT presents: Expo 2025
+Explore the future with NTT at the Expo 2025! Learn more about our pavilion and presence, a captivating fusion of art and technology. Discover the next level of innovation!
+Discover Expo 2025
+##
+One core, diverse expertise
+NTT is a global technology leader, with a 150 year history of innovation and diverse team of people around the world. Through innovative technology and solutions, we solve challenges and contribute to society. Investing in research for positive impact.
+Discover Our Companies
+### Consulting & IT Services
+Guiding businesses through IT transformation and modernization.
+Discover Consulting & IT Services
+### Mobile Solutions
+Leading edge in mobile networks and solutions
+Discover Mobile Solutions
+### Smart Tech
+Revolutionizing businesses with smart technology solutions.
+Discover Smart Tech
+### Consumer & Business
+Enhancing services and connectivity for businesses and consumers.
+Discover Consumer & Business
+### Research & Development
+Creating sustainable technology innovations for a better tomorrow.
+Discover Research & Development
+### Consulting & IT Services
+Guiding businesses through IT transformation and modernization.
+Discover Consulting & IT Services
+### Mobile Solutions
+Leading edge in mobile networks and solutions
+Discover Mobile Solutions
+### Smart Tech
+Revolutionizing businesses with smart technology solutions.
+Discover Smart Tech
+### Consumer & Business
+Enhancing services and connectivity for businesses and consumers.
+Discover Consumer & Business
+### Research & Development
+Creating sustainable technology innovations for a better tomorrow.
+Discover Research & Development
+###
+Continue your journey
+#### Discover our sustainability insights
+See the innovations we're building today for a better tomorrow.
+#### Explore our AI-driven innovations
+Dive into our latest AI research and see how intelligence drives innovation.
+#### Building the Future of Connectivity: IOWN
+Explore IOWN, the network powering tomorrow's digital economy.
+#### The journey that led us here
+Learn our story, our values, and our commitment.
+Our site uses cookies to make it work and to help us give you the best possible user experience. By using our site, you agree to our use of cookies. To find out more about cookies and how you can disable them, please read our cookies statement .
+56
+Our site uses cookies to make it work and to help us give you the best possible user experience. By using our site, you agree to our use of cookies. To find out more about cookies and how you can disable them, please read our cookies statement .
+## Cookie Settings
+## Cookie Settings
+-
+### Your Privacy
+-
+### Targeting Cookies
+-
+### Performance Cookies
+-
+### Strictly Necessary Cookies
+#### Your Privacy
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+#### Targeting Cookies
+Targeting Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+#### Performance Cookies
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+#### Strictly Necessary Cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+### Cookie List
+Consent Leg.Interest checkbox label label checkbox label label checkbox label label
+- checkbox label label

@@ -1,0 +1,23 @@
+--- PAGE D'ACCUEIL : Just a moment... ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 3 Trevelyan Square, Leeds, United Kingdom
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+challenges.cloudflare.com, digital.nhs.uk
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch, onappinstalled
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, lang-*, ch-*, spacer-*, loading-*, lds-*, footer-*, diagnostic-*, ray-*
+===================================
+Just a moment...
+# digital.nhs.uk
+## Performing security verification
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+## Verification successful. Waiting for digital.nhs.uk to respond
+Ray ID: 9ec678edcb627782 Performance and Security by Cloudflare Privacy

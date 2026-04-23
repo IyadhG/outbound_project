@@ -1,0 +1,203 @@
+{
+    "identity": {
+        "domain": {
+            "value": "alten-germany.de",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "ALTEN Deutschland",
+            "confidence": 0.95,
+            "source": "Page d'accueil / Titre du site"
+        },
+        "industry": {
+            "value": "Ingénierie et Conseil en Technologies",
+            "confidence": 0.9,
+            "source": "Connaissance de marque / Page contact"
+        },
+        "founded_year": {
+            "value": "1988",
+            "confidence": 0.7,
+            "source": "Données historiques ALTEN Group"
+        },
+        "short_description": {
+            "value": "Filiale allemande du groupe ALTEN, leader mondial de l'ingénierie et du conseil en technologies.",
+            "confidence": 0.9,
+            "source": "Page contact / Identité corporate"
+        },
+        "seo_description": {
+            "value": "Kontakt - Senden Sie hier Ihre Anfrage I ALTEN Deutschland",
+            "confidence": 0.85,
+            "source": "Meta-title / Page contact"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "4.07 Milliards EUR (Global)",
+            "confidence": 0.8,
+            "source": "Données financières Groupe ALTEN 2023 - Mentionné comme fallback car le revenu local Munich n'est pas présent dans le texte scrapé"
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.9,
+            "source": "Cycle fiscal standard du groupe ALTEN"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Non mentionné"
+        },
+        "estimated_num_employees": {
+            "value": "57000 (Global)",
+            "confidence": 0.85,
+            "source": "Rapport annuel ALTEN / Site corporate"
+        },
+        "latest_funding_stage": {
+            "value": "Public",
+            "confidence": 0.95,
+            "source": "Euronext Paris: ATE"
+        },
+        "annual_revenue_USD": {
+            "value": 4477000000,
+            "confidence": 0.8,
+            "source": "Conversion of 4.07 Billion EUR Global Revenue 2023 to USD using an approximate exchange rate of 1.10."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Masqué ou non extrait du texte partiel"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Structure corporate ALTEN Deutschland"
+        },
+        "parent_company": {
+            "value": "ALTEN Group",
+            "confidence": 1.0,
+            "source": "Identité corporate"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Non précisé dans le texte"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.5,
+            "source": "Non listé dans l'échantillon"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "81A Frankfurter Ring, Munich, Germany",
+            "confidence": 1.0,
+            "source": "Directive utilisateur / Cible spécifique"
+        },
+        "city": {
+            "value": "Munich",
+            "confidence": 1.0,
+            "source": "Directive utilisateur"
+        },
+        "country": {
+            "value": "Germany",
+            "confidence": 1.0,
+            "source": "Directive utilisateur"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Cloudflare",
+            "category": "CDN / Security",
+            "confidence": 0.99,
+            "source": "Header: server cloudflare / Ray ID"
+        },
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 0.99,
+            "source": "Prefixes CSS wp-*, scripts wp-json"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.95,
+            "source": "Script googletagmanager.com / Cookie consent"
+        },
+        {
+            "name": "Tarteaucitron",
+            "category": "Consent Management",
+            "confidence": 0.99,
+            "source": "Script cdn.tarteaucitron.io"
+        },
+        {
+            "name": "Google Maps",
+            "category": "Maps API",
+            "confidence": 0.95,
+            "source": "Script maps.googleapis.com"
+        },
+        {
+            "name": "Google Analytics (GA4)",
+            "category": "Analytics",
+            "confidence": 0.95,
+            "source": "Cookie consent / scripts"
+        },
+        {
+            "name": "LinkedIn Insight",
+            "category": "Advertising",
+            "confidence": 0.9,
+            "source": "Cookie consent mention"
+        },
+        {
+            "name": "Facebook Pixel",
+            "category": "Advertising",
+            "confidence": 0.9,
+            "source": "Cookie consent mention"
+        },
+        {
+            "name": "Yoast SEO",
+            "category": "SEO",
+            "confidence": 0.95,
+            "source": "Prefixes CSS yoast-*"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Engineering, IT Services, Consulting, Technology, Automotive, Aerospace, Germany, Munich",
+        "confidence": 0.8,
+        "source": "Analyse du secteur et contenu page contact"
+    },
+    "data_quality_score": {
+        "value": 0.72,
+        "confidence": 0.9,
+        "source": "Calculated based on high identity accuracy and tech stack detection, offset by missing local financial data and null social media profiles."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Bertrandt",
+            "Ferchau Engineering",
+            "Capgemini Engineering",
+            "Akkodis",
+            "EDAG Group"
+        ]
+    }
+}

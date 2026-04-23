@@ -1,0 +1,290 @@
+--- PAGE D'ACCUEIL : Home - Canada IT Club ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Toronto, Canada
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://canadaitclub.ca/wp-json/>; rel="https://api.w.org/"
+<https://canadaitclub.ca/wp-json/wp/v2/pages/823>; rel="alternate"; title="JSON"; type="application/json"
+<https://canadaitclub.ca/>; rel=shortlink
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.googletagmanager.com, pagead2.googlesyndication.com, c0.wp.com, stats.wp.com, canadaitclub.ca
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, image-*, body-*, has-*, elementor-*, e-*, apus-*, wrapper-*, hidden-*, header-*, flex-*, ali-*, btn-*, ti-*, offcanvas-*, middle-*, navbar-*, menu-*, sub-*, text-*, label-*, over-*, col-*, justify-*, visible-*, main-*, no-*, aligned-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+WordPress, Google Analytics, Google Tag Manager
+
+Home - Canada IT Club
+## The Most Trusted
+Job Board In Canada
+Find your perfect job match in Canada.
+An initiative by Canada IT Club.
+#### Canada IT Club launches Whatsapp Channel. Get the jobs in your inbox
+Whatsapp Channel
+Blogs
+Events
+Podcast
+## Popular Job Categories
+View More
+####
+Agile & Project Management
+####
+Software Development
+####
+Data Science and Analytics
+####
+Quality Assurance and Testing
+####
+Business Analysis
+####
+IT Infrastructure and Operations
+01
+### Create an account
+Require admin approval
+02
+### Post Jobs
+03
+### Review Applications
+### Explore exciting opportunities
+-
+For job seekers present in Canada
+-
+You should be authorized to work in Canada
+-
+You should be physically present in Canada
+Find Jobs
+## Streamline the job applications
+-
+Post the Jobs easily
+-
+Streamline Candidate Management
+-
+Access to potential candidates located in Canada
+Post a Job
+We’re excited to announce that recruiters on boarding will commence shortly, allowing you to post jobs directly on our website. If you’re interested in getting on boarded, please send an email to hello@canadaitclub.ca . We look forward to welcoming you to our platform!
+## Frequently Asked Questions
+What is Canada IT Club?
+Canada IT Club is a dynamic community that brings together IT professionals from across Canada, fostering collaboration, knowledge sharing, and career growth.
+With a mission to connect, empower, and inspire IT talent, Canada IT Club serves as a hub for networking, learning, and exploring new opportunities in the ever-evolving world of technology.
+How long will the jobs be displayed in this site?
+In contrast to other job boards, we maintain a policy of promptly removing expired listings to ensure our platform is consistently updated with the latest and most authentic job opportunities. Jobs are removed under the following circumstances:
+- When a recruiter marks it as filled
+- When the recruiter chooses to remove the listing
+- Automatically archived after 15 days of posting.
+I am outside of Canada. Can I apply for jobs?
+Unfortunately you are not eligible to apply. These jobs are purely for IT professionals in Canada. You have to meet these conditions to apply for jobs.
+- You should be physically present in Canada
+- You should be authorized to work in Canada
+*People in visitor visa or Students in study permit may not be eligible to apply for these jobs.
+Will these jobs process LMIA?
+Sorry, You need to be authorized to work in Canada for applying these jobs. These jobs will NOT process LMIA or work permit.
+What is the process of requesting a new feature or reporting any issues?
+Please send an email to hello@canadaitclub.ca .
+We are committed to enhancing our platform’s features continually. Operating within an agile model, we strive to roll out new features and updates every two weeks to provide you with the best possible experience.
+Canada IT Club is a dynamic community that brings together IT professionals from across Canada, fostering collaboration, knowledge sharing, and career growth.
+## Helpful Resources
+- About Us
+- Privacy Policy
+- Terms & Conditions
+## Reach Us
+Linkedin
+Whatsapp
+Youtube
+Instagram
+## Request Feature / Send Feedback
+Email: hello@canadaitclub.ca
+© 2024Canada IT Club. All Right Reserved.
+
+
+--- PAGE STRATÉGIQUE : https://www.canadaitclub.ca/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://canadaitclub.ca/wp-json/>; rel="https://api.w.org/"
+<https://canadaitclub.ca/wp-json/wp/v2/pages/823>; rel="alternate"; title="JSON"; type="application/json"
+<https://canadaitclub.ca/>; rel=shortlink
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.googletagmanager.com, pagead2.googlesyndication.com, c0.wp.com, stats.wp.com, canadaitclub.ca
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, image-*, body-*, has-*, elementor-*, e-*, apus-*, wrapper-*, hidden-*, header-*, flex-*, ali-*, btn-*, ti-*, offcanvas-*, middle-*, navbar-*, menu-*, sub-*, text-*, label-*, over-*, col-*, justify-*, visible-*, main-*, no-*, aligned-*
+===================================
+Home - Canada IT Club
+## The Most Trusted
+Job Board In Canada
+Find your perfect job match in Canada.
+An initiative by Canada IT Club.
+#### Canada IT Club launches Whatsapp Channel. Get the jobs in your inbox
+Whatsapp Channel
+Blogs
+Events
+Podcast
+## Popular Job Categories
+View More
+####
+Agile & Project Management
+####
+Software Development
+####
+Data Science and Analytics
+####
+Quality Assurance and Testing
+####
+Business Analysis
+####
+IT Infrastructure and Operations
+01
+### Create an account
+Require admin approval
+02
+### Post Jobs
+03
+### Review Applications
+### Explore exciting opportunities
+-
+For job seekers present in Canada
+-
+You should be authorized to work in Canada
+-
+You should be physically present in Canada
+Find Jobs
+## Streamline the job applications
+-
+Post the Jobs easily
+-
+Streamline Candidate Management
+-
+Access to potential candidates located in Canada
+Post a Job
+We’re excited to announce that recruiters on boarding will commence shortly, allowing you to post jobs directly on our website. If you’re interested in getting on boarded, please send an email to hello@canadaitclub.ca . We look forward to welcoming you to our platform!
+## Frequently Asked Questions
+What is Canada IT Club?
+Canada IT Club is a dynamic community that brings together IT professionals from across Canada, fostering collaboration, knowledge sharing, and career growth.
+With a mission to connect, empower, and inspire IT talent, Canada IT Club serves as a hub for networking, learning, and exploring new opportunities in the ever-evolving world of technology.
+How long will the jobs be displayed in this site?
+In contrast to other job boards, we maintain a policy of promptly removing expired listings to ensure our platform is consistently updated with the latest and most authentic job opportunities. Jobs are removed under the following circumstances:
+- When a recruiter marks it as filled
+- When the recruiter chooses to remove the listing
+- Automatically archived after 15 days of posting.
+I am outside of Canada. Can I apply for jobs?
+Unfortunately you are not eligible to apply. These jobs are purely for IT professionals in Canada. You have to meet these conditions to apply for jobs.
+- You should be physically present in Canada
+- You should be authorized to work in Canada
+*People in visitor visa or Students in study permit may not be eligible to apply for these jobs.
+Will these jobs process LMIA?
+Sorry, You need to be authorized to work in Canada for applying these jobs. These jobs will NOT process LMIA or work permit.
+What is the process of requesting a new feature or reporting any issues?
+Please send an email to hello@canadaitclub.ca .
+We are committed to enhancing our platform’s features continually. Operating within an agile model, we strive to roll out new features and updates every two weeks to provide you with the best possible experience.
+Canada IT Club is a dynamic community that brings together IT professionals from across Canada, fostering collaboration, knowledge sharing, and career growth.
+## Helpful Resources
+- About Us
+- Privacy Policy
+- Terms & Conditions
+## Reach Us
+Linkedin
+Whatsapp
+Youtube
+Instagram
+## Request Feature / Send Feedback
+Email: hello@canadaitclub.ca
+© 2024Canada IT Club. All Right Reserved.
+
+
+--- PAGE STRATÉGIQUE : https://www.canadaitclub.ca/about-us/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://canadaitclub.ca/wp-json/>; rel="https://api.w.org/"
+<https://canadaitclub.ca/wp-json/wp/v2/pages/2165>; rel="alternate"; title="JSON"; type="application/json"
+<https://canadaitclub.ca/?p=2165>; rel=shortlink
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.googletagmanager.com, pagead2.googlesyndication.com, c0.wp.com, www.youtube.com, stats.wp.com, canadaitclub.ca
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, image-*, body-*, has-*, elementor-*, e-*, apus-*, wrapper-*, hidden-*, header-*, flex-*, ali-*, btn-*, ti-*, offcanvas-*, middle-*, navbar-*, menu-*, sub-*, text-*, label-*, over-*, col-*, justify-*, visible-*, main-*, no-*, aligned-*
+===================================
+About Us - Canada IT Club
+# About Us
+Home / About Us
+### Connect
+Connect with IT professionals from Canada
+### Professional Network
+Improve your professional network in Canada
+### Share Knowledge
+Upgrade your knowledge about the Canada IT market
+### Meetup Events
+Meetup events on latest technology trends
+LINKED-IN
+WHATSAPP
+YOUTUBE
+INSTAGRAM
+GET HIRED
+NEWS LETTER
+Canada IT Club is a dynamic community that brings together IT professionals from across Canada, fostering collaboration, knowledge sharing, and career growth. With a mission to connect, empower, and inspire IT talent, Canada IT Club serves as a hub for networking, learning, and exploring new opportunities in the ever-evolving world of technology.
+At Canada IT Club, we recognize the power of building strong connections within the IT industry. Through our events, webinars, and online forums, IT professionals can interact with like-minded individuals, exchange ideas, and gain valuable insights from industry experts. Whether you are a seasoned IT veteran or just starting your career, Canada IT Club provides a supportive environment to expand your professional network and enhance your skills.
+One of the core focuses of Canada IT Club is driving innovation in the IT sector. We believe that innovation is the key to staying competitive and driving positive change. Through our initiatives, we encourage IT professionals to explore emerging technologies, share innovative ideas, and collaborate on projects that push the boundaries of what is possible.
+Canada IT Club also serves as a platform for continuous learning and professional development. We offer a range of resources, including educational webinars, workshops, and industry-specific insights, to help our members stay updated on the latest trends and developments in the IT field. From technical skills to leadership and management capabilities, Canada IT Club strives to equip IT professionals with the tools they need to excel in their careers.
+Joining Canada IT Club not only opens doors to new opportunities but also enables you to make a positive impact on the IT community. By participating in volunteer programs, mentoring initiatives, and knowledge-sharing activities, you can contribute to the growth and success of fellow IT professionals.
+In summary, Canada IT Club is a vibrant community that connects IT professionals, fosters innovation, and promotes continuous learning. Whether you are seeking career guidance, looking to expand your network, or simply want to stay connected with the latest industry trends, Canada IT Club is the ideal platform to support your professional growth and make meaningful connections within the Canadian IT landscape.
+## Founder
+Sudheer Naik, the founder of Canada IT Club, started this initiative inspired by his own challenges during his job search journey in Canada. Determined to ease the path for others, Sudheer has become a driving force in supporting IT professionals and job seekers across the country. He has hosted over 400 podcasts and training sessions on LinkedIn, offering valuable insights and strategies to help individuals boost their careers.
+Under his leadership, Canada IT Club has grown into a trusted community, fostering professional growth and empowering IT talent in Canada.
+You can watch the past podcasts here: Canada IT Club – Youtube
+Canada IT Club is a dynamic community that brings together IT professionals from across Canada, fostering collaboration, knowledge sharing, and career growth.
+## Helpful Resources
+- About Us
+- Privacy Policy
+- Terms & Conditions
+## Reach Us
+Linkedin
+Whatsapp
+Youtube
+Instagram
+## Request Feature / Send Feedback
+Email: hello@canadaitclub.ca
+© 2024Canada IT Club. All Right Reserved.
+
+
+--- PAGE STRATÉGIQUE : https://www.canadaitclub.ca/contact-us/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://canadaitclub.ca/wp-json/>; rel="https://api.w.org/"
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+stats.wp.com, www.googletagmanager.com, c0.wp.com, canadaitclub.ca
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, image-*, body-*, has-*, elementor-*, e-*, apus-*, wrapper-*, hidden-*, header-*, flex-*, ali-*, btn-*, ti-*, offcanvas-*, middle-*, navbar-*, menu-*, sub-*, text-*, label-*, over-*, col-*, justify-*, visible-*, main-*, no-*, aligned-*, dropdown-*
+===================================
+Page not found - Canada IT Club
+####
+404
+Sorry but the page you are looking for does not exist, have been removed, name changed or is temporarity unavailable.
+Go To Home Page
+Canada IT Club is a dynamic community that brings together IT professionals from across Canada, fostering collaboration, knowledge sharing, and career growth.
+## Helpful Resources
+- About Us
+- Privacy Policy
+- Terms & Conditions
+## Reach Us
+Linkedin
+Whatsapp
+Youtube
+Instagram
+## Request Feature / Send Feedback
+Email: hello@canadaitclub.ca
+© 2024Canada IT Club. All Right Reserved.

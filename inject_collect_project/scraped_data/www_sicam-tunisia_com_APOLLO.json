@@ -1,0 +1,154 @@
+{
+    "identity": {
+        "domain": {
+            "value": "www.sicam-tunisia.com",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "SICAM",
+            "confidence": 0.95,
+            "source": "Page d'accueil"
+        },
+        "industry": {
+            "value": "Transformation de produits agricoles, Agroalimentaire",
+            "confidence": 0.9,
+            "source": "Site web / description des produits"
+        },
+        "founded_year": {
+            "value": 1969,
+            "confidence": 1.0,
+            "source": "Page d'accueil"
+        },
+        "short_description": {
+            "value": "SICAM est le leader tunisien de la transformation de tomates depuis 1969, reconnu pour ses produits certifiés Zéro Résidu de Pesticides (ZRP), son engagement pour l'agriculture durable et la qualité 100% tunisienne, exportant vers plus de 30 pays.",
+            "confidence": 0.9,
+            "source": "Page d'accueil"
+        },
+        "seo_description": {
+            "value": "Découvrez SICAM, N°1 tunisien des tomates pelées concassées. Expert depuis 1969, certifié Zéro Résidu de Pesticides (ZRP) et engagé pour une qualité 100% tunisienne. Exportation vers +30 pays.",
+            "confidence": 0.85,
+            "source": "Déduction à partir des titres et textes clés de la page d'accueil"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Information non trouvée dans le texte"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Information non trouvée dans le texte"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Information non trouvée dans le texte"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Information non trouvée dans le texte"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Information non trouvée dans le texte"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Information non trouvée dans le texte du site web"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/SICAMTunisia",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Information non trouvée dans le texte"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.7,
+            "source": "Aucune indication de filiale dans le texte, l'entreprise se positionne comme un leader indépendant en Tunisie"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Information non trouvée dans le texte"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Information non trouvée dans le texte"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.1,
+            "source": "Information non trouvée dans le texte"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Beja, Tunisia",
+            "confidence": 0.7,
+            "source": "Directive de ciblage"
+        },
+        "city": {
+            "value": "Beja",
+            "confidence": 0.9,
+            "source": "Directive de ciblage"
+        },
+        "country": {
+            "value": "Tunisia",
+            "confidence": 0.9,
+            "source": "Directive de ciblage et contenu du site"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Tailwind CSS",
+            "category": "CSS Framework",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Préfixes CSS détectés: min-*, flex-*, font-*, bg-*, shadow-*, py-*, mx-*, px-*, md:px-*, items-*, justify-*, h-*, md:h-*, w-*, object-*, hover:scale-*, gap-*, text-*, p-*, rounded-*)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "tomates, transformation, agroalimentaire, Zéro Résidu de Pesticides, ZRP, Tunisie, agriculture durable, export, produits tunisiens, qualité alimentaire, concentré de tomates",
+        "confidence": 0.85,
+        "source": "Site web / page d'accueil"
+    },
+    "data_quality_score": {
+        "value": 0.55,
+        "confidence": 0.9,
+        "source": "Analyse de complétude et qualité des données extraites"
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Sticap",
+            "Jadida",
+            "Société Africaine des Conserves (SAC)",
+            "Mabrouka"
+        ]
+    }
+}

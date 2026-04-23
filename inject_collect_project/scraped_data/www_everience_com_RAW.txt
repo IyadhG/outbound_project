@@ -1,0 +1,174 @@
+--- PAGE D'ACCUEIL : Everience | Conseil & services numériques augmentés ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Jeanne d'Arc, Tunisia
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: Apache
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+scripts.clarity.ms, www.googletagmanager.com, www.everience.com, static.axept.io, www.clarity.ms
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+no-*, yoast-*, wp-*, page-*, js-*, w-*, py-*, bg-*, text-*, items-*, justify-*, gap-*, px-*, z-*, lg:px-*, lg:h-*, lg:gap-*, lg:items-*, lg:w-*, lg:mr-*, max-*, line-*, hover:no-*, have-*, headroom-*, a11y-*, ml-*, mr-*, lg:pl-*, menu-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Tag Manager, WordPress
+
+Everience | Conseil & services numériques augmentés
+#
+Bienvenue dans l’Ère
+Symbiotique
+Groupe international de conseil et de services numériques augmentés,
+Everience guide les organisations pour orchestrer la symbiose homme – IA en entreprise.
+##
+Des expertises humaines et technologiques
+​
+###
+IA générative
+###
+Expérience employé
+###
+Data
+###
+Cybersécurité
+###
+Cloud & Infra
+###
+Intelligent Workplace
+###
+Conseil
+###
+Numérique responsable
+###
+Développement applicatif
+###
+Gestion des actifs IT
+##
+Une approche globale,
+une efficacité ciblée
+Everience accompagne chaque client à travers le monde avec une même ambition : mettre le potentiel de l’IA au service des métiers, et en faire un levier de compétitivité et de croissance responsable.
+Découvrir le groupe
+-
+23
+pays
+-
++200
+clients
+-
++4000
+collaborateurs
+Nos marques
+Notre Symbiotic Academy
+Ils nous font confiance
+##
+Construisons ensemble un avenir symbiotique
+Votre carrière
+### Devenez acteur d’une nouvelle ère dans laquelle l’Homme et la technologie coopèrent de manière vertueuse
+Rejoindre Everience , c’est intégrer une entreprise pionnière d’une nouvelle ère où l’IA décuple les talents et ouvre de nouvelles perspectives de carrière. Ici, chaque projet est une occasion d’apprendre, d’innover et de participer à des transformations qui comptent. En rejoignant nos équipes, vous contribuez à transformer durablement les entreprises et à façonner un avenir désirable pour tous.
+Pourquoi nous rejoindre
+-
+Intégration
+-
+Formation
+-
+Evolution
+##
+Nos marques
+-
+-
+-
+-
+-
+-
+Trouvons ensemble votre solution symbiotique
+Le site Everience ne correspond pas à votre zone géographique
+Vous pouvez choisir le pays et la langue qui vous conviennent le mieux pour accéder au contenu adapté à votre région, ou poursuivre sur ce site.
+Français
+Belgium - English
+English
+Roumanie - Français
+Romania - English
+Tunisie - Français
+Germany - English
+Deutschland - Deutsch
+België - Néerlandais
+Italia - Italiano
+Belgique - Français
+
+
+--- PAGE STRATÉGIQUE : https://www.everience.com/fr/nous-connaitre/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: Apache
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+scripts.clarity.ms, www.googletagmanager.com, www.everience.com, static.axept.io, www.clarity.ms
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+no-*, yoast-*, wp-*, page-*, footer-*, js-*, w-*, py-*, bg-*, text-*, items-*, justify-*, gap-*, px-*, z-*, lg:px-*, lg:h-*, lg:gap-*, lg:items-*, lg:w-*, lg:mr-*, max-*, line-*, hover:no-*, have-*, headroom-*, a11y-*, ml-*, mr-*, lg:pl-*
+===================================
+Groupe Everience  : nous connaître
+Nous connaître
+# Découvrir le groupe Everience
+-
+Welcome to a symbiotic world
+-
+Notre mission
+-
+Notre écosystème de marques
+-
+Le groupe Everience en chiffres
+-
+Nos valeurs
+-
+Gouvernance
+-
+Implantations géographiques
+Everience est un groupe international de conseil et de services numériques augmentés , qui réunit des expertises reconnues en transformation digitale, en intelligence artificielle et en valorisation de la donnée. Nous guidons les organisations, du conseil à l’usage, pour orchestrer la symbiose homme-IA en entreprise et en faire un levier de compétitivité et de croissance responsable.​ En simplifiant la complexité et en insufflant un avenir positif, nous anticipons, innovons et accompagnons les nouveaux besoins des organisations dans un environnement en constante mutation.
+NOTRE VISION
+## Welcome to a symbiotic world
+L’évolution technologique s’accélère. Le digital irrigue désormais chaque strate de l’entreprise et de la société, porté par des ruptures majeures telles que l’IA générative et, demain, la super-intelligence. La technologie n’est plus seulement un outil : elle devient un véritable partenaire avec lequel nous réfléchissons, expérimentons et construisons. Cette coopération, nouvelle étape du lien entre l’humain et la machine, nous l’appelons  l’ère de la symbiotique .
+Plongez dans l'ère symbiotique
+## Notre mission
+Nous guidons les hommes et les organisations dans l’ère symbiotique pour les aider à relever trois grands défis opérationnels, stratégiques et parfois existentiels :
+- Comment ne pas se faire dépasser , mais au contraire tirer individuellement profit de la puissance de la technologie tout en la mettant au service d’une meilleure performance de l’entreprise ? Plus spécifiquement, comment garder le contrôle fonctionnel et éthique sur l’IA mais aussi maîtriser sa consommation énergétique pour réduire son impact environnemental ?
+- Comment ne pas se faire submerger, quand il s’agit de prendre des décisions opérationnelles et stratégique dans un monde de plus en plus complexe qui génère une quantité massive de données au quotidien et des problèmes de sécurité et de confidentialité ?
+- Comment ne pas se faire remplacer ? Préserver son poste, et parfois même sa place dans sa société et dans la Société face à l’IA, l’automatisation ou encore la robotisation…mais aussi saisir de nouvelles opportunités pour faire évoluer ses compétences et prendre de nouvelles responsabilités au sein des entreprises
+## Notre écosystème de marques
+Le groupe Everience, c’est un écosystème de marques complémentaires, chacune experte dans son domaine où l’IA générative est pleinement intégrée : expérience utilisateur, cloud, intelligent workplace, cybersécurité, conseil en transformation et data. Ensemble, elles forment une synergie unique qui nous positionne comme un partenaire stratégique, capable d’accompagner les entreprises dans une transformation globale et durable.
+Découvrir nos marques
+## Le groupe Everience en chiffres
+30
+Années d’existence
+4000
+Collaborateurs
+23
+Pays d’intervention
++200
+Clients
+280 M€
+Chiffre d’affaires
+97%
+Taux de fidélité client
+##
+## Nos valeurs
+Grandir Ensemble
+Parce que le savoir est fait pour être challengé et partagé.
+Nous valorisons l’apprentissage continu et le partage des savoirs pour faire progresser chacun et faire grandir le collectif
+Cultiver la proximité
+Parce que l’Humain est notre moteur.
+Nous sommes présents et engagés au quotidien, aux côtés de nos clients comme de nos équipes, pour bâtir des relations authentiques basées sur l’écoute et la confiance.
+Façonner un avenir désirable
+Parce que demain se pense aujourd’hui.
+Nous innovons chaque jour pour créer un avenir plus durable, plus juste et résolument tourné vers le progrès.
+## Gouvernance
+Bernard LEWIS
+Président, Groupe Everience
+Jérôme LEHMANN
+Directeur général, Groupe Everience
+## Implantations géographiques

@@ -1,0 +1,190 @@
+{
+    "identity": {
+        "domain": {
+            "value": "emploi-tunisie-travail.com",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Emploi-tunisie-travail",
+            "confidence": 0.95,
+            "source": "Page d'accueil"
+        },
+        "industry": {
+            "value": "Job Board, News Portal, Recruitment Information",
+            "confidence": 0.85,
+            "source": "Contenu du site / Titre de la page"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "short_description": {
+            "value": "Portail d'informations sur les concours, offres d'emploi et actualités en Tunisie, couvrant les secteurs public et privé.",
+            "confidence": 0.85,
+            "source": "Page d'accueil / Contenu"
+        },
+        "seo_description": {
+            "value": "Emploi-tunisie-travail – Concours Tunisie 2026 et Offres d'emploi Recrutement 2026",
+            "confidence": 0.9,
+            "source": "Titre de la page d'accueil"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé pour cette entité spécifique"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé pour cette entité spécifique"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé pour cette entité spécifique"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/atcttunisie",
+            "confidence": 0.98,
+            "source": "HTML direct + validation page"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.7,
+            "source": "Déduction: aucune mention de maison mère ou de structure corporative complexe"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Tunis, Tunisia",
+            "confidence": 0.95,
+            "source": "Directive de ciblage"
+        },
+        "city": {
+            "value": "Tunis",
+            "confidence": 0.95,
+            "source": "Directive de ciblage"
+        },
+        "country": {
+            "value": "Tunisia",
+            "confidence": 0.95,
+            "source": "Directive de ciblage"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Cloudflare",
+            "category": "CDN",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Headers HTTP)"
+        },
+        {
+            "name": "PHP",
+            "category": "Programming Language",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Headers HTTP)"
+        },
+        {
+            "name": "WordPress",
+            "category": "CMS",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Headers HTTP, CSS, Regex)"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Scripts Externes, Regex)"
+        },
+        {
+            "name": "Google AdSense",
+            "category": "Advertising",
+            "confidence": 0.9,
+            "source": "Déduction IA depuis empreinte technique (Scripts Externes)"
+        },
+        {
+            "name": "Cloudflare Insights",
+            "category": "Analytics",
+            "confidence": 0.9,
+            "source": "Déduction IA depuis empreinte technique (Scripts Externes)"
+        },
+        {
+            "name": "Who's Amung Us",
+            "category": "Analytics / Web Counter",
+            "confidence": 0.8,
+            "source": "Déduction IA depuis empreinte technique (Scripts Externes)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "emploi, tunisie, travail, concours, recrutement, offres d'emploi, fonction publiques, actualités tunisie, banque, assurances, finance, electronique, expédition, logistique",
+        "confidence": 0.85,
+        "source": "Site / page d'accueil / contenu"
+    },
+    "data_quality_score": {
+        "value": 0.65,
+        "confidence": 0.95,
+        "source": "Évaluation interne basée sur la complétude et la confiance des données existantes (Identité, Localisation, Technologies, Mots-clés élevés; Performance, Financement, Social partiel, Hiérarchie faibles)."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Tanitjobs.com",
+            "Emploi.nat.tn",
+            "Concours.gov.tn",
+            "Bourse-emploi.tn"
+        ]
+    }
+}

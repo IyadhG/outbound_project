@@ -1,0 +1,57 @@
+--- PAGE D'ACCUEIL : Home - ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 127 Boulevard Licenciado Gustavo Diaz Ordaz, Monterrey, Mexico
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://techmahindra.mx/wp-json/>; rel="https://api.w.org/", <https://techmahindra.mx/wp-json/wp/v2/pages/33>; rel="alternate"; title="JSON"; type="application/json", <https://techmahindra.mx/>; rel=shortlink
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+techmahindra.mx, img1.wsimg.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, fl-*, dhf-*, ast-*, astra-*, elementor-*, e-*, skip-*, screen-*, site-*, header-*, main-*, custom-*, navigation-*, submenu-*, stack-*, menu-*, mobile-*, ahfb-*, svg-*, content-*, current-*, wpr-*, animated-*, attachment-*, size-*, footer-*, widget-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+WordPress
+
+Home -
+Skip to content
+Technology services to power your software-driven future
+We are Hybrid Cloud Experts
+## Empowering Tomorrow, Today
+Bridging Possibilities with Cutting-Edge Technology Services.
+About Us
+Our services
+DEVELOPMENT
+We are at the forefront, assisting in modernizing and
+migrating systems using new technologies. With our
+knowledgeable and certified collaborators, we provide the
+best consulting services.
+Learn More
+Connected World.
+Connected Experiences.
+Billion Total Revenue
++USD
+6.5
+Profesionals helping us connect experiences
++
+118
+k
+Global customers (including Fortune 500 companies)
++
+1,014
+Countries where we drive our technology
+73
+## Empowering Innovation,
+Connecting Futures
+Meet the driving force behind cutting-edge solutions and transformative technology at Tech Mahindra.
+Insights
+## Tech Mahindra
+The Place To Be.
+Careers
+Scroll to Top

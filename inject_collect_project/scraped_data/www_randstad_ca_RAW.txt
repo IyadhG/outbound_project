@@ -1,0 +1,468 @@
+--- PAGE D'ACCUEIL : Full-Time Jobs, Temp Jobs, Staffing & Recruitment Agency ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 777 Bay Street, Toronto, Canada
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: AmazonS3
+via: 1.1 85cfaf42f86dcb831d37ddde3f6e2834.cloudfront.net (CloudFront)
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+cdn.cookielaw.org, www.randstad.ca, www.googletagmanager.com, unpkg.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+opco-*, path-*, page-*, dialog-*, rel_z-*, rel_bg-*, lg:rel_items-*, lg:rel_mx-*, lg:rel_grid-*, lg:rel_flex-*, max-*, rel_w-*, lg:rel_pb-*, lg:rel_pt-*, rel_mx-*, rel_gap-*, rel_pb-*, rel_pt-*, rel_text-*, lg:rel_w-*, lg:rel_justify-*, !rel_text-*, hover:!rel_text-*, active:!rel_text-*, rel_flex-*, lg:rel_gap-*, lg:rel_text-*, rel_c_megamenu__language-*, rel_box-*, rel_items-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Tag Manager
+
+Full-Time Jobs, Temp Jobs, Staffing & Recruitment Agency
+##
+be aware.
+Individuals unconnected to Randstad are increasingly impersonating recruiters, contacting people about real or fake jobs, and posting fraudulent job ads using the Randstad name and brands without permission. If you have questions, you can find additional resources or contact us directly at scams@randstad.ca .
+## the 2026 salary guide is here.
+Stay competitive in 2026. The 2026 Salary Guide is your tool to stay ahead and attract top talent in a fast-shifting market.
+download the guide
+randstad
+## operational talent solutions.
+Build your team with top operational talent. With the largest pool of pre-qualified candidates, industry expertise, deep insights into operational workforce dynamics, and proven talent validation processes in our specialized talent centers, we’ll help you simplify your recruiting and scale your workforce on demand — quickly and cost-effectively.
+discover our solutions
+the randstad app
+## connect to work – your next shift. your next talent.
+Our new app connects workers with exciting job opportunities and provides employers access to a readily available, reliable workforce.
+discover the app
+randstad
+## professional talent solutions.
+Find in-demand, professional talent — when you need it. By offering a comprehensive set of solutions, backed by our innovative technologies and global footprint, with deep insights into market dynamics, a vast pool of pre-screened candidates, and specialized recruiting and talent management processes, we’ll help you fill crucial roles to bolster growth and agility.
+discover our solutions
+## discover more workplace insights.
+see all articles
+-
+13 April 2026
+###
+five repetitive tasks finance teams automate and what it unlocks.
+-
+07 April 2026
+###
+building your business case for finance automation.
+-
+30 March 2026
+###
+upskill, hire or automate? a data-driven framework to overcome the finance talent shortage.
+-
+23 March 2026
+###
+the silent tax of the accountant shortage.
+-
+16 March 2026
+###
+what does gen z think about manufacturing?
+-
+12 March 2026
+###
+the 2026 skilled trades hiring blueprint for the canadian economy.
+-
+12 March 2026
+###
+the 2026 manufacturing & logistics hiring blueprint for the Canadian economy.
+-
+12 March 2026
+###
+the 2026 finance & accounting hiring framework: here's how to stay ahead.
+## randstad digital.
+We are your strategic partner in digital transformation. Our talent-driven approach allows you to accelerate your technological growth, whether you require agile team augmentation, seamless outsourced solutions, or cutting-edge skills sourced from our global talent hubs. We turn your biggest challenges into quantifiable success.
+discover our solutions
+## partner for talent
+At Randstad, we are committed to providing personalized and effective services to meet your professional aspirations. Our team of experienced recruiters works tirelessly to identify the best opportunities that match your skills and career goals. We believe in building trust and transparency with our candidates, allowing us to successfully support you throughout your professional journey.
+-
+explore
+find a job
+-
+explore
+submit your resume
+Find in-demand, professional talent — when you need it. By offering a comprehensive set of solutions, backed by our innovative technologies and global footprint, with deep insights into market dynamics, a vast pool of pre-screened candidates, and specialized recruiting and talent management processes, we’ll help you fill crucial roles to bolster growth and agility.
+-
+explore
+randstad app
+-
+explore
+career resources
+## best jobs for 2026.
+New goals for your work life? Explore top in-demand jobs and skills across industries to help you understand how you can succeed in your next role.
+explore the opportunities
+## are you ready for your career to take off?
+see all articles
+-
+April 14th, 2026
+###
+lost in translation: how finance teams explain financial risks to a non-tech CEO.
+-
+25 February 2026
+###
+the growth playbook: leadership, resilience, and the power of career ownership.
+-
+25 February 2026
+###
+the trust paradox: how finance leaders can use AI without losing control.
+-
+15 January 2026
+###
+how to register with an employment agency.
+-
+15 January 2026
+###
+how to maximize your chances of getting a job through an employment agency?
+-
+15 January 2026
+###
+how long does it take for an employment agency to find me a job?
+## additional links
+-
+who we are
+-
+why work with randstad
+-
+register for myrandstad
+-
+upload your resume
+-
+set up a job alert
+-
+careers with randstad
+## find a location.
+Connect with an expert recruiter locally.
+advanced search fields
+##
+be on the lookout for scams and cybercrimes.
+Please be aware that there is an increasing number of scams happening in Canada. Scammers pose as a recruiter of a Randstad company by contacting people (e.g., via email, letter, phone, social media, SMS, WhatsApp) about a “suitable position” – either a real vacancy of a Randstad company or a fake one. Alternatively, they may try to tempt people to contact them by placing fake job adverts on employment websites, using the name and/or Randstad brand.
+Scammers request from their “potential victims” that they provide them with all kinds of personal information and sometimes ask them to make one or multiple payments.
+### recommendations for candidates and clients
+In Canada, you can forward any spam text messages to 7726 (SPAM on most keypads). This will instruct your phone provider to block future texts from that number. On whatsapp, we recommend you report the message, block the sender, and delete the message.
+If you have been a victim of a scam, fraud or cybercrime, please contact your local police as soon as possible. If you suspect that you or someone you know has fallen victim to a phishing scam, don’t hesitate to contact the Canadian Anti-Fraud Centre to report it .
+## move your career forward.
+-
+get in touch with a recruiter
+-
+find a job that fits you
+-
+build an attractive resume
+-
+nail that job interview
+-
+move your career forward
+## about cookies
+We use cookies to provide you with a tailored experience, to diagnose technical problems, to help us improve our website. We also use them to offer you more relevant information in searches. You can either accept or decline them, or click "customize" to specify your choice. You can change your options at any time. More information is in our cookie policy.
+## Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer If you would like us to stop sharing your data for the purpose of finding employment,
+please click here to request that we delete your data.
+### Manage Consent Preferences
+#### strictly necessary cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+For more information regarding our use of certain specific cookies, please see the section “information about certain specific cookies”.
+#### performance cookies
+performance cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+#### functional cookies
+functional cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.
+#### targeting cookies
+targeting cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+#### audiovisual cookies
+audiovisual cookies
+Some of our pages display audiovisual content hosted by external providers. To view this content, you must first accept the specific terms and conditions of these providers, including their cookie policies, which are beyond our control. These providers will then place cookies on your browser, which allow them to track your browsing and build a profile of your interests. This may impact the content and messages displayed on other websites you visit. However, if you do not view this content, none of these third-party cookies will be installed on your device.
+### Cookie List
+- checkbox label label Consent Leg.Interest checkbox label label checkbox label label checkbox label label
+
+
+--- PAGE STRATÉGIQUE : https://www.randstad.ca/careers-at-randstad/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: AmazonS3
+via: 1.1 85cfaf42f86dcb831d37ddde3f6e2834.cloudfront.net (CloudFront)
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+cdn.cookielaw.org, www.randstad.ca, www.googletagmanager.com, unpkg.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+opco-*, path-*, page-*, dialog-*, rel_z-*, rel_bg-*, lg:rel_items-*, lg:rel_mx-*, lg:rel_grid-*, lg:rel_flex-*, max-*, rel_w-*, lg:rel_pb-*, lg:rel_pt-*, rel_mx-*, rel_gap-*, rel_pb-*, rel_pt-*, rel_text-*, lg:rel_w-*, lg:rel_justify-*, !rel_text-*, hover:!rel_text-*, active:!rel_text-*, rel_flex-*, lg:rel_gap-*, lg:rel_text-*, rel_c_megamenu__language-*, rel_box-*, rel_items-*
+===================================
+Career Opportunities at Randstad | Randstad Canada
+## our people make us great
+It's no secret: we're high achievers. We push ourselves and each other because we want the best for each other. We want to be challenged to achieve great things. For us, it's about outperforming our own expectations to deliver exceptional results for our clients and our teams.
+## our promise
+Great people, great opportunities. That's our promise to you. We make it a priority to maintain a dynamic workplace where talented recruiters and other professionals can grow and take on new challenges. If our mission and values fit with yours, don't hesitate to apply to join our team!
+apply now
+we have sick days, vacation days, balance days, summer half days... there are ample opportunities to take care of your personal needs and enjoy work-life balance
+our annual charity auction is a unique and wonderful event to raise money for charity. it's been going on for over 20 years and takes place across the country
+I believe in what we stand for and in our culture as a company. we not only serve the community, but we believe strongly in customer service and offering value to those we work with
+I am so proud to work for randstad and contribute to our growth alongside some of the most dedicated and hardworking people I've ever met. it's so much more than a job, this it my home away from home and my second family
+-
+-
+-
+-
+## our core values
+To know. To serve. To trust. Strive for perfection and simultaneous promotion of all interests. This isn't just our mission statement, they're words we live by. We apply our core values to everything we do. It's how we've established ourselves as a leading voice in the world of work.
+## why choose us?
+There's no shortage of great things to say about Randstad, but we'll try to keep it concise.
+- we've been named one of Canada's best workplaces by Great Places to Work for more than 10 years running!
+- we were also named one of the best workplaces for women
+- 3 weeks paid vacation from day one
+- full health & dental benefits
+- we offer RRSP and stock matching
+- ongoing rewards, recognition and training
+apply now
+want to join our team?
+check out our current job openings
+## about cookies
+We use cookies to provide you with a tailored experience, to diagnose technical problems, to help us improve our website. We also use them to offer you more relevant information in searches. You can either accept or decline them, or click "customize" to specify your choice. You can change your options at any time. More information is in our cookie policy.
+## Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer If you would like us to stop sharing your data for the purpose of finding employment,
+please click here to request that we delete your data.
+### Manage Consent Preferences
+#### strictly necessary cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+For more information regarding our use of certain specific cookies, please see the section “information about certain specific cookies”.
+#### performance cookies
+performance cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+#### functional cookies
+functional cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.
+#### targeting cookies
+targeting cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+#### audiovisual cookies
+audiovisual cookies
+Some of our pages display audiovisual content hosted by external providers. To view this content, you must first accept the specific terms and conditions of these providers, including their cookie policies, which are beyond our control. These providers will then place cookies on your browser, which allow them to track your browsing and build a profile of your interests. This may impact the content and messages displayed on other websites you visit. However, if you do not view this content, none of these third-party cookies will be installed on your device.
+### Cookie List
+- checkbox label label Consent Leg.Interest checkbox label label checkbox label label checkbox label label
+
+
+--- PAGE STRATÉGIQUE : https://www.randstad.ca/contact/business/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: AmazonS3
+via: 1.1 85cfaf42f86dcb831d37ddde3f6e2834.cloudfront.net (CloudFront)
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+js.hsforms.net, unpkg.com, www.googletagmanager.com, www.randstad.ca, cdn.cookielaw.org
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+opco-*, path-*, page-*, dialog-*, rel_z-*, rel_bg-*, lg:rel_items-*, lg:rel_mx-*, lg:rel_grid-*, lg:rel_flex-*, max-*, rel_w-*, lg:rel_pb-*, lg:rel_pt-*, rel_mx-*, rel_gap-*, rel_pb-*, rel_pt-*, rel_text-*, lg:rel_w-*, lg:rel_justify-*, !rel_text-*, hover:!rel_text-*, active:!rel_text-*, rel_flex-*, lg:rel_gap-*, lg:rel_text-*, rel_c_megamenu__language-*, rel_box-*, rel_items-*
+===================================
+Top Talent Recruitment Services in Canada | Randstad Canada
+##
+hire smarter. move faster.
+get qualified, job-ready talent with randstad canada.
+Finding the right talent is critical—and how you hire matters. Randstad connects you with reliable, job-ready candidates through flexible, customized solutions tailored to your needs. Whether you’re building your core team or scaling fast with contingent support, we help you hire with confidence—so your business keeps moving forward.
+### why partner with us?
+✔️ Expertise you can trust – Decades of experience, local insight, global reach
+✔️ Tailored solutions – Permanent, temporary, or contract—we adapt to your needs
+✔️ Extensive network – Skilled professionals and dependable frontline workers
+✔️ Strategic support – Talent planning to help you stay competitive
+✔️ Seamless process – From sourcing to onboarding, we’ve got you covered
+#### our services include:
+• Permanent & temporary staffing
+• Contract & executive search
+• Workforce solutions
+###
+ready to find the right talent?
+👉 Fill out the form and we’ll be in touch.
+## let's connect!
+## about cookies
+We use cookies to provide you with a tailored experience, to diagnose technical problems, to help us improve our website. We also use them to offer you more relevant information in searches. You can either accept or decline them, or click "customize" to specify your choice. You can change your options at any time. More information is in our cookie policy.
+## Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer If you would like us to stop sharing your data for the purpose of finding employment,
+please click here to request that we delete your data.
+### Manage Consent Preferences
+#### strictly necessary cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+For more information regarding our use of certain specific cookies, please see the section “information about certain specific cookies”.
+#### performance cookies
+performance cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+#### functional cookies
+functional cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.
+#### targeting cookies
+targeting cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+#### audiovisual cookies
+audiovisual cookies
+Some of our pages display audiovisual content hosted by external providers. To view this content, you must first accept the specific terms and conditions of these providers, including their cookie policies, which are beyond our control. These providers will then place cookies on your browser, which allow them to track your browsing and build a profile of your interests. This may impact the content and messages displayed on other websites you visit. However, if you do not view this content, none of these third-party cookies will be installed on your device.
+### Cookie List
+- checkbox label label Consent Leg.Interest checkbox label label checkbox label label checkbox label label
+
+
+--- PAGE STRATÉGIQUE : https://www.randstad.ca/contact-us/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: AmazonS3
+via: 1.1 85cfaf42f86dcb831d37ddde3f6e2834.cloudfront.net (CloudFront)
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+cdn.cookielaw.org, www.randstad.ca, www.googletagmanager.com, unpkg.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+opco-*, path-*, page-*, dialog-*, rel_z-*, rel_bg-*, lg:rel_items-*, lg:rel_mx-*, lg:rel_grid-*, lg:rel_flex-*, max-*, rel_w-*, lg:rel_pb-*, lg:rel_pt-*, rel_mx-*, rel_gap-*, rel_pb-*, rel_pt-*, rel_text-*, lg:rel_w-*, lg:rel_justify-*, !rel_text-*, hover:!rel_text-*, active:!rel_text-*, rel_flex-*, lg:rel_gap-*, lg:rel_text-*, rel_c_megamenu__language-*, rel_box-*, rel_items-*
+===================================
+Looking for help? Get in touch with us | Randstad Canada
+## how can we help you?
+-
+read more
+i'm a job seeker
+Looking for work, but not sure what jobs are right for you? Upload your resume below and we'll pass it on to a recruiter who specializes in your field. They'll help you zero in on job opportunities that fit with your skills and experience.
+-
+read more
+i'm a company
+Are you searching for top talent to propel your business forward? Look no further! Randstad Canada is your go-to partner for all your recruitment and staffing needs. With our extensive experience and vast network, we connect businesses with the best candidates, helping them achieve their goals and drive success.
+-
+read more
+general requests
+## did you identify a security problem?
+At Randstad, we consider the security of our systems a top priority. But no matter how much effort we put into system security, there can still be vulnerabilities present.
+If you discover a vulnerability, we would like to know about it so we can take steps to address it as quickly as possible. We would like to ask you to help us better protect our clients and our systems.
+report here
+## find a branch
+advanced search fields
+## randstad head office
+-
+11 King St W, Suite 1700, Toronto, ON M5H 4C7, Canada
+-
+address
+11 King St W, Suite 1700, Toronto, ON M5H 4C7, Canada
+-
+phone
+1.800.540.3594
+address
+phone
+11 King St W, Suite 1700, Toronto, ON M5H 4C7, Canada
+1.800.540.3594
+## about cookies
+We use cookies to provide you with a tailored experience, to diagnose technical problems, to help us improve our website. We also use them to offer you more relevant information in searches. You can either accept or decline them, or click "customize" to specify your choice. You can change your options at any time. More information is in our cookie policy.
+## Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer If you would like us to stop sharing your data for the purpose of finding employment,
+please click here to request that we delete your data.
+### Manage Consent Preferences
+#### strictly necessary cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+For more information regarding our use of certain specific cookies, please see the section “information about certain specific cookies”.
+#### performance cookies
+performance cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+#### functional cookies
+functional cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.
+#### targeting cookies
+targeting cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+#### audiovisual cookies
+audiovisual cookies
+Some of our pages display audiovisual content hosted by external providers. To view this content, you must first accept the specific terms and conditions of these providers, including their cookie policies, which are beyond our control. These providers will then place cookies on your browser, which allow them to track your browsing and build a profile of your interests. This may impact the content and messages displayed on other websites you visit. However, if you do not view this content, none of these third-party cookies will be installed on your device.
+### Cookie List
+- checkbox label label Consent Leg.Interest checkbox label label checkbox label label checkbox label label
+
+
+--- PAGE STRATÉGIQUE : https://www.randstad.ca/locations/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: nginx/1.29.3
+via: 1.1 85cfaf42f86dcb831d37ddde3f6e2834.cloudfront.net (CloudFront)
+x-powered-by: Express
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+cdn.cookielaw.org, www.randstad.ca, www.googletagmanager.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+opco-*, has-*, rel_z-*, rel_bg-*, lg:rel_items-*, lg:rel_mx-*, lg:rel_grid-*, lg:rel_flex-*, max-*, rel_w-*, lg:rel_pb-*, lg:rel_pt-*, rel_mx-*, rel_gap-*, rel_pb-*, rel_pt-*, rel_text-*, lg:rel_w-*, lg:rel_justify-*, !rel_text-*, hover:!rel_text-*, active:!rel_text-*, rel_flex-*, lg:rel_gap-*, lg:rel_text-*, rel_c_megamenu__language-*, rel_box-*, rel_items-*, rel_py-*, lg:rel_border-*
+===================================
+Our Locations | Leading HR Services | Randstad Canada
+locations contact us
+- EN
+- FR
+- 0
+- my randstad locations contact us
+- EN
+- FR 26 offices found refine your search filter show 26 results We are the number one recruitment agency, let your local recruitment experts find your perfect job.
+-
+## barrie, ontario
+- 49 high st 3rd floor,
+- suite 335
+- l4n 5j4 barrie
+- 705.735.1106
+- skilled trades and industrial management
+- industrial support
+- industrial management professionals
+- administrative support
+- healthcare more info
+-
+## brantford, ontario
+- 10 stanley street
+- suite 4a
+- n3s 7n4 brantford
+- 519.758.1511
+- skilled trades and industrial management
+- industrial support more info
+-
+## brossard, quebec
+- 3400 de l'eclipse street
+- suite 440
+- j4z 0p3 brossard
+- 450.926.7201
+- skilled trades and industrial management
+- industrial support
+- finance and accounting
+- administrative support
+- healthcare more info
+-
+## burlington, ontario
+- 1100 walkers line
+- suite 105
+- l7n 2g3 burlington
+- 905.637.5366
+- industrial support
+- administrative support more info
+-
+## calgary, alberta (north)
+- 2912 memorial drive se, suite 301
+-
+- t2a 7r9 calgary
+- 403.235.4046
+- skilled trades and industrial management
+- industrial support more info
+## about cookies
+We use cookies to provide you with a tailored experience, to diagnose technical problems, to help us improve our website. We also use them to offer you more relevant information in searches. You can either accept or decline them, or click "customize" to specify your choice. You can change your options at any time. More information is in our cookie policy.
+## Privacy Preference Center
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer If you would like us to stop sharing your data for the purpose of finding employment,
+please click here to request that we delete your data.
+### Manage Consent Preferences
+#### strictly necessary cookies
+Always Active
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+For more information regarding our use of certain specific cookies, please see the section “information about certain specific cookies”.
+#### performance cookies
+performance cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+#### functional cookies
+functional cookies
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.
+#### targeting cookies
+targeting cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+#### audiovisual cookies
+audiovisual cookies
+Some of our pages display audiovisual content hosted by external providers. To view this content, you must first accept the specific terms and conditions of these providers, including their cookie policies, which are beyond our control. These providers will then place cookies on your browser, which allow them to track your browsing and build a profile of your interests. This may impact the content and messages displayed on other websites you visit. However, if you do not view this content, none of these third-party cookies will be installed on your device.
+### Cookie List
+- checkbox label label Consent Leg.Interest checkbox label label checkbox label label checkbox label label

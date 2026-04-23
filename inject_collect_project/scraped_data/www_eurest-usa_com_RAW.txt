@@ -1,0 +1,280 @@
+--- PAGE D'ACCUEIL : HOME - Eurest USA ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 2400 Yorkmont Road, Charlotte, United States
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://www.eurest-usa.com/wp-json/>; rel="https://api.w.org/"
+<https://www.eurest-usa.com/wp-json/wp/v2/pages/642>; rel="alternate"; title="JSON"; type="application/json"
+<https://www.eurest-usa.com/>; rel=shortlink
+server: cloudflare
+x-powered-by: WP Engine
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.eurest-usa.com, www.googletagmanager.com, scripts.clarity.ms, buttons-config.sharethis.com, platform-api.sharethis.com, s7.addthis.com, www.clarity.ms
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, rs-*, visually-*, main-*, menu-*, sub-*, current-*, mobile-*, revslider-*, block-*, background-*, text-*, card-*, no-*, footer-*, list-*, social-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Tag Manager, Google Analytics, WordPress
+
+HOME - Eurest USA
+A great guest experience starts with
+food
+guest experiences
+wellness
+inclusion
+sustainability
+partnership
+community
+food
+# Who We Are
+Delivering memorable food and guest experiences, Eurest is the leader in hospitality, foodservice and culinary excellence setting the table for our nation’s workforce and industries.
+We are innovators in creating solutions that are limitless, providing nourishment in healthy, sustainable environments and continually designing a better future for all.
+Learn More
+## OUR BREAD AND BUTTER IS
+YOUR TOAST AND JAM
+For more than 50 years, the Eurest brand has supported clients across the world, delivering restaurant quality foodservice in corporate and office settings. Today, Eurest USA partners with more than 58% of the Fortune 100, serving a wide variety of industries including technology, finance, life sciences, manufacturing, oil and gas, healthcare, casinos and airport lounges.
+Learn More
+## 1.4 M
+#### MEALS
+PER DAY
+## 16,000 +
+#### TEAM MEMBERS
+## 48
+#### STATES
+D.C. & Puerto Rico
+## 6,000
+#### CULINARY
+ROLES
+## ELEVATE THE WORKPLACE EXPERIENCE
+Work shouldn’t be boring. We partner with our clients as an amenity provider to create one-of-a-kind, customizable food experiences that create connection and help people thrive.
+Learn More
+## LEAD IN CULINARY EXCELLENCE
+With decades of experience and acute knowledge of flavor profiles, ingredients and food origins, our chefs create food experiences that rival your city’s best restaurants. We provide service nationwide, curated for each market, driven by authenticity and a deep understanding of our guests.
+Learn More
+## CARE FOR PEOPLE AND PLANET
+We work to leverage our influence to build a better future for all. Our Food with Purpose, Better Together and Eurest Cares platforms are designed to infuse wellness, sustainability, diversity and inclusion into everything we do with a people-first, community-focused mindset.
+Learn More
+## INNOVATE FOR TOMORROW
+Hospitality is about meeting people’s needs. Speed, convenience, security and variety are some of the needs we know our clients and guests have. Our in-house solutions and partnership network allow us to remain cutting edge and deliver.
+Learn More
+## Join Our Team
+Come work with us to create a food experience the nation’s top brands and employers will never forget!
+View Opportunities
+
+
+--- PAGE STRATÉGIQUE : https://www.eurest-usa.com/our-impact/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://www.eurest-usa.com/wp-json/>; rel="https://api.w.org/"
+<https://www.eurest-usa.com/wp-json/wp/v2/pages/740>; rel="alternate"; title="JSON"; type="application/json"
+<https://www.eurest-usa.com/?p=740>; rel=shortlink
+server: cloudflare
+x-powered-by: WP Engine
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.eurest-usa.com, www.googletagmanager.com, scripts.clarity.ms, buttons-config.sharethis.com, platform-api.sharethis.com, s7.addthis.com, www.clarity.ms
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, parent-*, rs-*, visually-*, main-*, menu-*, sub-*, current-*, mobile-*, revslider-*, tp-*, block-*, background-*, text-*, size-*, columns-*, col-*, column-*, link-*, img-*, btn-*, lity-*, image-*, card-*, with-*, company-*, slick-*, overlay-*
+===================================
+Food with Purpose - Eurest USA
+Watch our video
+We understand the tremendous impact we can have on healthy living for all which is one of the main drivers of our wellness and sustainability platform, Food with Purpose, designed for the good of people and planet. Whatever Eurest does, you will find Food with Purpose at the core of it. The platform is the foundation of meaningful initiatives we lead, influence and leverage for health and well-being, environmental and social change. including the ingredients we use and recipes we create, and the passion of our people who want to make a difference in the workplace and beyond.
+## ADVOCATING FOR GOOD
+Open
+## Our Global Roadmap to Net Zero
+Read more about our Global Sustainability Strategy responding to global challenges by aligning our priorities with the UN Sustainable Development Goals.
+Learn More
+## The Guest Experience
+We’ve assembled an incredible team of Registered Dietitian Nutritionists and Chefs who are passionate about helping our guests have fun with food while learning how to take care of their health and the planet. With our vast portfolio of solutions, we’ve developed a wide range of programming.
+Teaching Kitchens, Chef Tables, community outreach, monthly promotions, culinary concepts, nutrition tips and recipes are just a few examples of the many ways we’re empowering our guests to make informed, healthy, and sustainable food choices.
+“Imagine what our world could look like if we prioritize making a difference for people and our planet, both at home and work. There is power in purpose.” - Suzanne Landry Vice President of Wellness and Sustainability
+## Partners With Purpose
+Eurest has strategic and collaborative partnerships with a wide variety of industry leaders who share our mission of working for the good of people and planet.
+
+
+--- PAGE STRATÉGIQUE : https://www.eurest-usa.com/our-news/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://www.eurest-usa.com/wp-json/>; rel="https://api.w.org/"
+<https://www.eurest-usa.com/wp-json/wp/v2/pages/3192>; rel="alternate"; title="JSON"; type="application/json"
+<https://www.eurest-usa.com/?p=3192>; rel=shortlink
+server: cloudflare
+x-powered-by: WP Engine
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.eurest-usa.com, www.googletagmanager.com, scripts.clarity.ms, buttons-config.sharethis.com, platform-api.sharethis.com, s7.addthis.com, www.clarity.ms
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, rs-*, visually-*, main-*, menu-*, sub-*, current-*, mobile-*, block-*, background-*, text-*, news-*, new-*, slideshow-*, revslider-*, tp-*, nav-*, alm-*, ajax-*, post-*, list-*, social-*, fa-*, sbi-*, svg-*, columns-*, col-*, column-*
+===================================
+Our News - Eurest USA
+# Latest News Releases
+Discover how we’re making an impact locally and globally, read the stories of our people, access chef-driven recipes, and much more right here.
+Eurest Named a 2026 Training MVP Award Recipient
+Eurest has been named a recipient of Training magazine’s 2026 Training MVP Award, earning national recognition for excellence in training and development.
+Eurest Debuts New Brand Identity as Footprint Expands Across Food and Hospitality
+Brand evolution reflects Eurest’s growth across new industries and settings.
+Has Eurest Found the Cure for a Case of the Mondays?
+The culinary minds at Eurest have been hard at work at what they are touting as the antidote to the Monday Blues: a new experience-driven, data-based campaign called Good Mood Mondays.
+Eurest Team Members Saved Five Lives through CPR Training
+One life-changing moment turned into an empowering life-saving movement across Eurest, resulting in more than 1,000 managers completing CPR training and five lives saved.
+Eurest Partners with Farmer Brothers' Sum>One Program, Supporting Value and Storytelling
+Eurest is introducing Sum>One Coffee Roasters, Farmer Brothers Coffee Co.’s specialty coffee brand, as an innovative offering that blends café-level flavor with purpose-driven sourcing,
+Eurest and Purely Elizabeth Join Forces to Bring Organic Ancient Grain Granola to Foodservice
+Purely Elizabeth’s Original Organic Ancient Grain Granola will be used in a variety of ways at breakfast, lunch and catering events.
+Eurest Honored by American Business Awards as Company of the Year in Food and Beverage
+The American Business Awards is the premier accolade for excellence in the workplace.
+Eurest & ESFM Provide Paid Volunteer Time Off to Empower Employee Community Engagement
+Expanding their commitment to service and community impact, Eurest and ESFM are now offering a new employee benefit for salaried team members: Volunteer Time Off (VTO).
+All Categories Community Culinary Culinary Excellence Experience Food with Purpose Guest Experience Hospitality Inclusion Innovation Life at Eurest People Recipes Well-being & Sustainability
+January 29, 2026
+### Eurest Named a 2026 Training MVP Award Recipient
+Eurest has been named a recipient of Training magazine’s 2026 Training MVP Award, earning national recognition for excellence in training and development.
+Read More
+January 27, 2026
+### Eurest Debuts New Brand Identity as Footprint Expands Across Food and Hospitality
+Brand evolution reflects Eurest’s growth across new industries and settings.
+Read More
+December 05, 2025
+### Has Eurest Found the Cure for a Case of the Mondays?
+The culinary minds at Eurest have been hard at work at what they are touting as the antidote to the Monday Blues: a new experience-driven, data-based campaign called Good Mood Mondays.
+Read More
+October 15, 2025
+### Eurest Team Members Saved Five Lives through CPR Training
+One life-changing moment turned into an empowering life-saving movement across Eurest, resulting in more than 1,000 managers completing CPR training and five lives saved.
+Read More
+## Eurest Blog
+Discover how we’re making an impact locally and globally, read the stories of our people, access chef-driven recipes, and much more right here.
+April 01, 2026
+### Wellbeing at Work: The Dietitians Behind Your Experience
+The food people eat at work can genuinely improve their health, mood, and even their relationships. Eurest dietitians work behind the scenes every day to make that a reality.
+Read More
+March 19, 2026
+### 25 Years in the Making. One Philly Hoagie at a Time.
+Eurest’s new deli concept, Uncle Joey’s Hot Deli, brings the soul of Philadelphia’s legendary deli culture to guests nationwide while paying tribute to a culinary legend.
+Read More
+## Follow Us
+- linkedin
+- facebook
+- instagram
+## Connect With Us
+### eurestusa
+Leading foodservice provider for the business & industry market
+Our Food with Purpose platform is designed to make
+The Rainbow Chia Bowl has become a quiet guest fav
+Before people gather, connect, and recharge over f
+This leek-seared salmon dish pairs roasted broccol
+We were proud to bring a special culinary touch to
+What began as an ordinary Friday turned into a lif
+Join us in congratulating our team at CALstrs in C
+If you could go back in time, what would you tell
+Follow on Instagram
+### Eurest TV
+Eurest TV brings you closer to the people, stories, and ideas shaping our company and the food service industry. From expert interviews to behind-the-scenes moments and in-depth features, it’s your window into how we work, innovate, and move the industry forward.
+View More
+
+
+--- PAGE STRATÉGIQUE : https://www.eurest-usa.com/pressroom/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://www.eurest-usa.com/wp-json/>; rel="https://api.w.org/"
+<https://www.eurest-usa.com/wp-json/wp/v2/pages/3196>; rel="alternate"; title="JSON"; type="application/json"
+<https://www.eurest-usa.com/?p=3196>; rel=shortlink
+server: cloudflare
+x-powered-by: WP Engine
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.eurest-usa.com, www.googletagmanager.com, scripts.clarity.ms, buttons-config.sharethis.com, platform-api.sharethis.com, s7.addthis.com, www.clarity.ms
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+yoast-*, wp-*, page-*, visually-*, main-*, menu-*, sub-*, current-*, mobile-*, block-*, background-*, text-*, news-*, press-*, alm-*, flatpickr-*, ajax-*, post-*, attachment-*, size-*, cat-*, footer-*, list-*, social-*, cur-*
+===================================
+Press Room - Eurest USA
+# Press Room
+Welcome to the Eurest USA Press Room, your source for company news, official press releases, and media resources.
+Date Range
+January 29, 2026
+### Eurest Named a 2026 Training MVP Award Recipient
+Eurest has been named a recipient of Training magazine’s 2026 Training MVP Award, earning national recognition for excellence in training and development.
+Read More
+January 27, 2026
+### Eurest Debuts New Brand Identity as Footprint Expands Across Food and Hospitality
+Brand evolution reflects Eurest’s growth across new industries and settings.
+Read More
+December 05, 2025
+### Has Eurest Found the Cure for a Case of the Mondays?
+The culinary minds at Eurest have been hard at work at what they are touting as the antidote to the Monday Blues: a new experience-driven, data-based campaign called Good Mood Mondays.
+Read More
+October 15, 2025
+### Eurest Team Members Saved Five Lives through CPR Training
+One life-changing moment turned into an empowering life-saving movement across Eurest, resulting in more than 1,000 managers completing CPR training and five lives saved.
+Read More
+October 02, 2025
+### Eurest Partners with Farmer Brothers’ Sum>One Program, Supporting Value and Storytelling
+Eurest is introducing Sum>One Coffee Roasters, Farmer Brothers Coffee Co.’s specialty coffee brand, as an innovative offering that blends café-level flavor with purpose-driven sourcing,
+Read More
+April 28, 2025
+### Eurest Honored by American Business Awards as Company of the Year in Food and Beverage
+The American Business Awards is the premier accolade for excellence in the workplace.
+Read More
+April 07, 2025
+### Eurest & ESFM Provide Paid Volunteer Time Off to Empower Employee Community Engagement
+Expanding their commitment to service and community impact, Eurest and ESFM are now offering a new employee benefit for salaried team members: Volunteer Time Off (VTO).
+Read More
+April 02, 2025
+### Eurest Welcomes Actual Veggies as Veggie Burger Supplier
+Eurest now serving Actual Veggies popular chef-crafted Black Bean Burger.
+Read More
+March 25, 2025
+### Eurest and Purely Elizabeth Join Forces to Bring Organic Ancient Grain Granola to Foodservice
+Purely Elizabeth’s Original Organic Ancient Grain Granola will be used in a variety of ways at breakfast, lunch and catering events.
+Read More
+January 27, 2025
+### Eurest Fuels Coffee Innovation with Direct Coffee Roasters
+Eurest introduces new sustainably sourced coffee brand with Farmer Brothers, including 11 proprietary blends.
+Read More
+January 09, 2025
+### Eurest Releases 2025 Trending Food Experiences
+Eurest predicts guest expectation shift from fast casual convenience to social staples as workplace dynamics evolve.
+Read More
+November 11, 2024
+### Eurest Welcomes Veterans Through Department of Defense Partnership
+As a leading participant of the SkillBridge program within Compass Group USA, Eurest has placed veterans into foodservice and hospitality roles in cities coast to coast.
+Read More
+- «
+- 1
+- 2
+- »
+### Media Inquries
+For inquiries or story opportunities, please contact Jenna Wilson, Vice President of Communications,
+at jenna.wilson@compass-usa.com .
+### Collections
+- Change Maker
+- Community
+- Culinary
+- Culinary Excellence
+- Experience
+- Feature
+- Food with Purpose
+- Guest Experience
+- Hospitality
+- Inclusion
+- Innovation
+- Life at Eurest
+- People
+- Recipes
+- Story Carousel
+- Well-being & Sustainability
+January February March April May June July August September October November December
+Sun Mon Tue Wed Thu Fri Sat
+29 30 31 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 1 2 3 4 5 6 7 8 9

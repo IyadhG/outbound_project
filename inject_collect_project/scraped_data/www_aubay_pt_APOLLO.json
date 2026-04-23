@@ -1,0 +1,179 @@
+{
+    "identity": {
+        "domain": {
+            "value": "aubay.pt",
+            "confidence": 1.0,
+            "source": "Scraped script source www.aubay.pt"
+        },
+        "name": {
+            "value": "Aubay Portugal",
+            "confidence": 1.0,
+            "source": "Footer copyright and news section titles"
+        },
+        "industry": {
+            "value": "IT Services & IT Consulting",
+            "confidence": 0.95,
+            "source": "Homepage services description"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Not found in text"
+        },
+        "short_description": {
+            "value": "Specialist in IT consulting, team extension, and nearshore projects with a focus on digital transformation and innovative technology solutions.",
+            "confidence": 0.9,
+            "source": "Homepage header content"
+        },
+        "seo_description": {
+            "value": "Inovar na Consultoria em IT com os humanos mais talentosos é a nossa especialidade.",
+            "confidence": 0.9,
+            "source": "Main page H1/Hero text"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Mention of 'Resultados 2025' found but specific financial figures for the Portugal branch are absent"
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.7,
+            "source": "Inferred from Portuguese standard and mention of 2025 annual results"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.5,
+            "source": "Part of a publicly traded corporate group"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Text contains broken specialist count '0 +'"
+        },
+        "latest_funding_stage": {
+            "value": "Public",
+            "confidence": 0.8,
+            "source": "Parent company (Aubay Group) status"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "The scraped content mentions 'Resultados 2025' but provides no specific financial figures for the Portuguese subsidiary."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Not found"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Mention of 'Grupo Aubay' and local CEO José Cruz"
+        },
+        "parent_company": {
+            "value": "Aubay",
+            "confidence": 1.0,
+            "source": "Corporate footer 'Grupo Aubay'"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Not explicitly listed for the local branch"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.5,
+            "source": "None mentioned for the Portugal entity specifically"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Avenida Duque d'Avila, Lisbon, Portugal",
+            "confidence": 1.0,
+            "source": "Target Directive"
+        },
+        "city": {
+            "value": "Lisbon",
+            "confidence": 1.0,
+            "source": "Target Directive"
+        },
+        "country": {
+            "value": "Portugal",
+            "confidence": 1.0,
+            "source": "Target Directive"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Next.js",
+            "category": "Frontend Framework",
+            "confidence": 0.99,
+            "source": "HTTP header x-powered-by"
+        },
+        {
+            "name": "Vercel",
+            "category": "Hosting",
+            "confidence": 0.99,
+            "source": "HTTP server header"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.99,
+            "source": "External scripts"
+        },
+        {
+            "name": "LinkedIn Insight Tag",
+            "category": "Advertising",
+            "confidence": 0.95,
+            "source": "snap.licdn.com script"
+        },
+        {
+            "name": "Apollo.io",
+            "category": "Sales Intelligence",
+            "confidence": 0.95,
+            "source": "assets.apollo.io script"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Team Extension, Nearshore, IT Consulting, Digital Transformation, Software Factory, Cloud, Cybersecurity, Artificial Intelligence",
+        "confidence": 0.9,
+        "source": "Extracted from services and news sections"
+    },
+    "data_quality_score": {
+        "value": 0.58,
+        "confidence": 1.0,
+        "source": "Identity, hierarchy, and technology sections are well-populated, but the performance and contact sections have significant data gaps (null values)."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Novabase",
+            "Critical Software",
+            "CGI Portugal",
+            "GFT Technologies",
+            "Capgemini Engineering"
+        ]
+    }
+}

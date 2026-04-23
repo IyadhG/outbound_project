@@ -1,0 +1,155 @@
+{
+    "identity": {
+        "domain": {
+            "value": "germanystartupjobs.com",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Germany Startup Jobs",
+            "confidence": 0.6,
+            "source": "Nom de domaine"
+        },
+        "industry": {
+            "value": "Recruitment / Job Board",
+            "confidence": 0.6,
+            "source": "Déduit du nom de domaine"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "short_description": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "seo_description": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte scrapé pour l'entité ciblée (Berlin, Germany)"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé dans le texte scrapé pour l'entité ciblée (Berlin, Germany)"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Données non disponibles dans le texte scrapé"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.1,
+            "source": "Non trouvé"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Adresse non trouvée dans le texte scrapé pour l'entité ciblée (Berlin, Germany)"
+        },
+        "city": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Ville non trouvée dans le texte scrapé pour l'entité ciblée (Berlin, Germany)"
+        },
+        "country": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Pays non trouvé dans le texte scrapé pour l'entité ciblée (Berlin, Germany)"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Cloudflare",
+            "category": "CDN / Sécurité",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Headers HTTP, Scripts externes, Texte visible)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": null,
+        "confidence": 0.1,
+        "source": "Non trouvé"
+    },
+    "data_quality_score": {
+        "value": 0.15,
+        "confidence": 1.0,
+        "source": "Analyse de la complétude : la majorité des champs sont nuls en raison d'un blocage par un service anti-bot (Cloudflare)"
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Berlin Startup Jobs",
+            "Gründerszene Jobbörse",
+            "English Jobs Germany",
+            "Talent.io",
+            "Honeypot.io"
+        ]
+    }
+}

@@ -1,0 +1,488 @@
+--- PAGE D'ACCUEIL : Willkommen bei Experis Schweiz ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 2 Elias-Canetti-Strasse, Zurich, Switzerland
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+js.hsforms.net, cdn.cookielaw.org, www.googletagmanager.com, maps.googleapis.com, www.experis.ch
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, bg-*, site-*, container-*, skip-*, sr-*, col-*, menu-*, nav-*, sub-*, parent-*, user-*, d-*, hamburger-*, country-*, lang-*, language-*, mobile-*, close-*, slideout-*, title-*, back-*, last-*, no-*, home-*, large-*, banner-*, content-*, animating-*, form-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Tag Manager
+
+Willkommen bei Experis Schweiz
+# Finden Sie Ihren IT-Job mit Experis
+Entdecken Sie attraktive Karrieremöglichkeiten und Stellenangebote in der ganzen Schweiz.
+EXPERIS VERMITTELT JÄHRLICH ÜBER
+## 12000 Fach- und
+Führungskräfte
+Als weltweit führender Anbieter für IT-Recruiting und Managed Services verbinden wir Menschen und Unternehmen, um flexible Lösungen zu schaffen, die sich an technologische Veränderungen und neue Kompetenzanforderungen anpassen.
+JETZT KARRIERECHANCEN ENTDECKEN JETZT FACHKRÄFTE REKRUTIEREN
+## Spannende Karrieremöglichkeiten in der IT
+Entdecken Sie Ihre nächste berufliche Herausforderung bei Top-Unternehmen in unseren umfangreichen IT-Stellenangeboten – oder entwickeln Sie sich weiter mit unseren Trainingsangeboten und heben Sie Ihre Karrierechancen auf das nächste Level.
+FINDEN SIE DEN JOB, DER ZU IHNEN PASST
+## Entwickle das nächste grosse IT-Projekt: Dich selbst.
+Bei uns stehst du im Mittelpunkt. Wir bringen die besten IT-Talente, die besten Jobs und die besten Firmen zusammen.
+MEHR ERFAHREN
+## Kontakt aufnehmen
+Gemeinsam mit Experis Ihren IT-Personalbedarf decken und mit den richtigen HR-Strategien Ihre Geschäfts-Performance steigern.
+KONTAKT
+## Willkommen auf unserer Website!
+Wir verwenden Cookies und andere Technologien, um Ihnen das bestmögliche Nutzungserlebnis auf unserer Website zu bieten. Einige sind erforderlich, damit unsere Website ordnungsgemäss und sicher funktioniert; andere helfen uns zu verstehen, wie Sie unsere Website nutzen, damit wir sie verbessern können. Zudem verwenden wir Cookies, um Ihnen personalisierte Inhalte bereitzustellen und gezielte Anzeigen zu schalten, einschliesslich auf sozialen Medienplattformen.
+Durch Klicken auf "Alle akzeptieren" stimmen Sie der Speicherung von Cookies auf Ihrem Gerät zu, um die Navigation auf der Website zu verbessern, die Nutzung der Website zu analysieren und unsere Marketingaktivitäten zu unterstützen. Sie akzeptieren, dass wir Informationen über Ihr Surfen mit Dritten teilen, wie z.B. unseren Marketingpartnern. Wenn Sie "Alle ablehnen" wählen, respektieren wir Ihre Privatsphäre und setzen keine Cookies, die nicht für den Betrieb der Website erforderlich sind. Wählen Sie "Cookie-Einstellungen", um weitere Details anzuzeigen und Ihre Optionen zu verwalten. Sie können Ihre Einstellungen jederzeit ändern. Weitere Informationen finden Sie in unserer Cookie-Richtlinie .
+## Datenschutz-Präferenz-Center
+## Datenschutz-Präferenz-Center
+-
+### Ihre Privatsphäre
+-
+### Leistungs-Cookies
+-
+### Unbedingt erforderliche Cookies
+-
+### Cookies für Marketingzwecke
+-
+### Funktionelle Cookies
+#### Ihre Privatsphäre
+Wenn Sie eine Website besuchen, kann diese Informationen über Ihren Browser abrufen oder speichern. Dies geschieht meist in Form von Cookies. Hierbei kann es sich um Informationen über Sie, Ihre Einstellungen oder Ihr Gerät handeln. Meist werden die Informationen verwendet, um die erwartungsgemäße Funktion der Website zu gewährleisten. Durch diese Informationen werden Sie normalerweise nicht direkt identifiziert. Dadurch kann Ihnen aber ein personalisierteres Web-Erlebnis geboten werden. Da wir Ihr Recht auf Datenschutz respektieren, können Sie sich entscheiden, bestimmte Arten von Cookies nicht zulassen. Klicken Sie auf die verschiedenen Kategorieüberschriften, um mehr zu erfahren und unsere Standardeinstellungen zu ändern. Die Blockierung bestimmter Arten von Cookies kann jedoch zu einer beeinträchtigten Erfahrung mit der von uns zur Verfügung gestellten Website und Dienste führen.
+Weitere Informationen
+#### Leistungs-Cookies
+Leistungs-Cookies
+Diese Cookies ermöglichen es uns, Besuche und Verkehrsquellen zu zählen, damit wir die Leistung unserer Website messen und verbessern können. Sie unterstützen uns bei der Beantwortung der Fragen, welche Seiten am beliebtesten sind, welche am wenigsten genutzt werden und wie sich Besucher auf der Website bewegen. Alle von diesen Cookies erfassten Informationen werden aggregiert und sind deshalb anonym. Wenn Sie diese Cookies nicht zulassen, können wir nicht wissen, wann Sie unsere Website besucht haben.
+#### Unbedingt erforderliche Cookies
+Immer aktiv
+Diese Cookies sind zur Funktion der Website erforderlich und können in Ihren Systemen nicht deaktiviert werden. In der Regel werden diese Cookies nur als Reaktion auf von Ihnen getätigte Aktionen gesetzt, die einer Dienstanforderung entsprechen, wie etwa dem Festlegen Ihrer Datenschutzeinstellungen, dem Anmelden oder dem Ausfüllen von Formularen. Sie können Ihren Browser so einstellen, dass diese Cookies blockiert oder Sie über diese Cookies benachrichtigt werden. Einige Bereiche der Website funktionieren dann aber nicht. Diese Cookies speichern keine personenbezogenen Daten.
+#### Cookies für Marketingzwecke
+Cookies für Marketingzwecke
+Diese Cookies können über unsere Website von unseren Werbepartnern gesetzt werden. Sie können von diesen Unternehmen verwendet werden, um ein Profil Ihrer Interessen zu erstellen und Ihnen relevante Anzeigen auf anderen Websites zu zeigen. Sie speichern nicht direkt personenbezogene Daten, basieren jedoch auf einer einzigartigen Identifizierung Ihres Browsers und Internet-Geräts. Wenn Sie diese Cookies nicht zulassen, werden Sie weniger gezielte Werbung erleben.
+#### Funktionelle Cookies
+Funktionelle Cookies
+Mit diesen Cookies ist die Website in der Lage, erweiterte Funktionalität und Personalisierung bereitzustellen. Sie können von uns oder von Drittanbietern gesetzt werden, deren Dienste wir auf unseren Seiten verwenden. Wenn Sie diese Cookies nicht zulassen, funktionieren einige oder alle dieser Dienste möglicherweise nicht einwandfrei.
+### Cookie-Liste
+Consent Leg.Interest checkbox label label checkbox label label checkbox label label
+- checkbox label label
+
+
+--- PAGE STRATÉGIQUE : https://www.experis.ch/de/%C3%BCber-uns ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+js.hsforms.net, cdn.cookielaw.org, www.googletagmanager.com, maps.googleapis.com, www.experis.ch
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, bg-*, site-*, container-*, skip-*, sr-*, col-*, menu-*, nav-*, sub-*, parent-*, header-*, user-*, d-*, hamburger-*, country-*, lang-*, language-*, mobile-*, close-*, slideout-*, title-*, back-*, last-*, no-*, banner-*, in-*, primary-*, arrow-*, calloutbar-*
+===================================
+About Us
+# Über uns
+Experis liefert Talente mit der kraftvollen Kombination der technischen Fähigkeiten, die Sie suchen, multipliziert mit den sozialen Fähigkeiten, die schwerer denn je zu finden sind. Durch IT-Beschaffung, Projektlösungen und Managed Services ermöglichen wir es Organisationen, Einzelpersonen und Teams zu entwickeln, die für das digitale Zeitalter bereit sind.
+Kontaktieren Sie uns
+## Lassen Sie uns Ihr Wettbewerbsvorteil sein
+xperis ist ein weltweit führendes Unternehmen für IT-Experten-Resourcing. Hier unterstützen wir Job-Suchende und Unternehmen mit Personalbedarf bei der Transformation ihrer digitalen Infrastruktur. Der Bedarf an IT-Kenntnissen stetig steigt und über die Experis Academy vermitteln wir die leistungsstarke Kombination aus gefragten technischen Qualifikationen und erfolgsentscheidenden Soft Skills.
+Kontaktieren Sie uns
+## Unsere Dienstleistungen
+### Arbeitnehmerüberlassung
+Die richtigen Talente mit den gefragten Fähigkeiten und Fachkenntnissen für Ihre wichtigsten Positionen finden.
+WEITERLESEN
+### Feststellenvermittlung
+Die Mitarbeitende in Festanstellungen sind massgeblich am Wachstum Ihres Unternehmens beteiligt - ihre Effizienz, Sachkenntnisse und Innovationsfähigkeit bestimmen Ihren geschäftlichen Erfolg.
+WEITERLESEN
+### Project Services
+Managing IT resourcing, application maintenance and operations so you can focus on your core business.
+WEITERLESEN
+### Experis Academy
+Die Experis Academy ist der Branchenführer im Bereich der beruflichen Weiterbildung.
+WEITERLESEN
+## Experis ist Teil der ManpowerGroup
+Die ManpowerGroup ist ein weltweit führender Anbieter von innovativen Personal­­lösungen. Wir verbinden das menschliche Potenzial mit der Kraft des Unter­nehmens. Daher profitieren Unter­nehmen aller Größen­ordnungen und Branchen vom Angebot der ManpowerGroup. Unsere Marken­familie umfasst Manpower, Experis und Talent Solutions, während die Spezial­marken Manpower Medical, Bankpower sowie AviationPower unser Portfolio an exzellenten Services komplettieren.
+Mehr erfahren
+## Kontakt aufnehmen
+Gemeinsam mit Experis den passenden IT-Job finden und mit den richtigen HR-Strategien Ihre Geschäfts-Performance steigern.
+KONTAKT
+## Willkommen auf unserer Website!
+Wir verwenden Cookies und andere Technologien, um Ihnen das bestmögliche Nutzungserlebnis auf unserer Website zu bieten. Einige sind erforderlich, damit unsere Website ordnungsgemäss und sicher funktioniert; andere helfen uns zu verstehen, wie Sie unsere Website nutzen, damit wir sie verbessern können. Zudem verwenden wir Cookies, um Ihnen personalisierte Inhalte bereitzustellen und gezielte Anzeigen zu schalten, einschliesslich auf sozialen Medienplattformen.
+Durch Klicken auf "Alle akzeptieren" stimmen Sie der Speicherung von Cookies auf Ihrem Gerät zu, um die Navigation auf der Website zu verbessern, die Nutzung der Website zu analysieren und unsere Marketingaktivitäten zu unterstützen. Sie akzeptieren, dass wir Informationen über Ihr Surfen mit Dritten teilen, wie z.B. unseren Marketingpartnern. Wenn Sie "Alle ablehnen" wählen, respektieren wir Ihre Privatsphäre und setzen keine Cookies, die nicht für den Betrieb der Website erforderlich sind. Wählen Sie "Cookie-Einstellungen", um weitere Details anzuzeigen und Ihre Optionen zu verwalten. Sie können Ihre Einstellungen jederzeit ändern. Weitere Informationen finden Sie in unserer Cookie-Richtlinie .
+## Datenschutz-Präferenz-Center
+## Datenschutz-Präferenz-Center
+-
+### Ihre Privatsphäre
+-
+### Leistungs-Cookies
+-
+### Unbedingt erforderliche Cookies
+-
+### Cookies für Marketingzwecke
+-
+### Funktionelle Cookies
+#### Ihre Privatsphäre
+Wenn Sie eine Website besuchen, kann diese Informationen über Ihren Browser abrufen oder speichern. Dies geschieht meist in Form von Cookies. Hierbei kann es sich um Informationen über Sie, Ihre Einstellungen oder Ihr Gerät handeln. Meist werden die Informationen verwendet, um die erwartungsgemäße Funktion der Website zu gewährleisten. Durch diese Informationen werden Sie normalerweise nicht direkt identifiziert. Dadurch kann Ihnen aber ein personalisierteres Web-Erlebnis geboten werden. Da wir Ihr Recht auf Datenschutz respektieren, können Sie sich entscheiden, bestimmte Arten von Cookies nicht zulassen. Klicken Sie auf die verschiedenen Kategorieüberschriften, um mehr zu erfahren und unsere Standardeinstellungen zu ändern. Die Blockierung bestimmter Arten von Cookies kann jedoch zu einer beeinträchtigten Erfahrung mit der von uns zur Verfügung gestellten Website und Dienste führen.
+Weitere Informationen
+#### Leistungs-Cookies
+Leistungs-Cookies
+Diese Cookies ermöglichen es uns, Besuche und Verkehrsquellen zu zählen, damit wir die Leistung unserer Website messen und verbessern können. Sie unterstützen uns bei der Beantwortung der Fragen, welche Seiten am beliebtesten sind, welche am wenigsten genutzt werden und wie sich Besucher auf der Website bewegen. Alle von diesen Cookies erfassten Informationen werden aggregiert und sind deshalb anonym. Wenn Sie diese Cookies nicht zulassen, können wir nicht wissen, wann Sie unsere Website besucht haben.
+#### Unbedingt erforderliche Cookies
+Immer aktiv
+Diese Cookies sind zur Funktion der Website erforderlich und können in Ihren Systemen nicht deaktiviert werden. In der Regel werden diese Cookies nur als Reaktion auf von Ihnen getätigte Aktionen gesetzt, die einer Dienstanforderung entsprechen, wie etwa dem Festlegen Ihrer Datenschutzeinstellungen, dem Anmelden oder dem Ausfüllen von Formularen. Sie können Ihren Browser so einstellen, dass diese Cookies blockiert oder Sie über diese Cookies benachrichtigt werden. Einige Bereiche der Website funktionieren dann aber nicht. Diese Cookies speichern keine personenbezogenen Daten.
+#### Cookies für Marketingzwecke
+Cookies für Marketingzwecke
+Diese Cookies können über unsere Website von unseren Werbepartnern gesetzt werden. Sie können von diesen Unternehmen verwendet werden, um ein Profil Ihrer Interessen zu erstellen und Ihnen relevante Anzeigen auf anderen Websites zu zeigen. Sie speichern nicht direkt personenbezogene Daten, basieren jedoch auf einer einzigartigen Identifizierung Ihres Browsers und Internet-Geräts. Wenn Sie diese Cookies nicht zulassen, werden Sie weniger gezielte Werbung erleben.
+#### Funktionelle Cookies
+Funktionelle Cookies
+Mit diesen Cookies ist die Website in der Lage, erweiterte Funktionalität und Personalisierung bereitzustellen. Sie können von uns oder von Drittanbietern gesetzt werden, deren Dienste wir auf unseren Seiten verwenden. Wenn Sie diese Cookies nicht zulassen, funktionieren einige oder alle dieser Dienste möglicherweise nicht einwandfrei.
+### Cookie-Liste
+Consent Leg.Interest checkbox label label checkbox label label checkbox label label
+- checkbox label label
+
+
+--- PAGE STRATÉGIQUE : https://www.experis.ch/de/%C3%BCber-uns/kontakt ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+js.hsforms.net, cdn.cookielaw.org, www.googletagmanager.com, maps.googleapis.com, www.experis.ch
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, bg-*, site-*, container-*, skip-*, sr-*, col-*, menu-*, nav-*, sub-*, parent-*, header-*, user-*, d-*, hamburger-*, country-*, lang-*, language-*, mobile-*, close-*, slideout-*, title-*, back-*, last-*, no-*, banner-*, skewed-*, contact-*, offset-*, hubspotForm-*
+===================================
+Kontakt für alle Anliegen ¦ Experis Schweiz ÜBER UNS
+# Haben Sie Fragen?
+Kontaktieren Sie uns – wir sind für alle Anliegen für Sie da.
+## Willkommen auf unserer Website!
+Wir verwenden Cookies und andere Technologien, um Ihnen das bestmögliche Nutzungserlebnis auf unserer Website zu bieten. Einige sind erforderlich, damit unsere Website ordnungsgemäss und sicher funktioniert; andere helfen uns zu verstehen, wie Sie unsere Website nutzen, damit wir sie verbessern können. Zudem verwenden wir Cookies, um Ihnen personalisierte Inhalte bereitzustellen und gezielte Anzeigen zu schalten, einschliesslich auf sozialen Medienplattformen.
+Durch Klicken auf "Alle akzeptieren" stimmen Sie der Speicherung von Cookies auf Ihrem Gerät zu, um die Navigation auf der Website zu verbessern, die Nutzung der Website zu analysieren und unsere Marketingaktivitäten zu unterstützen. Sie akzeptieren, dass wir Informationen über Ihr Surfen mit Dritten teilen, wie z.B. unseren Marketingpartnern. Wenn Sie "Alle ablehnen" wählen, respektieren wir Ihre Privatsphäre und setzen keine Cookies, die nicht für den Betrieb der Website erforderlich sind. Wählen Sie "Cookie-Einstellungen", um weitere Details anzuzeigen und Ihre Optionen zu verwalten. Sie können Ihre Einstellungen jederzeit ändern. Weitere Informationen finden Sie in unserer Cookie-Richtlinie .
+## Datenschutz-Präferenz-Center
+## Datenschutz-Präferenz-Center
+-
+### Ihre Privatsphäre
+-
+### Leistungs-Cookies
+-
+### Unbedingt erforderliche Cookies
+-
+### Cookies für Marketingzwecke
+-
+### Funktionelle Cookies
+#### Ihre Privatsphäre
+Wenn Sie eine Website besuchen, kann diese Informationen über Ihren Browser abrufen oder speichern. Dies geschieht meist in Form von Cookies. Hierbei kann es sich um Informationen über Sie, Ihre Einstellungen oder Ihr Gerät handeln. Meist werden die Informationen verwendet, um die erwartungsgemäße Funktion der Website zu gewährleisten. Durch diese Informationen werden Sie normalerweise nicht direkt identifiziert. Dadurch kann Ihnen aber ein personalisierteres Web-Erlebnis geboten werden. Da wir Ihr Recht auf Datenschutz respektieren, können Sie sich entscheiden, bestimmte Arten von Cookies nicht zulassen. Klicken Sie auf die verschiedenen Kategorieüberschriften, um mehr zu erfahren und unsere Standardeinstellungen zu ändern. Die Blockierung bestimmter Arten von Cookies kann jedoch zu einer beeinträchtigten Erfahrung mit der von uns zur Verfügung gestellten Website und Dienste führen.
+Weitere Informationen
+#### Leistungs-Cookies
+Leistungs-Cookies
+Diese Cookies ermöglichen es uns, Besuche und Verkehrsquellen zu zählen, damit wir die Leistung unserer Website messen und verbessern können. Sie unterstützen uns bei der Beantwortung der Fragen, welche Seiten am beliebtesten sind, welche am wenigsten genutzt werden und wie sich Besucher auf der Website bewegen. Alle von diesen Cookies erfassten Informationen werden aggregiert und sind deshalb anonym. Wenn Sie diese Cookies nicht zulassen, können wir nicht wissen, wann Sie unsere Website besucht haben.
+#### Unbedingt erforderliche Cookies
+Immer aktiv
+Diese Cookies sind zur Funktion der Website erforderlich und können in Ihren Systemen nicht deaktiviert werden. In der Regel werden diese Cookies nur als Reaktion auf von Ihnen getätigte Aktionen gesetzt, die einer Dienstanforderung entsprechen, wie etwa dem Festlegen Ihrer Datenschutzeinstellungen, dem Anmelden oder dem Ausfüllen von Formularen. Sie können Ihren Browser so einstellen, dass diese Cookies blockiert oder Sie über diese Cookies benachrichtigt werden. Einige Bereiche der Website funktionieren dann aber nicht. Diese Cookies speichern keine personenbezogenen Daten.
+#### Cookies für Marketingzwecke
+Cookies für Marketingzwecke
+Diese Cookies können über unsere Website von unseren Werbepartnern gesetzt werden. Sie können von diesen Unternehmen verwendet werden, um ein Profil Ihrer Interessen zu erstellen und Ihnen relevante Anzeigen auf anderen Websites zu zeigen. Sie speichern nicht direkt personenbezogene Daten, basieren jedoch auf einer einzigartigen Identifizierung Ihres Browsers und Internet-Geräts. Wenn Sie diese Cookies nicht zulassen, werden Sie weniger gezielte Werbung erleben.
+#### Funktionelle Cookies
+Funktionelle Cookies
+Mit diesen Cookies ist die Website in der Lage, erweiterte Funktionalität und Personalisierung bereitzustellen. Sie können von uns oder von Drittanbietern gesetzt werden, deren Dienste wir auf unseren Seiten verwenden. Wenn Sie diese Cookies nicht zulassen, funktionieren einige oder alle dieser Dienste möglicherweise nicht einwandfrei.
+### Cookie-Liste
+Consent Leg.Interest checkbox label label checkbox label label checkbox label label
+- checkbox label label
+
+
+--- PAGE STRATÉGIQUE : https://www.experis.ch/de/%C3%BCber-uns/standorte ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+js.hsforms.net, cdn.cookielaw.org, www.googletagmanager.com, maps.googleapis.com, www.experis.ch
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, bg-*, site-*, container-*, skip-*, sr-*, col-*, menu-*, nav-*, sub-*, parent-*, header-*, user-*, d-*, hamburger-*, country-*, lang-*, language-*, mobile-*, close-*, slideout-*, title-*, back-*, last-*, no-*, location-*, left-*, form-*, search-*, text-*
+===================================
+Standorte ¦ Experis Schweiz ARBEITSORT ARBEITSORT
+# Find a Branch
+## Experis Zurich
+Elias-Canetti-Strasse 2
+8050 Zürich-Oerlikon +41 44 229 99 99 09:00 - 17:00 DETAILS ANSEHEN
+## Experis Lausanne
+Rue Saint Martin 7
+1003 Lausanne
++41 22 818 87 77 9.00 - 17.00
+## Experis Genf
+Esplanade de Pont-Rouge 2
+1212 Grand-Lancy +41 22 818 87 77 09:00 - 17:00 DETAILS ANSEHEN
+## Experis Basel
+Meret Oppenheim-Platz 1A
+4053 Basel Stadt +41 61 282 22 22 09:00 - 17:00 DETAILS ANSEHEN Wenn du die Karte mit Touch-Gesten bewegen möchtest, musst du sie doppelt antippen, halten und dann ziehen. ← Nach links → Nach rechts ↑ Nach oben ↓ Nach unten + Heranzoomen - Herauszoomen Pos1 Um 75 % nach links Ende Um 75 % nach rechts Bild auf Um 75 % nach oben Bild ab Um 75 % nach unten
+-
+-
+-
+-
+-
+- Kartendaten ©2026 GeoBasis-DE/BKG (©2009), Google, Inst. Geogr. Nacional Kartendaten ©2026 GeoBasis-DE/BKG (©2009), Google, Inst. Geogr. Nacional Nutzungsbedingungen Fehler bei Google Maps melden
+## Willkommen auf unserer Website!
+Wir verwenden Cookies und andere Technologien, um Ihnen das bestmögliche Nutzungserlebnis auf unserer Website zu bieten. Einige sind erforderlich, damit unsere Website ordnungsgemäss und sicher funktioniert; andere helfen uns zu verstehen, wie Sie unsere Website nutzen, damit wir sie verbessern können. Zudem verwenden wir Cookies, um Ihnen personalisierte Inhalte bereitzustellen und gezielte Anzeigen zu schalten, einschliesslich auf sozialen Medienplattformen.
+Durch Klicken auf "Alle akzeptieren" stimmen Sie der Speicherung von Cookies auf Ihrem Gerät zu, um die Navigation auf der Website zu verbessern, die Nutzung der Website zu analysieren und unsere Marketingaktivitäten zu unterstützen. Sie akzeptieren, dass wir Informationen über Ihr Surfen mit Dritten teilen, wie z.B. unseren Marketingpartnern. Wenn Sie "Alle ablehnen" wählen, respektieren wir Ihre Privatsphäre und setzen keine Cookies, die nicht für den Betrieb der Website erforderlich sind. Wählen Sie "Cookie-Einstellungen", um weitere Details anzuzeigen und Ihre Optionen zu verwalten. Sie können Ihre Einstellungen jederzeit ändern. Weitere Informationen finden Sie in unserer Cookie-Richtlinie .
+## Datenschutz-Präferenz-Center
+## Datenschutz-Präferenz-Center
+-
+### Ihre Privatsphäre
+-
+### Leistungs-Cookies
+-
+### Unbedingt erforderliche Cookies
+-
+### Cookies für Marketingzwecke
+-
+### Funktionelle Cookies
+#### Ihre Privatsphäre
+Wenn Sie eine Website besuchen, kann diese Informationen über Ihren Browser abrufen oder speichern. Dies geschieht meist in Form von Cookies. Hierbei kann es sich um Informationen über Sie, Ihre Einstellungen oder Ihr Gerät handeln. Meist werden die Informationen verwendet, um die erwartungsgemäße Funktion der Website zu gewährleisten. Durch diese Informationen werden Sie normalerweise nicht direkt identifiziert. Dadurch kann Ihnen aber ein personalisierteres Web-Erlebnis geboten werden. Da wir Ihr Recht auf Datenschutz respektieren, können Sie sich entscheiden, bestimmte Arten von Cookies nicht zulassen. Klicken Sie auf die verschiedenen Kategorieüberschriften, um mehr zu erfahren und unsere Standardeinstellungen zu ändern. Die Blockierung bestimmter Arten von Cookies kann jedoch zu einer beeinträchtigten Erfahrung mit der von uns zur Verfügung gestellten Website und Dienste führen.
+Weitere Informationen
+#### Leistungs-Cookies
+Leistungs-Cookies
+Diese Cookies ermöglichen es uns, Besuche und Verkehrsquellen zu zählen, damit wir die Leistung unserer Website messen und verbessern können. Sie unterstützen uns bei der Beantwortung der Fragen, welche Seiten am beliebtesten sind, welche am wenigsten genutzt werden und wie sich Besucher auf der Website bewegen. Alle von diesen Cookies erfassten Informationen werden aggregiert und sind deshalb anonym. Wenn Sie diese Cookies nicht zulassen, können wir nicht wissen, wann Sie unsere Website besucht haben.
+#### Unbedingt erforderliche Cookies
+Immer aktiv
+Diese Cookies sind zur Funktion der Website erforderlich und können in Ihren Systemen nicht deaktiviert werden. In der Regel werden diese Cookies nur als Reaktion auf von Ihnen getätigte Aktionen gesetzt, die einer Dienstanforderung entsprechen, wie etwa dem Festlegen Ihrer Datenschutzeinstellungen, dem Anmelden oder dem Ausfüllen von Formularen. Sie können Ihren Browser so einstellen, dass diese Cookies blockiert oder Sie über diese Cookies benachrichtigt werden. Einige Bereiche der Website funktionieren dann aber nicht. Diese Cookies speichern keine personenbezogenen Daten.
+#### Cookies für Marketingzwecke
+Cookies für Marketingzwecke
+Diese Cookies können über unsere Website von unseren Werbepartnern gesetzt werden. Sie können von diesen Unternehmen verwendet werden, um ein Profil Ihrer Interessen zu erstellen und Ihnen relevante Anzeigen auf anderen Websites zu zeigen. Sie speichern nicht direkt personenbezogene Daten, basieren jedoch auf einer einzigartigen Identifizierung Ihres Browsers und Internet-Geräts. Wenn Sie diese Cookies nicht zulassen, werden Sie weniger gezielte Werbung erleben.
+#### Funktionelle Cookies
+Funktionelle Cookies
+Mit diesen Cookies ist die Website in der Lage, erweiterte Funktionalität und Personalisierung bereitzustellen. Sie können von uns oder von Drittanbietern gesetzt werden, deren Dienste wir auf unseren Seiten verwenden. Wenn Sie diese Cookies nicht zulassen, funktionieren einige oder alle dieser Dienste möglicherweise nicht einwandfrei.
+### Cookie-Liste
+Consent Leg.Interest checkbox label label checkbox label label checkbox label label
+- checkbox label label
+
+
+--- PAGE STRATÉGIQUE : https://www.experis.ch/de/nutzungsbedingungen ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: cloudflare
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+js.hsforms.net, cdn.cookielaw.org, www.googletagmanager.com, maps.googleapis.com, www.experis.ch
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+main-*, bg-*, site-*, container-*, skip-*, sr-*, col-*, menu-*, nav-*, sub-*, parent-*, user-*, d-*, hamburger-*, country-*, lang-*, language-*, mobile-*, close-*, slideout-*, title-*, back-*, last-*, no-*, banner-*, skewed-*, accordion-*, offset-*, footer-*, mb-*
+===================================
+Nutzungsbedingungen | Experis Schweiz ManpowerGroup | Schweiz
+# Nutzungsbedingungen
+## ManpowerGroup Schweiz Allgemeine Nutzungsbedingungen
+Datum des Inkrafttretens/letzte Aktualisierung: 07. Februar 2024, Version 1.1
+Im Zweifelsfall ist die französische Version dieser Allgemeinen Nutzungsbedingungen massgeblich.
+### EINLEITUNG
+Diese Allgemeinen Nutzungsbedingungen (" Bedingungen "), die dem Schweizer Recht unterliegen, regeln die Nutzung von Diensten und Funktionen (" Dienste "), die auf den verschiedenen Websites, Apps, Filialen und anderen Informationskanälen (" Sites ") zugänglich sind, die von der ManpowerGroup SA, Rue du Sablon 2, 1110 Morges, Schweiz (" ManpowerGroup ", " wir ", " uns " oder " unser ") her-ausgegeben werden.
+Diese Bedingungen erstrecken sich auch auf die Nutzung der Sites und Services von mit Man-powerGroup verbundenen Unternehmen ("Verbundene Unternehmen"), einschliesslich, aber nicht beschränkt auf und vorbehaltlich Änderungen, der folgenden Unternehmen:
+- Manpower AG, Rue du Sablon 2, 1110 Morges, Schweiz;
+- Experis AG, Elias-Canetti-Strasse 2, 8050 Zürich, Schweiz;
+- Talent Solutions ManpowerGroup AG, Elias-Canetti-Strasse 2, 8050 Zürich, Schweiz.
+DIESE BEDINGUNGEN STELLEN EINEN VERBINDLICHEN VERTRAG ZWISCHEN IHNEN UND MANPOWERGROUP DAR. DURCH DEN ZUGRIFF AUF DIE SITES UND DIENSTLEISTUNGEN ODER DEREN NUTZUNG ERKLÄREN SIE SICH DAMIT EINVERSTANDEN, AN DIESE BEDIN-GUNGEN GEBUNDEN ZU SEIN UND SIE OHNE VORBEHALTE ODER AUSNAHMEN ZU BEFOL-GEN.
+Die Nutzung unserer Websites ist für jedermann zugänglich. Wir empfehlen jedoch die Nutzung unse-rer Sites und ihrer Dienste ausschliesslich durch (i) volljährige Personen, die im Besitz ihrer vollen Geschäftsfähigkeit sind, wobei Minderjährige nur mit vorheriger Zustimmung der Personen, die die elterliche Sorge für sie innehaben, zugelassen sind, und (ii) juristische Personen mit der ausdrückli-chen Zustimmung ihres gesetzlichen Vertreters.
+BITTE LESEN SIE DIESE BEDINGUNGEN SORGFÄLTIG DURCH, BEVOR SIE UNSERE SITES UND DIENSTE NUTZEN. WENN SIE DIESEN BEDINGUNGEN NICHT ZUSTIMMEN, DÜRFEN SIE NICHT AUF UNSERE SITES UND DIENSTE ZUGREIFEN ODER SIE NUTZEN.
+### Art. 1 ZUGANG ZU SERVICES
+Die Websites und die angebotenen Dienste dürfen nur zu den von ManpowerGroup vorgesehenen Zwecken genutzt werden. Um auf die Dienste zugreifen und sie nutzen zu können, werden Sie möglicherweise aufgefordert, Pflichtfelder auszufüllen, die als solche gekennzeichnet sind. ManpowerGroup behält sich das Recht vor, jeden Datensatz zu löschen, der unvollständige oder falsche Informationen enthält.
+Durch die Nutzung der Dienste versichern Sie, dass Sie keine anstössigen, rechtswidrigen oder die Rechte anderer Personen verletzenden, schädigenden oder deren Sicherheit bedrohenden Informationen hochladen, übermitteln oder anderweitig veröffentlichen. Sie tragen die volle Verantwortung für die Informationen und Inhalte, die Sie ManpowerGroup über die Dienste übermitteln, und Sie verpflichten sich, dafür zu sorgen, dass diese Informationen und Inhalte korrekt sind und auf dem neuesten Stand gehalten werden. Sie bestätigen, dass Sie der Urheber der ausgetauschten Inhalte sind, dass Sie sich nicht als die Identität einer anderen Person ausgeben, keine falsche E-Mail-Adresse verwenden und nicht gegen die geistigen Eigentumsrechte von ManpowerGroup und Dritten verstossen. ManpowerGroup behält sich das Recht vor, im Falle eines Identitätsdiebstahls, einer Verletzung von Rechten des geistigen Eigentums oder einer anderen strafbaren Handlung, die im Zusammenhang mit der Nutzung der Dienste begangen wird, alle als angemessen erachteten rechtlichen Schritte einzuleiten.
+Um auf unsere Dienste zugreifen zu können, müssen Sie über die erforderlichen Geräte und eine Internetverbindung verfügen, ggf.auch über Mobilfunknetze. Sie sind dafür verantwortlich, alle Software auf dem neuesten Stand zu halten, die für den ordnungsgemässen Betrieb Ihrer Geräte erforderlich ist. Die Kosten für den Zugang sind ausschliesslich von Ihnen zu tragen. Wenn Sie die Geräte einer anderen Person benutzen, um auf unsere Dienste zuzugreifen, garantieren Sie, dass Sie die vorherige Zustimmung dieser Person eingeholt haben.
+ManpowerGroup bemüht sich um eine einheitliche Verwaltung ihrer Schnittstellen, dennoch kann es sein, dass bestimmte Dienste oder Funktionen nur auf einer der beiden Sites verfügbar sind.
+### Art. 2 PRÄSENTATION DER SERVICES
+ManpowerGroup bietet eine breite Palette von Dienstleistungen an, darunter Temporärarbeit, Gehaltsabrechnung, professionelle Arbeitsvermittlung, direkte Personalbeschaffung, ausgelagerte Dienstleistungen (MSP), Outsourcing von Personaldienstleistungen, Beratung, Karrierewechsel, Coaching und Begleitung sowie ähnliche Dienstleistungen.
+### 2.1 HR-SERVICES / UNTERNEHMEN
+ManpowerGroup bietet Unternehmen folgende Dienstleistungen an:
+- Einstellung von Mitarbeitern, insbesondere in Form von unbefristeten, befristeten oder tempo-rären Arbeitsverträgen ;
+- Staffpool®;
+- payrolling ;
+- Übergangsmanagement ;
+- Bewertung und Entwicklung von Kompetenzen, digitale Lösungen ;
+- Formationen;
+- Karrieretransition und HR-Begleitung, JobCenter ;
+- Lösung für die Massen-/Komplexrekrutierung (RPO) ;
+- managed Services Provider (MSP) ;
+- HR-Beratung ;
+- assessments ;
+- coaching.
+Um Sie regelmässig über Neuigkeiten aus dem HR-Bereich und die von ManpowerGroup und ihren verbundenen Unternehmen angebotenen Dienstleistungen zu informieren, haben Sie die Möglichkeit, unsere Newsletter zu abonnieren sowie unsere Whitepapers herunterzuladen.
+### 2.2 HR-SERVICES / KUNDENBEREICH
+Wenn Sie Kunde von ManpowerGroup sind, haben Sie möglicherweise Zugang zu digitalen Diensten für die Personalbeschaffung, die Verwaltung von Einsätzen und temporären Mitarbeitern und die HR-Digitalisierung, die von Drittpartnern angeboten werden können. Der Zugang zu diesen Diensten kann den Nutzungsbedingungen unterliegen, die von den jeweiligen Partnern aufgestellt wurden, und Sie können ggf.aufgefordert werden, bestimmte Informationen bereitzustellen, um diese Dienste und Funk-tionen nutzen zu können.
+Sie haben Zugang zu den folgenden Diensten:
+- "TalentSight", eine Software zur Verwaltung von Temporärarbeit, die von unserem Drittpartner entwickelt wurde ;
+- Management Ihrer Online-Aufträge (Auswahl und Nachverfolgung von Bewerbern, Planung von Einsätzen, Nachverfolgung von Temporärmitarbeitern, Verwaltung Ihres eigenen Pools usw.) ;
+- Management Ihrer Verträge und Einsätze (Verwaltung von Verträgen, Stundenzetteln und Rechnungen, Bewertung von Einsätzen usw.) ;
+- Management Ihrer Aktivitätsberichte (Nachverfolgung von Aktivitäten, Anpassung von Berichten usw.).
+### 2.3 BEWERBUNGSSERVICE / BEWERBERPORTAL
+Unsere Bewerberportale bieten Dienste an, ohne dass Sie einen persönlichen Bereich einrichten müssen. Ohne persönliches Konto ist es Ihnen möglich, :
+- nach Stellenangeboten suchen ;
+- unsere Bewerbungstipps konsultieren ;
+- sich auf Stellenangebote bewerben ;
+- Stellenangebote erhalten.
+Sie haben die Möglichkeit, sich als Besucher auf eine Stellenanzeige zu bewerben, indem Sie zunächst die geforderten Informationen ausfüllen. Anschliessend können Sie Ihre Bewerbung vervollständigen, indem Sie Ihre Dokumente (Lebenslauf usw.) hochladen oder ein Profil aus einem sozialen Netzwerk Ihrer Wahl (z.B. LinkedIn, Facebook oder Google) importieren.
+Wenn Sie Ihre Bewerbung abschliessen, werden Sie Teil unseres Kandidatenpools. Nach entsprechender Benachrichtigung kann ManpowerGroup die entsprechenden Informationen, die Sie uns bei Ihrer Bewerbung zur Verfügung gestellt haben, einschliesslich Ihres Lebenslaufs, an Kunden weitergeben, die über freie Stellen oder Projekte verfügen und potenziell an Ihrem Profil interessiert sind.
+Bei Bedarf können die für die Bewerbung erforderlichen Informationen auf das Jobportal des Kunden hochgeladen werden, wobei der vom Kunden festgelegte Rekrutierungsprozess befolgt wird und der Kunde dafür verantwortlich ist.
+ManpowerGroup kann Sie kontaktieren, um Ihnen Beschäftigungsmöglichkeiten und Projekte vorzustellen oder Ihnen alle relevanten Informationen per E-Mail, SMS, Telefon und/oder ggf. über andere Kommunikationskanäle zukommen zu lassen.
+Sie haben jederzeit die Möglichkeit, die Entfernung Ihrer Bewerbung aus unserem Kandidatenpool zu beantragen, indem Sie das Verfahren zur Ausübung Ihrer Rechte befolgen, das in unserer Datenschutzerklärung angegeben ist, die in der Fusszeile unserer Webseiten zugänglich ist.
+### 2.4 BEWERBUNGSSERVICE / PERSÖNLICHER BEWERBERBEREICH
+Um auf diesen Dienst zugreifen zu können, müssen Sie zuvor über das Portal Ihrer Wahl ein kostenloses persönliches Online-Konto einrichten und zu diesem Zweck eine gültige E-Mail-Adresse besitzen oder ein soziales Netzwerk (LinkedIn, Facebook oder Google, falls vorhanden) nutzen. Die von Ihnen angegebene E-Mail-Adresse wird während des Erstellungsprozesses verifiziert, und das Konto wird erst nach dieser Verifizierung aktiviert. Sie sind dafür verantwortlich, die Vertraulichkeit aller mit Ihrem Konto verbundenen Informationen zu wahren, einschliesslich Ihres Benutzernamens, Ihres Passworts und aller anderen Registrierungsinformationen, die ManpowerGroup für den Zugang und die Nutzung dieses Dienstes verlangen kann. Sie sind für alle Aktivitäten auf Ihrem Konto verantwortlich.
+Sie erhalten von ManpowerGroup eine Bestätigung über die Einrichtung Ihres persönlichen Kontos an die E-Mail-Adresse, die Sie bei Ihrer Anmeldung angegeben haben. Durch die Einrichtung dieses persönlichen Kontos werden Sie Teil unseres Bewerberpools und erklären sich damit einverstanden, Nachrichten oder Benachrichtigungen im Zusammenhang mit unseren Dienstleistungen, Ihrem Konto sowie Stellenangeboten per E-Mail, SMS, Telefon und/oder anderen Kommunikationsmitteln zu erhalten, ggf.  bis zur Löschung Ihres Kontos.
+Sobald Ihr persönliches Konto eingerichtet ist, haben Sie die Möglichkeit :
+- Ihre Bewerbungsunterlagen (Lebenslauf usw.) hochladen und aktualisieren ;
+- Ihr Profil aktualisieren und Ihre Daten verwalten ;
+- E-Mail-Benachrichtigungen nach Ihren bevorzugten Kriterien erstellen ;
+- die Stellenangebote, die Sie sich angesehen haben, speichern ;
+- Jobtipps konsultieren ;
+- sich mit einem Klick auf Stellenangebote bewerben ;
+- passende Stellenangebote erhalten ;
+- Ihre Online-Bewerbungen mithilfe Ihres Dashboards verfolgen.
+ManpowerGroup kann, nachdem sie Sie darüber informiert hat, Kunden mit freien Stellen oder Projek-ten, die an Ihrem Profil interessiert sein könnten, die relevanten Unterlagen oder Informationen, wie z.B. Ihren Lebenslauf, die Sie uns zur Verfügung gestellt haben, weiterleiten.
+Sie haben die Möglichkeit, Ihr persönliches Konto über die Verwaltungseinstellungen Ihres Benutzer-profils selbst zu löschen.
+### 2.5 MANAGEMENT- UND VERWALTUNGSDIENST / TEMPORÄR
+ManpowerGroup bietet eine sichere Abwicklung aller administrativen Schritte im Zusammenhang mit der Verwaltung und Administration von temporären Mitarbeitern während der gesamten Dauer des Einsatzes.
+Sie können folgende Leistungen in Anspruch nehmen:
+- Erledigung der Verwaltungsformalitäten und der damit verbundenen gesetzlichen Anforderungen (Übernahme der Dokumente vor dem Einsatz, Erstellung von Einsatzverträgen, Verwaltung der Abwesenheiten und Löhne, Erstellung der Sozialabrechnungen, Verwaltung der Kranken-, Unfall- und BVG-Versicherungsfälle, Anpassung aller steuerlichen und/oder sozialen Unterlagen usw.) ;
+- Begleitung des temporären Mitarbeiters während des gesamten Einsatzes (Versand der Einsatzinformationen, Bestätigung der Verfügbarkeit, Verwaltung der Sozialversicherung, Sensibilisierung für die Sicherheit gemäss den geltenden Vorschriften, Schulungen usw.).
+Wenn Sie im Rahmen eines temporären Arbeitsvertrages eingestellt werden, sind Sie verpflichtet, den Einsatzvertrag, der Ihnen zuvor vorgelegt wurde, zu unterzeichnen und an ManpowerGroup zurückzusenden.
+Sie haben auch die Möglichkeit, auf den Dienst "Webtime" zuzugreifen, der von einem Drittpartner angeboten und verwaltet wird. Dies kann entweder über das Online-Portal oder über eine spezielle mobile Anwendung erfolgen. Mit diesem Service können temporäre Mitarbeiter ihre Arbeitsstunden erfassen, während Kunden diese validieren und elektronische Stundenberichte erstellen können.
+### 2.6 WEITERBILDUNG-SERVICE
+ManpowerGroup bietet ihren Bewerbern und temporären Mitarbeitern die Möglichkeit, ihre beruflichen Fähigkeiten durch verschiedene Schulungsprogramme für Fachkräfte aller Niveaus zu entwickeln und zu erhalten, z.B. durch die von ManpowerGroup herausgegebene E-Learning-Plattform "powerYOU", durch das von unseren verbundenen Unternehmen durchgeführte Zertifizierungsprogramm "Academy" oder durch Schulungen, die von unseren Geschäftspartnern angeboten werden.
+Es wird darauf hingewiesen, dass nicht alle angebotenen Lerneinheiten automatisch Gegenstand eines bezahlten Ausbildungsvertrags sind.
+ManpowerGroup behält sich das Recht vor, die Modalitäten für den Zugang zu und den Ablauf von Bildungsangeboten jederzeit zu ändern.
+### Art. 3 GESCHÜTZTE RECHTE
+### 3.1 INHALT MANPOWERGROUP
+Die Websites, einschliesslich Text, Audio- und Videomaterial, Grafiken, Tabellen, Fotografien, Schnittstellen, Icons, Software, Computercode, Daten, Marken, Logos, Slogans, Dokumentation, andere Komponenten und Inhalte sowie die Gestaltung, Auswahl und Anordnung der Inhalte und alle geistigen Eigentumsrechte hieran (ManpowerGroup-Inhalte") sind das alleinige Eigentum von ManpowerGroup oder ggf.ihrer Lieferanten oder Lizenzgeber.
+Bei Ihrem Zugang zu den Diensten gewährt Ihnen ManpowerGroup für die Dauer dieses Zugangs die Rechte zur Darstellung und Reproduktion dieser Inhalte auf den Geräten und Browsern, die Sie für den Zugang zu den Diensten verwenden. Diese Rechte werden widerruflich, persönlich, nicht übertragbar und nicht exklusiv gewährt. Alle anderen Rechte an den Sites und dem ManpowerGroup-Content sind ausdrücklich ManpowerGroup oder den Rechteinhabern vorbehalten.
+### 3.2 NUTZUNGEN VON MARKEN
+ManpowerGroup ist Eigentümer bestimmter Marken, Namen, Logos, Abzeichen oder Dienstleistungsmarken, einschliesslich, aber nicht beschränkt auf ManpowerGroup®, Manpower®, Manpower Staffpool®, Experis®, Talent Solutions ManpowerGroup®, das ManpowerGroup-Logo ("Marken"). Sie sind nicht berechtigt, die Marken zu verwenden, es sei denn, ManpowerGroup hat dem ausdrücklich und schriftlich zugestimmt. Darüber hinaus können die Sites Marken Dritter und urheberrechtlich geschützte Materialien Dritter enthalten, die Eigentum ihrer jeweiligen Urheber sind. Keine Bestimmung dieser Bedingungen räumt Ihnen Rechte an diesen Marken oder Materialien Dritter ohne deren Zustimmung ein.
+### 3.3 RECHTE DES GEISTIGEN EIGENTUMS
+Die Sites und Inhalte von ManpowerGroup sind durch Urheberrechte, Marken und andere Gesetze zum Schutz des geistigen Eigentums geschützt. Die unbefugte Nutzung von Marken, Handelsaufmachungen, urheberrechtlich geschütztem Material oder sonstigem geistigem Eigentum, das ManpowerGroup oder Dritten gehört, ist strengstens untersagt und kann im vollen gesetzlich zulässigen Umfang strafrechtlich verfolgt werden.
+### Art. 4 NAVIGATION
+Bevor Sie sich mit den Diensten verbinden, liegt es in Ihrer Verantwortung, zu überprüfen, ob Ihre Ausrüstung Ihnen den Zugang zu den Diensten in einer sicheren Umgebung ermöglicht. Ebenso empfehlen wir Ihnen, vor der Nutzung der Dienste sicherzustellen, dass der Cache-Speicher Ihrer Ausrüstung oder Ihres Browsers geleert wurde, um ggf. zu gewährleisten, dass die zugänglichen Seiten oder Inhalte auf dem neuesten Stand sind. ManpowerGroup behält sich das Recht vor, jederzeit und aus beliebigen Gründen die Funktionen oder Dienste ganz oder teilweise zu verbessern, zu ändern oder zu entfernen. Wir empfehlen Ihnen, alle Aktualisierungen der Dienste, insbesondere der Anwendungen, herunterzuladen und zu installieren.
+### 4.1 VERBINDUNG UND NUTZUNG
+Wenn Sie auf die Dienste von ManpowerGroup zugreifen, können bestimmte Daten über Sie automatisch erfasst werden. Dazu gehören technische Daten im Zusammenhang mit der Nutzung der Dienste, wie die IP-Adresse Ihres Geräts, die Art der Verbindung, die IP-Adresse Ihres Internetdienstanbieters, Datum und Uhrzeit des Zugriffs auf die Dienste, die Adresse der Website, von der aus Sie zu den Diensten weitergeleitet wurden, das von Ihnen verwendete Betriebssystem, die von Ihnen besuchten Seiten, die Anzahl der Aktivierungen von Funktionen in den Diensten, die Art des von Ihnen verwendeten Geräts sowie die Versionsnummer unserer Dienste, die Sie verwenden. Diese Daten können zu Zwecken der Verwaltung, Verbesserung und Sicherheit unserer Dienste verwendet werden.
+Sie werden darauf hingewiesen, dass es zur Nutzung bestimmter Funktionen, insbesondere auf den Websites und in den Anwendungen, erforderlich sein kann, Geolokalisierungsdaten zu verwenden, einschliesslich des geografischen Standorts Ihres Mobilgeräts. Sie stimmen dieser Nutzung zu, wenn Sie auf diese Funktionen zugreifen möchten.
+### 4.2 COOKIES UND ÄHNLICHE TECHNOLOGIEN
+Beim Zugriff auf und der Nutzung der Dienste, insbesondere der Websites, können Informationen vorübergehend im Speicher oder auf der Festplatte Ihres Geräts gespeichert werden, insbesondere durch Cookies oder andere ähnliche Technologien wie Web Beacons oder Webserver-Logs.
+Diese Cookies werden für die folgenden Zwecke verwendet:
+- Identifizierung und Zugang zu dem/den Dienst(en) der Sites ;
+- Erleichterung der Navigation auf den Sites ;
+- Verwaltung der Sites ;
+- Publikumsanalyse ;
+- Teilen von Inhalten in Ihren sozialen Netzwerken ;
+- Durchführung von funktionalen Statistiken.
+Sie haben jederzeit die Möglichkeit, die Speicherung dieser Cookies einzuschränken oder zu deaktivieren, indem Sie die Datenschutzeinstellungen Ihres Browsers verwenden. Bitte beachten Sie, dass die Ablehnung aller Cookies den Zugang zu einigen oder allen Funktionen der angebotenen Dienste einschränken kann.
+Für weitere Informationen empfehlen wir Ihnen, unseren Cookie-Hinweis zu lesen, der in der Fusszeile unserer Webseiten zu finden ist.
+### 4.3 LINKS, SEITEN UND DIENSTE VON DRITTEN
+ManpowerGroup kann auf den Websites Links oder Schnittstellen zu Websites, Anwendungen oder Diensten Dritter anbieten oder präsentieren. Diese Links werden in Absprache mit den betreffenden Dritten zu einem Zeitpunkt eingerichtet, zu dem ManpowerGroup dies für angemessen hält, wobei die Inhalte und Dienstleistungen dieser Dritten berücksichtigt werden.
+ManpowerGroup ist weder Herausgeber noch kontrolliert sie die Quellen, den Inhalt dieser Websites oder deren Links zu anderen Websites. Das Vorhandensein eines Links oder Verweises auf eine andere Website oder einen Drittdienst bedeutet nicht, dass ManpowerGroup den Inhalt dieser Websites oder die angebotenen Dienstleistungen billigt, bestätigt oder unterstützt oder mit den Eigentümern, Autoren, Herausgebern, Designern, Verwaltern, Managern oder Hosts dieser Websites oder Dienstleistungen in Verbindung steht. Es liegt in Ihrer Verantwortung, diese Informationen und Verweise mit Bedacht und kritischem Geist zu nutzen und sich über die Bedingungen der Nutzung oder Vermarktung dieser Websites, Inhalte oder Dienstleistungen Dritter zu informieren.
+ManpowerGroup ist nicht verantwortlich für den Inhalt, die Produkte, Dienstleistungen, Werbung, Cookies und ähnliche Technologien oder andere Elemente dieser Websites oder Dienstleistungen oder für tatsächliche oder vermeintliche, direkte oder indirekte Schäden oder Verluste, die sich aus oder im Zusammenhang mit der Nutzung von Informationen, Meinungen, Dienstleistungen oder Daten ergeben, die auf diesen Websites oder Dienstleistungen verfügbar sind.
+### Art. 5 VERANTWORTUNG
+MANPOWERGROUP, IHRE VERBUNDENEN UNTERNEHMEN UND ALLE IHRE FÜHRUNGSKRÄFTE UND MITARBEITER ("MITGLIEDER VON MANPOWERGROUP") HAFTEN NICHT FÜR DIREKTE ODER INDIREKTE SCHÄDEN JEDWEDER ART UND ART, DIE SICH AUS EINER VERBINDUNG, EINEM ZUGRIFF UND/ODER DER NUTZUNG DER WEBSITES UND/ODER EINER DIENSTLEISTUNG ERGEBEN ODER IN VERBINDUNG MIT DIESEN SITZEN STEHEN.
+ManpowerGroup garantiert im Namen seiner eigenen Parteien nicht, dass die angebotenen Sites oder Dienste Ihren Bedürfnissen und Erwartungen entsprechen werden.
+### 5.1 VERTRAULICHKEIT DER IDENTIFIZIERER
+ManpowerGroup kann Ihnen für den Zugang zu bestimmten Diensten Kennungen und Zugangscodes zur Verfügung stellen, die für Ihre Anmeldung erforderlich sind ("Identifikatoren"). Diese Kennungen sind streng persönlich, nicht übertragbar und vertraulich.
+Der Zugang zu den Diensten und deren Nutzung sowie alle Handlungen, die mit Ihren Identifikatoren durchgeführt werden, gelten als in Ihrem Namen durchgeführt. Sie verpflichten sich, Ihre Login-Daten nicht an Dritte weiterzugeben oder offenzulegen. Sie bleiben voll verantwortlich für die Nutzung dieser Identifikatoren und versichern, dass Sie alle notwendigen Massnahmen ergreifen, um die Vertraulichkeit dieser Identifikatoren zu gewährleisten und zu bewahren. ManpowerGroup haftet nicht für die Nutzung der Websites und Dienstleistungen durch Dritte, die im Besitz Ihrer Identifikationsmerkmale sind.
+Sie verpflichten sich, (i) ManpowerGroup unverzüglich jede unbefugte Nutzung oder Kenntnis Ihrer Identifikatoren durch Dritte sowie die Ursache, die dazu beigetragen hat, zu melden und (ii) mit ManpowerGroup zusammenzuarbeiten, um diese unbefugte Nutzung oder Kenntnis zu beenden.
+Falls ManpowerGroup den begründeten Verdacht hat, dass die Identifikatoren missbräuchlich oder nicht ordnungsgemäss verwendet werden, oder falls es zu einem Verstoss gegen die vorliegenden Bedingungen kommt, oder ganz allgemein, um die Sicherheit der Dienste zu gewährleisten, behält sich ManpowerGroup das Recht vor, jederzeit, ohne Vorankündigung und ohne vorherige Schritte, jeden Identifikator zu sperren und/oder zu löschen und sogar den Zugang zu den Sites und Diensten zu widerrufen, ohne dass Ihnen daraus ein Anspruch auf Ersatz irgendeines Schadens entsteht, einschliesslich des Verlusts von Gewinnen, Geschäften oder Chancen, der Ihnen entstehen könnte. ManpowerGroup behält sich jedoch das Recht vor, Sie über die ergriffenen Massnahmen und die Folgen für Sie zu informieren.
+### 5.2 INHALTE DER DIENSTE
+Die auf den Websites verfügbaren Informationen und Daten dienen ausschliesslich der Information und dürfen keinesfalls als rechtliche oder operative Beratung ausgelegt werden. Darüber hinaus begründen sie keine Haftung von ManpowerGroup.
+Die Dienste können Ihnen auch Zugang zu verschiedenen Informationen und Daten verschaffen, darunter Nachrichten über Personalwesen, Wirtschaft, ManpowerGroup, Stellen- und Auftragsangebote sowie Informationen über die Regulierung der Temporärarbeit und allgemein über das Arbeitsrecht. ManpowerGroup garantiert in keiner Weise die Zugänglichkeit, Relevanz, Aktualität oder Vollständigkeit der verbreiteten Informationen. ManpowerGroup haftet weder für die bereitgestellten Informationen, Vorschläge oder Inhalte noch für Entscheidungen, die auf der Grundlage dieser Informationen oder unter deren Einfluss getroffen werden, noch für den Fall, dass die Websites nicht verfügbar sind, insbesondere während der Wartungsarbeiten.
+Es ist wichtig zu beachten, dass die auf den Sites bereitgestellten Informationen über Aufträge weder einen Arbeitsvertrag noch ein Versprechen für einen Arbeitsvertrag darstellen.
+Wir weisen darauf hin, dass die elektronische Übermittlung von Informationen mit Risiken verbunden ist. Es kann zu Verzögerungen, Auslassungen oder Ungenauigkeiten kommen. Die über die Dienste zugänglichen Informationen werden unabhängig von ihrer Herkunft in der vorliegenden Form bereitgestellt.
+### 5.3 VERTRAULICHKEIT DER KOMMUNIKATION ÜBER DAS INTERNET UND ANDERE NETZWERKE
+Soweit die Kommunikation über das Internet und andere Telekommunikationsnetze (insbesondere
+ManpowerGroup kann nicht für das Abfangen von Nachrichten und/oder Informationen, die zwischen Ihnen und ManpowerGroup ausgetauscht werden, durch Dritte verantwortlich gemacht werden, sei es absichtlich oder versehentlich.
+### 5.4 VERFÜGBARKEIT
+Die Dienste sind grundsätzlich 24 Stunden am Tag, 7 Tage die Woche zugänglich, ausser im Falle einer geplanten oder ungeplanten Unterbrechung zur Wartung, Aktualisierung oder im Falle höherer Gewalt. ManpowerGroup hat eine Mittelverpflichtung und kann nicht für Schäden jeglicher Art haftbar gemacht werden, die aus der Nichtverfügbarkeit der Dienste resultieren.
+### 5.5 BEWEISVEREINBARUNG
+ManpowerGroup und Sie vereinbaren, im Zusammenhang mit den Dienstleistungen die Regeln für die im Streitfall zulässigen Beweise und deren Beweiskraft festzulegen. Die folgenden Bestimmungen stellen die zwischen Ihnen und ManpowerGroup getroffene Beweisvereinbarung dar.
+Die elektronischen Aufzeichnungen, die in den Systemen von ManpowerGroup in Übereinstimmung mit den Sicherheitsstandards der Industrie aufbewahrt werden, gelten als Beweis für die Kommunikation per E-Mail, das Versenden von Anmeldeformularen, das Herunterladen von Dokumenten, die Annahme von Angeboten, die Subskription von Dienstleistungen und die Aufgabe von Bestellungen. Die Archivierung dieser Informationen und Dokumente erfolgt auf einem Datenträger, der die nach den geltenden gesetzlichen Bestimmungen erforderliche Treue und Dauerhaftigkeit gewährleistet. Im Falle von Abweichungen zwischen unseren computergestützten Aufzeichnungen und jedem anderen Dokument, das Ihnen zur Verfügung steht, unabhängig von seiner Form (Papier, elektronisch oder anderweitig), haben die computergestützten Aufzeichnungen von ManpowerGroup Vorrang.
+### Art. 6 PERSÖNLICHE DATEN
+Durch die Nutzung der Websites, der Dienste sowie Ihres persönlichen Kontos erklären Sie sich ausdrücklich damit einverstanden, dass ManpowerGroup die gesammelten Daten, einschliesslich, aber nicht beschränkt auf Ihre personenbezogenen Daten, im Rahmen der Erfüllung dieses Vertrags sammeln, nutzen, weitergeben und verarbeiten darf. Die Erhebung und Nutzung Ihrer Personendaten erfolgt in Übereinstimmung mit der Datenschutzerklärung und der Cookie-Richtlinie, die unter anderem in der Fusszeile unserer Websites verfügbar sind und die Sie zur Kenntnisnahme aufrufen können.
+Unsere Informationshinweise erklären Ihnen, welche personenbezogenen Daten wir über unsere Seiten, Dienste und Ihr Konto erfassen, warum wir sie erfassen, wie wir sie verwenden, wie wir sie weitergeben und wie Sie Ihre Datenschutzrechte ausüben können.
+ManpowerGroup sammelt und verarbeitet Ihre personenbezogenen Daten insbesondere im Rahmen der folgenden allgemeinen Ziele:
+Als Bewerber verwenden wir Ihre Daten, um :
+- Ihr Benutzerkonto auf unseren Sites erstellen und verwalten ;
+- Sie zu kontaktieren, um Ihnen Beschäftigungsmöglichkeiten und Projekte vorzustellen oder Ihnen relevante Informationen per E-Mail, SMS, Telefon und/oder ggf. über andere Kommunikationskanäle zukommen zu lassen ;
+- Ihre Bewerbungen bearbeiten und Sie über den weiteren Verlauf informieren ;
+- die Relevanz Ihrer Fähigkeiten und Ihrer Berufserfahrung bewerten ;
+- relevante Informationen über Sie an Kunden weitergeben, die freie Stellen oder Projekte haben und potenziell an Ihrem Profil interessiert sind;
+- Ihnen Bildungs- und Kompetenzentwicklungsdienste anbieten ;
+- Ihnen Dienstleistungen in den Bereichen Karrieremanagement und -übergang, Begleitung und Coaching anzubieten.
+Als temporärer Mitarbeiter verwenden wir Ihre Daten, um:
+- Sie über Ihre laufenden oder bevorstehenden Einsätze informieren und deren Verwaltung sicherstellen ;
+- sich um die Dokumente vor dem Einsatz kümmern ;
+- Einsatzverträge in Übereinstimmung mit den geltenden Vorschriften erstellen ;
+- Durchführung von Einsatzverträgen und Erledigung der damit verbundenen Verwaltungsformalitäten ;
+- Ihre Verfügbarkeiten und Abwesenheiten verwalten ;
+- Abrechnungen von Löhnen und Sozialversicherungsbeiträgen erstellen ;
+- die Auszahlung Ihres Gehalts vornehmen ;
+- externe Dienstleister wie Versicherungsgesellschaften, Pensionskassen usw. verwalten ;
+- unsere gesetzlichen, regulatorischen und tarifvertraglichen Verpflichtungen einzuhalten ;
+- Ihre Zufriedenheit zu bewerten, um die Qualität unserer Dienstleistungen und der gelieferten Produkte zu verbessern ;
+- Ihnen Dienstleistungen in den Bereichen Ausbildung und Kompetenzentwicklung anbieten.
+Als Kunde und Interessent verwenden wir Ihre Daten, um:
+- Ihnen unsere Dienstleistungen und Produkte zur Verfügung zu stellen ;
+- unsere Geschäftsbeziehungen zu verfolgen und zu verwalten sowie sich mit Ihnen auszutauschen ;
+- Verträge aufsetzen, die den geltenden Vorschriften entsprechen ;
+- die zwischen Ihnen und ManpowerGroup geschlossenen Verträge zu erfüllen ;
+- unsere gesetzlichen, regulatorischen und tarifvertraglichen Verpflichtungen einhalten ;
+- Sie über Neuigkeiten von ManpowerGroup und ihren Dienstleistungen und Produkten auf dem Laufenden zu halten;
+- Ihre Zufriedenheit zu bewerten, um die Qualität unserer Dienstleistungen und der gelieferten Produkte zu verbessern ;
+- Sie zur Teilnahme an Werbeaktionen oder Veranstaltungen einzuladen.
+Sie haben die Möglichkeit, unsere Informationshinweise zu konsultieren, die in der Fusszeile unserer Websites leicht zugänglich sind, um ein tieferes Verständnis der Zwecke unserer Datenverarbeitung sowie unserer Datenschutzpraktiken zu erhalten. ManpowerGroup behält sich das Recht vor, unsere Informationshinweise jederzeit zu aktualisieren, insbesondere um unsere Konformität mit den geltenden gesetzlichen Bestimmungen zu gewährleisten.
+Sie werden daran erinnert, dass Sie in Ihrem persönlichen Konto die Möglichkeit haben, bestimmte Nutzungen Ihrer Daten direkt einzustellen. Änderungen, die Sie an diesen Einstellungen vornehmen, werden so schnell wie möglich berücksichtigt.
+Wenn Sie sich dafür entscheiden, bestimmte erforderliche Personendaten nicht anzugeben, kann dies unsere Fähigkeit beeinträchtigen, Ihnen die von Ihnen angeforderten Dienste zur Verfügung zu stellen.
+ManpowerGroup setzt Richtlinien, Verfahren und Sicherheitsmassnahmen ein, um den Schutz Ihrer personenbezogenen Daten vor Verlust, Zerstörung, Verwendung oder unbefugter Offenlegung angemessen zu gewährleisten.
+Gemäss den geltenden Datenschutzbestimmungen haben Sie die Möglichkeit, Ihre Rechte auszuüben, indem Sie in einigen Fällen die Verwaltungseinstellungen Ihres Benutzerprofils verwenden oder indem Sie das Verfahren zur Ausübung Ihrer Rechte befolgen, das in unserer Datenschutzerklärung angegeben ist, die in der Fusszeile unserer Websites aufgerufen werden kann.
+### 6.1 AUFBEWAHRUNGSDAUER DER DATEN
+Ihre Daten werden nur so lange aufbewahrt, wie es für die Erfüllung der Zwecke, für die sie erhoben wurden, oder für die Einhaltung von gesetzlichen und behördlichen Anforderungen oder internen Richtlinien erforderlich ist. Wir halten uns an die folgenden allgemeinen Aufbewahrungsgrundsätze, von denen wir jedoch insbesondere im Falle der Verarbeitung spezifischer Daten abweichen können:
+- Daten von Kandidaten ohne Auftrag oder Vermittlung werden drei Jahre lang nach dem letzten Kontakt aufbewahrt ;
+- Daten von temporären Mitarbeitern werden 10 Jahre lang ab der letzten Lohnabrechnung (Ende des Geschäftsjahres, in dem das Dokument erstellt wurde) aufbewahrt ;
+- Daten von potenziellen Ansprechpartnern, die keine Kunden sind, werden fünf Jahre lang ab dem letzten Kontakt aufbewahrt;
+- die Daten der Ansprechpartner der Kunden und und oder ihrer Vertreter und Bevollmächtigten werden für einen Zeitraum von 10 Jahren nach Beendigung der Geschäftsbeziehung aufbewahrt.
+### 6.2 ÜBERTRAGUNG VON DATEN
+Personenbezogene Daten werden nur für die Zwecke und in dem Umfang verarbeitet, die für die Erfüllung und Durchsetzung dieser Bedingungen erforderlich sind. In diesem Umfang und zu diesen Zwecken kann ManpowerGroup personenbezogene Daten auch an mit ManpowerGroup verbundene Unternehmen sowie an von ManpowerGroup beauftragte Dienstleister und andere Dritte in der Schweiz oder im Ausland, einschliesslich in Drittländern, die kein angemessenes Schutzniveau bieten, weitergeben, sofern die Anforderungen, die durch die geltenden Datenschutzgesetze und -vorschriften auferlegt werden, eingehalten werden.
+### Art. 7 GERICHTSBARKEIT UND ANWENDBARES RECHT
+Diese Bedingungen sowie Ihr Zugriff auf unsere Sites und Dienste und deren Nutzung unterliegen dem Schweizer Recht. Alle Streitigkeiten, die sich aus der Gültigkeit, Auslegung oder Ausführung der Bedingungen ergeben, unterliegen der Zuständigkeit der Schweizer Gerichte.
+### Art. 8 ÄNDERUNGEN
+ManpowerGroup kann diese Bedingungen nach eigenem Ermessen von Zeit zu Zeit überarbeiten, insbesondere wenn neue Dienste und/oder Funktionen hinzugefügt werden. Die aktuellste Version der vorliegenden Bedingungen wird Ihnen auf den Sites zur Verfügung gestellt. Das Datum des Inkrafttretens der Bedingungen ist in der Kopfzeile angegeben. Bei wesentlichen Änderungen werden wir Sie ggf. über unsere Sites, Ihr Konto, per E-Mail oder andere Kommunikationsmittel informieren.
+Wenn Sie nach dem Inkrafttreten dieser Änderungen weiterhin auf die Sites und Dienste zugreifen oder diese nutzen, erklären Sie sich damit einverstanden, an die überarbeiteten Bedingungen gebunden zu sein. Wenn Sie den geänderten Bedingungen nicht zustimmen, müssen Sie die Nutzung der Sites und Dienste einstellen. In diesem Fall haben Sie die Möglichkeit, Ihr persönliches Konto über die Verwaltungseinstellungen Ihres Benutzerprofils selbst zu löschen oder die Löschung Ihrer personenbezogenen Daten zu beantragen, indem Sie das Verfahren zur Ausübung Ihrer Rechte befolgen, das in unserer Datenschutzerklärung angegeben ist, die in der Fusszeile unserer Websites zugänglich ist.
+© 2024 ManpowerGroup; Stand: Februar 2024; Version 1.1
+## Willkommen auf unserer Website!
+Wir verwenden Cookies und andere Technologien, um Ihnen das bestmögliche Nutzungserlebnis auf unserer Website zu bieten. Einige sind erforderlich, damit unsere Website ordnungsgemäss und sicher funktioniert; andere helfen uns zu verstehen, wie Sie unsere Website nutzen, damit wir sie verbessern können. Zudem verwenden wir Cookies, um Ihnen personalisierte Inhalte bereitzustellen und gezielte Anzeigen zu schalten, einschliesslich auf sozialen Medienplattformen.
+Durch Klicken auf "Alle akzeptieren" stimmen Sie der Speicherung von Cookies auf Ihrem Gerät zu, um die Navigation auf der Website zu verbessern, die Nutzung der Website zu analysieren und unsere Marketingaktivitäten zu unterstützen. Sie akzeptieren, dass wir Informationen über Ihr Surfen mit Dritten teilen, wie z.B. unseren Marketingpartnern. Wenn Sie "Alle ablehnen" wählen, respektieren wir Ihre Privatsphäre und setzen keine Cookies, die nicht für den Betrieb der Website erforderlich sind. Wählen Sie "Cookie-Einstellungen", um weitere Details anzuzeigen und Ihre Optionen zu verwalten. Sie können Ihre Einstellungen jederzeit ändern. Weitere Informationen finden Sie in unserer Cookie-Richtlinie .
+## Datenschutz-Präferenz-Center
+## Datenschutz-Präferenz-Center
+-
+### Ihre Privatsphäre
+-
+### Leistungs-Cookies
+-
+### Unbedingt erforderliche Cookies
+-
+### Cookies für Marketingzwecke
+-
+### Funktionelle Cookies
+#### Ihre Privatsphäre
+Wenn Sie eine Website besuchen, kann diese Informationen über Ihren Browser abrufen oder speichern. Dies geschieht meist in Form von Cookies. Hierbei kann es sich um Informationen über Sie, Ihre Einstellungen oder Ihr Gerät handeln. Meist werden die Informationen verwendet, um die erwartungsgemäße Funktion der Website zu gewährleisten. Durch diese Informationen werden Sie normalerweise nicht direkt identifiziert. Dadurch kann Ihnen aber ein personalisierteres Web-Erlebnis geboten werden. Da wir Ihr Recht auf Datenschutz respektieren, können Sie sich entscheiden, bestimmte Arten von Cookies nicht zulassen. Klicken Sie auf die verschiedenen Kategorieüberschriften, um mehr zu erfahren und unsere Standardeinstellungen zu ändern. Die Blockierung bestimmter Arten von Cookies kann jedoch zu einer beeinträchtigten Erfahrung mit der von uns zur Verfügung gestellten Website und Dienste führen.
+Weitere Informationen
+#### Leistungs-Cookies
+Leistungs-Cookies
+Diese Cookies ermöglichen es uns, Besuche und Verkehrsquellen zu zählen, damit wir die Leistung unserer Website messen und verbessern können. Sie unterstützen uns bei der Beantwortung der Fragen, welche Seiten am beliebtesten sind, welche am wenigsten genutzt werden und wie sich Besucher auf der Website bewegen. Alle von diesen Cookies erfassten Informationen werden aggregiert und sind deshalb anonym. Wenn Sie diese Cookies nicht zulassen, können wir nicht wissen, wann Sie unsere Website besucht haben.
+#### Unbedingt erforderliche Cookies
+Immer aktiv
+Diese Cookies sind zur Funktion der Website erforderlich und können in Ihren Systemen nicht deaktiviert werden. In der Regel werden diese Cookies nur als Reaktion auf von Ihnen getätigte Aktionen gesetzt, die einer Dienstanforderung entsprechen, wie etwa dem Festlegen Ihrer Datenschutzeinstellungen, dem Anmelden oder dem Ausfüllen von Formularen. Sie können Ihren Browser so einstellen, dass diese Cookies blockiert oder Sie über diese Cookies benachrichtigt werden. Einige Bereiche der Website funktionieren dann aber nicht. Diese Cookies speichern keine personenbezogenen Daten.
+#### Cookies für Marketingzwecke
+Cookies für Marketingzwecke
+Diese Cookies können über unsere Website von unseren Werbepartnern gesetzt werden. Sie können von diesen Unternehmen verwendet werden, um ein Profil Ihrer Interessen zu erstellen und Ihnen relevante Anzeigen auf anderen Websites zu zeigen. Sie speichern nicht direkt personenbezogene Daten, basieren jedoch auf einer einzigartigen Identifizierung Ihres Browsers und Internet-Geräts. Wenn Sie diese Cookies nicht zulassen, werden Sie weniger gezielte Werbung erleben.
+#### Funktionelle Cookies
+Funktionelle Cookies
+Mit diesen Cookies ist die Website in der Lage, erweiterte Funktionalität und Personalisierung bereitzustellen. Sie können von uns oder von Drittanbietern gesetzt werden, deren Dienste wir auf unseren Seiten verwenden. Wenn Sie diese Cookies nicht zulassen, funktionieren einige oder alle dieser Dienste möglicherweise nicht einwandfrei.
+### Cookie-Liste
+Consent Leg.Interest checkbox label label checkbox label label checkbox label label
+- checkbox label label

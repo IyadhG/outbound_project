@@ -1,0 +1,335 @@
+--- PAGE D'ACCUEIL : IT Recruitment Specialists in Canberra | IT Recruitment Agencies in Canberra | Best IT Recruitment Agencies in Australia | Top IT Recruitment Agencies in Canberra | ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 10 National Cct, Canberra, Australia
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://www.italliance.com.au/wp-json/>; rel="https://api.w.org/", <https://www.italliance.com.au/wp-json/wp/v2/pages/760>; rel="alternate"; title="JSON"; type="application/json", <https://www.italliance.com.au/>; rel=shortlink
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.italliance.com.au
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+aioseo-*, wp-*, page-*, ehf-*, hello-*, elementor-*, e-*, main-*, bhf-*, attachment-*, size-*, hfe-*, screen-*, menu-*, current-*, animated-*, swiper-*, footer-*, fa-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+WordPress
+
+IT Recruitment Specialists in Canberra | IT Recruitment Agencies in Canberra | Best IT Recruitment Agencies in Australia | Top IT Recruitment Agencies in Canberra |
+# Transforming Your IT Needs into Real Solutions
+Explore how our expertise in ICT resourcing can elevate your business strategies and technology initiatives.
+## Trusted Supplier Across Government & Industry
+##### Our inclusion on procurement panels reflects our proven capability, compliance with stringent procurement standards, and consistent delivery of high-quality ICT recruitment services. We make it easy for clients to engage us — quickly, securely, and with confidence.
+#### Digital Marketplace Panel 2
+#### Information Communication Technology Provider Arrangement (ICTPA)
+#### Temporary and Contracted Workers PSP (GGS0060)
+## Our Certifications & Memberships
+#### ISO 27001:2022 Certification
+Certified to ISO 27001:2022, demonstrating our commitment to information security management.
+#### DISP Membership
+Accredited member of the Defence Industry Security Program (DISP), authorised to engage in Defence projects, sponsor and manage security-cleared personnel.
+#### Corporate Member
+We are proud supporter of Canberra Business Chamber, peak body for business in the ACT and Canberra Region.
+## Our Award-Winning Excellence
+### Rattesh Gumber
+Managing Director/CEO
+Rattesh Gumber brings over two decades of local and global experience in ICT consulting and workforce solutions. As the Managing Director of IT Alliance Australia, his deep industry insight and strong understanding of federal and state government operations have played a pivotal role in shaping the company’s trusted reputation in the market.
+With hands-on experience delivering large-scale ICT projects across both private and public sectors – including with leading organisations such as Deloitte, Macquarie Bank, Department of Education and Services Australia – Rattesh knows what it takes to align the right talent with complex business needs. His practical understanding of technical roles, project delivery expectations, and client environments ensures that both clients and candidates are matched with precision and clarity.
+For clients, Rattesh’s leadership ensures access to high-quality, security-cleared ICT professionals with quick turnaround times, strong compliance, and a focus on value for money. For candidates, his approach translates into transparent processes, ethical engagement, and access to meaningful opportunities across Australia’s leading government and corporate organisations.
+Rattesh’s experience is not only a guiding force behind IT Alliance Australia’s strategic direction – it is also the foundation of the company’s committment to excellence, client success, and career growth for ICT professionals.
+## Our Mission
+To consistently deliver reliable ICT recruitment and consulting services that empower our clients to build resilient and skilled teams, ensuring their long-term success and sustainability.
+## Our Vision
+Build and maintain our customer partnership through speed, quality, relevance and Integrity in each action we take.
+## Candidate testimonials
+### Hear what our candidates say about their journey with us
+I recently had the opportunity to engage with IT Alliance for a recruitment process, and I was impressed by their professionalism and personalized approach. The team demonstrated a deep understanding of the IT sector, ensuring they matched the right talent with the right roles. Their communication was transparent and timely, which made the entire process seamless. IT Alliance is a recruiting firm I would highly recommend to both job seekers and organizations looking for skilled professionals
+Milton ICT Service Desk Specialist
+IT Alliance Australia is a standout organization in the IT and recruitment space, known for its commitment to excellence and integrity. They provide tailored solutions that cater to both clients and candidates, ensuring a seamless and efficient experience. Their team goes above and beyond to understand specific needs, making them a trusted partner for IT services and staffing solutions.
+A special mention to Subasree, whose professionalism, and dedication truly set her apart.
+Chris Network Consultant
+IT Alliance has been great to work with as a consultant and contractor. They matched my unique skill set to where I could offer the most value to a Federal Government Agency. I helped up skill the client’s staff in terms of technical know-how and drive improvement in their operational processes. IT Alliance has always provided useful feedback and celebrated their wins generously with those who contributed. In fact, they invited me and my partner to celebrate their achievement in getting Australia’s Small Business Award.
+I look forward to working with them in the future, as I know they are continuing to go from strength to strength.
+Gary Agile Coach
+Working as a contractor through IT Alliance Australia has been an exceptional experience. From the very beginning, their team demonstrated professionalism, transparency, and a genuine dedication to matching my skills with the right client opportunities.
+I highly recommend IT Alliance Australia to anyone seeking rewarding contracting opportunities with reputable clients.
+Birendra CRM Consultant
+I was approached by IT Alliance via LinkedIn, and I wasn’t checking my email during the time while I was in a set of rolling holidays. Nidhi, the diligent staff of IT Alliance followed up by calling me directly and luckily, I was brought into a pool of candidates for a government agency in the closing date. I had soon been secured for an interview and offered the position within a short time.
+Thank you, Nidhi, for your effort and dedication.
+Peter Software Developer
+Working with IT Alliance has been a truly rewarding experience. The company excels in maintaining prompt communication, keeping clients informed with regular updates, and providing quick responses to any questions or concerns.
+The team fosters a collaborative and supportive atmosphere, making it easy to align on goals and deliver outstanding results. It’s clear that IT alliance values transparency, efficiency, and building strong relationships—qualities that make it a fantastic organization to be a part of.
+I would highly recommend IT Alliance to anyone looking for a team-oriented and professional environment to grow and achieve great things!
+Subha Software Test Analyst
+As a contractor, finding the right role that matches my skills and aspirations is crucial, and IT Alliance has been exceptional in making that happen. Their team demonstrated a deep understanding of my expertise and career goals, connecting me with opportunities perfectly aligned with my experience.
+What impressed me the most was their professionalism, transparency, and ongoing support throughout the recruitment process. They were always available to answer questions, provide guidance, and ensure everything went smoothly.
+I highly recommend IT Alliance.
+Jean Azure/Cloud Consultant
+I just wanted to appreciate Utkarsh Arora for his continuous dedication to his work and his service. He is so passionate about ensuring I get a job and just kept checking in, while sending some opportunities instead of giving up because we couldn’t secure an interview. Over the years, I have dealt with so many recruiters, and I know I’m just another dollar sign to them as they can’t wait to move on to the next person, which is understandable. But Utkarsh is very supportive and also wants to make sure he is in touch with you. I have not secured a role yet, but I thought it’s necessary to share this information. He is focused on building long term relationships and creating a great experience for both the clients and the candidates. I hope to secure a role with him and whether or not I do, I will maintain this professional partnership.
+Isabel ICT Project Officer
+My interaction with IT Alliance was excellent. The team was always helpful and open from the beginning of the hiring process until my last day.
+Their quick and honest communication made the entire process run easily and successfully. Because of my experience, I heartily recommend IT Alliance to both job seekers and businesses seeking competent employees.
+Preet Test Manager
+I couldn’t be happier with my experience working with IT Alliance Australia! They went above and beyond to understand my skills, career goals, and the type of opportunities I was looking for. Thanks to their expertise and connections, they secured me a fantastic contract with a federal government agency—a role that perfectly aligns with my professional aspirations.
+Throughout the process, their team was incredibly professional, communicative, and supportive, ensuring that every step was seamless. They truly made me feel like a priority, and their knowledge of the IT industry and government hiring processes was invaluable.
+If you’re looking for a recruitment agency that genuinely cares about your success and has the network to deliver high-quality opportunities, I wholeheartedly recommend IT Alliance Australia. They’re not just recruiters—they’re career partners!
+Andrew Agile Coach
+I have had a very positive experience working for IT Alliance as a contractor in a federal department. Their responsiveness to my requests has been exceptional, ensuring that any concerns or queries are addressed promptly and professionally. The recruitment and onboarding process was seamless, making the transition into my role smooth and hassle-free. Additionally, I appreciate the reliability of salary payments, which are always made on time. IT Alliance demonstrates a high level of professionalism and efficiency, making it a pleasure to work with them.
+Chee Senior ICT Support Officer
+I had a great experience working with IT Alliance. Their payments were always punctual, and they excelled in taking care of their staff, including former contractors. Even after I left, they extended a warm invitation to their Christmas party, which I greatly appreciated.
+Si Senior Java Consultant
+IT Alliance exceeded my expectations. They were proactive in identifying role requirements and provided valuable guidance on every step. I would especially like to thank Shaistah Fatima for her exceptional support.
+Ammar Senior Desktop Engineer
+I have worked with IT Alliance Australia as an IT contractor for the last 4 months. Over that time, they have been prompt with their payroll services and generally been a joy to work with. A+
+James Azure Data Engineer
+Team is great with communication and helps in getting your dream job-. Also help the client to meet their business needs. Will recommend dealing with Madhavi and she is great team member of alliance and always helps
+Garima ICT Project Manager
+It has been a great experience working with the IT Alliance team. I highly recommend Nidhi Chandra for her exceptional support and dedication in connecting me with job opportunities that perfectly align with my skills and expertise in the network and security domain. Her deep understanding of the industry and ability to match roles to my qualifications was truly outstanding. I sincerely appreciate her professionalism and personalized approach throughout the process.
+Amolak Network Engineering Expert
+It is a great pleasure working with Krishna from IT Alliance! Krishna providing detailed job requirements and manage contractor/employer in a very professional level. I would highly recommend IT Alliance to my career network. I landed in a great contractor role, and IT Alliance is great on contractor-employer communication and did an awesome job to keep both party information in a timely and clearly way. In addition, they help contractor manage payroll using a simple and effective system.
+Zhiyu Senior Application Developer
+For the past three years, I’ve had the privilege of working with IT Alliance, and the experience has been outstanding. The team’s in-depth knowledge of the IT sector ensured a perfect alignment between my skills and the role. I have been continually impressed by their professionalism, deep industry knowledge, and tailored approach. They matched my skills perfectly with a Federal Government Agency, where I’ve been able to contribute by enhancing technical expertise and driving operational improvements. Throughout our partnership, their communication has been clear and timely, and their feedback constructive, creating a truly collaborative and rewarding relationship. I highly recommend IT Alliance to both job seekers and organizations seeking top-tier talent.
+Ashutosh Application Developer
+I had the opportunity to work with IT Alliance from 2021 to 2024, supporting a client, The Bureau of Meteorology. From the recruitment process through to my final day, the team was consistently supportive and transparent, particularly with contract extensions. Having worked with several other agencies, I can confidently say that IT Alliance stands out in many ways.
+Even after my engagement ended, they invited me to their success celebration, a gesture that truly demonstrated their respect for former employees. This thoughtful act left a lasting impression on me.
+I wish the entire team continued success in all their future endeavors.
+Srikrishna Senior Software Tester
+It was a great experience dealing with IT Alliance team during my placement and tenure at DISR. Entire team was always helpful and prompt in responding to queries, and I look forward to work in future with IT Alliance.
+Anand System Analyst
+I recently had the opportunity to engage with IT Alliance for a recruitment process, and I was impressed by their professionalism and personalized approach. The team demonstrated a deep understanding of the IT sector, ensuring they matched the right talent with the right roles. Their communication was transparent and timely, which made the entire process seamless. IT Alliance is a recruiting firm I would highly recommend to both job seekers and organizations looking for skilled professionals
+Milton ICT Service Desk Specialist
+IT Alliance Australia is a standout organization in the IT and recruitment space, known for its commitment to excellence and integrity. They provide tailored solutions that cater to both clients and candidates, ensuring a seamless and efficient experience. Their team goes above and beyond to understand specific needs, making them a trusted partner for IT services and staffing solutions.
+A special mention to Subasree, whose professionalism, and dedication truly set her apart.
+Chris Network Consultant
+## Our Valued Clients
+We’re proud to have partnered with amazing clients. Their trust in us drives our commitment to delivering excellence every day.
+# Whether you're looking for skilled ICT professionals or your next great opportunity, IT Alliance Australia is here to help.
+Explore our services to see how we deliver trusted recruitment solutions. Browse current jobs and take the next step in your career today.
+
+
+--- PAGE STRATÉGIQUE : https://www.italliance.com.au/about-us-itaa/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://www.italliance.com.au/wp-json/>; rel="https://api.w.org/", <https://www.italliance.com.au/wp-json/wp/v2/pages/2355>; rel="alternate"; title="JSON"; type="application/json", <https://www.italliance.com.au/?p=2355>; rel=shortlink
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.italliance.com.au
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+aioseo-*, wp-*, page-*, ehf-*, hello-*, elementor-*, e-*, main-*, bhf-*, attachment-*, size-*, hfe-*, screen-*, menu-*, current-*, animated-*, footer-*, fa-*
+===================================
+About Us - IT Alliance Australia Pty Ltd
+# Trusted ICT Talent for Government & Defence Projects.
+We deliver security-cleared professionals for mission-critical roles.
+IT Alliance Australia is a proudly Australian-owned, Canberra-based SME, and winner of the Australian Small Business Champion Award for Recruitment two years in a row. Established in December 2016, we are an ISO 27001:2022 certified ICT recruitment company committed to powering Australia’s digital future. We specialise in the delivery of high-quality ICT contract and permanent staffing solutions across the Australian federal government, state and territory Governments, local councils, universities and educational institutions, and private sector organisations nationwide.
+Headquartered in Barton, ACT, with operations across all major cities in Australia, we are committed to helping government and enterprise clients build strong, secure, and scalable ICT teams. Our strength lies in our strong social network and internal database of over 20,000 pre-screened Australian citizens, many of whom hold active security clearances (Baseline, NV1, NV2), enabling us to meet highly regulated project demands quickly and reliably.
+As a Defence Industry Security Program (DISP)–member, we can sponsor eligible candidates with the right skills and capability to obtain and maintain Baseline and NV1 security clearances — opening doors to exclusive, career-defining opportunities.
+###
+DISP Membership & Security Clearance Capability
+We directly support over 30 federal government departments and agencies, offering unparalleled knowledge of government hiring frameworks, processes, and culture.
+We’re trusted by government and corporate procurement panels across Australia, including:
+- Digital Marketplace Panel 2 (DMP2) – ICT Labour Hire (Whole of Australian Federal Government)
+- Information Communication Technology Provider Arrangement (ICTPA) – Department of Defence
+- OutSystems Services Panel – Australian Securities and Investment Commission (ASIC)
+- GGS0060 – Preferred Supplier Panel for Queensland State Government
+- Contingent Workforce Scheme – SCM0007 Contingent Workforce – NSW State Government
+- Contingent Workforce Scheme – SCM0007 Contingent Workforce – ACT State Government
+- Private Sector Preferred Supplier Agreements
+- Digital Marketplace Panel 2 (DMP2) – Professional and Consulting Services (Whole of Australian Federal Government)
+- Application, Software Engineering and Development Services
+- Architecture Services
+- Business, Systems and Process Analysis Services
+- Data Analytics and Business Intelligence Services
+- Program, Project and Change Management Services
+- Solutions Implementation Services
+- Support and Operations Services
+- Training, Learning and Development Services
+- Cybersecurity Services
+- Market Research and Advisory Services
+- Marketing, Advertising Communications and Engagement Services
+###
+Procurement Panel Memberships
+- Microsoft Surface Devices
+- Thales IAM Solutions – Customer IAM, IAM Devices, Workforce IAM
+- Zoho CRM
+###
+Authorised Reseller
+We are honoured to be recognised as one of Australia’s leading small businesses in ICT recruitment, service excellence and innovation:
+- Winner – Australian Small Business Champions Award 2025
+- Winner – Australian Small Business Champions Award 2024
+- Finalist – Business NSW Excellence in Small Business Awards 2024
+- Finalist – Local Business Awards Canberra Region 2024
+- Finalist – Tiara Recruitment Awards ANZ 2024
+###
+Awards & Recognitions
+###
+We advertise latest opportunities and publish our Industry engagements regularly on LinkedIn. Stay in touch to know more about us.
+At IT Alliance Australia, we blend expertise and innovation to reshape ICT resourcing. With years of experience, we’ve built trusted partnerships and tailored solutions that empower our clients to thrive in a digital-first world. Discover how we can support your technology needs and drive your success.
+# Trusted Partnerships and Tailored Solutions
+We prioritise our clients’ needs, working closely with them to provide personalised solutions that align with their objectives.
+###
+Client-Focused Approach
+Our team is composed of industry experts who leverage the latest technologies to deliver innovative solutions and insights.
+###
+Expertise and Innovation
+Whether you’re a government department seeking security-cleared ICT professionals, a corporate team building digital capability, a tech candidate looking for your next role, or a future recruiter wanting to join a growing company- we’d love to hear from you.
+###
+Let’s Work Together
+# Our Core Values
+What guides us every day — in every decision, every interaction, and every placement.
+### Integrity
+We take ownership of our actions and hold ourselves to the highest professional standards — always accountable, always responsible.
+### Customer Focus
+We put our customers at the centre of everything we do — constantly asking, “Does this add value?”
+We take the time to understand their needs and consistently deliver tailored, accurate, and trustworthy solutions.
+### Quality
+We strive to exceed our customers’ expectations by consistently delivering the highest quality candidates — every time.
+### People
+We grow together in a supportive, knowledge-sharing environment — where we value ourselves and one another.
+### Continuous Improvement
+We are committed to continuous improvement — evolving our processes and capabilities to remain a reliable partner in the fast-changing ICT landscape.
+##### Meet Our Team
+## With a strong network and a strategic approach, we bring together a team of highly skilled consultants with deep expertise across the full ICT landscape to deliver talent that drives digital transformation and operational success.
+View LinkedIn
+
+
+--- PAGE STRATÉGIQUE : https://www.italliance.com.au/contact-us-itaa/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://www.italliance.com.au/wp-json/>; rel="https://api.w.org/", <https://www.italliance.com.au/wp-json/wp/v2/pages/133>; rel="alternate"; title="JSON"; type="application/json", <https://www.italliance.com.au/?p=133>; rel=shortlink
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.italliance.com.au
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+aioseo-*, wp-*, page-*, ehf-*, hello-*, elementor-*, e-*, main-*, bhf-*, attachment-*, size-*, hfe-*, screen-*, menu-*, current-*, footer-*, fa-*
+===================================
+Contact Us - IT Alliance Australia Pty Ltd
+#
+Opportunity Starts with a Conversation
+Our experienced team is here to assist you with your recruitment needs. Your inquiries are important to us.
+# Connect with us
+If you have questions, reach us at:
+-
+Website: www.italliance.com.au
+-
+Enquiries: 1300 127 460
+-
+ASIC: 616 577 023
+-
+ABN: 86 616 577 023
+-
+Visit us: 10 National Circuit, Barton, ACT 2611
+
+
+--- PAGE STRATÉGIQUE : https://www.italliance.com.au/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://www.italliance.com.au/wp-json/>; rel="https://api.w.org/", <https://www.italliance.com.au/wp-json/wp/v2/pages/760>; rel="alternate"; title="JSON"; type="application/json", <https://www.italliance.com.au/>; rel=shortlink
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+www.italliance.com.au
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+aioseo-*, wp-*, page-*, ehf-*, hello-*, elementor-*, e-*, main-*, bhf-*, attachment-*, size-*, hfe-*, screen-*, menu-*, current-*, animated-*, swiper-*, footer-*, fa-*
+===================================
+IT Recruitment Specialists in Canberra | IT Recruitment Agencies in Canberra | Best IT Recruitment Agencies in Australia | Top IT Recruitment Agencies in Canberra |
+# Transforming Your IT Needs into Real Solutions
+Explore how our expertise in ICT resourcing can elevate your business strategies and technology initiatives.
+## Trusted Supplier Across Government & Industry
+##### Our inclusion on procurement panels reflects our proven capability, compliance with stringent procurement standards, and consistent delivery of high-quality ICT recruitment services. We make it easy for clients to engage us — quickly, securely, and with confidence.
+#### Digital Marketplace Panel 2
+#### Information Communication Technology Provider Arrangement (ICTPA)
+#### Temporary and Contracted Workers PSP (GGS0060)
+## Our Certifications & Memberships
+#### ISO 27001:2022 Certification
+Certified to ISO 27001:2022, demonstrating our commitment to information security management.
+#### DISP Membership
+Accredited member of the Defence Industry Security Program (DISP), authorised to engage in Defence projects, sponsor and manage security-cleared personnel.
+#### Corporate Member
+We are proud supporter of Canberra Business Chamber, peak body for business in the ACT and Canberra Region.
+## Our Award-Winning Excellence
+### Rattesh Gumber
+Managing Director/CEO
+Rattesh Gumber brings over two decades of local and global experience in ICT consulting and workforce solutions. As the Managing Director of IT Alliance Australia, his deep industry insight and strong understanding of federal and state government operations have played a pivotal role in shaping the company’s trusted reputation in the market.
+With hands-on experience delivering large-scale ICT projects across both private and public sectors – including with leading organisations such as Deloitte, Macquarie Bank, Department of Education and Services Australia – Rattesh knows what it takes to align the right talent with complex business needs. His practical understanding of technical roles, project delivery expectations, and client environments ensures that both clients and candidates are matched with precision and clarity.
+For clients, Rattesh’s leadership ensures access to high-quality, security-cleared ICT professionals with quick turnaround times, strong compliance, and a focus on value for money. For candidates, his approach translates into transparent processes, ethical engagement, and access to meaningful opportunities across Australia’s leading government and corporate organisations.
+Rattesh’s experience is not only a guiding force behind IT Alliance Australia’s strategic direction – it is also the foundation of the company’s committment to excellence, client success, and career growth for ICT professionals.
+## Our Mission
+To consistently deliver reliable ICT recruitment and consulting services that empower our clients to build resilient and skilled teams, ensuring their long-term success and sustainability.
+## Our Vision
+Build and maintain our customer partnership through speed, quality, relevance and Integrity in each action we take.
+## Candidate testimonials
+### Hear what our candidates say about their journey with us
+I recently had the opportunity to engage with IT Alliance for a recruitment process, and I was impressed by their professionalism and personalized approach. The team demonstrated a deep understanding of the IT sector, ensuring they matched the right talent with the right roles. Their communication was transparent and timely, which made the entire process seamless. IT Alliance is a recruiting firm I would highly recommend to both job seekers and organizations looking for skilled professionals
+Milton ICT Service Desk Specialist
+IT Alliance Australia is a standout organization in the IT and recruitment space, known for its commitment to excellence and integrity. They provide tailored solutions that cater to both clients and candidates, ensuring a seamless and efficient experience. Their team goes above and beyond to understand specific needs, making them a trusted partner for IT services and staffing solutions.
+A special mention to Subasree, whose professionalism, and dedication truly set her apart.
+Chris Network Consultant
+IT Alliance has been great to work with as a consultant and contractor. They matched my unique skill set to where I could offer the most value to a Federal Government Agency. I helped up skill the client’s staff in terms of technical know-how and drive improvement in their operational processes. IT Alliance has always provided useful feedback and celebrated their wins generously with those who contributed. In fact, they invited me and my partner to celebrate their achievement in getting Australia’s Small Business Award.
+I look forward to working with them in the future, as I know they are continuing to go from strength to strength.
+Gary Agile Coach
+Working as a contractor through IT Alliance Australia has been an exceptional experience. From the very beginning, their team demonstrated professionalism, transparency, and a genuine dedication to matching my skills with the right client opportunities.
+I highly recommend IT Alliance Australia to anyone seeking rewarding contracting opportunities with reputable clients.
+Birendra CRM Consultant
+I was approached by IT Alliance via LinkedIn, and I wasn’t checking my email during the time while I was in a set of rolling holidays. Nidhi, the diligent staff of IT Alliance followed up by calling me directly and luckily, I was brought into a pool of candidates for a government agency in the closing date. I had soon been secured for an interview and offered the position within a short time.
+Thank you, Nidhi, for your effort and dedication.
+Peter Software Developer
+Working with IT Alliance has been a truly rewarding experience. The company excels in maintaining prompt communication, keeping clients informed with regular updates, and providing quick responses to any questions or concerns.
+The team fosters a collaborative and supportive atmosphere, making it easy to align on goals and deliver outstanding results. It’s clear that IT alliance values transparency, efficiency, and building strong relationships—qualities that make it a fantastic organization to be a part of.
+I would highly recommend IT Alliance to anyone looking for a team-oriented and professional environment to grow and achieve great things!
+Subha Software Test Analyst
+As a contractor, finding the right role that matches my skills and aspirations is crucial, and IT Alliance has been exceptional in making that happen. Their team demonstrated a deep understanding of my expertise and career goals, connecting me with opportunities perfectly aligned with my experience.
+What impressed me the most was their professionalism, transparency, and ongoing support throughout the recruitment process. They were always available to answer questions, provide guidance, and ensure everything went smoothly.
+I highly recommend IT Alliance.
+Jean Azure/Cloud Consultant
+I just wanted to appreciate Utkarsh Arora for his continuous dedication to his work and his service. He is so passionate about ensuring I get a job and just kept checking in, while sending some opportunities instead of giving up because we couldn’t secure an interview. Over the years, I have dealt with so many recruiters, and I know I’m just another dollar sign to them as they can’t wait to move on to the next person, which is understandable. But Utkarsh is very supportive and also wants to make sure he is in touch with you. I have not secured a role yet, but I thought it’s necessary to share this information. He is focused on building long term relationships and creating a great experience for both the clients and the candidates. I hope to secure a role with him and whether or not I do, I will maintain this professional partnership.
+Isabel ICT Project Officer
+My interaction with IT Alliance was excellent. The team was always helpful and open from the beginning of the hiring process until my last day.
+Their quick and honest communication made the entire process run easily and successfully. Because of my experience, I heartily recommend IT Alliance to both job seekers and businesses seeking competent employees.
+Preet Test Manager
+I couldn’t be happier with my experience working with IT Alliance Australia! They went above and beyond to understand my skills, career goals, and the type of opportunities I was looking for. Thanks to their expertise and connections, they secured me a fantastic contract with a federal government agency—a role that perfectly aligns with my professional aspirations.
+Throughout the process, their team was incredibly professional, communicative, and supportive, ensuring that every step was seamless. They truly made me feel like a priority, and their knowledge of the IT industry and government hiring processes was invaluable.
+If you’re looking for a recruitment agency that genuinely cares about your success and has the network to deliver high-quality opportunities, I wholeheartedly recommend IT Alliance Australia. They’re not just recruiters—they’re career partners!
+Andrew Agile Coach
+I have had a very positive experience working for IT Alliance as a contractor in a federal department. Their responsiveness to my requests has been exceptional, ensuring that any concerns or queries are addressed promptly and professionally. The recruitment and onboarding process was seamless, making the transition into my role smooth and hassle-free. Additionally, I appreciate the reliability of salary payments, which are always made on time. IT Alliance demonstrates a high level of professionalism and efficiency, making it a pleasure to work with them.
+Chee Senior ICT Support Officer
+I had a great experience working with IT Alliance. Their payments were always punctual, and they excelled in taking care of their staff, including former contractors. Even after I left, they extended a warm invitation to their Christmas party, which I greatly appreciated.
+Si Senior Java Consultant
+IT Alliance exceeded my expectations. They were proactive in identifying role requirements and provided valuable guidance on every step. I would especially like to thank Shaistah Fatima for her exceptional support.
+Ammar Senior Desktop Engineer
+I have worked with IT Alliance Australia as an IT contractor for the last 4 months. Over that time, they have been prompt with their payroll services and generally been a joy to work with. A+
+James Azure Data Engineer
+Team is great with communication and helps in getting your dream job-. Also help the client to meet their business needs. Will recommend dealing with Madhavi and she is great team member of alliance and always helps
+Garima ICT Project Manager
+It has been a great experience working with the IT Alliance team. I highly recommend Nidhi Chandra for her exceptional support and dedication in connecting me with job opportunities that perfectly align with my skills and expertise in the network and security domain. Her deep understanding of the industry and ability to match roles to my qualifications was truly outstanding. I sincerely appreciate her professionalism and personalized approach throughout the process.
+Amolak Network Engineering Expert
+It is a great pleasure working with Krishna from IT Alliance! Krishna providing detailed job requirements and manage contractor/employer in a very professional level. I would highly recommend IT Alliance to my career network. I landed in a great contractor role, and IT Alliance is great on contractor-employer communication and did an awesome job to keep both party information in a timely and clearly way. In addition, they help contractor manage payroll using a simple and effective system.
+Zhiyu Senior Application Developer
+For the past three years, I’ve had the privilege of working with IT Alliance, and the experience has been outstanding. The team’s in-depth knowledge of the IT sector ensured a perfect alignment between my skills and the role. I have been continually impressed by their professionalism, deep industry knowledge, and tailored approach. They matched my skills perfectly with a Federal Government Agency, where I’ve been able to contribute by enhancing technical expertise and driving operational improvements. Throughout our partnership, their communication has been clear and timely, and their feedback constructive, creating a truly collaborative and rewarding relationship. I highly recommend IT Alliance to both job seekers and organizations seeking top-tier talent.
+Ashutosh Application Developer
+I had the opportunity to work with IT Alliance from 2021 to 2024, supporting a client, The Bureau of Meteorology. From the recruitment process through to my final day, the team was consistently supportive and transparent, particularly with contract extensions. Having worked with several other agencies, I can confidently say that IT Alliance stands out in many ways.
+Even after my engagement ended, they invited me to their success celebration, a gesture that truly demonstrated their respect for former employees. This thoughtful act left a lasting impression on me.
+I wish the entire team continued success in all their future endeavors.
+Srikrishna Senior Software Tester
+It was a great experience dealing with IT Alliance team during my placement and tenure at DISR. Entire team was always helpful and prompt in responding to queries, and I look forward to work in future with IT Alliance.
+Anand System Analyst
+I recently had the opportunity to engage with IT Alliance for a recruitment process, and I was impressed by their professionalism and personalized approach. The team demonstrated a deep understanding of the IT sector, ensuring they matched the right talent with the right roles. Their communication was transparent and timely, which made the entire process seamless. IT Alliance is a recruiting firm I would highly recommend to both job seekers and organizations looking for skilled professionals
+Milton ICT Service Desk Specialist
+IT Alliance Australia is a standout organization in the IT and recruitment space, known for its commitment to excellence and integrity. They provide tailored solutions that cater to both clients and candidates, ensuring a seamless and efficient experience. Their team goes above and beyond to understand specific needs, making them a trusted partner for IT services and staffing solutions.
+A special mention to Subasree, whose professionalism, and dedication truly set her apart.
+Chris Network Consultant
+## Our Valued Clients
+We’re proud to have partnered with amazing clients. Their trust in us drives our commitment to delivering excellence every day.
+# Whether you're looking for skilled ICT professionals or your next great opportunity, IT Alliance Australia is here to help.
+Explore our services to see how we deliver trusted recruitment solutions. Browse current jobs and take the next step in your career today.

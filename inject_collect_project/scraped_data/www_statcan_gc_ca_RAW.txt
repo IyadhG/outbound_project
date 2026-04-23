@@ -1,0 +1,27 @@
+--- PAGE D'ACCUEIL : Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 150 Tunney's Pasture Drwy, Ottawa, Canada
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: nginx
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+assets.adobedtm.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+no-*, sp-*, col-*, wb-*, text-*, btn-*, glyphicon-*, mrgn-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Vercel
+
+Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
+# Statistics Canada: Canada's national statistical agency / Statistique Canada : Organisme statistique national du Canada
+## Statistics Canada
+English
+## Statistique Canada
+Français
+Terms & conditions Avis

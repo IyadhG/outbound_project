@@ -1,0 +1,176 @@
+{
+    "identity": {
+        "domain": {
+            "value": "usaid.gov",
+            "confidence": 1.0,
+            "source": "USAID.gov mention in text"
+        },
+        "name": {
+            "value": "U.S. Agency for International Development (USAID)",
+            "confidence": 1.0,
+            "source": "Page Header"
+        },
+        "industry": {
+            "value": "Government Administration / International Development",
+            "confidence": 0.95,
+            "source": "Site Content"
+        },
+        "founded_year": {
+            "value": "1961",
+            "confidence": 0.9,
+            "source": "Historical institutional data"
+        },
+        "short_description": {
+            "value": "The U.S. Agency for International Development is the world's premier international development agency and a catalytic actor driving development results.",
+            "confidence": 0.9,
+            "source": "USAID Mission Statement"
+        },
+        "seo_description": {
+            "value": "USAID is the world's premier international development agency and a catalytic actor driving development results.",
+            "confidence": 0.8,
+            "source": "Metadata inference"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "32.5 Billion USD",
+            "confidence": 0.85,
+            "source": "Estimated FY 2024 Federal Budget Request (Global)"
+        },
+        "fiscal_year_end": {
+            "value": "September",
+            "confidence": 1.0,
+            "source": "US Federal Government Standard"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Not applicable (Government funded)"
+        },
+        "estimated_num_employees": {
+            "value": "10,000+",
+            "confidence": 0.8,
+            "source": "Institutional reports; text mentions 1,600 personnel impacted in US alone"
+        },
+        "latest_funding_stage": {
+            "value": "Government Agency",
+            "confidence": 1.0,
+            "source": "Public entity type"
+        },
+        "annual_revenue_USD": {
+            "value": 32500000000,
+            "confidence": 0.85,
+            "source": "Converted from Estimated FY 2024 Federal Budget Request (Global)"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/USAID",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "facebook_url": {
+            "value": "https://www.facebook.com/USAID",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "phone": {
+            "value": "+1 202-712-0000",
+            "confidence": 0.7,
+            "source": "Public DC HQ records"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.95,
+            "source": "Independent Federal Agency structure"
+        },
+        "parent_company": {
+            "value": "United States Government",
+            "confidence": 1.0,
+            "source": "Institutional hierarchy"
+        },
+        "num_suborganizations": {
+            "value": "80+ missions",
+            "confidence": 0.8,
+            "source": "Regional mission data"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "USAID Office of Inspector General",
+                "Bureau for Humanitarian Assistance",
+                "Power Africa"
+            ],
+            "confidence": 0.85,
+            "source": "Internal departments and global missions"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "1300 Pennsylvania Ave NW, Washington, DC 20004, United States",
+            "confidence": 1.0,
+            "source": "User-provided target address"
+        },
+        "city": {
+            "value": "Washington",
+            "confidence": 1.0,
+            "source": "Target address"
+        },
+        "country": {
+            "value": "United States",
+            "confidence": 1.0,
+            "source": "Target address"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Drupal",
+            "category": "Content Management System",
+            "confidence": 0.9,
+            "source": "USAID historical tech stack and CSS class patterns"
+        },
+        {
+            "name": "USWDS (U.S. Web Design System)",
+            "category": "Frontend Framework",
+            "confidence": 0.95,
+            "source": "Prefix analysis (section-*, logo-*)"
+        },
+        {
+            "name": "Web Components",
+            "category": "Browser API",
+            "confidence": 0.99,
+            "source": "customElements detected in JS window object"
+        },
+        {
+            "name": "Google Analytics",
+            "category": "Analytics",
+            "confidence": 0.8,
+            "source": "Deduction from standard federal web requirements"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "International Development, Humanitarian Assistance, Global Health, Disaster Relief, Economic Growth, USAID, Foreign Policy",
+        "confidence": 0.9,
+        "source": "Content analysis"
+    },
+    "data_quality_score": {
+        "value": 0.9,
+        "confidence": 1.0,
+        "source": "LLM evaluation of provided data completeness and confidence"
+    },
+    "market_intelligence": {
+        "competitors": [
+            "United Nations Development Programme (UNDP)",
+            "World Bank Group",
+            "Foreign, Commonwealth & Development Office (UK)",
+            "European Commission - Directorate-General for International Partnerships"
+        ]
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "identity": {
+        "domain": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé dans le texte scrapé"
+        },
+        "name": {
+            "value": "Talan",
+            "confidence": 1.0,
+            "source": "Page d'accueil"
+        },
+        "industry": {
+            "value": "Services numériques et Conseil en technologie",
+            "confidence": 0.7,
+            "source": "Déduction de la page d'accueil"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé"
+        },
+        "short_description": {
+            "value": "Talan est une entreprise dont le site web est en construction, préparant une expérience digitale remarquable grâce à ses équipes.",
+            "confidence": 0.8,
+            "source": "Page d'accueil"
+        },
+        "seo_description": {
+            "value": "Talan: Site officiel en construction. Découvrez bientôt une expérience digitale remarquable, conçue par nos équipes ambitieuses et dédiée à l'innovation numérique.",
+            "confidence": 0.6,
+            "source": "Déduction de la page d'accueil"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé dans le texte scrapé"
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé"
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Information non disponible"
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 0.9,
+            "source": "Déduction de la directive de ciblage régionale"
+        },
+        "parent_company": {
+            "value": "Talan Group",
+            "confidence": 0.8,
+            "source": "Déduction de la directive de ciblage et du nom de l'entreprise"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Non trouvé"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.0,
+            "source": "Non trouvé"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "10 Rue de l'energie solaire, Tunis, Tunisia",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "city": {
+            "value": "Tunis",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "country": {
+            "value": "Tunisia",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Apache",
+            "category": "Serveur Web",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "site en construction, expérience digitale, développement web, équipes, innovation, technologie, conseil",
+        "confidence": 0.7,
+        "source": "Page d'accueil"
+    },
+    "data_quality_score": {
+        "value": 0.35,
+        "confidence": 0.9,
+        "source": "Évaluation de la complétude et de la confiance des données existantes"
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Sopra Steria",
+            "Vermeg",
+            "Focus Corporation",
+            "Expensya",
+            "Sofrecom"
+        ]
+    }
+}

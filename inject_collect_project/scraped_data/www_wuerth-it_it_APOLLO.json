@@ -1,0 +1,191 @@
+{
+    "identity": {
+        "domain": {
+            "value": "wuerth-it.it",
+            "confidence": 1.0,
+            "source": "URL analysis"
+        },
+        "name": {
+            "value": "Würth IT Italy S.r.l.",
+            "confidence": 1.0,
+            "source": "Company contact page and header"
+        },
+        "industry": {
+            "value": "Information Technology and Services",
+            "confidence": 0.95,
+            "source": "Service offerings (ERP, CRM, Cyber Security)"
+        },
+        "founded_year": {
+            "value": "2000",
+            "confidence": 1.0,
+            "source": "Chi Siamo page - explicitly stated founded in Bolzano in 2000"
+        },
+        "short_description": {
+            "value": "IT partner specialized in ERP, CRM, Cyber Security, and digital transformation for various industrial sectors.",
+            "confidence": 0.9,
+            "source": "Homepage/About sections"
+        },
+        "seo_description": {
+            "value": "Würth IT Italy: your IT partner for Enterprise Resource Planning, Cyber Security, and Service Management.",
+            "confidence": 0.85,
+            "source": "Deduced from meta prefixes and homepage content"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "No specific revenue figure found for the Italian subsidiary in the provided text"
+        },
+        "fiscal_year_end": {
+            "value": "December",
+            "confidence": 0.5,
+            "source": "Inferred from standard Italian corporate practice, not explicitly stated"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Part of a large corporate group, no external funding events mentioned"
+        },
+        "estimated_num_employees": {
+            "value": "195",
+            "confidence": 1.0,
+            "source": "Explicitly stated as '+195 Collaboratori' in the identity section"
+        },
+        "latest_funding_stage": {
+            "value": "Subsidiary",
+            "confidence": 0.9,
+            "source": "Corporate structure as part of Würth Group"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "Revenue figures for the specific Italian subsidiary (Würth IT Italy S.r.l.) are not explicitly mentioned in the provided text or source JSON."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": "+390471564111",
+            "confidence": 1.0,
+            "source": "Directly listed for Bolzano HQ"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Stated as 'parte integrante del network globale di Würth IT'"
+        },
+        "parent_company": {
+            "value": "Würth Group",
+            "confidence": 1.0,
+            "source": "Explicit mention of the global group with 400+ companies"
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Not specified for the Italian branch"
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.5,
+            "source": "No sub-entities of the Italian branch listed"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "Via Johann Kravogl 4, 39100 Bolzano BZ, Italy",
+            "confidence": 1.0,
+            "source": "Contact page office list"
+        },
+        "city": {
+            "value": "Bolzano",
+            "confidence": 1.0,
+            "source": "Contact page office list"
+        },
+        "country": {
+            "value": "Italy",
+            "confidence": 1.0,
+            "source": "Contact page office list"
+        }
+    },
+    "technologies": [
+        {
+            "name": "WordPress",
+            "category": "Content Management System",
+            "confidence": 0.99,
+            "source": "CSS prefixes (wp-*) and technical footprint"
+        },
+        {
+            "name": "Elementor",
+            "category": "Page Builder",
+            "confidence": 0.99,
+            "source": "CSS prefixes (elementor-*)"
+        },
+        {
+            "name": "Nginx",
+            "category": "Web Server",
+            "confidence": 0.99,
+            "source": "HTTP Header 'server: nginx'"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management",
+            "confidence": 0.95,
+            "source": "Technical footprint matches"
+        },
+        {
+            "name": "Microsoft Dynamics 365",
+            "category": "ERP/CRM",
+            "confidence": 0.9,
+            "source": "Mentioned as solution 'D365+'"
+        },
+        {
+            "name": "Atlassian",
+            "category": "Collaboration Tools",
+            "confidence": 0.95,
+            "source": "Explicit mention of Atlassian ecosystem management"
+        },
+        {
+            "name": "WPML",
+            "category": "Translation",
+            "confidence": 0.95,
+            "source": "CSS prefixes (wpml-*)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "ERP, Cyber Security, Service Management, Digital Transformation, Business Intelligence, CRM, Bolzano IT, Würth Phoenix, System Integration, Managed Services",
+        "confidence": 0.9,
+        "source": "Service descriptions and company history"
+    },
+    "data_quality_score": {
+        "value": 0.82,
+        "confidence": 1.0,
+        "source": "Comprehensive technical stack, clear company hierarchy, and accurate employee counts are present; however, financial metrics and valid social media links are missing."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Var Group",
+            "Altea Federation",
+            "Reply S.p.A.",
+            "Engineering Ingegneria Informatica",
+            "Zucchetti"
+        ]
+    }
+}

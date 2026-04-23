@@ -1,0 +1,133 @@
+--- PAGE D'ACCUEIL : 🌍 World Food Program USA 🥣 Fighting Global Hunger ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : 1750 H St NW, Washington, United States
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://cdn-ilehlen.nitrocdn.com>; rel=preconnect
+<https://wfpusa.org/wp-json/>; rel="https://api.w.org/"
+<https://wfpusa.org/wp-json/wp/v2/pages/2105>; rel="alternate"; title="JSON"; type="application/json"
+<https://wfpusa.org/>; rel=shortlink
+server: cloudflare
+x-powered-by: WP Engine
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+, sc-static.net, snap.licdn.com, www.redditstatic.com, wfpusa.org, connect.facebook.net, tags.srv.stackadapt.com, tr.snapchat.com, script.crazyegg.com, rules.quantcount.com, pi.pardot.com, widget.thegivingblock.com, secure.quantserve.com, googleads.g.doubleclick.net, www.clarity.ms, cdn.fundraiseup.com, static.fundraiseup.com, static.ads-twitter.com, www.googletagmanager.com, nitroscripts.com, a.omappapi.com, analytics.tiktok.com, js.dev.shift4.com, tags.wdsvc.net, scripts.clarity.ms, bat.bing.com, cdn.taboola.com, go.wfpusa.org
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+wpcode-*, yoast-*, wp-*, page-*, header-*, ast-*, astra-*, elementor-*, nitro-*, e-*, skip-*, screen-*, scrolling-*, logo-*, white-*, attachment-*, size-*, sm-*, menu-*, post-*, type-*, status-*, has-*, location-*, news-*, topic-*, donate-*, mobile-*, fundraise-*, fa-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+Google Tag Manager, WordPress
+
+🌍 World Food Program USA 🥣 Fighting Global Hunger Skip to content
+# Saving Lives Worldwide
+### WFP is the Leading Hunger-Fighting Organization on Earth
+Donate Now Learn More Join the Zero Hunger Generation
+We launched the Zero Hunger Generation to empower the next generation to lead, speak out and take action for a world without hunger.
+Learn More Fill the Silence
+Our fellow humans are brimming with innate, limitless potential. All they need is food to achieve it. It’s time to demand change.
+Take Action Give Crypto
+Make a donation with your preferred cryptocurrency to maximize your end of year philanthropic impact.
+Learn More Crisis Across the Middle East
+The escalation of conflict across the Middle East is endangering millions of civilians. WFP urgently needs your support to reach families with food now.
+DONATE NOW Gaza Needs Food
+Even with a ceasefire, life is dangerous in Gaza. People are still suffering from conflict and extreme hunger. Help WFP scale up and save lives.
+Give Now Join a Webinar with Manalo
+Join Manalo Vergara to chat with the author of the book "The New Breadline."
+Sign Up Urge Congress To Fund Food Aid
+Right now, Congress is deciding how much funding global food assistance programs will receive. We urgently need your voice.
+Write to Congress Join the Zero Hunger Generation
+We launched the Zero Hunger Generation to empower the next generation to lead, speak out and take action for a world without hunger.
+Learn More Fill the Silence
+Our fellow humans are brimming with innate, limitless potential. All they need is food to achieve it. It’s time to demand change.
+Take Action Give Crypto
+Make a donation with your preferred cryptocurrency to maximize your end of year philanthropic impact.
+Learn More Crisis Across the Middle East
+The escalation of conflict across the Middle East is endangering millions of civilians. WFP urgently needs your support to reach families with food now.
+DONATE NOW Gaza Needs Food
+Even with a ceasefire, life is dangerous in Gaza. People are still suffering from conflict and extreme hunger. Help WFP scale up and save lives.
+Give Now Join a Webinar with Manalo
+Join Manalo Vergara to chat with the author of the book "The New Breadline."
+Sign Up
+## WFP's Impact
+The World Food Programme (WFP) has fought hunger and famine since 1961. This year, WFP is  aiming to provide lifesaving meals to 110 million of the world’s most vulnerable people.
+## 100M
+WFP reaches more than 100  million people every year .
+## 123
+WFP works in 123 countries and territories .
+## 15B
+WFP delivers 15 billion meals every year .
+## 60+
+WFP has  worked on the frontlines of hunger for more than 60 years.
+View All Programs
+## Latest News
+- News Release
+- April 14, 2026
+### Three years of war: Sudan’s people abandoned and hungry
+- News Release
+- April 9, 2026
+### Funding shortfalls put lifelines at risk for Sudanese refugees in Chad
+- Blog
+- April 8, 2026
+### Middle East crisis: WFP navigates turbulent waters to tackle hunger
+- News Release
+- March 31, 2026
+### Global Disruptions to Supply Chains Are Driving Tomorrow’s Hunger Crisis
+More News
+## WFP Delivers Change
+WFP reaches the hardest-to-access places on Earth, delivering lifesaving assistance where others can’t.
+## Take Action
+You can make a difference in the fight against global hunger. Here are some ways to join today.
+### Advocate
+### Advocate
+Hunger crisis can have global impacts. When we work together we're creating a safer world for everyone. Join us to solve hunger. Act Now
+### Start a Fundraiser
+### Start a Fundraiser
+Use your creativity and passion to take an active role in the fight against hunger by creating your own fundraiser. Get Started
+### SharetheMeal
+### Share the Meal
+With just a few taps on your phone you can donate to someone in need and the United Nations World Food Programme will deliver the meals. Learn More
+### Join the Movement
+### Join the Movement
+Earn points and rewards for actions you take to fight world hunger. Join Now More Opportunities
+### You make a difference.
+## Donate Today
+Scroll to Top
+Notifications
+
+
+--- PAGE STRATÉGIQUE : https://www.wfpusa.org/about/financials/donor-portal/ ---
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+link: <https://cdn-ilehlen.nitrocdn.com>; rel=preconnect
+<https://wfpusa.org/wp-json/>; rel="https://api.w.org/"
+<https://wfpusa.org/wp-json/wp/v2/pages/134>; rel="alternate"; title="JSON"; type="application/json"
+<https://wfpusa.org/?p=134>; rel=shortlink
+server: cloudflare
+x-powered-by: WP Engine
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+, sc-static.net, snap.licdn.com, www.redditstatic.com, wfpusa.org, connect.facebook.net, tags.srv.stackadapt.com, tr.snapchat.com, script.crazyegg.com, rules.quantcount.com, pi.pardot.com, widget.thegivingblock.com, secure.quantserve.com, googleads.g.doubleclick.net, www.clarity.ms, cdn.fundraiseup.com, static.fundraiseup.com, static.ads-twitter.com, www.googletagmanager.com, nitroscripts.com, a.omappapi.com, analytics.tiktok.com, js.dev.shift4.com, tags.wdsvc.net, scripts.clarity.ms, bat.bing.com, cdn.taboola.com, go.wfpusa.org
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+wpcode-*, yoast-*, wp-*, page-*, parent-*, ast-*, astra-*, elementor-*, nitro-*, e-*, skip-*, screen-*, scrolling-*, logo-*, white-*, attachment-*, size-*, header-*, sm-*, menu-*, post-*, type-*, status-*, has-*, location-*, news-*, topic-*, donate-*, fundraise-*, fa-*
+===================================
+Donor Portal - World Food Program USA Skip to content
+# Donor Portal
+Donation payments before Nov. 27th, 2024 will not be visible. We will email an annual tax receipt in February 2025. Please email giving@wfpusa.org to request previous giving history and we will get back to you in 3 – 5 business days.
+### Manage My World Food Program USA Giving
+You can manage many aspects of your giving through our  donor portal . Simply enter your email and receive a link to login, there is no password to remember.
+LOGIN Donate
+### What you can manage in your donor portal:
+Profile:  You can edit your name and addresses in the portal for your gift receipts. Donation History:  In the portal, your giving history to World Food Program USA is available for you to download by individual donations or a complete list of a given year. Recurring Donation:  If you have a recurring donation, you can use the donor portal to change your donation amount, move the installment date, change your payment method or pause or cancel your donation. Please note the following:
+- To access your donor portal you must use the email you entered when donating.
+- Donation payments before Nov. 27th, 2024 will not be visible. Please email  giving@wfpusa.org  to request previous giving history and we will get back to you in 3 – 5 business days.
+- The donor portal does not apply to donations where the method of payment is cash, check or gift of stock.
+### How can we support you?
+Please email  giving@wfpusa.org  to support you with any donation questions or changes. Scroll to Top
+Notifications

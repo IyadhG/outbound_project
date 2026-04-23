@@ -1,0 +1,177 @@
+{
+    "identity": {
+        "domain": {
+            "value": "health.canada.ca",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Health Canada / Santé Canada",
+            "confidence": 1.0,
+            "source": "Page d'accueil"
+        },
+        "industry": {
+            "value": "Government Administration",
+            "confidence": 0.95,
+            "source": "Site web / page about"
+        },
+        "founded_year": {
+            "value": "1993",
+            "confidence": 0.7,
+            "source": "Historical record (Department of Health Act)"
+        },
+        "short_description": {
+            "value": "Federal department responsible for helping Canadians maintain and improve their health.",
+            "confidence": 0.9,
+            "source": "Page d'accueil / about"
+        },
+        "seo_description": {
+            "value": "Welcome to the Health Canada Web site | Bienvenue au site Web de Santé Canada",
+            "confidence": 1.0,
+            "source": "Meta description"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": "$4.5 Billion CAD",
+            "confidence": 0.6,
+            "source": "Estimated based on federal budgetary expenditures for Health Canada"
+        },
+        "fiscal_year_end": {
+            "value": "March",
+            "confidence": 0.95,
+            "source": "Standard Canadian Government fiscal cycle"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Government department (funded via treasury)"
+        },
+        "estimated_num_employees": {
+            "value": "11000",
+            "confidence": 0.7,
+            "source": "Public service records for Health Canada"
+        },
+        "latest_funding_stage": {
+            "value": "Government Funded",
+            "confidence": 0.9,
+            "source": "Corporate structure"
+        },
+        "annual_revenue_USD": {
+            "value": 3285000000,
+            "confidence": 0.55,
+            "source": "Conversion from performance.annual_revenue (CAD) to USD using an approximate exchange rate of 1 CAD = 0.73 USD."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": "https://twitter.com/govcanhealth",
+            "confidence": 0.6,
+            "source": "LLM validated by page check"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": "1-866-225-0709",
+            "confidence": 0.8,
+            "source": "General contact information"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": true,
+            "confidence": 1.0,
+            "source": "Government structure"
+        },
+        "parent_company": {
+            "value": "Government of Canada",
+            "confidence": 1.0,
+            "source": "Site navigation / Branding"
+        },
+        "num_suborganizations": {
+            "value": "4",
+            "confidence": 0.6,
+            "source": "Internal branches and agencies mentioned"
+        },
+        "subsidiaries_list": {
+            "value": [
+                "Public Health Agency of Canada",
+                "Canadian Institutes of Health Research",
+                "Patented Medicine Prices Review Board",
+                "Canadian Food Inspection Agency"
+            ],
+            "confidence": 0.7,
+            "source": "Health Portfolio records"
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "70 Colombine Driveway, Tunney's Pasture, Ottawa, Ontario, K1A 0K9",
+            "confidence": 0.9,
+            "source": "Government directory"
+        },
+        "city": {
+            "value": "Ottawa",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "country": {
+            "value": "Canada",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        }
+    },
+    "technologies": [
+        {
+            "name": "Apache",
+            "category": "Web Server",
+            "confidence": 0.99,
+            "source": "HTTP Header analysis"
+        },
+        {
+            "name": "PHP",
+            "category": "Programming Language",
+            "confidence": 0.99,
+            "source": "X-Powered-By Header"
+        },
+        {
+            "name": "WET-BOEW",
+            "category": "Framework",
+            "confidence": 0.95,
+            "source": "CSS class prefix 'wb-*' detection"
+        },
+        {
+            "name": "Google Hosted Libraries",
+            "category": "CDN",
+            "confidence": 0.95,
+            "source": "External script analysis"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "Public Health, Canada, Healthcare, Safety, Regulations, Santé Canada, Federal Department",
+        "confidence": 0.9,
+        "source": "Site content and metadata"
+    },
+    "data_quality_score": {
+        "value": 0.82,
+        "confidence": 1.0,
+        "source": "Expert analysis of data completeness, accuracy, and confidence levels across all extracted fields."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Centers for Disease Control and Prevention (CDC, USA)",
+            "UK Health Security Agency (UKHSA, UK)",
+            "Australian Department of Health and Aged Care",
+            "World Health Organization (WHO)"
+        ]
+    }
+}

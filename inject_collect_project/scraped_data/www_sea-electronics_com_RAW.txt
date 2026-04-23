@@ -1,0 +1,154 @@
+--- PAGE D'ACCUEIL : SEA Group - SEA Electronics ---
+
+⚠️ DIRECTIVE DE CIBLAGE (APOLLO) ⚠️
+ADRESSE CIBLE : Tunisia
+Instructions : L'utilisateur recherche spécifiquement cette entité régionale. Ignore le siège mondial global et focalise-toi sur les données (revenus, adresse, filiale) de CETTE localisation.
+
+
+=== EMPREINTE TECHNIQUE AVANCÉE ===
+--- HEADERS HTTP ---
+server: OVHcloud
+--- SCRIPTS EXTERNES CHARGÉS (Échantillon) ---
+sea-electronics.com
+--- OBJETS GLOBAUX JS (WINDOW) ---
+self, name, customElements, history, navigation, locationbar, menubar, personalbar, scrollbars, statusbar, toolbar, status, closed, frames, length, opener, parent, frameElement, navigator, origin, external, screen, innerWidth, innerHeight, scrollX, pageXOffset, scrollY, pageYOffset, visualViewport, screenX, screenY, outerWidth, outerHeight, devicePixelRatio, event, clientInformation, screenLeft, screenTop, styleMedia, onsearch
+--- PRÉFIXES CSS DÉTECTÉS ---
+no-*, yoast-*, keyframe-*, page-*, dfd-*, wpb-*, js-*, rs-*, sidr-*, dl-*, mega-*, nav-*, menu-*, has-*, main-*, item-*, sub-*, soc-*, form-*, header-*, logo-*, sticky-*, icon-*, text-*, mobile-*, full-*, blog-*, isotope-*, vc-*, revslider-*
+===================================
+--- MATCHES REGEX CLASSIQUES ---
+WordPress
+
+SEA Group - SEA Electronics
+- Accueil
+- SEA Group
+- Mot de directeur général
+- Certification
+- Nos partenaires
+- COMAU
+- ZIMMER group
+- LUCAS ROBOTIC SYSTEM
+- B&R automation
+- SCAIME
+- KRAFT POWERCON
+- weidmuller
+- Nos solutions
+- Automatisme
+- Solutions Migration
+- Solutions Micro Automation
+- Solutions SCADA & DCS
+- Digitalisation Monitoring Smart
+- Solutions Automatisation Clés en main
+- Mécatronique – Robotique – Cobotique
+- Solutions Robotisées
+- Machines spéciales
+- Solutions de pesage & dosage
+- Etude et conception
+- Solutions Manutention
+- Traitement de surface
+- Solutions AGV
+- Electrique industrielle
+- Maintenance industrielle
+- Traitement d’eau
+- Pièce de rechange
+- Formation Technique
+- Carrières
+- Nouveautés
+- Nos actualites
+- Nos réalisations
+- Contact
+SEA Group
+Answers the needs Of industrials
+DÉCOUVRIR QUI SOMMES NOUS
+SEA Group
+Answers the needs Of industrials
+DÉCOUVRIR QUI SOMMES NOUS
+WITH NATIVE WP THEME
+Commandez votre usine
+avec un seul
+CLIC
+USINE 4.0 DÉCOUVRIR NOS SOLUTIONS
+WITH NATIVE WP THEME
+Plus de 48 théme de formation
+DÉCOUVRIR NOS THÈMES
+NOTRE OFFRE Les concepteurs et les programmeurs du groupe SEA sont qualifiés pour créer des solutions d'automatisation d'usine sur mesure pour tous les défis. Politique qualité L'engagement de SEA Group en matière de qualité donne à ses clients la certitude que le travail est sans égal dans tous le secteur industrielle . Clés de la réussite Développer des solutions industrielles Clé en main adaptées aux besoins des clients , tout en garantissant une qualité ISO 9001 ainsi qu'une innovation continue .
+### Répond aux besoins des industriels
+SEA Group Ayant une expertise de plus que 25 ans, avec une cinquantaine d’ingénieurs et cadres dans les domaines d’ingénierie, Automatisme et Robotique Industrielle. SEA GROUP offre des solutions Clés en mains en Mécatroniques – Robotique – Cobotique, SCADA et Travaux électriques, sous la garantie de qualité ISO 9001
+- Automatisme
+- Robotique et mécatronique
+- Electrique
+- Traitement D'eau
+- Formation
+- Maintenance 8 1 8 0 PARTENAIRES 8 1 , 8 2 8 9 8 6 CLIENTS 8 7 8 0 8 1 PROJETS Découvrir nos solutions
+# 25
+#### Ans
+Dans le domaine
+de l’Industrie
+NOS
+### PARTENAIRES
+Zimmer Group SCAIME SIEMENS B&R COMAU SKG KRAFT POWERCON dalmec
+NOS
+### ACTUALITÉS
+### RACER7-1.4 de marque COMAU
+### Avec l’Ambassadeur de la Tunisie en Algérie
+### Participation de SEA_Group au foire de MIDEST pour la deuxième fois consécutive à Paris
+journée porte ouverte
+### “Révolution des robots” s’impose dans l’indstrie 4.0
+journée porte ouverte
+### SEA Group & SCAIME
+Salon & événement
+### salon MAROC INDUSTRIE à CASABLANCA
+journée porte ouverte
+### journée portes ouvertes ZIMMER GROUP
+Salon & événement
+### Participation de SEA GROUP dans le salon SMART INDUSTRIE 2017
+Salon & événement
+### Participation de SEA GROUP dans le salon MIC & SIMSI 2017 par un robot RACER 7 de marque COMAU
+Actualités
+### Visite nos clients avec Mr Mauro Giaccone (responsable de la société Comau)
+Actualités
+### formation SIMATIC S7 400 SIEMENS DCS PCS7
+### A La réussite de notre Certifications ISO9001 2015
+### The Participation of SEA GROUP in the first COMAU robotics global distributor meeting.
+### RACER7-1.4 de marque COMAU
+### Avec l’Ambassadeur de la Tunisie en Algérie
+### Participation de SEA_Group au foire de MIDEST pour la deuxième fois consécutive à Paris
+journée porte ouverte
+### “Révolution des robots” s’impose dans l’indstrie 4.0
+journée porte ouverte
+### SEA Group & SCAIME
+Salon & événement
+### salon MAROC INDUSTRIE à CASABLANCA
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+# 412
+## Projets
+SEA Group
+### Découvrir nos Projets
+### fourniture et mise en service d’une solution de pesage d’un mini silo
+### Installation système de gestion de Box de Matière première
+### Remplacement du système d’arrêt d’urgence de la station El borma
+### Installation d’une station osmose chez le client en Algérie
+### Installation réseau électrique de plusieurs chaînes KSK avec migration pupitre OP77 par KTP600
+### Confection une armoire avec transformateur 125kVA d’une station d’épuration à Tozeur
+### fourniture et mise en service d’une solution de pesage d’un mini silo
+### Installation système de gestion de Box de Matière première
+### Remplacement du système d’arrêt d’urgence de la station El borma
+### Installation d’une station osmose chez le client en Algérie
+-
+-
+-
+-
+-
+-
+© Copyright SEA Group.

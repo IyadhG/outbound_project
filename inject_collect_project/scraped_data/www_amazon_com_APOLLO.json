@@ -1,0 +1,172 @@
+{
+    "identity": {
+        "domain": {
+            "value": "amazon.com",
+            "confidence": 1.0,
+            "source": "URL"
+        },
+        "name": {
+            "value": "Amazon.com, Inc.",
+            "confidence": 0.9,
+            "source": "Page d'accueil / Investor Relations"
+        },
+        "industry": {
+            "value": "E-commerce",
+            "confidence": 0.9,
+            "source": "Site web / Contenu de la page d'accueil"
+        },
+        "founded_year": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Introuvable dans le texte"
+        },
+        "short_description": {
+            "value": "Spend less. Smile more.",
+            "confidence": 0.9,
+            "source": "Page d'accueil"
+        },
+        "seo_description": {
+            "value": "Amazon.com. Spend less. Smile more.",
+            "confidence": 0.9,
+            "source": "Titre de la page d'accueil"
+        }
+    },
+    "performance": {
+        "annual_revenue": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Revenu introuvable pour l'entité ciblée (2127 7th Avenue, Seattle) ni pour l'entité globale dans le texte fourni."
+        },
+        "fiscal_year_end": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Introuvable dans le texte"
+        },
+        "total_funding": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Introuvable dans le texte (entreprise publique)"
+        },
+        "estimated_num_employees": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Nombre d'employés introuvable pour l'entité ciblée (2127 7th Avenue, Seattle) ni pour l'entité globale dans le texte fourni."
+        },
+        "latest_funding_stage": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Introuvable dans le texte (entreprise publique)"
+        },
+        "annual_revenue_USD": {
+            "value": null,
+            "confidence": 0.1,
+            "source": "Revenu introuvable dans le texte fourni pour l'entité ciblée (2127 7th Avenue, Seattle) ni pour l'entité globale, conformément à la directive."
+        }
+    },
+    "contact_social": {
+        "linkedin_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "twitter_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "facebook_url": {
+            "value": null,
+            "confidence": 0.0,
+            "source": "invalid or hallucinated link"
+        },
+        "phone": {
+            "value": null,
+            "confidence": 0.2,
+            "source": "Numéro de téléphone introuvable pour l'entité ciblée ou globale"
+        }
+    },
+    "hierarchy": {
+        "is_subsidiary": {
+            "value": false,
+            "confidence": 0.8,
+            "source": "L'adresse ciblée est une localisation du siège social global d'Amazon.com, Inc., non une filiale distincte."
+        },
+        "parent_company": {
+            "value": null,
+            "confidence": 0.8,
+            "source": "L'entité ciblée est Amazon.com, Inc. elle-même à cette adresse."
+        },
+        "num_suborganizations": {
+            "value": null,
+            "confidence": 0.3,
+            "source": "Nombre de filiales spécifiques à cette adresse ou liées non trouvé."
+        },
+        "subsidiaries_list": {
+            "value": [],
+            "confidence": 0.3,
+            "source": "Liste de filiales spécifiques à cette adresse ou liées non trouvée."
+        }
+    },
+    "location_detailed": {
+        "raw_address": {
+            "value": "2127 7th Avenue, Seattle, United States",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "city": {
+            "value": "Seattle",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        },
+        "country": {
+            "value": "United States",
+            "confidence": 1.0,
+            "source": "Directive de ciblage"
+        }
+    },
+    "technologies": [
+        {
+            "name": "CloudFront",
+            "category": "CDN",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Headers HTTP)"
+        },
+        {
+            "name": "Cloudflare",
+            "category": "CDN",
+            "confidence": 0.99,
+            "source": "Déduction IA depuis empreinte technique (Headers HTTP)"
+        },
+        {
+            "name": "Google Tag Manager",
+            "category": "Tag Management System",
+            "confidence": 0.9,
+            "source": "Déduction IA depuis empreinte technique (Scripts externes)"
+        },
+        {
+            "name": "Q4 Inc.",
+            "category": "Investor Relations Platform",
+            "confidence": 0.9,
+            "source": "Déduction IA depuis empreinte technique (Scripts externes)"
+        }
+    ],
+    "funding_events": [],
+    "keywords": {
+        "value": "E-commerce, Retail, Consumer Electronics, Digital Content, Home Goods, Fashion, Beauty, Toys, Books, PC Gaming, Pet Supplies, Sports & Outdoors, Automotive, Home Services, Cloud Computing, Logistics",
+        "confidence": 0.85,
+        "source": "Site web / page d'accueil / liste des départements"
+    },
+    "data_quality_score": {
+        "value": 0.65,
+        "confidence": 0.9,
+        "source": "Évaluation interne basée sur la complétude des champs (identité, localisation, technologies, mots-clés bien renseignés ; performance, contact social, financement majoritairement vides) et la confiance des données existantes."
+    },
+    "market_intelligence": {
+        "competitors": [
+            "Walmart",
+            "Target",
+            "eBay",
+            "Alibaba"
+        ]
+    }
+}
