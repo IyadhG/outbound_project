@@ -236,24 +236,46 @@ def merge_node(state: FundingState):
 
     for r in clean:
         idx = str(r["id"])
+        
         if idx not in llm_data:
             continue
+        
         if llm_data[idx] is None:
             continue
-
+            
         extracted = llm_data[idx]
+        
+        # Normalize values - convert "None" strings to None
+        date_val = extracted.get("date")
+        investor_val = extracted.get("investor")
+        amount_val = extracted.get("amount")
+        
+        if date_val in ("None", "null", ""):
+            date_val = None
+        if investor_val in ("None", "null", ""):
+            investor_val = None
+        if amount_val in ("None", "null", ""):
+            amount_val = None
+        
+        # Only skip if ALL fields are None AND investor is None
+        # (an event with just an investor name IS still a funding event)
+        if not date_val and not investor_val and not amount_val:
+            continue
+        
         final.append({
             "id": idx,
             "title": r["title"],
             "source": r["source"],
             "url": r["url"],
             "snippet": r["snippet"],
-            "date": extracted.get("date", "None"),
-            "investor": extracted.get("investor", "None"),
-            "amount": extracted.get("amount", "None"),
+            "date": date_val if date_val else "None",
+            "investor": investor_val if investor_val else "None",
+            "amount": amount_val if amount_val else "None",
             "flag": "funding"
         })
 
+    print(f"[MERGE] {len(clean)} articles → {len(final)} funding events kept")
+    
     return {
         **state,
         "funding_final": final
@@ -275,43 +297,35 @@ def aggregation_node(state: Dict):
     input_ids = [str(e["id"]) for e in events]
 
     prompt = f"""
-You are an expert system for aggregating funding events.
+You are a financial data extraction system. Your task is to identify and group funding events for this company : {company}.
 
-Company: {company}
-
-Input events:
+INPUT:
 {json.dumps(events, indent=2)}
 
-Tasks:
-1. Group events that refer to the SAME funding event.
-2. Each group becomes ONE aggregated event.
+RULES:
+1. Group news articles that describe the SAME funding round/event
+2. Each unique funding event = 1 output object
+3. Use ONLY information from the provided articles
+4. If a detail is not mentioned, set it to null (not "None" string, not "Unknown")
+5. Every article ID must appear in exactly ONE group (no duplicates, no orphans)
 
-STRICT RULES:
-- Use "supporting_ids" to reference input event IDs
-- Do NOT mix unrelated events
-- Do NOT invent information
-- If unknown → return "None"
-
-Confidence rules:
-- Higher if multiple sources confirm
-- Higher for reliable sources (news > directories)
-
-Return ONLY JSON list:
-
+OUTPUT FORMAT - Return a JSON list of objects:
 [
   {{
-    "event_title": "",
-    "event_confidence": 0.0,
-    "source": "",
-    "supporting_ids": ["id1","id2"],
-    "date": "",
-    "date_confidence": 0.0,
-    "investor": "",
-    "investor_confidence": 0.0,
-    "amount": "",
-    "amount_confidence": 0.0
+    "event_title": "Brief descriptive title of this funding event",
+    "event_confidence": 0.0 to 1.0 (0.9+ if multiple sources agree, 0.5-0.8 if partial match, <0.5 if uncertain),
+    "source": "single most authoritative source name from the grouped articles",
+    "supporting_ids": ["id1", "id2"],
+    "date": "extracted date or null",
+    "date_confidence": 0.0 to 1.0,
+    "investor": "investor name(s) or null",
+    "investor_confidence": 0.0 to 1.0,
+    "amount": "funding amount with currency or null",
+    "amount_confidence": 0.0 to 1.0
   }}
 ]
+
+Return ONLY the JSON array, nothing else.
 """
 
     response = None
@@ -324,7 +338,9 @@ Return ONLY JSON list:
     if not response:
         return {**state, "funding_aggregated": []}
 
+    debug("raw response", response.content)
     parsed = safe_json_parse(response.content)
+    debug("response after parsing", parsed)
     validated = validate_output(parsed, input_ids)
     debug("aggregation output", validated)
 

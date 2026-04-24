@@ -11,7 +11,7 @@ from utils.intent_store import IntentStore
 funding_graph = build_funding_graph()
 news_graph = build_news_graph()
 
-COMPANIES = ["Tesla", "Rivian", "Nio"]
+COMPANIES = ["France Télévisions"]
 
 
 async def init_client():
@@ -169,7 +169,7 @@ def print_formatted_output(structured_data):
         
         # Print funding events
         if data["funding_events"]:
-            print(f"\n💰 FUNDING EVENTS:")
+            print(f"\n FUNDING EVENTS:")
             for i, event in enumerate(data["funding_events"], 1):
                 print(f"\n  {i}. {event['event']['title']}")
                 print(f"     Confidence: {event['event']['confidence']:.0%}")
@@ -183,7 +183,7 @@ def print_formatted_output(structured_data):
         
         # Print news events
         if data["news_events"]:
-            print(f"\n📰 NEWS EVENTS:")
+            print(f"\n NEWS EVENTS:")
             for i, event in enumerate(data["news_events"], 1):
                 print(f"\n  {i}. {event['event']['title']}")
                 print(f"     Confidence: {event['event']['confidence']:.0%}")
