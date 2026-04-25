@@ -245,8 +245,8 @@ Return one object per event:
 - supporting_ids: all article IDs in the cluster
 - source: BEST single source from within the cluster (most credible/authoritative)
 - event_confidence:
-  0.8–1.0 strong agreement
-  0.5–0.8 partial agreement
+  0.8-1.0 strong agreement
+  0.5-0.8 partial agreement
   <0.5 weak match
 
 4. RULES
@@ -301,7 +301,7 @@ def finalize_node(state):
     print(f"[DEBUG] original articles: {len(original)}")
 
     if not aggregated:
-        print("[ERROR] news_aggregated is EMPTY → LLM step failed or got filtered out")
+        print("[ERROR] news_aggregated is EMPTY -> LLM step failed or got filtered out")
 
     final = []
 
@@ -328,7 +328,7 @@ def finalize_node(state):
         print(f"[DEBUG] candidates found: {len(candidates)}")
 
         if not candidates:
-            print("[WARNING] No candidates found for event → skipping")
+            print("[WARNING] No candidates found for event -> skipping")
             continue
 
         # 2. pick article matching chosen source
