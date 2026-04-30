@@ -1,0 +1,32 @@
+[
+    {
+        "raw_name_from_google": "Samuel LOUIS",
+        "clean_name_used": "Samuel LOUIS",
+        "linkedin_url": "https://fr.linkedin.com/in/samuel-louis-39600a265",
+        "company": "Manpower",
+        "email": "samuel.louis@manpower.fr",
+        "title": "Business Development Manager",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io"
+    },
+    {
+        "raw_name_from_google": "Elsa AMOUZGAR",
+        "clean_name_used": "Elsa AMOUZGAR",
+        "linkedin_url": "https://fr.linkedin.com/in/elsaamouzgar/en",
+        "company": "Manpower",
+        "email": "elsa.amouzgar@manpower.fr",
+        "title": "Senior Vice President of Sales",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io"
+    },
+    {
+        "raw_name_from_google": "Benoît Derigny",
+        "clean_name_used": "Benoît Derigny",
+        "linkedin_url": "https://fr.linkedin.com/in/beno%C3%AEt-derigny",
+        "company": "Manpower",
+        "email": "benoit.derigny@manpower.fr",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io"
+    }
+]

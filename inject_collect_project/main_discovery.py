@@ -1,542 +1,568 @@
+import asyncio
+import logging
 import os
 import json
+import uuid
+import urllib.parse
+from datetime import datetime, timezone
 from apollo_scraper import ApolloScraper
 from database_manager import Neo4jManager
+from apify_enricher import ApifyEnricher
+from intent_collector import IntentCollector
+from detective_formatter import DetectiveFormatter
+from event_emitter import EventEmitter
+from a2a_client import A2AClient
+from persona_search_enrich import search_and_enrich
+from dqs_calculator import compute_dqs
+from processing_log import make_log_entry
 from smart_scraper_ai import SmartScraperAI
-from persona_search_enrich import search_and_enrich  # <-- Ajout de ton module
+
+logger = logging.getLogger(__name__)
 
 # Ta clé API
 APOLLO_KEY = "lwjI_IpYk0S28Lixu1MsXw"
 
-def generate_merged_report(apollo_data, ai_json_path, output_dir="merged_profiles"):
-    """
-    Fusionne les données Apollo et SmartScraper AI en un seul profil unifié.
-    Règles : 
-    - Attributs exclusifs : conservés (Neo4j ou AI).
-    - Si BDD est null mais IA a une valeur : l'IA est acceptée quel que soit son score.
-    - Attributs communs (présents dans les 2) : l'IA remplace Apollo UNIQUEMENT SI confidence >= 0.8.
-    - Attributs listes (keywords, technologies, suborganizations, funding_events) : Union unique des deux sources.
-    - Score de qualité (DQS) : Recalculé selon la complétude, la synergie des sources et la confiance IA.
-    """
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
 
+async def _gate_entity_validation(
+    domain: str,
+    company_name: str,
+    apify_enricher: ApifyEnricher,
+    processing_log: list,
+) -> str:
+    """
+    Gate 1 — Entity Validation.
+    Detect synthetic domains and attempt web-based correction via news search.
+    Returns corrected domain (or original if no correction possible).
+    Only appends to processing_log if the gate actually triggers (synthetic domain).
+    """
+    # Gate only triggers for synthetic domains with a valid company name
+    if not domain.startswith("unknown_"):
+        return domain
+    if company_name in ("unknown", "", None):
+        return domain
+
+    # Synthetic domain + valid name: attempt correction
     try:
-        with open(ai_json_path, 'r', encoding='utf-8') as f:
-            ai_data = json.load(f)
+        results = await apify_enricher.search_news(company_name)
+        if results and isinstance(results, list) and len(results) > 0 and results[0].get("url"):
+            candidate = urllib.parse.urlparse(results[0].get("url", "")).netloc
+            if candidate and not candidate.startswith("unknown_"):
+                processing_log.append(make_log_entry(
+                    "entity_validation", "domain_corrected", 0.0,
+                    trigger="synthetic_domain", result=candidate,
+                ))
+                logger.info(
+                    "Gate 1 [entity_validation]: %s → corrected domain: %s",
+                    company_name, candidate,
+                )
+                print(f"🔍 Gate 1: Domaine synthétique corrigé pour {company_name} → {candidate}")
+                return candidate
+            else:
+                processing_log.append(make_log_entry(
+                    "entity_validation", "correction_failed", 0.0,
+                    trigger="synthetic_domain", result=domain,
+                ))
+                logger.info(
+                    "Gate 1 [entity_validation]: %s → no valid candidate found, retaining %s",
+                    company_name, domain,
+                )
+                return domain
+        else:
+            processing_log.append(make_log_entry(
+                "entity_validation", "correction_failed", 0.0,
+                trigger="synthetic_domain", result=domain,
+            ))
+            logger.info(
+                "Gate 1 [entity_validation]: %s → search returned no results, retaining %s",
+                company_name, domain,
+            )
+            return domain
     except Exception as e:
-        print(f"⚠️ Impossible de lire le fichier IA pour la fusion : {e}")
-        return None
+        logger.warning("Gate 1 [entity_validation] error for %s: %s", company_name, e)
+        processing_log.append(make_log_entry(
+            "entity_validation", "search_failed", 0.0,
+            trigger="synthetic_domain", result=domain, error=str(e),
+        ))
+        return domain
 
-    domain = apollo_data.get("domain", "unknown_domain")
-    CONFIDENCE_THRESHOLD = 0.8
 
-    # --- HELPERS D'EXTRACTION & PARSING ---
-    def get_ai_val_and_conf(category, field=None):
-        """Retourne un tuple (valeur, confidence) depuis l'IA"""
-        if field:
-            target = ai_data.get(category, {}).get(field)
-            if isinstance(target, dict):
-                return target.get("value"), target.get("confidence", 0.0)
-            return target, 0.0
-        else:
-            val = ai_data.get(category)
-            if isinstance(val, dict) and "value" in val:
-                return val.get("value"), val.get("confidence", 0.0)
-            return val, 0.0
+def _merge_ai_result(merged_profile: dict, ai_json_path: str) -> None:
+    """
+    Load Apollo Mirror JSON from ai_json_path and merge non-empty fields
+    into merged_profile in-place.
+    Only overwrites fields where existing value is None, "", or "Non renseigné".
+    Extracts .value sub-field from confidence-scored objects.
+    """
+    _ABSENT = {None, "", "Non renseigné"}
 
-    def get_db_val(key):
-        """Récupère la donnée depuis Apollo/Neo4j de manière sécurisée"""
-        if key in apollo_data:
-            return apollo_data[key]
-        if key in ["city", "country", "raw_address", "state", "street_address", "postal_code"]:
-            return apollo_data.get("location", {}).get(key, "Non renseigné")
-        if key == "num_suborganizations":
-            return apollo_data.get("hierarchy", {}).get(key, "Non renseigné")
-        return "Non renseigné"
-
-    def is_valid(val):
-        """Vérifie si une donnée contient réellement de l'information"""
-        invalid_strings = [
-            None, "", "Non renseigné", "Non trouvé", "invalid or hallucinated link", 
-            "Non trouvé par l'IA", "Non trouvé pour cette entité spécifique", "[]", "{}"
-        ]
-        if val in invalid_strings:
-            return False
-        if isinstance(val, list) and len(val) == 0:
-            return False
-        if isinstance(val, dict) and len(val) == 0:
-            return False
-        return True
-
-    def parse_list_safely(val):
-        """Convertit les strings JSON de Neo4j (ex: "[{...}]") en vraies listes Python"""
-        if not is_valid(val):
-            return []
-        if isinstance(val, str):
-            try:
-                parsed = json.loads(val)
-                if isinstance(parsed, list):
-                    return parsed
-            except:
-                # Si c'est juste une string séparée par des virgules (ex: keywords de l'IA)
-                if "[" not in val and "{" not in val:
-                    return [v.strip() for v in val.split(',') if v.strip()]
-                return []
-        if isinstance(val, list):
-            return val
-        return []
-
-    def calculate_final_quality_score(merged_data, ai_original_score):
-        """Calcule le nouveau Data Quality Score basé sur Complétude, Synergie et Confiance IA"""
-        # 1. Liste des champs critiques pour la qualité
-        critical_fields = ["name", "domain", "industry", "country", "technologies", "linkedin_url"]
-        
-        # 2. Calcul de la complétude (0.0 à 1.0)
-        filled_fields = [f for f in critical_fields if is_valid(merged_data.get(f))]
-        completeness_score = len(filled_fields) / len(critical_fields)
-        
-        # 3. Bonus de synergie
-        has_apollo = is_valid(merged_data.get("apollo_id"))
-        has_ai = ai_original_score > 0
-        
-        synergy_score = 1.0 if (has_apollo and has_ai) else 0.5 if (has_apollo or has_ai) else 0.0
-
-        # 4. Score final pondéré (50% Complétude, 30% Synergie, 20% IA)
-        final_score = (completeness_score * 0.5) + (synergy_score * 0.3) + (ai_original_score * 0.2)
-        
-        return round(final_score, 2)
-
-    # --- DICTIONNAIRE FINAL FUSIONNÉ ---
-    merged_profile = {}
-
-    # 1. LISTE DE TOUS LES ATTRIBUTS NEO4J
-    all_db_attributes = [
-        "alexa_ranking", "annual_revenue", "apollo_id", "captured_at", "category", "city", 
-        "country", "created_at", "crunchbase", "crunchbase_url", "data", "departments", 
-        "description", "domain", "estimated_num_employees", "facebook", "facebook_url", 
-        "founded_year", "full_address", "funding_events", "funding_stage", "id", "industry", 
-        "keywords", "last_update", "last_verified_at", "latest_funding_stage", "linkedin", 
-        "linkedin_url", "logo", "logo_url", "name", "nodes", "num_suborganizations", 
-        "owned_by_organization_id", "parent_apollo_id", "parent_id", "phone", "postal_code", 
-        "raw_address", "relationships", "revenue", "seo_description", "short_description", 
-        "siret", "size", "state", "street_address", "style", "sub_orgs_count", 
-        "suborganizations", "tech_stack", "technologies", "total_funding", "twitter", 
-        "twitter_url", "uid", "visualisation", "website", "website_url"
-    ]
-
-    # MAPPING DES ATTRIBUTS COMMUNS (db_key -> ai_category, ai_field)
-    common_mapping = {
-        "domain": ("identity", "domain"),
-        "name": ("identity", "name"),
-        "industry": ("identity", "industry"),
-        "founded_year": ("identity", "founded_year"),
-        "short_description": ("identity", "short_description"),
-        "seo_description": ("identity", "seo_description"),
-        "annual_revenue": ("performance", "annual_revenue_USD"),
-        "total_funding": ("performance", "total_funding"),
-        "estimated_num_employees": ("performance", "estimated_num_employees"),
-        "latest_funding_stage": ("performance", "latest_funding_stage"),
-        "linkedin_url": ("contact_social", "linkedin_url"),
-        "twitter_url": ("contact_social", "twitter_url"),
-        "facebook_url": ("contact_social", "facebook_url"),
-        "phone": ("contact_social", "phone"),
-        "num_suborganizations": ("hierarchy", "num_suborganizations"),
-        "raw_address": ("location_detailed", "raw_address"),
-        "city": ("location_detailed", "city"),
-        "country": ("location_detailed", "country")
-    }
-
-    # --- 2. TRAITEMENT DE TOUS LES ATTRIBUTS NEO4J (COMMUNS ET EXCLUSIFS) ---
-    for attr in all_db_attributes:
-        db_val = get_db_val(attr)
-        db_valid = is_valid(db_val)
-
-        # ====== CAS SPÉCIAL 1 : FUSION DES TECHNOLOGIES (Structure Unifiée) ======
-        if attr == "technologies":
-            db_techs = parse_list_safely(db_val)
-            ai_techs = ai_data.get("technologies", [])
-            
-            if db_valid or len(ai_techs) > 0:
-                merged_techs = {}
-                
-                if db_valid:
-                    for t in db_techs:
-                        if isinstance(t, dict) and "name" in t:
-                            tech_name = t["name"].lower()
-                            merged_techs[tech_name] = {
-                                "uid": t.get("uid", tech_name.replace(" ", "_")),
-                                "name": t.get("name"),
-                                "category": t.get("category", "Other")
-                            }
-                            
-                for t in ai_techs:
-                    if isinstance(t, dict) and "name" in t:
-                        tech_name = t["name"].lower()
-                        if tech_name not in merged_techs:
-                            generated_uid = t.get("uid", tech_name.replace(" ", "_").replace("-", "_"))
-                            merged_techs[tech_name] = {
-                                "uid": generated_uid,
-                                "name": t.get("name"),
-                                "category": t.get("category", "Other")
-                            }
-                            
-                merged_profile[attr] = list(merged_techs.values())
-            else:
-                merged_profile[attr] = db_val
-
-        # ====== CAS SPÉCIAL 2 : FUSION DES KEYWORDS ======
-        elif attr == "keywords":
-            db_kws = parse_list_safely(db_val)
-            ai_kw_raw, _ = get_ai_val_and_conf("keywords", None)
-            ai_kws = parse_list_safely(ai_kw_raw)
-
-            if db_valid and len(ai_kws) > 0:
-                unique_kws = list(db_kws)
-                lower_db_kws = {str(k).lower().strip() for k in db_kws}
-                for k in ai_kws:
-                    if str(k).lower().strip() not in lower_db_kws:
-                        unique_kws.append(k)
-                merged_profile[attr] = unique_kws
-            elif len(ai_kws) > 0:
-                merged_profile[attr] = ai_kws
-            else:
-                merged_profile[attr] = db_val
-
-        # ====== CAS SPÉCIAL 3 : FUSION DES SUBORGANIZATIONS (Structure Unifiée) ======
-        elif attr == "suborganizations":
-            db_subs = parse_list_safely(db_val)
-            ai_subs_raw, _ = get_ai_val_and_conf("hierarchy", "subsidiaries_list")
-            ai_subs = parse_list_safely(ai_subs_raw)
-
-            if db_valid or len(ai_subs) > 0:
-                merged_subs = {}
-                
-                if db_valid:
-                    for s in db_subs:
-                        if isinstance(s, dict) and "name" in s:
-                            sub_name = str(s["name"]).lower().strip()
-                            merged_subs[sub_name] = {
-                                "id": s.get("id", "Non renseigné"),
-                                "name": str(s.get("name")),
-                                "domain": s.get("domain", "Non renseigné")
-                            }
-                        elif isinstance(s, str):
-                            sub_name = s.lower().strip()
-                            merged_subs[sub_name] = {
-                                "id": "Non renseigné",
-                                "name": s,
-                                "domain": "Non renseigné"
-                            }
-
-                for s in ai_subs:
-                    if isinstance(s, dict) and "name" in s:
-                        sub_name = str(s["name"]).lower().strip()
-                        if sub_name not in merged_subs:
-                            merged_subs[sub_name] = {
-                                "id": s.get("id", "Non renseigné"),
-                                "name": str(s.get("name")),
-                                "domain": s.get("domain", "Non renseigné")
-                            }
-                    elif isinstance(s, str):
-                        sub_name = s.lower().strip()
-                        if sub_name not in merged_subs:
-                            merged_subs[sub_name] = {
-                                "id": "Non renseigné",
-                                "name": s,
-                                "domain": "Non renseigné"
-                            }
-                            
-                merged_profile[attr] = list(merged_subs.values())
-            else:
-                merged_profile[attr] = db_val
-
-        # ====== CAS SPÉCIAL 4 : FUSION DES FUNDING EVENTS ======
-        elif attr == "funding_events":
-            db_fundings = parse_list_safely(db_val)
-            ai_fundings = ai_data.get("funding_events", [])
-
-            if db_valid or len(ai_fundings) > 0:
-                merged_fundings = []
-                seen_signatures = set()
-
-                def get_signature(f_dict):
-                    """Crée une signature 'Année_Type' pour éviter les doublons grossiers"""
-                    date_str = str(f_dict.get("date", "")).strip()
-                    year = date_str[:4] if len(date_str) >= 4 else date_str
-                    f_type = str(f_dict.get("type", "")).strip().lower()
-                    return f"{year}_{f_type}"
-
-                def normalize_funding(f_dict):
-                    """Garantit que tous les attributs sont présents avec des valeurs par défaut"""
-                    return {
-                        "id": f_dict.get("id", "Non renseigné"),
-                        "date": f_dict.get("date", "Non renseigné"),
-                        "type": f_dict.get("type", "Non renseigné"),
-                        "amount": f_dict.get("amount", "Non renseigné"),
-                        "currency": f_dict.get("currency", "Non renseigné"),
-                        "investors": f_dict.get("investors", "Non renseigné")
-                    }
-
-                # Ajout de la BDD Apollo
-                for f in db_fundings:
-                    if isinstance(f, dict):
-                        sig = get_signature(f)
-                        normalized_f = normalize_funding(f)
-                        if sig == "_" or sig not in seen_signatures:
-                            merged_fundings.append(normalized_f)
-                            if sig != "_":
-                                seen_signatures.add(sig)
-
-                # Ajout de l'IA
-                for f in ai_fundings:
-                    if isinstance(f, dict):
-                        sig = get_signature(f)
-                        normalized_f = normalize_funding(f)
-                        if sig == "_" or sig not in seen_signatures:
-                            merged_fundings.append(normalized_f)
-                            if sig != "_":
-                                seen_signatures.add(sig)
-
-                merged_profile[attr] = merged_fundings
-            else:
-                merged_profile[attr] = []
-
-        # ====== CAS STANDARD : REMPLACEMENT SOUS CONDITION DE CONFIANCE ======
-        elif attr in common_mapping:
-            ai_cat, ai_field = common_mapping[attr]
-            ai_val, ai_conf = get_ai_val_and_conf(ai_cat, ai_field)
-            
-            ai_valid = is_valid(ai_val)
-
-            # RÈGLE 1 : BDD Null MAIS l'IA a trouvé l'info -> On prend l'IA
-            if not db_valid and ai_valid:
-                merged_profile[attr] = ai_val
-                
-            # RÈGLE 2 : Les deux sources ont l'info -> On applique le seuil de l'IA
-            elif db_valid and ai_valid:
-                if ai_conf >= CONFIDENCE_THRESHOLD:
-                    merged_profile[attr] = ai_val
-                else:
-                    merged_profile[attr] = db_val
-                    
-            # RÈGLE 3 : Seule la BDD a l'info
-            elif db_valid and not ai_valid:
-                merged_profile[attr] = db_val
-                
-            # RÈGLE 4 : Personne n'a l'info
-            else:
-                merged_profile[attr] = None
-
-        # ====== ATTRIBUTS EXCLUSIFS A APOLLO/NEO4J ======
-        else:
-            if db_valid:
-                merged_profile[attr] = db_val
-
-    # --- 3. AJOUT DES ATTRIBUTS EXCLUSIFS IA ---
-    ai_only_mapping = {
-        "fiscal_year_end": ("performance", "fiscal_year_end"),
-        "is_subsidiary": ("hierarchy", "is_subsidiary"),
-        "parent_company": ("hierarchy", "parent_company")
-        # On exclut volontairement 'data_quality_score' ici pour le calculer juste après
-    }
-
-    for ai_key, (ai_cat, ai_field) in ai_only_mapping.items():
-        ai_val, _ = get_ai_val_and_conf(ai_cat, ai_field)
-        if is_valid(ai_val):
-            merged_profile[ai_key] = ai_val
-
-    # Extraction liste concurrents (exclusif IA)
-    competitors = ai_data.get("market_intelligence", {}).get("competitors", [])
-    if is_valid(competitors):
-        merged_profile["competitors"] = competitors
-
-    # --- 3.5 CALCUL DU NOUVEAU SCORE DE QUALITÉ DES DONNÉES (DQS) ---
-    initial_ai_score_raw, _ = get_ai_val_and_conf("data_quality_score", None)
     try:
-        initial_ai_score = float(initial_ai_score_raw) if initial_ai_score_raw else 0.0
-    except ValueError:
-        initial_ai_score = 0.0
-        
-    merged_profile["data_quality_score"] = calculate_final_quality_score(merged_profile, initial_ai_score)
+        with open(ai_json_path, "r", encoding="utf-8") as f:
+            ai_data = json.load(f)
 
-    # --- 4. SAUVEGARDE DU FICHIER UNIFIÉ ---
-    safe_domain = domain.replace(".", "_")
-    output_file = os.path.join(output_dir, f"{safe_domain}_MERGED.json")
-    
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(merged_profile, f, indent=4, ensure_ascii=False)
-        
-    print(f"📊 Profil consolidé avec succès (Union + Seuil Confiance + Schemas Unifiés) : {output_file}")
-    
-    return merged_profile
+        # Apollo Mirror flattening table: (nested path parts, flat key)
+        mappings = [
+            (["identity", "name"], "name"),
+            (["identity", "industry"], "industry"),
+            (["identity", "founded_year"], "founded_year"),
+            (["identity", "short_description"], "short_description"),
+            (["performance", "annual_revenue"], "annual_revenue"),
+            (["performance", "estimated_num_employees"], "estimated_num_employees"),
+            (["contact_social", "linkedin_url"], "linkedin_url"),
+            (["contact_social", "twitter_url"], "twitter_url"),
+            (["contact_social", "phone"], "phone"),
+            (["location_detailed", "city"], "city"),
+            (["location_detailed", "country"], "country"),
+            (["keywords"], "keywords"),
+        ]
+
+        for path_parts, flat_key in mappings:
+            # Navigate nested path
+            node = ai_data
+            for part in path_parts:
+                if not isinstance(node, dict):
+                    node = None
+                    break
+                node = node.get(part)
+
+            if node is None:
+                continue
+
+            # Extract .value sub-field from confidence-scored objects
+            if isinstance(node, dict):
+                value = node.get("value")
+            else:
+                value = node
+
+            # Only overwrite if AI value is non-empty and existing value is absent
+            if value not in _ABSENT and merged_profile.get(flat_key) in _ABSENT:
+                merged_profile[flat_key] = value
+
+        # Technologies: list, no .value extraction
+        technologies = ai_data.get("technologies")
+        if (
+            isinstance(technologies, list)
+            and len(technologies) > 0
+            and merged_profile.get("technologies") in (None, [], "Non renseigné", "")
+        ):
+            merged_profile["technologies"] = technologies
+
+    except Exception as e:
+        logger.warning("_merge_ai_result failed for %s: %s", ai_json_path, e)
 
 
-def discover_and_inject():
+async def _gate_data_quality(
+    merged_profile: dict,
+    domain: str,
+    target_location: str,
+    smart_scraper: SmartScraperAI,
+    processing_log: list,
+) -> dict:
+    """
+    Gate 2 — Data Quality.
+    Evaluate DQS after merge and route to deep_scrape / flag_for_review / proceed_normal.
+    Returns (possibly enriched) merged_profile.
+    """
+    try:
+        dqs_before = compute_dqs(merged_profile)
+        merged_profile["data_quality_score"] = dqs_before
+
+        if domain.startswith("unknown_"):
+            path_taken = "proceed_normal"
+            worker_review_flag = False
+            dqs_after = dqs_before
+            logger.info(
+                "Gate 2 [data_quality]: %s → synthetic domain, skipping SmartScraperAI (DQS=%.2f)",
+                domain, dqs_before,
+            )
+            print(f"⚡ Gate 2: Domaine synthétique {domain}, SmartScraperAI ignoré (DQS={dqs_before:.2f})")
+
+        elif dqs_before < 0.5:
+            path_taken = "deep_scrape"
+            worker_review_flag = False
+            logger.info(
+                "Gate 2 [data_quality]: %s → DQS=%.2f < 0.5, invoking SmartScraperAI",
+                domain, dqs_before,
+            )
+            print(f"🧠 Gate 2: DQS={dqs_before:.2f} < 0.5 pour {domain} → SmartScraperAI activé")
+
+            try:
+                ai_json_path = await asyncio.wait_for(
+                    asyncio.to_thread(
+                        smart_scraper.scrape_and_save,
+                        f"https://{domain}",
+                        target_location,
+                    ),
+                    timeout=120.0,
+                )
+                if ai_json_path is not None and os.path.exists(ai_json_path):
+                    _merge_ai_result(merged_profile, ai_json_path)
+                    dqs_after = compute_dqs(merged_profile)
+                    merged_profile["data_quality_score"] = dqs_after
+                    logger.info(
+                        "Gate 2 [data_quality]: %s → SmartScraperAI enriched, DQS %.2f → %.2f",
+                        domain, dqs_before, dqs_after,
+                    )
+                    print(f"✅ Gate 2: SmartScraperAI enrichi {domain} (DQS {dqs_before:.2f} → {dqs_after:.2f})")
+                else:
+                    dqs_after = dqs_before
+                    logger.warning(
+                        "Gate 2 [data_quality]: SmartScraperAI returned no result for %s", domain
+                    )
+                    print(f"⚠️ Gate 2: SmartScraperAI n'a retourné aucun résultat pour {domain}")
+                    processing_log.append(make_log_entry(
+                        "data_quality", "scraper_empty", dqs_before,
+                        dqs_before=dqs_before, path_taken=path_taken,
+                        dqs_after=dqs_after, worker_review_flag=worker_review_flag,
+                    ))
+                    return merged_profile
+
+            except asyncio.TimeoutError:
+                dqs_after = dqs_before
+                logger.warning(
+                    "Gate 2 [data_quality]: SmartScraperAI timed out for %s after 120s", domain
+                )
+                print(f"⏱️ Gate 2: SmartScraperAI timeout pour {domain} (120s)")
+                processing_log.append(make_log_entry(
+                    "data_quality", "scraper_timeout", dqs_before,
+                    dqs_before=dqs_before, path_taken=path_taken,
+                    dqs_after=dqs_after, worker_review_flag=worker_review_flag,
+                ))
+                return merged_profile
+
+            except Exception as e:
+                dqs_after = dqs_before
+                logger.warning(
+                    "Gate 2 [data_quality]: SmartScraperAI failed for %s: %s", domain, e
+                )
+                print(f"⚠️ Gate 2: SmartScraperAI erreur pour {domain}: {e}")
+                processing_log.append(make_log_entry(
+                    "data_quality", "scraper_empty", dqs_before,
+                    dqs_before=dqs_before, path_taken=path_taken,
+                    dqs_after=dqs_after, worker_review_flag=worker_review_flag,
+                    error=str(e),
+                ))
+                return merged_profile
+
+        elif dqs_before < 0.75:
+            path_taken = "flag_for_review"
+            worker_review_flag = True
+            dqs_after = dqs_before
+            logger.info(
+                "Gate 2 [data_quality]: %s → DQS=%.2f in [0.5, 0.75), flagging for Worker review",
+                domain, dqs_before,
+            )
+            print(f"🟡 Gate 2: DQS={dqs_before:.2f} pour {domain} → flagué pour révision Worker")
+
+        else:
+            path_taken = "proceed_normal"
+            worker_review_flag = False
+            dqs_after = dqs_before
+            logger.info(
+                "Gate 2 [data_quality]: %s → DQS=%.2f >= 0.75, proceeding normally",
+                domain, dqs_before,
+            )
+            print(f"✅ Gate 2: DQS={dqs_before:.2f} pour {domain} → qualité suffisante, traitement normal")
+
+        merged_profile["data_quality_score"] = dqs_after
+        processing_log.append(make_log_entry(
+            "data_quality", path_taken, dqs_after,
+            dqs_before=dqs_before, path_taken=path_taken,
+            dqs_after=dqs_after, worker_review_flag=worker_review_flag,
+        ))
+        return merged_profile
+
+    except Exception as e:
+        logger.warning("Gate 2 [data_quality] error for %s: %s", domain, e)
+        processing_log.append(make_log_entry(
+            "data_quality", "gate_error", 0.0,
+            error=str(e),
+        ))
+        return merged_profile
+
+
+def _gate_persona_worthiness(
+    merged_profile: dict,
+    intent_signals: dict,
+    dqs: float,
+    processing_log: list,
+) -> bool:
+    """
+    Gate 3 — Persona Worthiness.
+    Evaluate whether the company has sufficient signal to justify persona discovery.
+    Returns True if persona cascade should run, False to skip.
+    """
+    try:
+        job_postings_count = intent_signals.get("job_postings_count", 0) or 0
+        has_news = bool(intent_signals.get("recent_news"))
+        has_employee_count = bool(
+            merged_profile.get("estimated_num_employees")
+            not in (None, "", "Non renseigné", 0, "0")
+        )
+        domain = merged_profile.get("domain", "unknown")
+
+        if dqs >= 0.5 and (job_postings_count > 0 or has_news or has_employee_count):
+            decision = "run_personas"
+            logger.info(
+                "Gate 3 [persona_worthiness]: %s → run_personas (DQS=%.2f, jobs=%d, news=%s, employees=%s)",
+                domain, dqs, job_postings_count, has_news, has_employee_count,
+            )
+            print(f"👤 Gate 3: {domain} → personas activés (DQS={dqs:.2f})")
+            result = True
+        else:
+            decision = "skip_personas"
+            reason = "dqs_too_low" if dqs < 0.5 else "no_signals"
+            logger.info(
+                "Gate 3 [persona_worthiness]: %s → skip_personas (DQS=%.2f, reason=%s)",
+                domain, dqs, reason,
+            )
+            print(f"⏩ Gate 3: {domain} → personas ignorés (DQS={dqs:.2f}, raison={reason})")
+            result = False
+
+        processing_log.append(make_log_entry(
+            "persona_worthiness", decision, dqs,
+            dqs=dqs, job_postings_count=job_postings_count,
+            has_news=has_news, has_employee_count=has_employee_count,
+            decision=decision,
+        ))
+        return result
+
+    except Exception as e:
+        logger.warning("Gate 3 [persona_worthiness] error: %s", e)
+        processing_log.append(make_log_entry(
+            "persona_worthiness", "gate_error", 0.0,
+            error=str(e),
+        ))
+        return False
+
+
+async def _process_company(
+    company,
+    scraper,
+    db,
+    apify_enricher,
+    intent_collector,
+    detective_formatter,
+    event_emitter,
+    target_location,
+    smart_scraper,
+    on_company_ready=None,
+    a2a_client=None,
+):
+    """Process a single company through the full agentic enrichment pipeline."""
+    # --- INITIALISATION DU PROCESSING LOG ---
+    processing_log: list = []
+
+    # --- RÉCUPÉRATION DU DOMAINE ---
+    domain = company.get("domain")
+    company_name = company.get("name", "unknown")
+    valid_domain = domain and domain != "Non renseigné" and domain != ""
+
+    full_data = company
+
+    # --- (a) ENRICHISSEMENT APOLLO ---
+    if valid_domain:
+        print(f"💎 Tentative d'enrichissement pour le domaine : {domain}...")
+        try:
+            enriched_data = await asyncio.to_thread(
+                scraper.enrich_organization, domain=domain, target_location=target_location
+            )
+            if enriched_data:
+                full_data = enriched_data
+            else:
+                print(f"🟠 Fallback : Enrichissement échoué. Utilisation des données basiques.")
+        except Exception as e:
+            print(f"⚠️ Erreur API lors de l'enrichissement : {e}")
+            print(f"🟠 Fallback : Utilisation des données basiques.")
+    else:
+        print(f"⏩ Aucun domaine pour {company_name}. Enrichissement Apollo ignoré.")
+
+    # --- (b) ANTI-COLLISION ---
+    current_domain = full_data.get("domain")
+    current_id = full_data.get("apollo_id")
+    if (not current_domain or current_domain in ("Non renseigné", "")) and (
+        not current_id or current_id == "Non renseigné"
+    ):
+        safe_name = str(full_data.get("name", "unknown")).replace(" ", "_").lower()
+        full_data["domain"] = f"unknown_{safe_name}"
+        print(f"🔧 Correction Anti-Collision : domaine fictif -> {full_data['domain']}")
+
+    domain = full_data.get("domain", domain)
+
+    # --- [GATE 1] ENTITY VALIDATION ---
+    domain = await _gate_entity_validation(domain, company_name, apify_enricher, processing_log)
+    full_data["domain"] = domain
+
+    # --- (c) APIFY WEBSITE CRAWL ---
+    apify_data = {}
+    if domain and not domain.startswith("unknown_"):
+        try:
+            apify_data = await apify_enricher.crawl_website(domain)
+        except Exception as e:
+            print(f"⚠️ Apify crawl failed for {domain}: {e}")
+            apify_data = {}
+
+    # --- (d) INTENT SIGNALS ---
+    intent_signals = {}
+    try:
+        intent_signals = await intent_collector.collect(domain, company_name)
+    except Exception as e:
+        print(f"⚠️ Intent collection failed for {domain}: {e}")
+        intent_signals = {"recent_news": [], "job_postings_count": 0, "technology_changes": []}
+
+    # --- (e) BUILD MERGED PROFILE (Apollo takes precedence over Apify) ---
+    merged_profile = {**apify_data, **full_data}
+
+    # --- [GATE 2] DATA QUALITY ---
+    merged_profile = await _gate_data_quality(
+        merged_profile, domain, target_location, smart_scraper, processing_log
+    )
+
+    # --- (f) NEO4J WRITE ---
+    injected_domain = None
+    try:
+        db.import_merged_profiles([merged_profile])
+        injected_domain = merged_profile.get("domain")
+        print(f"💾 Injection immédiate de : {merged_profile.get('name', 'Compagnie inconnue')}")
+    except Exception as e:
+        print(f"❌ Erreur lors de l'injection de {merged_profile.get('name')}: {e}")
+        # Fallback to bulk_import_companies
+        try:
+            db.bulk_import_companies([full_data])
+            injected_domain = full_data.get("domain")
+        except Exception as e2:
+            print(f"❌ Fallback injection also failed: {e2}")
+
+    # --- [GATE 3] PERSONA WORTHINESS ---
+    dqs = merged_profile.get("data_quality_score", 0.0)
+    run_personas = _gate_persona_worthiness(merged_profile, intent_signals, dqs, processing_log)
+
+    # --- (g) PERSONA CASCADE (conditional) ---
+    personas_found = []
+    if run_personas and injected_domain:
+        company_country = merged_profile.get("country")
+        if not company_country or company_country == "Non renseigné":
+            company_country = merged_profile.get("location", {}).get("country", target_location)
+        print(f"👤 Lancement de la recherche de personas (Sales) pour {domain} en {company_country}...")
+        try:
+            personas_found = search_and_enrich(domain=domain, location=company_country, role="Sales") or []
+            if personas_found:
+                print(f"👥 {len(personas_found)} personas découverts.")
+                db.import_personas(personas_found, injected_domain)
+            else:
+                print(f"ℹ️ Aucun persona trouvé pour {domain}.")
+        except Exception as e:
+            print(f"❌ Erreur lors de la recherche des personas : {e}")
+    else:
+        logger.info("Persona cascade skipped for %s (run_personas=%s)", domain, run_personas)
+
+    # --- (h) DETECTIVE FORMAT ---
+    payload = detective_formatter.format(
+        merged_profile, personas_found, intent_signals, processing_log=processing_log
+    )
+
+    # --- (i) EVENT EMIT ---
+    envelope = None
+    try:
+        envelope = {
+            "event_id": str(uuid.uuid4()),
+            "correlation_id": payload["correlation_id"],
+            "module": "inject",
+            "event_type": payload["event_type"],
+            "timestamp": payload["timestamp"],
+            "payload": payload,
+            "metadata": {"processing_log": processing_log},
+        }
+        await a2a_client.send_lead_ingested(envelope)
+    except Exception as e:
+        print(f"⚠️ Event emission failed for {domain}: {e}")
+
+    # --- (i-bis) DETECTIVE SCORING ---
+    try:
+        if envelope:
+            scored_result = await a2a_client.send_to_detective(envelope)
+            if scored_result and scored_result.get("qualified_for_outreach"):
+                print(f"✅ Detective: {domain} qualified (score={scored_result.get('final_score', 0):.2f})")
+            elif scored_result:
+                print(f"⏩ Detective: {domain} below threshold (score={scored_result.get('final_score', 0):.2f})")
+            else:
+                print(f"⚠️ Detective: no scoring result for {domain}")
+    except Exception as e:
+        print(f"⚠️ Detective scoring failed for {domain}: {e}")
+
+    # --- BACKWARD COMPAT: on_company_ready callback ---
+    if on_company_ready and injected_domain:
+        on_company_ready(injected_domain)
+
+    # --- (j) RETURN PAYLOAD ---
+    return payload
+
+
+async def discover_and_inject(
+    industry: str = "IT",
+    location: str = "France",
+    limit: int = 10,
+    on_company_ready=None,
+):
     # --- CONFIGURATION DYNAMIQUE ---
-    TARGET_INDUSTRY = "It"
-    TARGET_LOCATION = "Spain"
-    MAX_COMPANIES_TO_GET = 2  
+    TARGET_INDUSTRY = industry
+    TARGET_LOCATION = location
+    MAX_COMPANIES_TO_GET = limit
 
     scraper = ApolloScraper(APOLLO_KEY)
     db = Neo4jManager()
-    
-    # Initialisation du scraper IA
-    ai_scraper = SmartScraperAI() 
 
-    # Dictionnaire pour stocker temporairement les personas à injecter
-    all_discovered_personas = {}
+    apify_enricher = ApifyEnricher()
+    intent_collector = IntentCollector(apify_enricher)
+    detective_formatter = DetectiveFormatter()
+    event_emitter = EventEmitter()
+    a2a_client = A2AClient(
+        worker_url=os.environ.get("WORKER_A2A_URL", "http://api:8000"),
+        event_emitter=event_emitter,
+    )
+    smart_scraper = SmartScraperAI()  # Instantiated once — shared across all company tasks
 
     # 1. PHASE DE DÉCOUVERTE (SEARCH)
     print(f"🔎 Recherche initiale de {MAX_COMPANIES_TO_GET} entreprises en {TARGET_LOCATION}...")
     basic_companies = scraper.search_companies(
         industries=[TARGET_INDUSTRY],
         locations=[TARGET_LOCATION],
-        limit=MAX_COMPANIES_TO_GET
+        limit=MAX_COMPANIES_TO_GET,
     )
 
     if not basic_companies:
         print("❌ Résultats de recherche vides. Vérifiez les filtres ou la clé API.")
         db.close()
-        return
+        return []
 
-    # 2. PHASE D'ENRICHISSEMENT & SCRAPING IA
-    apollo_batch = []
-    merged_batch = []
-    
     print(f"💎 Enrichissement profond de {len(basic_companies)} entreprises...")
 
-    for company in basic_companies:
-        # --- RÉCUPÉRATION DU DOMAINE ---
-        domain = company.get('domain')
-        valid_domain = domain and domain != "Non renseigné"
+    # 2. ASYNC GATHER — process all companies concurrently
+    tasks = [
+        asyncio.create_task(
+            _process_company(
+                c,
+                scraper,
+                db,
+                apify_enricher,
+                intent_collector,
+                detective_formatter,
+                event_emitter,
+                TARGET_LOCATION,
+                smart_scraper,
+                on_company_ready,
+                a2a_client,
+            )
+        )
+        for c in basic_companies
+    ]
+    results = await asyncio.gather(*tasks, return_exceptions=True)
 
-        # On initialise avec les données de base (sera écrasé si l'enrichissement réussit)
-        full_data = company
-        merged_data = None
-
-        # --- ENRICHISSEMENT APOLLO (Seulement si domaine valide) ---
-        if valid_domain:
-            print(f"💎 Tentative d'enrichissement pour le domaine : {domain}...")
-            try:
-                # Appel de l'enrichissement en utilisant uniquement le domaine
-                enriched_data = scraper.enrich_organization(domain=domain, target_location=TARGET_LOCATION)
-                if enriched_data:
-                    full_data = enriched_data
-                else:
-                    print(f"🟠 Fallback : Enrichissement échoué. Utilisation des données basiques.")
-            except Exception as e:
-                print(f"⚠️ Erreur API lors de l'enrichissement : {e}")
-                print(f"🟠 Fallback : Utilisation des données basiques.")
-        else:
-            print(f"⏩ Aucun domaine pour {company.get('name', 'Compagnie inconnue')}. Enrichissement Apollo ignoré.")
-
-        # --- ÉTAPE : SMART SCRAPER AI ---
-        # Récupération de l'URL pour l'envoyer à l'IA
-        website_url = full_data.get('website_url') or full_data.get('website')
-        
-        # Extraction de l'adresse pour aider l'IA à cibler le bon HQ
-        loc = full_data.get("location", {})
-        street = loc.get("street_address", "")
-        city = loc.get("city", "")
-        country = loc.get("country", "")
-        
-        addr_parts = [p for p in [street, city, country] if p and p != "Non renseigné"]
-        target_addr = ", ".join(addr_parts)
-
-        # On lance l'IA seulement si on a un domaine ET une URL valide
-        if valid_domain and website_url and website_url != "Non renseigné" and website_url.startswith("http"):
-            print(f"🤖 Lancement de SmartScraperAI pour le site : {website_url}")
-            if target_addr:
-                print(f"📍 Cible géographique transmise à l'IA : {target_addr}")
-                
-            try:
-                path_to_json = ai_scraper.scrape_and_save(website_url, target_address=target_addr) 
-                
-                if path_to_json and path_to_json.endswith(".json"):
-                    print(f"✅ Scraping IA terminé. Fichier généré : {path_to_json}")
-                    
-                    # --- APPEL DE LA FONCTION DE FUSION ---
-                    merged_data = generate_merged_report(full_data, path_to_json)
-                    
-                else:
-                    print(f"⚠️ Le scraping IA n'a pas retourné de chemin valide ou de JSON.")
-                    
-            except Exception as e:
-                print(f"❌ Erreur lors du scraping IA de {website_url} : {e}")
-        else:
-            if not valid_domain:
-                print(f"⚠️ SmartScraperAI ignoré car le domaine est manquant.")
-            else:
-                print(f"⚠️ Pas d'URL valide pour {full_data.get('name', 'cette entreprise')}, SmartScraperAI ignoré.")
-
-        # --- RECHERCHE DE PERSONAS (SALES) ---
-        if valid_domain:
-            target_obj = merged_data if merged_data else full_data
-            
-            # Déterminer le pays à utiliser pour la recherche Serper
-            company_country = target_obj.get("country")
-            if not company_country or company_country == "Non renseigné":
-                company_country = target_obj.get("location", {}).get("country", TARGET_LOCATION)
-                
-            print(f"👤 Lancement de la recherche de personas (Sales) pour {domain} en {company_country}...")
-            try:
-                # L'appel à la fonction gère la sauvegarde locale en JSON
-                personas_found = search_and_enrich(domain=domain, location=company_country, role="Sales")
-                
-                if personas_found:
-                    # On stocke temporairement pour les injecter APRES la création de l'entreprise
-                    all_discovered_personas[domain] = personas_found
-                    print(f"👥 {len(personas_found)} personas découverts et mis en attente pour l'injection Neo4j.")
-                else:
-                    print(f"ℹ️ Aucun persona trouvé pour {domain}.")
-                
-            except Exception as e:
-                print(f"❌ Erreur lors de la recherche des personas : {e}")
-                
-            # Mise à jour de l'objet source pour l'injection (sans les personas imbriqués)
-            if merged_data:
-                merged_data = target_obj
-            else:
-                full_data = target_obj
-
-        # --- FILTRAGE DE SÉCURITÉ (Anti-Collision) ---
-        # Si l'entreprise n'a ni domaine ni ID, on lui crée un domaine fictif unique
-        # pour éviter qu'elles ne fusionnent toutes sous "Non renseigné" dans Neo4j.
-        current_domain = full_data.get('domain')
-        current_id = full_data.get('apollo_id')
-        if (not current_domain or current_domain == "Non renseigné") and (not current_id or current_id == "Non renseigné"):
-            safe_name = str(full_data.get('name', 'unknown')).replace(' ', '_').lower()
-            full_data['domain'] = f"unknown_{safe_name}"
-            print(f"🔧 Correction Anti-Collision appliquée : domaine fictif généré -> {full_data['domain']}")
-
-        # --- PRÉPARATION DES BATCHS POUR INJECTION ---
-        print(f"💾 Préparation de l'injection en base pour : {full_data.get('name', 'Compagnie inconnue')}")
-        if merged_data:
-            merged_batch.append(merged_data)
-        else:
-            apollo_batch.append(full_data)
-
-    # 3. INJECTION DANS NEO4J (ENTREPRISES D'ABORD)
-    if apollo_batch:
-        print(f"🚀 Injection de {len(apollo_batch)} profils classiques (Apollo)...")
-        db.bulk_import_companies(apollo_batch)
-        
-    if merged_batch:
-        print(f"🚀 Injection de {len(merged_batch)} profils fusionnés (Apollo+IA)...")
-        db.import_merged_profiles(merged_batch)
-        
-    if not apollo_batch and not merged_batch:
-        print("⚠️ Aucun profil n'a été conservé pour l'injection Neo4j.")
-
-    # 4. INJECTION DANS NEO4J (PERSONAS ENSUITE POUR SÉCURISER LES RELATIONS)
-    if all_discovered_personas:
-        print(f"\n🚀 Injection des personas en base de données pour {len(all_discovered_personas)} entreprises...")
-        for comp_domain, personas_list in all_discovered_personas.items():
-            db.import_personas(personas_list, comp_domain)
-    
     db.close()
     print("✅ Processus complet terminé avec succès.")
 
+    # Return only successful Detective payloads (filter out exceptions)
+    return [r for r in results if isinstance(r, dict)]
+
+
 if __name__ == "__main__":
-    discover_and_inject()
+    asyncio.run(discover_and_inject())

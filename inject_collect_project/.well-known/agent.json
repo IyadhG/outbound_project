@@ -1,0 +1,16 @@
+{
+  "name": "Inject Agent",
+  "description": "Discovers, enriches, and versions B2B leads. Emits lead_ingested events.",
+  "url": "http://inject_collector:8001",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "id": "discover_leads",
+      "name": "Discover and Inject Leads",
+      "description": "Runs the full enrichment pipeline for a given industry and location.",
+      "inputModes": ["application/json"],
+      "outputModes": ["application/json"]
+    }
+  ],
+  "authentication": { "schemes": ["ApiKey"] }
+}

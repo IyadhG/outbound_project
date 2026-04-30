@@ -252,7 +252,7 @@ class IntentStore:
             if funding_events:
                 context_parts.append("\n### Funding")
                 for event in funding_events[:3]:
-                    parts = [f"- {event['title']}"]
+                    parts = [f"• {event['title']}"]
                     if event.get('amount'):
                         parts.append(f"  Amount: {event['amount']}")
                     if event.get('investor'):
@@ -264,7 +264,7 @@ class IntentStore:
             if news_events:
                 context_parts.append("\n### News")
                 for event in news_events[:3]:
-                    parts = [f"- {event['title']}"]
+                    parts = [f"• {event['title']}"]
                     if event.get('source'):
                         parts.append(f"  Source: {event['source']} ({event.get('date', 'unknown date')})")
                     context_parts.append("\n".join(parts))

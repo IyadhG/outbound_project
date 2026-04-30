@@ -1,0 +1,32 @@
+[
+    {
+        "raw_name_from_google": "fabrice BAT",
+        "clean_name_used": "fabrice BAT",
+        "linkedin_url": "https://fr.linkedin.com/in/fabrice-bat-62a54947",
+        "company": "Experisfrance",
+        "email": "fabrice.bat@experisfrance.fr",
+        "title": "Sales Specialist",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io"
+    },
+    {
+        "raw_name_from_google": "Rémi ASSAILLY",
+        "clean_name_used": "Rémi ASSAILLY",
+        "linkedin_url": "https://fr.linkedin.com/in/r%C3%A9mi-assailly-49216138",
+        "company": "Experisfrance",
+        "email": "remi.assailly@experisfrance.fr",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io"
+    },
+    {
+        "raw_name_from_google": "Jean-Luc RIGOGNE",
+        "clean_name_used": "Jean",
+        "linkedin_url": "https://fr.linkedin.com/in/jean-luc-rigogne-a445a95",
+        "company": "Experisfrance",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper"
+    }
+]

@@ -1,8 +1,6 @@
 import asyncio
 import json
-import os
 from datetime import datetime
-from pathlib import Path
 from graph.funding_graph import build_funding_graph
 from graph.news_graph import build_news_graph
 from mcp_client.client import MCPClient
@@ -15,17 +13,13 @@ news_graph = build_news_graph()
 
 COMPANIES = ["France Télévisions"]
 
-# Get absolute path to MCP server (works from any directory)
-AGENTIC_INTENT_DIR = Path(__file__).parent
-MCP_SERVER_PATH = str(AGENTIC_INTENT_DIR / "mcp_server" / "mcp_server.py")
-
 
 async def init_client():
     print(" Initializing MCP client...")
     
     client = MCPClient()
-    print(f" Connecting to MCP server at: {MCP_SERVER_PATH}")
-    await client.connect(MCP_SERVER_PATH)
+    print(" Connecting to MCP server...")
+    await client.connect("mcp_server/mcp_server.py")
     print(" MCP client connected!")
     return client
 
@@ -170,8 +164,8 @@ def print_formatted_output(structured_data):
         # Print summary
         summary = data["summary"]
         print(f"\nSummary:")
-        print(f"  - Funding Events: {summary['total_funding_events']} ({summary['high_confidence_funding']} high confidence)")
-        print(f"  - News Events: {summary['total_news_events']} ({summary['high_confidence_news']} high confidence)")
+        print(f"  • Funding Events: {summary['total_funding_events']} ({summary['high_confidence_funding']} high confidence)")
+        print(f"  • News Events: {summary['total_news_events']} ({summary['high_confidence_news']} high confidence)")
         
         # Print funding events
         if data["funding_events"]:
