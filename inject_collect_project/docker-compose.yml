@@ -49,6 +49,7 @@ services:
     # Network configuration
     networks:
       - scraper_network
+      - agentic_network
 
   # Optional: Local Neo4j service for development/testing
   # Uncomment below if you want to test with local Neo4j instead of Neo4j AuraDB
@@ -76,3 +77,5 @@ services:
 networks:
   scraper_network:
     driver: bridge
+  agentic_network:
+    external: true

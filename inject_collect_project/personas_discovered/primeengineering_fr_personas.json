@@ -1,0 +1,32 @@
+[
+    {
+        "raw_name_from_google": "Louis Durand",
+        "clean_name_used": "Louis Durand",
+        "linkedin_url": "https://fr.linkedin.com/in/louis-durand-099aa6205/fr",
+        "company": "Primeengineering",
+        "email": "ldurand@primeengineering.fr",
+        "title": "HVAC Manager",
+        "phone": "Non trouvé",
+        "source": "Serper + Hunter.io"
+    },
+    {
+        "raw_name_from_google": "Alexandre Duchâteau",
+        "clean_name_used": "Alexandre Duchâteau",
+        "linkedin_url": "https://fr.linkedin.com/in/alexandreduchateau",
+        "company": "Primeengineering",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper"
+    },
+    {
+        "raw_name_from_google": "Romain Coquet",
+        "clean_name_used": "Romain Coquet",
+        "linkedin_url": "https://fr.linkedin.com/in/romain-coquet-0706981a9/en",
+        "company": "Primeengineering",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "raw_name_from_google": "Chris Connors",
+        "clean_name_used": "Chris Connors",
+        "linkedin_url": "https://fr.linkedin.com/in/chrisconnors",
+        "company": "Randstaddigital",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper"
+    },
+    {
+        "raw_name_from_google": "Cédric Couget",
+        "clean_name_used": "Cédric Couget",
+        "linkedin_url": "https://fr.linkedin.com/in/c%C3%A9dric-couget-85256228",
+        "company": "Randstaddigital",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper"
+    },
+    {
+        "raw_name_from_google": "Samantha CARRE",
+        "clean_name_used": "Samantha CARRE",
+        "linkedin_url": "https://fr.linkedin.com/in/samantha-carre-b117a2301",
+        "company": "Randstaddigital",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper"
+    }
+]

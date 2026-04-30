@@ -1,0 +1,374 @@
+[
+    {
+        "first_name": "Scott",
+        "full_name": "Scott France",
+        "last_name": "France",
+        "gender": "male",
+        "address": "Atlanta Metropolitan Area, United States, United States",
+        "city": "Atlanta Metropolitan Area",
+        "country": "United States",
+        "job_summary": null,
+        "job_title_role": null,
+        "job_title_level": "cxo",
+        "job_company_name": "France Media, Inc.",
+        "job_company_website": "francemediainc.com",
+        "job_description": "SHOPPING CENTER BUSINESSHEARTLAND REAL ESTATE BUSINESSSOUTHEAST REAL ESTATE BUSINESSNORTHEAST REAL ESTATE BUSINESSTEXAS REAL ESTATE BUSINESSWESTERN REAL ESTATE BUSINESSSTUDENT HOUSING BUSINESSSENIORS HOUSING BUSINESSSOUTHEAST MULTIFAMILY & AFFORDABLE HOUSING BUSINESSNORTHEAST MULTIFAMILY & AFFORDABLE HOUSING BUSINESSTEXAS MULTIFAMILY & AFFORDABLE HOUSING BUSINESSWESTERN MULTIFAMILY & AFFORDABLE HOUSING BUSINESSMIDWEST MULTIFAMILY & AFFORDABLE HOUSING BUSINESSRETAIL & RESTAURANT FACILITY BUSINESSINTERFACE CONFERENCE GROUPREBUSINESSONLINE.COM",
+        "job_company_linkedin_url": "linkedin.com/company/france-publications",
+        "education": [
+            {
+                "school": {
+                    "name": "University Of Alabama"
+                },
+                "degree": []
+            }
+        ],
+        "experience": [
+            {
+                "duration": null,
+                "start_time": null,
+                "current": true,
+                "description": null,
+                "location": "Atlanta, GA, US",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/france-publications",
+                    "name": "France Media, Inc."
+                },
+                "title": "President and Co-Publisher",
+                "date1": null
+            },
+            {
+                "duration": "28 years 11 months",
+                "start_time": 1996,
+                "current": true,
+                "description": "SHOPPING CENTER BUSINESSHEARTLAND REAL ESTATE BUSINESSSOUTHEAST REAL ESTATE BUSINESSNORTHEAST REAL ESTATE BUSINESSTEXAS REAL ESTATE BUSINESSWESTERN REAL ESTATE BUSINESSSTUDENT HOUSING BUSINESSSENIORS HOUSING BUSINESSSOUTHEAST MULTIFAMILY & AFFORDABLE HOUSING BUSINESSNORTHEAST MULTIFAMILY & AFFORDABLE HOUSING BUSINESSTEXAS MULTIFAMILY & AFFORDABLE HOUSING BUSINESSWESTERN MULTIFAMILY & AFFORDABLE HOUSING BUSINESSMIDWEST MULTIFAMILY & AFFORDABLE HOUSING BUSINESSRETAIL & RESTAURANT FACILITY BUSINESSINTERFACE CONFERENCE GROUPREBUSINESSONLINE.COM",
+                "location": "Atlanta, Georgia, US",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/france-publications/",
+                    "name": "France Media, Inc."
+                },
+                "title": "President/Co-Publisher",
+                "date1": "Feb 1996 - Present"
+            }
+        ],
+        "interests": [],
+        "skills": [
+            "real estate",
+            "management",
+            "retail",
+            "marketing",
+            "property management",
+            "social media marketing"
+        ],
+        "languages": {},
+        "emails": [
+            {
+                "usability": "unknown",
+                "address": "scott@francepublications.com",
+                "attempted_at": "2026-02-13T04:01:16.999505+00:00",
+                "skip_reason": "domain_spam_blocked"
+            },
+            {
+                "usability": "unknown",
+                "address": "scbiz@adelphia.net",
+                "attempted_at": "2026-02-24T10:43:10.798362+00:00",
+                "type": "personal",
+                "skip_reason": "domain_spam_blocked"
+            },
+            {
+                "usability": "current",
+                "address": "sfrance@francemediainc.com",
+                "attempted_at": "2026-02-24T10:43:10.800508+00:00",
+                "type": "professional",
+                "skip_reason": "domain_catch_all"
+            },
+            {
+                "usability": "current",
+                "address": "scott@francemediainc.com",
+                "attempted_at": "2026-02-24T10:43:10.801618+00:00",
+                "type": "professional",
+                "skip_reason": "domain_catch_all"
+            }
+        ],
+        "phone_numbers": [
+            {
+                "number": "+14048328262",
+                "type": "unknown"
+            },
+            {
+                "number": "(404) 832-8262",
+                "type": "personal"
+            },
+            {
+                "number": "(337) 482-1000",
+                "type": "professional"
+            },
+            {
+                "number": "4048328262",
+                "type": "unknown"
+            }
+        ],
+        "cb_rank": null,
+        "cb_logo_url": null,
+        "profile_picture_url": null,
+        "job_company_size": 69,
+        "industry": "Book and Periodical Publishing",
+        "job_title_detailed_role_s2": null,
+        "organization_founded_year_s2": null,
+        "organization_facebook_url_s2": null,
+        "organization_twitter_url_s2": null,
+        "organization_current_technologies_s2": null,
+        "emails_s2": null,
+        "phone_numbers_s2": null,
+        "raw_name_from_google": "Scott France",
+        "clean_name_used": "Scott France",
+        "linkedin_url": "https://www.linkedin.com/in/scott-france-bab50a19",
+        "company": "France",
+        "email": "scott@francepublications.com",
+        "title": "Non trouvé",
+        "phone": {
+            "number": "+14048328262",
+            "type": "unknown"
+        },
+        "source": "Serper + AeroLeads"
+    },
+    {
+        "first_name": "Larry",
+        "full_name": "Larry France",
+        "last_name": "France",
+        "gender": "male",
+        "address": "Towson, Maryland, United States, United States",
+        "city": "Towson",
+        "country": "United States",
+        "job_summary": null,
+        "job_title_role": null,
+        "job_title_level": "director",
+        "job_company_name": null,
+        "job_company_website": null,
+        "job_description": null,
+        "job_company_linkedin_url": null,
+        "education": [
+            {
+                "start_time": 1990,
+                "school": {
+                    "name": "David Myers College"
+                },
+                "end_time": 1991,
+                "degree": [
+                    "Bachelors",
+                    "Business Management"
+                ]
+            }
+        ],
+        "experience": [
+            {
+                "duration": "7 months",
+                "start_time": 2022,
+                "current": false,
+                "end_time": 2023,
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/senior-helpers",
+                    "name": "Senior Helpers"
+                },
+                "title": "Director of Franchise Development",
+                "date1": "Oct 2022 - Apr 2023"
+            },
+            {
+                "duration": "7 months",
+                "start_time": 2022,
+                "current": false,
+                "end_time": 2022,
+                "location": "Hackensack, New Jersey, United States",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/executive-care",
+                    "name": "Executive Home Care"
+                },
+                "title": "Director of Franchise Development",
+                "date1": "Apr 2022 - Oct 2022"
+            },
+            {
+                "duration": "11 months",
+                "start_time": 2021,
+                "current": false,
+                "end_time": 2022,
+                "location": "Blue Ash, Ohio, United States",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/trublue-home-service-ally",
+                    "name": "TruBlue Total House Care"
+                },
+                "title": "Director of Franchise Development",
+                "date1": "Jun 2021 - Apr 2022"
+            },
+            {
+                "duration": "5 years 4 months",
+                "start_time": 2015,
+                "current": false,
+                "end_time": 2021,
+                "location": "Blue Ash, Ohio, United States",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/firstlight-homecare",
+                    "name": "FirstLight Home Care"
+                },
+                "title": "Director of Franchise Development",
+                "date1": "Oct 2015 - Jan 2021"
+            },
+            {
+                "duration": "11 years 10 months",
+                "start_time": 2004,
+                "current": false,
+                "end_time": 2015,
+                "location": "Dayton, Ohio, United States",
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/comfort-keepers",
+                    "name": "Comfort Keepers"
+                },
+                "title": "Manager of Franchise Development",
+                "date1": "Jan 2004 - Oct 2015"
+            }
+        ],
+        "interests": [],
+        "skills": [],
+        "languages": {},
+        "emails": [],
+        "phone_numbers": [],
+        "cb_rank": null,
+        "cb_logo_url": null,
+        "profile_picture_url": null,
+        "job_company_size": null,
+        "industry": null,
+        "job_title_detailed_role_s2": null,
+        "organization_founded_year_s2": null,
+        "organization_facebook_url_s2": null,
+        "organization_twitter_url_s2": null,
+        "organization_current_technologies_s2": null,
+        "emails_s2": null,
+        "phone_numbers_s2": null,
+        "raw_name_from_google": "Larry France",
+        "clean_name_used": "Larry France",
+        "linkedin_url": "https://www.linkedin.com/in/larry-france-8b252a25b",
+        "company": "France",
+        "email": "Non trouvé",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads (Profil Enrichi)"
+    },
+    {
+        "first_name": "Jude",
+        "full_name": "Jude France",
+        "last_name": "France",
+        "gender": "male",
+        "address": "Greater Cleveland, United States",
+        "city": "Greater Cleveland",
+        "country": "United States",
+        "job_summary": null,
+        "job_title_role": "sales",
+        "job_title_level": "manager",
+        "job_company_name": "Sales Professional",
+        "job_company_website": null,
+        "job_description": null,
+        "job_company_linkedin_url": "linkedin.com/company/vinmar-polymers-americas",
+        "education": [
+            {
+                "school": {
+                    "lnkd_url1": "linkedin.com/school/university-of-dayton/",
+                    "name": "University of Dayton"
+                },
+                "degree": []
+            }
+        ],
+        "experience": [
+            {
+                "title": "Product Management and Sales Management and Key Account Management and Sr. Account Management",
+                "duration": null,
+                "location": "Cleveland, OH, US",
+                "company": {
+                    "name": "Sales Professional",
+                    "lnkd_url1": null
+                },
+                "current": true,
+                "description": null,
+                "start_time": null,
+                "date1": null
+            },
+            {
+                "duration": "11 months",
+                "start_time": 2024,
+                "current": true,
+                "company": {
+                    "lnkd_url1": "linkedin.com/company/vinmar-polymers-americas",
+                    "name": "Vinmar Polymers America"
+                },
+                "location": "United States",
+                "title": "Director, Sales-Basic Polymers (PE,PP,PS,PET)",
+                "date1": "Jan 2024 - Present"
+            },
+            {
+                "duration": "14 years 6 months",
+                "start_time": 2009,
+                "current": false,
+                "end_time": 2024,
+                "company": {
+                    "name": "Marco Polo International"
+                },
+                "location": "United States",
+                "title": "Regional Sales Manager / Product Manager/ Sr Account Mgr",
+                "date1": "Aug 2009 - Jan 2024"
+            }
+        ],
+        "interests": [],
+        "skills": [
+            "extrusion",
+            "additives",
+            "polymers",
+            "plastics"
+        ],
+        "languages": {},
+        "emails": [
+            {
+                "usability": "unknown",
+                "address": "france.jude@gmail.com",
+                "type": "personal"
+            },
+            {
+                "usability": "unknown",
+                "address": "ballyhoo420@hotmail.com",
+                "type": "personal"
+            },
+            {
+                "usability": "unknown",
+                "address": "judefrance@netscape.net",
+                "type": "personal"
+            },
+            {
+                "usability": "current",
+                "address": "jude@mar-pol.com",
+                "type": "professional"
+            },
+            {
+                "usability": "current",
+                "address": "jfrance@mar-pol.com",
+                "type": "professional"
+            }
+        ],
+        "phone_numbers": [],
+        "cb_rank": null,
+        "cb_logo_url": null,
+        "profile_picture_url": null,
+        "job_company_size": null,
+        "industry": null,
+        "job_title_detailed_role_s2": null,
+        "organization_founded_year_s2": null,
+        "organization_facebook_url_s2": null,
+        "organization_twitter_url_s2": null,
+        "organization_current_technologies_s2": null,
+        "emails_s2": null,
+        "phone_numbers_s2": null,
+        "raw_name_from_google": "Jude France",
+        "clean_name_used": "Jude France",
+        "linkedin_url": "https://www.linkedin.com/in/jude-france-2a659510",
+        "company": "France",
+        "email": "france.jude@gmail.com",
+        "title": "Non trouvé",
+        "phone": "Non trouvé",
+        "source": "Serper + AeroLeads"
+    }
+]

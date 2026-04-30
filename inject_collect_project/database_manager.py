@@ -94,6 +94,7 @@ class Neo4jManager:
               OR COALESCE(old_v.funding_events, "[]") <> COALESCE(data.funding_events, "[]")
               OR COALESCE(old_v.suborganizations, "[]") <> COALESCE(data.suborganizations, "[]")
               OR COALESCE(old_v.keywords, []) <> COALESCE(data.keywords, [])
+              OR COALESCE(old_v.data_quality_score, 0.0) <> COALESCE(data.data_quality_score, 0.0)
              ) AS has_changed
 
         // 5. ARCHIVAGE UNIQUEMENT SI CHANGEMENT
@@ -136,7 +137,8 @@ class Neo4jManager:
                 new_v.departments = COALESCE(data.departments, "{}"),
                 new_v.funding_events = COALESCE(data.funding_events, "[]"),
                 new_v.suborganizations = COALESCE(data.suborganizations, "[]"),
-                new_v.keywords = COALESCE(data.keywords, [])
+                new_v.keywords = COALESCE(data.keywords, []),
+                new_v.data_quality_score = COALESCE(data.data_quality_score, 0.0)
             
             CREATE (c)-[:CURRENT]->(new_v)
         )
