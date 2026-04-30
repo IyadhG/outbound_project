@@ -274,7 +274,7 @@ def merge_node(state: FundingState):
             "flag": "funding"
         })
 
-    print(f"[MERGE] {len(clean)} articles → {len(final)} funding events kept")
+    print(f"[MERGE] {len(clean)} articles -> {len(final)} funding events kept")
     
     return {
         **state,
