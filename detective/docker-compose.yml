@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  detective:
+    build: .
+    container_name: detective-pipeline
+    env_file:
+      - .env
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./output:/app/output
+      - ./ranking:/app/ranking
+      - ./logs:/app/logs
+      - ../inject_collect_project/merged_profiles:/app/merged_profiles:ro
+      - ../inject_collect_project/personas_discovered:/app/personas_discovered:ro
+    networks:
+      - detective-network
+    command: python main.py
+
+  detective-mcp:
+    build: .
+    container_name: detective-mcp-server
+    env_file:
+      - .env
+    environment:
+      - PYTHONUNBUFFERED=1
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./output:/app/output
+      - ./ranking:/app/ranking
+      - ../inject_collect_project/merged_profiles:/app/merged_profiles:ro
+      - ../inject_collect_project/personas_discovered:/app/personas_discovered:ro
+    networks:
+      - detective-network
+    command: python -m mcp_server.mcp_server
+    working_dir: /app/mcp_server
+
+networks:
+  detective-network:
+    driver: bridge

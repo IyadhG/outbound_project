@@ -1,0 +1,42 @@
+# Detective Module - B2B Lead Generation Pipeline
+# Core dependencies
+python-dotenv==1.0.0
+groq==0.5.0
+requests==2.31.0
+pydantic>=2.11.0
+google-generativeai==0.5.4
+
+# LangGraph for pipeline orchestration
+langgraph==0.0.50
+langchain-core>=0.1.0
+langchain-groq>=0.1.0
+
+# MCP Server
+mcp>=1.0.0
+
+# For similarity ranking and embeddings
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Data handling
+pandas==2.1.4
+numpy==1.24.4
+
+# JSON and file handling
+pathlib2==2.3.7
+
+# Logging and utilities
+colorlog==6.8.0
+tqdm==4.66.1
+
+# FastAPI (for MCP server)
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# Async support
+aiohttp>=3.8.0
+
+# Integration (new — FastAPI server + event bus)
+redis>=5.0.0
+httpx>=0.25.0
+pydantic-settings>=2.0.0

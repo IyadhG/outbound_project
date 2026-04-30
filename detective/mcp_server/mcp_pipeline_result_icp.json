@@ -1,0 +1,60 @@
+{
+  "industry": [
+    "IT",
+    "SaaS"
+  ],
+  "company_size": {
+    "min": 50.0,
+    "max": 50000.0
+  },
+  "revenue_range": {
+    "min": 10000000.0,
+    "max": 100000000.0
+  },
+  "target_continents": [
+    "North America",
+    "Europe"
+  ],
+  "target_countries": [
+    "United States",
+    "Canada",
+    "United Kingdom",
+    "Germany"
+  ],
+  "target_cities": [
+    {
+      "city": "null",
+      "country": "null",
+      "continent": "null"
+    }
+  ],
+  "target_roles": [
+    "Sales Manager",
+    "CTO",
+    "Heads of Product"
+  ],
+  "must_have_traits": [
+    "Using modern tech stack (React, Python, AWS)",
+    "In growth stage with Series B or C funding",
+    "Product-led growth model"
+  ],
+  "nice_to_have_traits": [
+    "Remote-friendly culture",
+    "AI/ML components in their product",
+    "Strong engineering team"
+  ],
+  "exclude": [
+    "Consulting companies",
+    "Digital marketing agencies",
+    "Non-tech companies"
+  ],
+  "dynamic_attributes": {
+    "tech_stack": [
+      "React",
+      "Python",
+      "AWS"
+    ],
+    "growth_stage": "growth stage",
+    "funding_stage": "Series B or C"
+  }
+}

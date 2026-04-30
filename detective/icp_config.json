@@ -1,0 +1,35 @@
+{
+  "icp_text": "I want IT companies with 50-5000 employees and annual revenue between $10M - $100M. Target companies should be in North America and Europe, specifically in the United States, Canada, United Kingdom, Germany, and France. We want to connect with Sales Managers, CTOs, and Heads of Product. Must-have traits: Using modern tech stack (React, Python, AWS), In growth stage with Series B or C funding, Product-led growth model.",
+  "industry": ["IT", "SaaS", "Technology", "Software"],
+  "company_size": {
+    "min": 50,
+    "max": 5000
+  },
+  "revenue_range": {
+    "min": 10000000,
+    "max": 100000000
+  },
+  "target_continents": ["North America", "Europe"],
+  "target_countries": ["United States", "Canada", "United Kingdom", "Germany", "France"],
+  "target_cities": [],
+  "target_roles": ["Sales Manager", "CTO", "Head of Product", "VP Sales", "Chief Technology Officer"],
+  "must_have_traits": [
+    "Modern tech stack",
+    "Growth stage funding",
+    "Product-led growth"
+  ],
+  "nice_to_have_traits": [
+    "Remote-friendly culture",
+    "AI/ML components",
+    "Strong engineering team"
+  ],
+  "exclude": [
+    "Consulting companies",
+    "Digital marketing agencies"
+  ],
+  "dynamic_attributes": {
+    "tech_stack": ["React", "Python", "AWS"],
+    "growth_stage": "Series B or C",
+    "funding_stage": "Series B"
+  }
+}
