@@ -22,8 +22,9 @@ RUN mkdir -p ranking logs output
 ENV PYTHONPATH=/app
 ENV PYTHONUNBUFFERED=1
 
-# Expose port for MCP server
-EXPOSE 8000
+# Expose port for FastAPI server
+EXPOSE 8002
 
-# Default command runs the main pipeline
-CMD ["python", "main.py"]
+# Default: run the FastAPI server (A2A + Redis subscriber)
+# To run the old CLI pipeline instead: docker run ... python main.py
+CMD ["uvicorn", "app.server:app", "--host", "0.0.0.0", "--port", "8002"]

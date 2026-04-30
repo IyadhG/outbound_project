@@ -1,539 +1,380 @@
-# 🕵️ Detective - ICP-Based Company Targeting with LangGraph
+# 🕵️ Detective — Agentic B2B Lead Generation
 
-A comprehensive LLM-powered pipeline for Ideal Customer Profile (ICP) extraction, company matching, intent signal collection, and persona ranking. Built with **LangGraph** for robust state management and orchestration.
+Detective is an LLM-powered B2B lead-generation system built around a **ReAct agent** (Reason → Act → Observe → Reason). Given a natural-language Ideal Customer Profile (ICP), the agent dynamically decides which tools to call, in what order, and how to recover when results are empty or low-quality — no hardcoded pipeline steps.
 
-## 🌟 Key Features
+## What's New in v3.0
 
-- **🎯 ICP Extraction**: LLM-powered extraction of target industries, company sizes, countries, and roles from natural language ICP descriptions
-- **🏢 Company Matching**: Intelligent matching of companies against ICP criteria using Groq LLM
-- **📍 Geo-Filtering**: City-based proximity filtering using OpenRouteService API (optional)
-- **📊 Intent Collection**: MCP server integration for collecting funding, partnerships, and news signals
-- **📈 Similarity Ranking**: Gemini embeddings-based ranking of companies by ICP similarity
-- **⭐ Final Scoring**: Combined similarity + intent boost scoring
-- **👤 Persona Ranking**: LLM-based scoring and selection of target personas per company
-- **🔄 LangGraph Orchestration**: State-managed pipeline with conditional branching and error handling
+The previous version used a fixed 6-step LangGraph pipeline where the LLM acted only as a classifier inside predetermined nodes. v3.0 replaces that with a true agentic loop:
 
-## 🏗️ Architecture
+- The LLM **decides** which tools to call and in what order
+- The agent **retries** with broadened criteria when a tool returns empty results (up to 3 times per tool)
+- The agent **stops early** once enough qualified leads are found, rather than always running all steps
+- Every thought, tool call, and observation is recorded in a structured **agent scratchpad** for full auditability
+- All existing `brain/` and `ranking/` modules are preserved unchanged — they're wrapped as agent tools
 
-### 6-Step LangGraph Pipeline
+---
+
+## Architecture
 
 ```
-┌─────────────────┐
-│  STEP 1:       │
-│  Extract ICP   │  → Extract industries, sizes, countries, roles
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│  STEP 2:       │
-│  Match Companies│  → LLM-based industry matching
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│  STEP 2b:      │
-│  Geo Filter     │  → City proximity (optional, requires ORS_API_KEY)
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│  STEP 3:       │
-│  Collect Intent │  → MCP server for funding/news/partnerships
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│  STEP 4:       │
-│  Filter & Rank  │  → Employee count, country filter + similarity ranking
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│  STEP 5:       │
-│  Final Scoring  │  → Similarity + intent boost
-└────────┬────────┘
-         ↓
-┌─────────────────┐
-│  STEP 6:       │
-│  Rank Personas  │  → LLM-based persona selection
-└─────────────────┘
+Entry Points
+  app/scorer.py          ← FastAPI real-time single-lead scoring
+  mcp_server/mcp_server.py ← MCP tools for external orchestrators
+  main.py                ← CLI batch run
+
+        ↓
+
+DetectiveAgent  (detective_agent.py)
+  └── ReAct Loop  (langgraph.prebuilt.create_react_agent)
+        ├── extract_icp
+        ├── match_companies
+        ├── geo_filter          (optional — skipped if no city in ICP)
+        ├── filter_companies
+        ├── rank_companies
+        ├── collect_intent      (optional — skipped if unavailable)
+        ├── calculate_final_scores
+        └── score_personas
+
+        ↓
+
+Existing Modules (unchanged)
+  brain/icp_agent.py        brain/company_matcher.py
+  brain/geo_agent.py        ranking/company_filter.py
+  ranking/company_ranker.py ranking/final_scorer.py
+  ranking/persona_ranker.py ranking/embedder.py
 ```
 
-## 📁 Project Structure
+### ReAct Loop
+
+```
+User ICP text
+     ↓
+[Thought] LLM reasons about next step
+     ↓
+[Tool Call] Agent invokes a tool
+     ↓
+[Observation] Result recorded in scratchpad
+     ↓
+[Thought] LLM evaluates result, decides next action
+     ↓  (loop until goal achieved or max_iterations reached)
+AgentResult { final_rankings, persona_results, agent_scratchpad, ... }
+```
+
+---
+
+## Project Structure
 
 ```
 detective/
-├── main.py                     # Entry point - calls LangGraph pipeline
-├── detective_graph.py          # LangGraph pipeline definition (6 nodes)
-├── brain/                      # LLM agents for ICP and matching
-│   ├── icp_agent.py           # ICP extraction agent
-│   ├── company_matcher.py     # Company matching agent
-│   ├── geo_agent.py           # Geo-filtering agent (OpenRouteService)
-│   └── __init__.py
-├── ranking/                    # Ranking and scoring modules
-│   ├── company_ranker.py      # Similarity ranking with embeddings
-│   ├── company_filter.py      # Employee/country filtering
-│   ├── final_scorer.py        # Intent boost scoring
-│   ├── persona_ranker.py     # LLM-based persona selection
-│   └── __init__.py
-├── requirements.txt           # Dependencies
-├── .env                       # Environment variables
-└── README.md                  # This file
+├── detective_agent.py          # DetectiveAgent — ReAct loop, AgentResult, ScratchpadEntry
+├── agent_tools.py              # 8 @tool-decorated wrappers for brain/ and ranking/
+├── persona_scorer.py           # Hybrid persona scorer (rule-based + LLM escalation)
+├── detective_graph.py          # Legacy 6-step pipeline (kept as reference, not used)
+├── main.py                     # CLI entry point
+│
+├── brain/                      # LLM agents (unchanged)
+│   ├── icp_agent.py
+│   ├── company_matcher.py
+│   ├── geo_agent.py
+│   └── schema.py
+│
+├── ranking/                    # Scoring & ranking modules (unchanged)
+│   ├── company_filter.py
+│   ├── company_ranker.py
+│   ├── embedder.py
+│   ├── final_scorer.py
+│   └── persona_ranker.py
+│
+├── app/                        # FastAPI service (unchanged except scorer.py)
+│   ├── server.py
+│   ├── subscriber.py
+│   ├── scorer.py               # Delegates to agent_tools wrappers
+│   └── event_emitter.py
+│
+├── mcp_server/
+│   └── mcp_server.py           # MCP tools — delegates to DetectiveAgent
+│
+├── tests/
+│   ├── test_detective_agent.py
+│   ├── test_persona_scorer.py
+│   ├── test_properties.py      # Hypothesis property-based tests
+│   └── test_scorer.py
+│
+├── requirements.txt
+├── .env
+└── Dockerfile
 ```
 
-## 🚀 Quick Start
+---
 
-### 1. Setup Environment
+## Quick Start
+
+### 1. Install dependencies
 
 ```bash
-# Activate virtual environment
-.\venv\Scripts\activate
-
-# Install dependencies
+cd detective
+python -m venv venv
+source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 2. Configure API Keys
-
-Create/edit `.env` file:
+### 2. Configure environment
 
 ```env
-# Required: Groq API for LLM operations
-GROQ_API_KEY=your_groq_api_key_here
+# detective/.env
 
-# Optional: OpenRouteService for geo-filtering
-ORS_API_KEY=your_ors_api_key_here
+# Required
+GROQ_API_KEY=your_groq_api_key
+GEMINI_API_KEY=your_gemini_api_key
 
-# Model configuration (optional)
-GROQ_MODEL=llama-3.1-8b-instant
-GROQ_TEMPERATURE=0.1
+# Optional — geo-filtering disabled when absent
+ORS_API_KEY=your_openrouteservice_key
+
+# Tuning (all have defaults)
+DETECTIVE_MAX_ITERATIONS=15
+DETECTIVE_LLM_MODEL=llama-3.1-8b-instant
+QUALIFICATION_THRESHOLD=0.6
+DETECTIVE_PERSONA_LLM_THRESHOLD=0.4
 ```
 
 Get API keys:
 - **Groq**: https://console.groq.com/
-- **OpenRouteService**: https://openrouteservice.org/
+- **Gemini**: https://aistudio.google.com/app/apikey
+- **ORS** (optional): https://openrouteservice.org/
 
-### 3. Run the Pipeline
+### 3. Run
 
 ```bash
+# CLI batch run
 python main.py
+
+# MCP server
+python -m mcp_server.mcp_server
+
+# Docker
+docker-compose up detective
 ```
 
-The pipeline will:
-1. Extract ICP from the example text in `main.py`
-2. Match companies from `../inject_collect_project/merged_profiles/`
-3. Collect intent signals via MCP server
-4. Filter, rank, and score companies
-5. Select target personas per company
-6. Output comprehensive results
+---
 
-## 📋 Pipeline Steps Explained
+## Using DetectiveAgent Directly
 
-### STEP 1: ICP Extraction (`node_extract_icp`)
+```python
+from detective_agent import DetectiveAgent
 
-**Purpose**: Parse natural language ICP description into structured attributes
+agent = DetectiveAgent(
+    groq_api_key="...",
+    gemini_api_key="...",
+    ors_api_key=None,          # geo-filtering disabled
+    max_iterations=15,
+    qualification_threshold=0.6,
+)
 
-**Input**: Raw ICP text (e.g., "I want IT companies with 50-500 employees...")
+result = agent.run(
+    icp_text="""
+    SaaS companies with 50–500 employees in Germany and Austria.
+    Target roles: VP of Sales, Head of Revenue.
+    Must use modern cloud stack.
+    """,
+    desired_lead_count=10,
+    output_name="my_run",
+)
 
-**Output**: `ICPAttributes` with:
-- `industry`: List of target industries (e.g., ["IT", "SaaS"])
-- `company_size`: Min/max employee count
-- `revenue_range`: Min/max revenue
-- `target_countries`: List of countries
-- `target_roles`: List of job roles to target
-- `dynamic_attributes`: Tech stack, funding stage, etc.
+print(result["halt_reason"])        # "goal_achieved" or "max_iterations_reached"
+print(len(result["final_rankings"])) # number of ranked companies
+print(result["total_iterations"])    # ReAct cycles used
 
-**LLM Model**: `llama-3.1-8b-instant`
-
-**Output File**: `{output_name}_icp.json`
-
-### STEP 2: Company Matching (`node_match_companies`)
-
-**Purpose**: Find companies matching ICP industries
-
-**Process**:
-1. Load all company profiles from `merged_profiles/`
-2. For each company, use LLM to check industry match
-3. Return companies with match confidence > 0.5
-
-**Output**: `matched_companies_{output_name}/` folder with `_MATCHED.json` files
-
-**LLM Model**: `llama-3.1-8b-instant`
-
-### STEP 2b: Geo-Filtering (`node_geo_filter`) - Optional
-
-**Purpose**: Filter companies by city proximity
-
-**Requirements**: `ORS_API_KEY` in `.env`
-
-**Process**:
-1. Parse city from ICP text
-2. Geocode city to lat/lon using OpenRouteService
-3. Calculate driving distance to each company
-4. Keep companies within specified range (default 100km)
-
-**Output**: Geo-filtered company dictionary
-
-**Note**: Skips if no ORS_API_KEY or no city specified
-
-### STEP 3: Intent Collection (`node_collect_intent`)
-
-**Purpose**: Collect buying intent signals via MCP server
-
-**MCP Server**: `../agentic_intent/mcp_server/mcp_server.py`
-
-**Tools Available**:
-- `search_company_funding`: Funding rounds and investment data
-- `search_company_news`: Recent news and press releases
-- `search_company_partnerships`: Partnership announcements
-- `retrieve_company_intent`: Combined intent score
-
-**Process**:
-1. Start MCP server subprocess
-2. Connect via stdio transport
-3. For each company, call funding/news/partnership tools
-4. LLM extracts structured intent signals
-5. Save to `../agentic_intent/output/intent_results.json`
-
-**Output**: Intent data for final scoring boost
-
-**Note**: Requires `agentic_intent` module. Falls back to saved company list if rate limited.
-
-### STEP 4: Filter & Rank (`node_filter_and_rank`)
-
-**Purpose**: Apply ICP criteria filters and rank by similarity
-
-**Sub-steps**:
-
-#### 4a. Company Filtering (`CompanyFilter`)
-- **Employee Filter**: Keep companies within min/max employee range
-- **Country Filter**: Keep companies in target countries
-
-#### 4b. Similarity Ranking (`CompanyRanker`)
-- Embed ICP text using Gemini embeddings
-- Embed each company profile
-- Calculate cosine similarity
-- Rank by similarity score
-
-**Output Files**:
-- `ranking/{output_name}_filtered_ranking.json`
-- `ranking/{output_name}_filtered_ranking_detailed.json`
-
-### STEP 5: Final Scoring (`node_final_scoring`)
-
-**Purpose**: Combine similarity scores with intent signals
-
-**Formula**:
-```
-Final Score = Similarity Score + (Intent Score × Intent Boost)
+# Inspect the full reasoning trace
+for entry in result["agent_scratchpad"]:
+    print(f"[{entry['step']}] {entry['type']}: {entry['content']}")
 ```
 
-Where:
-- `Similarity Score`: From embedding cosine similarity (0-1)
-- `Intent Score`: Calculated from funding/news confidence
-- `Intent Boost`: 0.05 (5% max boost)
+### AgentResult schema
 
-**Intent Score Calculation**:
-- High confidence funding (>0.7): +0.05
-- High confidence news (>0.7): +0.03
-- Multiple signals: Additional boost
-
-**Output File**: `ranking/{output_name}_final_ranking.json`
-
-### STEP 6: Persona Ranking (`node_rank_personas`)
-
-**Purpose**: Select the best target persona per company
-
-**Process**:
-1. Load personas from `../inject_collect_project/personas_discovered/`
-2. For each company, score all personas with LLM:
-   - **Seniority Score**: Based on job level (0-1)
-   - **Department Score**: Sales=1.0, CEO=0.9, Other=0.5
-   - **Role Match Score**: Match against ICP target roles (0-1)
-   - **Final Score**: Weighted combination
-3. Select highest scoring persona
-4. Fallback: If no sales persona, select CEO/Founder
-
-**Scoring Weights**:
-- Department: 30%
-- Seniority: 50%
-- Role Match: 20%
-
-**LLM Model**: `llama-3.1-8b-instant`
-
-**Output File**: `ranking/{output_name}_personas.json`
-
-## 📊 Output Files
-
-### Generated Files
-
-| File | Description |
-|------|-------------|
-| `{name}_icp.json` | Extracted ICP attributes |
-| `matched_companies_{name}/` | Industry-matched company profiles |
-| `ranking/{name}_filtered_ranking.json` | Post-filter similarity rankings |
-| `ranking/{name}_final_ranking.json` | Final scores with intent boost |
-| `ranking/{name}_personas.json` | Selected personas per company |
-| `brain.log` | Detailed execution logs |
-| `matched_companies_for_intent.json` | Fallback company list for manual intent |
-
-### Persona Output Format
-
-```json
+```python
 {
-  "icp_description": "...",
-  "timestamp": "...",
-  "results": [
-    {
-      "company_key": "bosch_us",
-      "company_name": "Bosch in the USA",
-      "company_rank": 1,
-      "company_final_score": 0.706,
-      "selected_persona": {
-        "full_name": "Jessica Katterheinrich",
-        "job_title": "Sales Manager",
-        "email": "jessica.katterheinrich@bosch.com",
-        "linkedin_url": "...",
-        "city": "Detroit",
-        "country": "United States"
-      },
-      "persona_score": {
-        "final_score": 0.93,
-        "is_sales": true,
-        "is_ceo": false,
-        "reasoning": "As a Sales Manager..."
-      },
-      "target_roles_matched": ["Sales Manager", "CTO", "Heads of Product"]
-    }
-  ]
+    "final_rankings":   List[Dict],   # companies sorted by final_score desc
+    "persona_results":  List[Dict],   # best persona per company
+    "agent_scratchpad": List[{        # full reasoning trace
+        "step":      int,
+        "type":      "thought" | "tool_call" | "observation" | "error",
+        "content":   str,
+        "timestamp": str,             # ISO 8601 UTC
+    }],
+    "total_iterations": int,
+    "halt_reason":      str,          # "goal_achieved" | "max_iterations_reached"
+    "extracted_icp":    Dict,         # ICPAttributes.model_dump()
+    "errors":           List[str],    # non-fatal errors
 }
 ```
 
-## 🛠️ Modules Reference
+---
 
-### `brain/` - LLM Agents
+## Agent Tools
 
-#### `ICPExtractionAgent`
-- **Method**: `extract_icp_attributes(icp_text: str) -> ICPAttributes`
-- **Purpose**: Parse natural language to structured ICP
+Eight tools are exposed to the LLM. Each wraps an existing `brain/` or `ranking/` class, handles serialization, and catches all exceptions — returning `{"error": ..., "results": [], "count": 0}` on failure so the agent can continue.
 
-#### `CompanyMatcher`
-- **Method**: `find_matching_companies(industries: List[str]) -> Dict`
-- **Purpose**: LLM-based industry matching
+| Tool | Wraps | Notes |
+|---|---|---|
+| `extract_icp` | `ICPExtractionAgent.extract_icp_attributes` | Always the first call |
+| `match_companies` | `CompanyMatcher.find_matching_companies` | Retried with broader industries on empty |
+| `geo_filter` | `GeoAgent.filter_companies_by_proximity` | Skipped when `ORS_API_KEY` absent or no city in ICP |
+| `filter_companies` | `CompanyFilter.filter_companies` | Retried with relaxed size/country on empty |
+| `rank_companies` | `CompanyRanker.rank_companies` + `GeminiEmbedder` | Falls back to `similarity_score=0.5` on embedder failure |
+| `collect_intent` | *(stub)* | Always returns `skipped=true`; agent continues without intent signals |
+| `calculate_final_scores` | `FinalScorer.calculate_final_scores` | Combines similarity + intent boost |
+| `score_personas` | `PersonaScorer.score` | Hybrid rule-based + LLM escalation |
 
-#### `GeoAgent`
-- **Method**: `filter_companies_by_proximity(companies, city, country, range_km)`
-- **Purpose**: City-based proximity filtering
-- **API**: OpenRouteService
+### Retry behaviour
 
-### `ranking/` - Scoring & Ranking
+The agent retries a tool up to **3 times** when it returns empty results. Retry strategies per tool:
 
-#### `CompanyRanker`
-- **Method**: `rank_companies(companies_folder) -> List[Dict]`
-- **Embedding**: Gemini (`models/embedding-001`)
-- **Metric**: Cosine similarity
+- `match_companies` — broaden the industry list with semantically related terms
+- `filter_companies` — relax `company_size` by ±20%; if still empty, relax country to continent
+- `rank_companies` — retry with the unfiltered matched set
+- All others — retry with identical arguments (transient errors)
 
-#### `CompanyFilter`
-- **Methods**: `filter_by_employees()`, `filter_by_country()`
-- **Purpose**: ICP criteria filtering
+---
 
-#### `FinalScorer`
-- **Method**: `calculate_final_scores(ranking_file, intent_file)`
-- **Boost**: Intent signals add up to 5% to similarity score
+## Persona Scoring
 
-#### `PersonaRanker`
-- **Method**: `rank_personas_for_companies(companies, target_roles)`
-- **LLM Scoring**: Seniority, department, role match
-- **Selection**: Best persona per company with sales priority
+`PersonaScorer` (`persona_scorer.py`) wraps `PersonaRanker` with a hybrid scoring strategy:
 
-## ⚙️ Configuration
+1. **Rule-based score** — always called via `PersonaRanker.score_persona()`
+2. **LLM escalation** — triggered when `rule_score < 0.4` AND the job title contains no recognized seniority keyword (ceo, vp, director, head of, etc.)
+3. **Score selection** — LLM score is used only when `|llm_score - rule_score| > 0.1`; otherwise the rule score is kept
+4. **Fallback** — if `analyze_persona_with_llm()` raises, the rule score is returned and a WARNING is logged
 
-### Environment Variables
+---
 
-| Variable | Required | Description |
-|----------|----------|-------------|
-| `GROQ_API_KEY` | ✅ Yes | Groq API for LLM operations |
-| `ORS_API_KEY` | ❌ No | OpenRouteService for geo-filtering |
-| `GROQ_MODEL` | ❌ No | Model name (default: llama-3.1-8b-instant) |
-| `GROQ_TEMPERATURE` | ❌ No | LLM temperature (default: 0.1) |
+## MCP Server
 
-### ICP Text Format
+Three MCP tools are exposed via `mcp_server/mcp_server.py`. All signatures are unchanged from v2.0 — existing MCP clients require no updates.
 
-Edit the ICP text in `main.py`:
+| Tool | Description |
+|---|---|
+| `rank_lead` | Score a single company against an ICP (unchanged) |
+| `detect_top_leads` | Run the full agent pipeline; returns ranked leads + `dynamic_graph` |
+| `run_full_detective_pipeline` | Full pipeline with `agent_scratchpad` and optional `warning` field |
 
-```python
-example_icp = """
-I want IT companies with 50-500 employees and annual revenue between $10M - $100M.
-Target companies should be in United States, Canada, United Kingdom, and Germany.
-
-We want to connect with Sales Managers, CTOs, and Heads of Product.
-
-Must-have traits:
-- Using modern tech stack (React, Python, AWS)
-- In growth stage with Series B or C funding
-- Product-led growth model
-
-Exclude:
-- Consulting companies
-- Digital marketing agencies
-"""
-```
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-#### 1. "No module named 'graph.funding_graph'"
-**Cause**: Naming conflict with `graph.py`
-**Fix**: Renamed to `detective_graph.py` - pull latest code
-
-#### 2. Groq Rate Limit (429 errors)
-**Cause**: Daily token limit (100,000 tokens)
-**Fix**: 
-- Wait ~5-15 minutes for rate limit reset
-- Use cheaper model: `llama-3.1-8b-instant` (already default)
-- Upgrade Groq account
-
-#### 3. "ORS_API_KEY not found"
-**Cause**: Geo-filtering requires API key
-**Fix**: Add `ORS_API_KEY` to `.env` or disable geo-filtering
-
-#### 4. MCP Server Connection Failed
-**Cause**: `agentic_intent` module not found
-**Fix**: Ensure `../agentic_intent/` exists and has `mcp_server/mcp_server.py`
-
-#### 5. No Personas Found
-**Cause**: Company doesn't have persona file in `personas_discovered/`
-**Note**: This is expected - not all companies have personas
-
-### Debug Mode
-
-Enable detailed logging:
-
-```python
-# In main.py or graph.py
-logging.basicConfig(
-    level=logging.DEBUG,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
-```
-
-## 📈 Performance Tips
-
-1. **Use cheaper models** for company matching to save tokens
-2. **Run intent collection separately** if rate limited:
-   ```bash
-   cd ../agentic_intent
-   python main.py
-   ```
-3. **Cache embeddings** by reusing `ranking/` JSON files
-4. **Filter early** - geo-filter before LLM matching to reduce API calls
-
-## 🔗 Integration with Other Modules
-
-### `inject_collect_project/`
-- **Input**: `merged_profiles/` - Company profiles
-- **Input**: `personas_discovered/` - Persona JSON files
-
-### `agentic_intent/`
-- **MCP Server**: Provides intent collection tools
-- **Output**: `output/intent_results.json` - Intent signals
-
-## 📚 Dependencies
-
-### Core Requirements
-```
-langgraph>=0.0.50
-groq>=0.5.0
-google-generativeai>=0.5.4
-requests>=2.31.0
-pydantic>=2.5.3
-python-dotenv>=1.0.0
-numpy>=1.24.0
-scikit-learn>=1.3.0
-scipy>=1.11.0
-```
-
-See `requirements.txt` for complete list.
-
-## 🐳 Docker
-
-### Quick Start with Docker
+`run_full_detective_pipeline` response additions:
+- `agent_scratchpad` — full reasoning trace as a JSON-serializable list
+- `warning` — present when `halt_reason == "max_iterations_reached"`, indicating partial results
 
 ```bash
-# Build the image
-docker-compose build
+# Test with MCP Inspector
+npx @modelcontextprotocol/inspector python mcp_server/mcp_server.py
+```
 
-# Run the full pipeline
+---
+
+## FastAPI Service
+
+`app/scorer.py` exposes `score_single_lead()` for real-time single-lead scoring from the Redis subscriber. The function signature and return schema are unchanged; internally it now delegates to `filter_companies_tool`, `rank_companies_tool`, and `score_personas_tool` from `agent_tools.py`.
+
+```python
+result = await score_single_lead(
+    payload=lead_ingested_event,
+    icp_attributes=icp,
+    icp_text="...",
+    groq_api_key="...",
+)
+# Returns: { final_score, icp_match, filters_passed, similarity_score,
+#            intent_boost, selected_persona, qualified_for_outreach, company_data }
+```
+
+---
+
+## Configuration Reference
+
+| Variable | Default | Description |
+|---|---|---|
+| `GROQ_API_KEY` | — | **Required.** Groq API key for LLM calls |
+| `GEMINI_API_KEY` | — | **Required.** Gemini API key for embeddings |
+| `ORS_API_KEY` | — | Optional. OpenRouteService key for geo-filtering |
+| `DETECTIVE_MAX_ITERATIONS` | `15` | Maximum ReAct loop cycles before halting |
+| `DETECTIVE_LLM_MODEL` | `llama-3.1-8b-instant` | Groq model for the reasoning loop |
+| `QUALIFICATION_THRESHOLD` | `0.6` | Minimum `final_score` for a qualified lead |
+| `DETECTIVE_PERSONA_LLM_THRESHOLD` | `0.4` | Rule score below which LLM persona escalation is considered |
+
+Constructor parameters override environment variables when explicitly passed.
+
+---
+
+## Running Tests
+
+```bash
+cd detective
+GROQ_API_KEY=test GEMINI_API_KEY=test pytest tests/ -v
+```
+
+73 tests across 4 files:
+
+| File | Tests | Covers |
+|---|---|---|
+| `tests/test_detective_agent.py` | 26 | Startup validation, halt reasons, env vars, scratchpad structure |
+| `tests/test_persona_scorer.py` | 20 | Rule scoring, LLM escalation, fallback on exception |
+| `tests/test_properties.py` | 11 | Hypothesis property-based tests for 11 correctness properties |
+| `tests/test_scorer.py` | 16 | `score_single_lead` schema, delegation, performance |
+
+All external API calls (Groq, Gemini, ORS) are mocked — tests are fast and cost-free.
+
+---
+
+## Docker
+
+```bash
+# Build and run the full pipeline
+docker-compose build
 docker-compose up detective
 
-# Run MCP server only
+# MCP server only
 docker-compose up detective-mcp
 ```
 
-### Environment Variables
-
-Create a `.env` file:
-
-```bash
-GROQ_API_KEY=your_groq_key_here
-GEMINI_API_KEY=your_gemini_key_here
+Required environment variables in `.env`:
+```env
+GROQ_API_KEY=...
+GEMINI_API_KEY=...
 ```
 
-### Docker Services
+---
 
-- **detective**: Runs the full LangGraph pipeline
-- **detective-mcp**: Runs the MCP server on port 8000
+## Troubleshooting
 
-## 🚀 Installation
+**`ValueError: Missing required environment variables: GROQ_API_KEY`**
+Set `GROQ_API_KEY` in your `.env` file or shell environment. Both `GROQ_API_KEY` and `GEMINI_API_KEY` are required.
 
-### Local Installation
+**Geo-filtering not running**
+Add `ORS_API_KEY` to `.env`. Without it, `geo_filter` returns the input unchanged and logs an INFO message — this is expected behaviour, not an error.
 
-```bash
-# Clone the repository
-cd outbound_project/detective
+**`halt_reason: "max_iterations_reached"` with partial results**
+The agent hit the iteration cap before finding enough qualified leads. Increase `DETECTIVE_MAX_ITERATIONS` or broaden the ICP criteria.
 
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+**Groq rate limit (429)**
+The default model (`llama-3.1-8b-instant`) is the most token-efficient option. Wait a few minutes for the rate limit to reset, or upgrade your Groq account.
 
-# Install dependencies
-pip install -r requirements.txt
+**No companies matched**
+The agent will automatically retry `match_companies` with broader industry terms. If all retries are exhausted, check that `merged_profiles/` contains company data and that the ICP industries are specific enough for the LLM to match against.
 
-# Set environment variables
-export GROQ_API_KEY=your_key
-export GEMINI_API_KEY=your_key
+---
 
-# Run the pipeline
-python main.py
-```
+## Changelog
 
-### MCP Server Usage
+### v3.0 — Agentic Redesign
+- Replaced hardcoded 6-step LangGraph pipeline with `DetectiveAgent` ReAct loop
+- Added `agent_tools.py` — 8 `@tool`-decorated wrappers for all `brain/` and `ranking/` modules
+- Added `persona_scorer.py` — hybrid rule-based + LLM persona scoring
+- Added agent scratchpad — full JSON-serializable reasoning trace on every run
+- Added retry logic — up to 3 retries per tool with strategy-specific broadening
+- Added goal-directed termination — stops as soon as `desired_lead_count` qualified leads are found
+- Updated `app/scorer.py` to delegate to tool wrappers
+- Updated `mcp_server/mcp_server.py` to delegate to `DetectiveAgent`; added `agent_scratchpad` and `warning` fields to MCP responses
+- 73 unit + property-based tests; all `brain/` and `ranking/` modules unchanged
 
-```bash
-# Start the MCP server
-python -m mcp_server.mcp_server
+### v2.0 — LangGraph Migration
+- Migrated from procedural script to 6-step LangGraph state machine
+- Added intent collection, geo-filtering, and persona ranking
 
-# Or with Docker
-docker-compose up detective-mcp
-```
-
-## 📝 Changelog
-
-### v2.0 - LangGraph Migration
-- ✅ Migrated from procedural to LangGraph orchestration
-- ✅ Added 6-step state-managed pipeline
-- ✅ Added intent collection with MCP server
-- ✅ Added geo-filtering with OpenRouteService
-- ✅ Added persona ranking with LLM scoring
-- ✅ Added final scoring with intent boost
-
-### v1.0 - Initial Release
-- Basic ICP extraction
-- LLM-based company matching
-
-## 🤝 Contributing
-
-This is part of the `outbound_project` ecosystem. Coordinate changes with:
-- `inject_collect_project/` - Data source
-- `agentic_intent/` - Intent collection
-- `personalized_outbound/` - Email generation (future)
-
-## 📄 License
-
-Part of the outbound_project - follows same licensing terms.
+### v1.0 — Initial Release
+- ICP extraction and LLM-based company matching

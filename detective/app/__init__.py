@@ -1,0 +1,1 @@
+# Detective FastAPI application package

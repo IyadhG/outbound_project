@@ -5,6 +5,7 @@ Detective MCP Server - B2B Lead Detective & Orchestrator
 High-level orchestrator tools for B2B lead generation:
 - rank_lead: Analyze single company against ICP
 - detect_top_leads: Full pipeline from ICP extraction to ranked leads with graph
+- run_full_detective_pipeline: Complete agentic pipeline via DetectiveAgent
 
 Usage:
     python mcp_server.py
@@ -21,64 +22,67 @@ from dotenv import load_dotenv
 current_file = Path(__file__).resolve()
 project_root = current_file.parent.parent
 
-# Debug: Print paths
-print(f"[DEBUG] Current file: {current_file}", file=sys.stderr)
-print(f"[DEBUG] Project root: {project_root}", file=sys.stderr)
-print(f"[DEBUG] Current sys.path: {sys.path[:3]}...", file=sys.stderr)
-
 # Add project root to path
 if str(project_root) not in sys.path:
     sys.path.insert(0, str(project_root))
-    print(f"[DEBUG] Added {project_root} to sys.path", file=sys.stderr)
 
 # Also try one level up (in case we're in a different structure)
 parent_of_project = project_root.parent
 if str(parent_of_project) not in sys.path:
     sys.path.insert(0, str(parent_of_project))
-    print(f"[DEBUG] Added {parent_of_project} to sys.path", file=sys.stderr)
-
-# Force UTF-8 for Windows Terminal Compatibility
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
-sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
 
 # 2. LOAD ENVIRONMENT
 env_path = project_root / '.env'
 if env_path.exists():
     load_dotenv(env_path)
-    print(f"[DEBUG] Loaded .env from {env_path}", file=sys.stderr)
 else:
     load_dotenv()
-    print(f"[DEBUG] Loaded .env from default location", file=sys.stderr)
 
 # 3. IMPORTS
 try:
     from mcp.server.fastmcp import FastMCP
+    _fastmcp_available = True
 except ImportError:
-    from fastmcp import FastMCP
+    try:
+        from fastmcp import FastMCP
+        _fastmcp_available = True
+    except ImportError:
+        _fastmcp_available = False
+        FastMCP = None  # type: ignore[assignment,misc]
 
 # Import detective components (from parent directory)
 from brain.icp_agent import ICPExtractionAgent
 
-# Import the full LangGraph pipeline
+# Import the DetectiveAgent (replaces detective_graph.run_detective_pipeline)
 try:
-    from detective_graph import run_detective_pipeline
-    print("[DEBUG] Imported run_detective_pipeline from detective_graph", file=sys.stderr)
+    from detective_agent import DetectiveAgent
 except ImportError as e:
-    print(f"[WARN] Could not import run_detective_pipeline: {e}", file=sys.stderr)
-    run_detective_pipeline = None
+    DetectiveAgent = None  # type: ignore[assignment,misc]
 
 # 4. INITIALIZE SERVER
-mcp = FastMCP("B2B-Detective-Server")
+if _fastmcp_available and FastMCP is not None:
+    mcp = FastMCP("B2B-Detective-Server")
+else:
+    # Stub for environments where fastmcp is not installed (e.g., tests)
+    class _McpStub:
+        """Minimal stub so the module can be imported without fastmcp."""
+        def tool(self):
+            def decorator(fn):
+                return fn
+            return decorator
+        def run(self, **kwargs):
+            raise RuntimeError("fastmcp is not installed; cannot run MCP server.")
+    mcp = _McpStub()  # type: ignore[assignment]
 
-# Initialize components
-api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
-groq_api_key = os.getenv("GROQ_API_KEY")
-ors_api_key = os.getenv("ORS_API_KEY")
+# Initialize API key references (read at call time, not at import time)
+def _get_api_keys():
+    """Read API keys from environment at call time."""
+    return {
+        "gemini": os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY"),
+        "groq": os.getenv("GROQ_API_KEY"),
+        "ors": os.getenv("ORS_API_KEY"),
+    }
 
-print(f"[INIT] Detective MCP Server Starting...", file=sys.stderr)
-print(f"[INIT] Gemini API: {'OK' if api_key else 'MISSING'}", file=sys.stderr)
-print(f"[INIT] Groq API: {'OK' if groq_api_key else 'MISSING'}", file=sys.stderr)
-print(f"[INIT] ORS API: {'OK' if ors_api_key else 'MISSING'}", file=sys.stderr)
 
 # ============================================================================
 # HELPER FUNCTIONS
@@ -90,7 +94,7 @@ def load_companies_from_folder(folder_path: str) -> dict:
     
     # Resolve path - handle relative paths from mcp_server location
     current_dir = Path(__file__).parent
-    project_root = current_dir.parent
+    project_root_local = current_dir.parent
     
     # Extract the folder name from the path
     folder_name = Path(folder_path).name
@@ -100,10 +104,10 @@ def load_companies_from_folder(folder_path: str) -> dict:
     paths_to_try = [
         Path(folder_path),  # As-is
         current_dir / folder_path,  # Relative to mcp_server
-        project_root / folder_path.lstrip("./").replace("../", ""),  # Relative to detective
-        project_root.parent / folder_path.lstrip("./").replace("../", ""),  # Relative to outbound_project
+        project_root_local / folder_path.lstrip("./").replace("../", ""),  # Relative to detective
+        project_root_local.parent / folder_path.lstrip("./").replace("../", ""),  # Relative to outbound_project
         # Hardcoded fallback to known location
-        project_root.parent / "inject_collect_project" / "merged_profiles",
+        project_root_local.parent / "inject_collect_project" / "merged_profiles",
         Path("c:/Users/Dell/Desktop/outbound_project/inject_collect_project/merged_profiles"),
     ]
     
@@ -123,21 +127,16 @@ def load_companies_from_folder(folder_path: str) -> dict:
     folder = None
     for p in paths_to_try:
         try:
-            print(f"[DEBUG] Trying path: {p.absolute()}", file=sys.stderr)
             if p.exists():
                 folder = p
-                print(f"[DEBUG] Found folder at: {p.absolute()}", file=sys.stderr)
                 break
-        except Exception as e:
+        except Exception:
             continue
     
     if not folder:
-        print(f"[ERROR] Could not find folder: {folder_path}", file=sys.stderr)
-        print(f"[ERROR] Tried: {[str(p) for p in paths_to_try[:5]]}...", file=sys.stderr)
         return companies
     
     json_files = list(folder.glob("*.json"))
-    print(f"[DEBUG] Found {len(json_files)} JSON files in {folder}", file=sys.stderr)
     
     for file_path in json_files:
         try:
@@ -145,11 +144,9 @@ def load_companies_from_folder(folder_path: str) -> dict:
                 data = json.load(f)
                 company_key = file_path.stem
                 companies[company_key] = data
-                print(f"[DEBUG] Loaded: {company_key}", file=sys.stderr)
-        except Exception as e:
-            print(f"[WARN] Failed to load {file_path}: {e}", file=sys.stderr)
+        except Exception:
+            pass
     
-    print(f"[DEBUG] Total companies loaded: {len(companies)}", file=sys.stderr)
     return companies
 
 
@@ -162,7 +159,6 @@ def extract_icp_attributes(raw_query: str) -> dict:
         icp = extractor.extract_icp_attributes(raw_query)
         return icp.model_dump()
     except Exception as e:
-        print(f"[WARN] ICP extraction failed: {e}", file=sys.stderr)
         # Fallback to basic extraction
         return {
             "industry": [],
@@ -259,6 +255,53 @@ def rank_company_against_icp(company: dict, icp: dict, user_offering: str, signa
     return scores
 
 
+def _build_dynamic_graph_from_scratchpad(agent_scratchpad: list, final_rankings: list) -> dict:
+    """
+    Build a dynamic graph (nodes + edges) from AgentResult data.
+
+    Uses final_rankings to build company and persona nodes. The scratchpad
+    is available for future enrichment but is not required for the graph.
+    """
+    graph_nodes = []
+    graph_edges = []
+
+    for lead in final_rankings:
+        comp_id = f"node_{lead.get('company_key', 'unknown')}"
+
+        # Add Company Node
+        graph_nodes.append({
+            "id": comp_id,
+            "type": "company",
+            "label": lead.get("company_name", lead.get("company_key", "Unknown")),
+            "score": lead.get("final_score", lead.get("total_score", 0)),
+        })
+
+        # Add Persona Nodes and Edges from personas list (if present)
+        for persona in lead.get("personas", [])[:3]:
+            if persona.get("name") or persona.get("full_name"):
+                name = persona.get("name") or persona.get("full_name", "")
+                safe_name = name.replace(" ", "_").replace(".", "").replace("-", "_")
+                p_id = f"person_{safe_name}"
+
+                graph_nodes.append({
+                    "id": p_id,
+                    "type": "persona",
+                    "label": name,
+                    "title": persona.get("job_title", persona.get("title", "")),
+                    "score": persona.get("match_score", persona.get("score", 0)),
+                    "is_target": persona.get("is_target", False),
+                })
+
+                graph_edges.append({
+                    "source": comp_id,
+                    "target": p_id,
+                    "weight": persona.get("match_score", persona.get("score", 0)),
+                    "type": "employs",
+                })
+
+    return {"nodes": graph_nodes, "edges": graph_edges}
+
+
 # ============================================================================
 # MCP TOOLS - HIGH LEVEL ORCHESTRATOR
 # ============================================================================
@@ -280,175 +323,66 @@ def rank_lead(company_data: str, icp_data: str, user_offering: str, raw_query: s
 def detect_top_leads(raw_icp_query: str, user_offering: str, companies_folder: str = "../../inject_collect_project/merged_profiles", max_km: int = 150, limit: int = 3) -> str:
     """
     Automated pipeline that returns a ranked list AND a dynamic relationship graph.
+    Delegates to DetectiveAgent for agentic lead discovery.
     - limit: How many top companies to include in the graph.
     """
     try:
-        # Step 1: Extraction
-        icp_attributes = extract_icp_attributes(raw_icp_query)
-        constraints = icp_attributes
-        target_roles = constraints.get('target_roles', [])
-        
-        # Step 2: Load companies
-        companies = load_companies_from_folder(companies_folder)
-        if not companies:
+        if DetectiveAgent is None:
             return json.dumps({
-                "error": f"No companies found in folder: {companies_folder}",
+                "error": "DetectiveAgent not available. Check detective_agent import.",
                 "status": "error"
             })
-        
-        # Step 3: Filter & Ranking
-        final_rankings = []
-        
-        min_size = constraints.get('company_size', {}).get('min') or 0
-        max_size = constraints.get('company_size', {}).get('max') or 1000000
-        target_countries = [c.lower() for c in constraints.get('target_countries', [])]
-        target_industries = [i.lower() for i in constraints.get('industry', [])]
-        
-        print(f"[DEBUG] ICP Constraints: size={min_size}-{max_size}, countries={target_countries}, industries={target_industries}", file=sys.stderr)
-        
-        filtered_count = 0
-        for company_key, company in companies.items():
-            # Size filter - handle both nested and flat structure
-            employees_raw = company.get('basic_info', {}).get('employees') or company.get('employees') or company.get('estimated_num_employees') or 0
-            # Convert string like "412,800 (Global)" to number
-            if isinstance(employees_raw, str):
-                import re
-                nums = re.findall(r'[\d,]+', employees_raw)
-                if nums:
-                    employees = int(nums[0].replace(',', ''))
-                else:
-                    employees = 0
-            else:
-                employees = employees_raw or 0
-            if not (min_size <= employees <= max_size):
-                if filtered_count < 3:
-                    print(f"[DEBUG] Filtered {company_key}: employees={employees} not in range {min_size}-{max_size}", file=sys.stderr)
-                filtered_count += 1
-                continue
-            
-            # Country filter - handle both nested and flat structure
-            country = (company.get('basic_info', {}).get('country') or company.get('country', '')).lower()
-            if target_countries and country not in target_countries:
-                if filtered_count < 3:
-                    print(f"[DEBUG] Filtered {company_key}: country='{country}' not in {target_countries}", file=sys.stderr)
-                filtered_count += 1
-                continue
-            
-            # Industry filter - handle both nested and flat structure
-            industries_raw = company.get('classification', {}).get('industries') or company.get('industry', '')
-            if isinstance(industries_raw, str):
-                # Split comma-separated string into list
-                industries = [i.strip().lower() for i in industries_raw.split(',')]
-            else:
-                industries = [i.lower() for i in industries_raw]
-            if target_industries and not any(ti in ind for ti in target_industries for ind in industries):
-                if filtered_count < 3:
-                    print(f"[DEBUG] Filtered {company_key}: industries={industries} don't match {target_industries}", file=sys.stderr)
-                filtered_count += 1
-                continue
-            
-            print(f"[DEBUG] PASSED: {company_key} - employees={employees}, country={country}, industries={industries}", file=sys.stderr)
-            
-            # Score company
-            signals = company.get('intent_signals', [])
-            score_data = rank_company_against_icp(company, constraints, user_offering, signals)
-            
-            # Score personas - handle both flat and nested structure
-            personas_raw = company.get('personas', [])
-            # If personas is a dict (from personas_discovered folder), convert to list
-            if isinstance(personas_raw, dict):
-                personas_list = []
-                for p_key, p_data in personas_raw.items():
-                    if isinstance(p_data, dict):
-                        personas_list.append(p_data)
-                personas_raw = personas_list
-            
-            personas = []
-            for p in personas_raw:
-                base_p_score = p.get('is_likely_to_engage', 0.5) * (p.get('intent_strength', 5) / 10)
-                is_target = any(
-                    role.lower().split()[0] in p.get('job_title', '').lower() 
-                    for role in target_roles if role
-                )
-                persona_final_score = round(base_p_score * (1.5 if is_target else 0.7), 2)
-                
-                personas.append({
-                    "name": p.get('full_name', ''),
-                    "title": p.get('job_title', ''),
-                    "score": persona_final_score,
-                    "is_target": is_target
-                })
-            
-            personas.sort(key=lambda x: x["score"], reverse=True)
-            
-            # Get company name - handle both nested and flat structure
-            company_name = company.get("basic_info", {}).get("name") or company.get("name", company_key)
-            
-            final_rankings.append({
-                "company_key": company_key,
-                "company": company_name,
-                "total_score": score_data["total_score"],
-                "reasoning": score_data["reason"],
-                "top_contacts": personas[:3],
-                "raw_data": company
-            })
-        
-        final_rankings.sort(key=lambda x: x["total_score"], reverse=True)
-        
-        # --- DYNAMIC GRAPH ARCHITECT LOGIC ---
-        top_subset = final_rankings[:limit]
-        graph_nodes = []
-        graph_edges = []
-        
-        for lead in top_subset:
-            comp_id = f"node_{lead['company_key']}"
-            
-            # 1. Add Company Node
-            graph_nodes.append({
-                "id": comp_id,
-                "type": "company",
-                "label": lead['company'],
-                "score": lead['total_score'],
-                "info": lead['reasoning']
-            })
-            
-            # 2. Add Persona Nodes and Edges
-            for p in lead.get('top_contacts', []):
-                if p.get('name'):
-                    safe_name = p['name'].replace(' ', '_').replace('.', '').replace('-', '_')
-                    p_id = f"person_{safe_name}"
-                    
-                    # Add Persona Node
-                    graph_nodes.append({
-                        "id": p_id,
-                        "type": "persona",
-                        "label": p['name'],
-                        "title": p.get('title', ''),
-                        "score": p.get('score', 0),
-                        "is_target": p.get('is_target', False)
-                    })
-                    
-                    # Add Edge
-                    graph_edges.append({
-                        "source": comp_id,
-                        "target": p_id,
-                        "weight": p.get('score', 0),
-                        "type": "employs"
-                    })
-        
-        return json.dumps({
+
+        # Read API keys from environment
+        keys = _get_api_keys()
+        _groq_api_key = keys["groq"] or ""
+        _gemini_api_key = keys["gemini"] or ""
+        _ors_api_key = keys["ors"]
+
+        # Instantiate and run the agent
+        agent = DetectiveAgent(
+            groq_api_key=_groq_api_key,
+            gemini_api_key=_gemini_api_key,
+            ors_api_key=_ors_api_key,
+        )
+
+        agent_result = agent.run(
+            icp_text=raw_icp_query,
+            desired_lead_count=limit,
+            output_name="detect_top_leads",
+        )
+
+        # Extract results from AgentResult
+        final_rankings = agent_result.get("final_rankings", [])
+        top_leads = final_rankings[:limit]
+
+        # Build dynamic graph from agent results
+        dynamic_graph = _build_dynamic_graph_from_scratchpad(
+            agent_result.get("agent_scratchpad", []),
+            top_leads,
+        )
+
+        response = {
             "status": "success",
             "summary": {
                 "total_found": len(final_rankings),
-                "threshold_limit": limit
+                "threshold_limit": limit,
+                "total_iterations": agent_result.get("total_iterations", 0),
+                "halt_reason": agent_result.get("halt_reason", "unknown"),
             },
-            "leads": top_subset,
-            "dynamic_graph": {
-                "nodes": graph_nodes,
-                "edges": graph_edges
-            }
-        }, indent=2, ensure_ascii=False)
-    
+            "leads": top_leads,
+            "dynamic_graph": dynamic_graph,
+        }
+
+        # Add warning if max iterations reached
+        if agent_result.get("halt_reason") == "max_iterations_reached":
+            response["warning"] = (
+                "Agent reached the maximum number of iterations. "
+                "Results may be partial."
+            )
+
+        return json.dumps(response, indent=2, ensure_ascii=False)
+
     except Exception as e:
         import traceback
         return json.dumps({
@@ -468,124 +402,101 @@ def run_full_detective_pipeline(
 ) -> str:
     """
     FULL DETECTIVE PIPELINE - Agent as a Tool
-    
-    This is the complete LangGraph pipeline from main.py, exposed as an MCP tool.
-    The orchestrator can call this single tool to run the entire detective workflow:
-    
+
+    This is the complete agentic pipeline, exposed as an MCP tool.
+    The orchestrator can call this single tool to run the entire detective workflow
+    via DetectiveAgent (ReAct loop):
+
     1. ICP Extraction (Groq LLM)
     2. Company Matching & Filtering
     3. Ranking by Similarity (Gemini Embeddings)
     4. Persona Analysis
     5. Final Results with Dynamic Graph
-    
+
     Args:
         icp_description: Natural language description of ideal customer profile
         user_offering: What product/service you're selling
         companies_folder: Path to merged_profiles folder
         output_name: Name for the output/results
         max_leads: Maximum number of top leads to return
-    
+
     Returns:
         JSON string with complete pipeline results including:
         - extracted_icp: Structured ICP attributes
-        - matched_companies: All matching companies
         - final_rankings: Top ranked companies
         - persona_results: Key personas for each lead
         - dynamic_graph: Nodes and edges for visualization
+        - agent_scratchpad: Full reasoning trace from the agent
         - summary: Pipeline execution summary
+        - warning: (optional) Present when agent hit max iterations
     """
     try:
-        if run_detective_pipeline is None:
+        if DetectiveAgent is None:
             return json.dumps({
-                "error": "run_detective_pipeline not available. Check detective_graph import.",
+                "error": "DetectiveAgent not available. Check detective_agent import.",
                 "status": "error"
             })
-        
-        print(f"[MCP PIPELINE] Starting full detective pipeline...", file=sys.stderr)
-        print(f"[MCP PIPELINE] ICP: {icp_description[:100]}...", file=sys.stderr)
-        print(f"[MCP PIPELINE] User Offering: {user_offering}", file=sys.stderr)
-        
-        # Run the full LangGraph pipeline
-        result = run_detective_pipeline(
-            icp_text=icp_description,
-            output_name=output_name
+
+        # Read API keys from environment
+        keys = _get_api_keys()
+        _groq_api_key = keys["groq"] or ""
+        _gemini_api_key = keys["gemini"] or ""
+        _ors_api_key = keys["ors"]
+
+        # Instantiate the DetectiveAgent
+        agent = DetectiveAgent(
+            groq_api_key=_groq_api_key,
+            gemini_api_key=_gemini_api_key,
+            ors_api_key=_ors_api_key,
         )
-        
-        # Extract and format the key results
-        final_rankings = result.get("final_rankings", [])
-        
-        # Limit to max_leads
+
+        # Run the agentic pipeline
+        agent_result = agent.run(
+            icp_text=icp_description,
+            desired_lead_count=max_leads,
+            output_name=output_name,
+        )
+
+        # Extract fields from AgentResult
+        final_rankings = agent_result.get("final_rankings", [])
         top_leads = final_rankings[:max_leads]
-        
-        # Build dynamic graph from the results
-        graph_nodes = []
-        graph_edges = []
-        
-        for lead in top_leads:
-            comp_id = f"node_{lead.get('company_key', 'unknown')}"
-            
-            # Add Company Node
-            graph_nodes.append({
-                "id": comp_id,
-                "type": "company",
-                "label": lead.get("company_name", lead.get("company_key", "Unknown")),
-                "score": lead.get("total_score", 0),
-                "industry_match": lead.get("industry_match", False),
-                "location_match": lead.get("location_match", False)
-            })
-            
-            # Add Persona Nodes and Edges
-            for persona in lead.get("personas", [])[:3]:
-                if persona.get("name"):
-                    safe_name = persona["name"].replace(" ", "_").replace(".", "").replace("-", "_")
-                    p_id = f"person_{safe_name}"
-                    
-                    graph_nodes.append({
-                        "id": p_id,
-                        "type": "persona",
-                        "label": persona["name"],
-                        "title": persona.get("job_title", ""),
-                        "score": persona.get("match_score", 0),
-                        "is_target": persona.get("is_target", False)
-                    })
-                    
-                    graph_edges.append({
-                        "source": comp_id,
-                        "target": p_id,
-                        "weight": persona.get("match_score", 0),
-                        "type": "employs"
-                    })
-        
+        persona_results = agent_result.get("persona_results", [])
+        agent_scratchpad = agent_result.get("agent_scratchpad", [])
+        extracted_icp = agent_result.get("extracted_icp", {})
+        halt_reason = agent_result.get("halt_reason", "unknown")
+        total_iterations = agent_result.get("total_iterations", 0)
+        errors = agent_result.get("errors", [])
+
+        # Build dynamic graph from agent results
+        dynamic_graph = _build_dynamic_graph_from_scratchpad(agent_scratchpad, top_leads)
+
         # Build final response
-        extracted_icp = result.get("extracted_icp", {})
-        # Convert ICPAttributes to dict if needed
-        if hasattr(extracted_icp, 'model_dump'):
-            extracted_icp = extracted_icp.model_dump()
-        elif hasattr(extracted_icp, 'dict'):
-            extracted_icp = extracted_icp.dict()
-        
         response = {
             "status": "success",
             "summary": {
-                "pipeline_step": result.get("step_completed", "unknown"),
-                "total_matched": len(result.get("matched_companies", {})),
-                "final_ranked": len(final_rankings),
+                "total_ranked": len(final_rankings),
                 "top_leads_returned": len(top_leads),
-                "persona_targets": len(result.get("persona_results", [])),
-                "errors": len(result.get("errors", []))
+                "persona_targets": len(persona_results),
+                "total_iterations": total_iterations,
+                "halt_reason": halt_reason,
+                "errors": len(errors),
             },
             "extracted_icp": extracted_icp,
             "top_leads": top_leads,
-            "dynamic_graph": {
-                "nodes": graph_nodes,
-                "edges": graph_edges
-            }
+            "persona_results": persona_results,
+            "dynamic_graph": dynamic_graph,
+            "agent_scratchpad": agent_scratchpad,
         }
-        
-        print(f"[MCP PIPELINE] Completed: {response['summary']}", file=sys.stderr)
-        
+
+        # Add warning field when agent hit max iterations (Req 8.5)
+        if halt_reason == "max_iterations_reached":
+            response["warning"] = (
+                "Agent reached the maximum number of iterations. "
+                "Results may be partial — not all leads may have been fully evaluated."
+            )
+
         return json.dumps(response, indent=2, ensure_ascii=False)
-    
+
     except Exception as e:
         import traceback
         return json.dumps({
@@ -596,4 +507,25 @@ def run_full_detective_pipeline(
 
 
 if __name__ == "__main__":
+    # Force UTF-8 for Windows Terminal Compatibility (only when running as script)
+    try:
+        if hasattr(sys.stdout, 'buffer'):
+            sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+        if hasattr(sys.stderr, 'buffer'):
+            sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+    except (AttributeError, ValueError):
+        pass
+
+    print(f"[DEBUG] Current file: {current_file}", file=sys.stderr)
+    print(f"[DEBUG] Project root: {project_root}", file=sys.stderr)
+    print(f"[INIT] Detective MCP Server Starting...", file=sys.stderr)
+    keys = _get_api_keys()
+    print(f"[INIT] Gemini API: {'OK' if keys['gemini'] else 'MISSING'}", file=sys.stderr)
+    print(f"[INIT] Groq API: {'OK' if keys['groq'] else 'MISSING'}", file=sys.stderr)
+    print(f"[INIT] ORS API: {'OK' if keys['ors'] else 'MISSING'}", file=sys.stderr)
+
+    if not _fastmcp_available:
+        print("[ERROR] fastmcp/mcp is not installed. Cannot start MCP server.", file=sys.stderr)
+        sys.exit(1)
+
     mcp.run(transport="stdio")

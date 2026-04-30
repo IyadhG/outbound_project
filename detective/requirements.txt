@@ -3,7 +3,7 @@
 python-dotenv==1.0.0
 groq==0.5.0
 requests==2.31.0
-pydantic==2.5.3
+pydantic>=2.11.0
 google-generativeai==0.5.4
 
 # LangGraph for pipeline orchestration
@@ -35,4 +35,8 @@ uvicorn>=0.23.0
 
 # Async support
 aiohttp>=3.8.0
-asyncio>=3.4.3
+
+# Integration (new — FastAPI server + event bus)
+redis>=5.0.0
+httpx>=0.25.0
+pydantic-settings>=2.0.0
