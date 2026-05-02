@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-05-02T10:25:28.241986",
+  "success": true,
+  "companies_requested": [
+    "Tesla",
+    "Rivian",
+    "Nio"
+  ],
+  "companies_processed": [
+    "Tesla",
+    "Rivian",
+    "Nio"
+  ],
+  "total_events": 15,
+  "error": null
+}

@@ -7,6 +7,7 @@ from typing import TypedDict, List, Dict
 from langgraph.graph import StateGraph, START, END
 from langchain_groq import ChatGroq
 from langchain_core.messages import SystemMessage
+from utils.config_store import ConfigStore
 
 from mcp_client.client import MCPClient
 from langchain_openai import ChatOpenAI
@@ -40,13 +41,14 @@ class NewsState(TypedDict):
 
 
 # ================= LLM =================
-# llm = ChatOpenAI(
-#     model="nvidia/nemotron-3-super-120b-a12b:free",
-#     api_key="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", # openrouter api
-#     base_url="https://openrouter.ai/api/v1"
-# )
+LLM_aggregation = ChatOpenAI(
+    model=os.getenv("OPENROUTER_AGGREGATION_MODEL", "google/gemma-4-31b-it:free"),
+    api_key=os.getenv("OPENROUTER_API_KEY"),
+    base_url=os.getenv("OPENROUTER_BASE_URL"),
+)
+
 llm = ChatGroq(
-    model=os.getenv("MODEL_NAME", "llama-3.3-70b-versatile"),
+    model=os.getenv("GROQ_DEFAULT_MODEL", "llama-3.3-70b-versatile"),
     temperature=0.1,
     max_tokens=2048,
 )
@@ -110,7 +112,33 @@ def validate_output(output, input_ids: List[str]):
 
     return valid
 
+def call_with_retry_and_fallback(prompt):
+    parsed = None
+    raw = None
 
+    # Try main model
+    for _ in range(2):
+        try:
+            response = llm.invoke([SystemMessage(content=prompt)])
+            raw = response.content
+            parsed = safe_json_parse(raw)
+            if parsed:
+                return parsed, raw
+        except Exception:
+            pass
+
+    # Try fallback model
+    for _ in range(2):
+        try:
+            response = LLM_aggregation.invoke([SystemMessage(content=prompt)])
+            raw = response.content
+            parsed = safe_json_parse(raw)
+            if parsed:
+                return parsed, raw
+        except Exception:
+            pass
+
+    return None, None
 
 # ================= NODES =================
 # ---- 1. FETCH ----
@@ -198,8 +226,11 @@ def normalize_node(state: NewsState):
 def aggregation_node(state: Dict):
     """ aggregate news into unique (llm) """
     print("LLM aggregating news")
-    # events = state.get("news_clean", [])
+    events = state.get("news_clean", [])
     company = state.get("company", "")
+
+    config = ConfigStore()
+    prompt_template = config.get_prompt("news_aggregation")
 
     minimal_input = [
         {
@@ -218,67 +249,69 @@ def aggregation_node(state: Dict):
 
     input_ids = [str(e["id"]) for e in minimal_input]
 
-    prompt = f"""
-You are a news clustering system.
+    if prompt_template:
+        prompt = prompt_template.format(
+            company=state["company"],
+            events=json.dumps(minimal_input, indent=2)
+        )
+    else:
+        prompt = f"""
+    You are a news clustering system.
 
-Group news articles that describe the same real-world event related to this company: {company}.
+    Group news articles that describe the same real-world event related to this company: {company}.
 
-INPUT:
-{json.dumps(minimal_input, indent=2)}
+    INPUT:
+    {json.dumps(minimal_input, indent=2)}
 
-TASKS:
+    TASKS:
 
-1. COMPANY FILTERING
-- Only consider articles that are primarily about the specified company
-- The company must be a central subject, not just mentioned in passing
+    1. COMPANY FILTERING
+    - Only consider articles that are primarily about the specified company
+    - The company must be a central subject, not just mentioned in passing
 
 
-2. CLUSTERING
-- Group articles referring to the same event
-- Same event = same incident/announcement/development
-- Do NOT mix unrelated news
+    2. CLUSTERING
+    - Group articles referring to the same event
+    - Same event = same incident/announcement/development
+    - Do NOT mix unrelated news
 
-3. OUTPUT PER CLUSTER
-Return one object per event:
+    3. OUTPUT PER CLUSTER
+    Return one object per event:
 
-- event_title: clear general title of the event
-- supporting_ids: all article IDs in the cluster
-- source: BEST single source from within the cluster (most credible/authoritative)
-- event_confidence:
-  0.8–1.0 strong agreement
-  0.5–0.8 partial agreement
-  <0.5 weak match
+    - event_title: brief description of the event
+    - supporting_ids: all article IDs in the cluster
+    - source: BEST single source from within the cluster (most credible/authoritative)
+    - event_confidence:
+    0.8–1.0 strong agreement
+    0.5–0.8 partial agreement
+    <0.5 weak match
 
-4. RULES
-- Use only given articles
-- Do NOT invent data
-- Each article appears in exactly one group
-- source must come from grouped articles only
+    4. RULES
+    - Use only given articles
+    - Do NOT invent data
+    - Each article appears in exactly one group
+    - source must come from grouped articles only
 
-Return ONLY valid JSON list:
-[
-  {{
-    "event_title": "",
-    "event_confidence": 0.0,
-    "source": "",
-    "supporting_ids": []
-  }}
-]
-"""
+    Return ONLY valid JSON list:
+    [
+    {{
+        "event_title": "",
+        "event_confidence": 0.0,
+        "source": "",
+        "supporting_ids": []
+    }}
+    ]
+    """
 
     # ===== LLM CALL WITH RETRY =====
-    response = None
-    for _ in range(2):  # retry once if parsing fails
-        response = llm.invoke([SystemMessage(content=prompt)])
-        parsed = safe_json_parse(response.content)
+    parsed, raw = call_with_retry_and_fallback(prompt)
+    debug("raw response", raw)
+    debug("response after parsing", parsed)
 
-        if parsed:
-            break
-
-    if not response:
+    if not parsed:
         return {**state, "news_clean": []}
 
-    parsed = safe_json_parse(response.content)
+    
 
     # ===== VALIDATION =====
     validated = validate_output(parsed, input_ids)
@@ -384,5 +417,3 @@ def build_news_graph():
     
 
     return graph.compile()
-
-

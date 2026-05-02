@@ -3,7 +3,7 @@ import asyncio
 import json
 from typing import TypedDict, List, Dict, Any
 from langchain_groq import ChatGroq
-
+from utils.config_store import ConfigStore
 from langgraph.graph import StateGraph, START, END
 from langchain_core.messages import SystemMessage
 from langchain_openai import ChatOpenAI
@@ -36,13 +36,18 @@ class FundingState(TypedDict):
 
 
 # ================= LLM =================
-# llm = ChatOpenAI(
-#     # model="nvidia/nemotron-3-super-120b-a12b:free",
-#     model = "google/gemma-4-26b-a4b-it:free",
-#     api_key="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",
-#     base_url="https://openrouter.ai/api/v1"
-# )
 
+LLM_extraction = ChatOpenAI(
+    model=os.getenv("OPENROUTER_EXTRACTION_MODEL", "nvidia/nemotron-3-super-120b-a12b:free"),
+    api_key=os.getenv("OPENROUTER_API_KEY"),
+    base_url=os.getenv("OPENROUTER_BASE_URL"),
+)
+
+LLM_aggregation = ChatOpenAI(
+    model=os.getenv("OPENROUTER_AGGREGATION_MODEL", "google/gemma-4-31b-it:free"),
+    api_key=os.getenv("OPENROUTER_API_KEY"),
+    base_url=os.getenv("OPENROUTER_BASE_URL"),
+)
 
 llm = ChatGroq(
     model=os.getenv("MODEL_NAME", "llama-3.3-70b-versatile"),
@@ -56,7 +61,7 @@ def extract_domain(url: str) -> str:
         return url.split("//")[1].split("/")[0].replace("www.", "")
     except:
         return "unknown"
-
+    
 
 def parse_mcp_result(result):
     try:
@@ -82,6 +87,12 @@ def safe_json_parse(text: str):
 
 
 def validate_output(output, input_ids: List[str]):
+    if not output:
+        return []
+
+    if not isinstance(output, (list, dict)):
+        return []
+    
     valid = []
     for event in output:
         if not isinstance(event, dict):
@@ -94,6 +105,33 @@ def validate_output(output, input_ids: List[str]):
         valid.append(event)
     return valid
 
+def call_with_retry_and_fallback(prompt):
+    parsed = None
+    raw = None
+
+    # Try main model
+    for _ in range(2):
+        try:
+            response = llm.invoke([SystemMessage(content=prompt)])
+            raw = response.content
+            parsed = safe_json_parse(raw)
+            if parsed:
+                return parsed, raw
+        except Exception:
+            pass
+
+    # Try fallback model
+    for _ in range(2):
+        try:
+            response = LLM_aggregation.invoke([SystemMessage(content=prompt)])
+            raw = response.content
+            parsed = safe_json_parse(raw)
+            if parsed:
+                return parsed, raw
+        except Exception:
+            pass
+
+    return None, None
 
 # ================= NODES =================
 # ---- 1. FETCH (now sync but using the mcp_client directly) ----
@@ -186,31 +224,42 @@ def llm_extraction_node(state: FundingState):
     debug("minimal input", minimal_input)
 
     prompt = f"""
-You are an information extraction system.
-
 Company: {state["company"]}
 
 Input:
 {json.dumps(minimal_input, indent=2)}
 
-For each element:
+For each input element, decide if it is related to the company.
 
-- If NOT related to the company → return: id: null
-- If related → return:
-  id: {{
-    "date": "dd/mm/yyyy or None",
-    "investor": "name or None",
-    "amount": "value or None"
+Output a valid JSON object with keys matching input indices ("0", "1", ...).
+
+Rules:
+- If NOT related → value = null
+- If related → value is {{
+    "date": "DD/MM/YYYY or null",
+    "investor": "string or null",
+    "amount": "string or null"
   }}
+- Use JSON null (not "None")
+- Do not add/remove fields
+- No extra text, only JSON
 
-Return ONLY JSON like:
+Example output:
 {{
-  "0": {{...}},
+  "0": {{
+    "date": "12/03/2024",
+    "investor": "Sequoia Capital",
+    "amount": "$5M"
+  }},
   "1": null
 }}
 """
 
-    response = llm.invoke([SystemMessage(content=prompt)])
+    try:
+        response = llm.invoke([SystemMessage(content=prompt)])
+    except Exception:
+        response = LLM_extraction.invoke([SystemMessage(content=prompt)]) 
+
     debug("response object", response)
     print(f"==== raw llm response: {response.content}")
     print(f" input tokens : {response.usage_metadata['input_tokens']}")
@@ -283,10 +332,14 @@ def merge_node(state: FundingState):
 
 
 # ================= FINAL OUTPUT NODES =================
+
+
 def aggregation_node(state: Dict):
     print("LLM aggregating events")
     
-    
+    config = ConfigStore()
+    prompt_template = config.get_prompt("funding_aggregation")
+
     events = state.get("funding_final", [])
     company = state.get("company", "")
 
@@ -296,51 +349,53 @@ def aggregation_node(state: Dict):
     events = events[:10]
     input_ids = [str(e["id"]) for e in events]
 
-    prompt = f"""
-You are a financial data extraction system. Your task is to identify and group funding events for this company : {company}.
+    if prompt_template:
+        prompt = prompt_template.format(
+            company=state["company"],
+            events=json.dumps(events, indent=2)
+        )
+    else:
 
-INPUT:
-{json.dumps(events, indent=2)}
+        prompt = f"""
+    You are a financial data extraction system. Your task is to identify and group funding events for this company : {company}.
 
-RULES:
-1. Group news articles that describe the SAME funding round/event
-2. Each unique funding event = 1 output object
-3. Use ONLY information from the provided articles
-4. If a detail is not mentioned, set it to null (not "None" string, not "Unknown")
-5. Every article ID must appear in exactly ONE group (no duplicates, no orphans)
+    INPUT:
+    {json.dumps(events, indent=2)}
 
-OUTPUT FORMAT - Return a JSON list of objects:
-[
-  {{
-    "event_title": "Brief descriptive title of this funding event",
-    "event_confidence": 0.0 to 1.0 (0.9+ if multiple sources agree, 0.5-0.8 if partial match, <0.5 if uncertain),
-    "source": "single most authoritative source name from the grouped articles",
-    "supporting_ids": ["id1", "id2"],
-    "date": "extracted date or null",
-    "date_confidence": 0.0 to 1.0,
-    "investor": "investor name(s) or null",
-    "investor_confidence": 0.0 to 1.0,
-    "amount": "funding amount with currency or null",
-    "amount_confidence": 0.0 to 1.0
-  }}
-]
+    RULES:
+    1. Group news articles that describe the SAME funding round/event
+    2. Each unique funding event = 1 output object
+    3. Use ONLY information from the provided articles
+    4. If a detail is not mentioned, set it to null (not "None" string, not "Unknown")
+    5. Every article ID must appear in exactly ONE group (no duplicates, no orphans)
 
-Return ONLY the JSON array, nothing else.
-"""
+    OUTPUT FORMAT - Return a JSON list of objects:
+    [
+    {{
+        "event_title": "Brief description of this event",
+        "event_confidence": 0.0 to 1.0 (0.9+ if multiple sources agree, 0.5-0.8 if partial match, <0.5 if uncertain),
+        "source": "single most authoritative source name from the grouped articles",
+        "supporting_ids": ["id1", "id2"],
+        "date": "extracted date or null",
+        "date_confidence": 0.0 to 1.0,
+        "investor": "investor name(s) or null",
+        "investor_confidence": 0.0 to 1.0,
+        "amount": "funding amount with currency or null",
+        "amount_confidence": 0.0 to 1.0
+    }}
+    ]
 
-    response = None
-    for _ in range(2):
-        response = llm.invoke([SystemMessage(content=prompt)])
-        parsed = safe_json_parse(response.content)
-        if parsed:
-            break
+    Return ONLY the JSON array, nothing else.
+    """
 
-    if not response:
+    parsed, raw = call_with_retry_and_fallback(prompt)
+
+    debug("raw response", raw)
+    debug("response after parsing", parsed)
+
+    if not parsed:
         return {**state, "funding_aggregated": []}
 
-    debug("raw response", response.content)
-    parsed = safe_json_parse(response.content)
-    debug("response after parsing", parsed)
     validated = validate_output(parsed, input_ids)
     debug("aggregation output", validated)
 
@@ -406,3 +461,7 @@ def build_funding_graph():
     graph.add_edge("finalize", END)
 
     return graph.compile()
+
+
+
+# travily 

@@ -5,8 +5,18 @@ services:
     build: .
     container_name: intent-agent
     volumes:
-      - ./data:/app/data  
-      - ./.env:/app/.env  
+      - ./data:/app/data              # Database persistence
+      - ./output:/app/output          # Output files persistence
+      - ./.env:/app/.env              # Environment variables
+      - ./system_config.json:/app/system_config.json  # Config persistence
     environment:
       - PYTHONUNBUFFERED=1
+      - PYTHONPATH=/app
     restart: unless-stopped
+    # Optional: Add resource limits
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+        reservations:
+          memory: 512M

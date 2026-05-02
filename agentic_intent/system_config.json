@@ -1,0 +1,39 @@
+{
+  "search_params": {
+    "funding_max_results": 3,
+    "partnerships_max_results": 5,
+    "news_max_results": 5
+  },
+  "confidence_thresholds": {
+    "funding_min_confidence": 0.3,
+    "news_min_confidence": 0.3,
+    "event_confidence_threshold": 0.5
+  },
+  "source_preferences": {
+    "trusted_sources": [],
+    "blocked_sources": []
+  },
+  "custom_search_queries": {
+    "Tesla": [
+      "IPO"
+    ]
+  },
+  "prompts": {
+    "funding_aggregation": {
+      "version": 1,
+      "template": "\nYou are a financial data extraction system. Your task is to identify and group funding events for {company}.\n\nINPUT:\n{events}\n\nRULES:\n1. Group news articles that describe the SAME funding round/event\n2. Each unique funding event = 1 output object\n3. Use ONLY information from the provided articles\n4. If a detail is not mentioned, set it to null (not \"None\" string, not \"Unknown\")\n5. Every article ID must appear in exactly ONE group (no duplicates, no orphans)\n\nOUTPUT FORMAT - Return a JSON list of objects:\n[\n  {{\n    \"event_title\": \"Brief descriptive of the event\",\n    \"event_confidence\": 0.0 to 1.0,\n    \"source\": \"single most authoritative source name from the grouped articles\",\n    \"supporting_ids\": [\"id1\", \"id2\"],\n    \"date\": \"extracted date or null\",\n    \"date_confidence\": 0.0 to 1.0,\n    \"investor\": \"investor name(s) or null\",\n    \"investor_confidence\": 0.0 to 1.0,\n    \"amount\": \"funding amount with currency or null\",\n    \"amount_confidence\": 0.0 to 1.0\n  }}\n]\n\nReturn ONLY the JSON array, nothing else.\n"
+    },
+    "news_aggregation": {
+      "version": 1,
+      "template": "\nYou are a news clustering system.\n\nGroup news articles that describe the same real-world event related to this company: {company}.\n\nINPUT:\n{events}\n\nTASKS:\n\n1. COMPANY FILTERING\n- Only consider articles that are primarily about the specified company\n- The company must be a central subject, not just mentioned in passing\n\n2. CLUSTERING\n- Group articles referring to the same event\n- Same event = same incident/announcement/development\n- Do NOT mix unrelated news\n\n3. OUTPUT PER CLUSTER\nReturn one object per event:\n- event_title: brief description of the event\n- supporting_ids: all article IDs in the cluster\n- source: BEST single source from within the cluster\n- event_confidence: 0.8-1.0 strong, 0.5-0.8 partial, <0.5 weak\n\nReturn ONLY valid JSON list:\n[\n  {{\n    \"event_title\": \"\",\n    \"event_confidence\": 0.0,\n    \"source\": \"\",\n    \"supporting_ids\": []\n  }}\n]\n"
+    },
+    "funding_extraction": {
+      "version": 1,
+      "template": "\nYou are an information extraction system.\n\nCompany: {company}\n\nInput:\n{events}\n\nFor each element:\n- If NOT related to the company \u2192 return: id: null\n- If related \u2192 return:\n  id: {{\"date\": \"dd/mm/yyyy or None\", \"investor\": \"name or None\", \"amount\": \"value or None\"}}\n\nReturn ONLY JSON: {{\"0\": {{...}}, \"1\": null}}\n"
+    }
+  },
+  "metadata": {
+    "last_updated": "2026-04-27T01:37:22.803619",
+    "updated_by": "orchestrator"
+  }
+}

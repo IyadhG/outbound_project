@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260502_102528",
+  "companies_analyzed": [
+    "Tesla",
+    "Rivian",
+    "Nio"
+  ],
+  "metrics": {
+    "total_events": 15,
+    "events_per_company": {
+      "Tesla": 4,
+      "Rivian": 5,
+      "Nio": 6
+    },
+    "avg_confidence": 0.8200000000000001,
+    "high_confidence_ratio": 0.8,
+    "low_confidence_ratio": 0.0,
+    "unique_sources": 12,
+    "missing_financial_data_ratio": 0.75,
+    "date_availability_ratio": 0.8,
+    "duplicate_events": 0,
+    "conflicting_info": 0,
+    "avg_processing_time": 1.1604202111562094,
+    "total_processing_time": 17.40630316734314
+  }
+}

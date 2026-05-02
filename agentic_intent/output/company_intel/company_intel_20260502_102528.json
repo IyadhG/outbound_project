@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-02T10:25:22.865472",
+    "total_companies": 3,
+    "companies_analyzed": [
+      "Tesla",
+      "Rivian",
+      "Nio"
+    ]
+  },
+  "companies": {
+    "Tesla": {
+      "funding_events": [
+        {
+          "event": {
+            "title": "Tesla Series B Funding",
+            "confidence": 1.0
+          },
+          "financial_details": {
+            "amount": "$13 million",
+            "amount_confidence": 1.0,
+            "investor": "Valor Equity partners",
+            "investor_confidence": 1.0
+          },
+          "date": {
+            "value": "02/2006",
+            "confidence": 1.0
+          },
+          "source": {
+            "name": "medium.com",
+            "url": "https://medium.com/@prithvirajpatil2021/beyond-risk-how-elon-musks-bold-decisions-turned-tesla-into-a-profit-making-machine-69c21bb45fdd"
+          },
+          "type": "funding"
+        }
+      ],
+      "news_events": [
+        {
+          "event": {
+            "title": "Potential Tesla and SpaceX Merger or IPO",
+            "confidence": 0.9
+          },
+          "source": {
+            "name": "MSN",
+            "url": "https://www.msn.com/en-us/news/other/analyst-upgrades-apple-and-tesla-as-spacex-ipo-nears/gm-GMLBB0D3F5?ocid=BingNewsVerp"
+          },
+          "date": "2026-04-29T09:25:09+00:00",
+          "type": "news"
+        },
+        {
+          "event": {
+            "title": "Tesla's Revenue from Musk's Private Empire",
+            "confidence": 0.8
+          },
+          "source": {
+            "name": "Stocktwits on MSN",
+            "url": "https://www.msn.com/en-us/money/companies/teslas-hidden-boost-over-half-a-billion-in-revenue-came-from-musks-private-empire/ar-AA229tq8?ocid=BingNewsVerp"
+          },
+          "date": "2026-05-01T09:25:09+00:00",
+          "type": "news"
+        },
+        {
+          "event": {
+            "title": "Analysis of Tesla and SpaceX Relationship",
+            "confidence": 0.7
+          },
+          "source": {
+            "name": "AOL",
+            "url": "https://www.aol.com/articles/robinhoods-sherwood-news-asks-why-213104779.html"
+          },
+          "date": "2026-03-23T00:00:00+00:00",
+          "type": "news"
+        }
+      ],
+      "summary": {
+        "total_funding_events": 1,
+        "total_news_events": 3,
+        "high_confidence_funding": 1,
+        "high_confidence_news": 3
+      }
+    },
+    "Rivian": {
+      "funding_events": [
+        {
+          "event": {
+            "title": "Rivian receives $6.6 billion federal loan",
+            "confidence": 1.0
+          },
+          "financial_details": {
+            "amount": "$6.6 billion",
+            "amount_confidence": 1.0,
+            "investor": null,
+            "investor_confidence": 0.0
+          },
+          "date": {
+            "value": null,
+            "confidence": 0.0
+          },
+          "source": {
+            "name": "latimes.com",
+            "url": "https://www.latimes.com/business/story/2024-11-26/rivian-6-6-billion-loan-factory-georgia-ev-market-trump-biden"
+          },
+          "type": "funding"
+        },
+        {
+          "event": {
+            "title": "Rivian $2.5 billion funding round",
+            "confidence": 1.0
+          },
+          "financial_details": {
+            "amount": "$2.5 billion",
+            "amount_confidence": 1.0,
+            "investor": null,
+            "investor_confidence": 0.0
+          },
+          "date": {
+            "value": null,
+            "confidence": 0.0
+          },
+          "source": {
+            "name": "speedlux.com",
+            "url": "https://speedlux.com/rivian-announces-2-5-billion-funding-round/"
+          },
+          "type": "funding"
+        }
+      ],
+      "news_events": [
+        {
+          "event": {
+            "title": "Rivian Q1 2026 Earnings Report",
+            "confidence": 0.9
+          },
+          "source": {
+            "name": "MSN",
+            "url": "https://www.msn.com/en-us/news/other/rivian-shares-fall-despite-earnings-beat-and-r2-launch/gm-GME04EEA4A?ocid=BingNewsVerp"
+          },
+          "date": "2026-04-30T09:25:14+00:00",
+          "type": "news"
+        },
+        {
+          "event": {
+            "title": "Rivian Georgia Factory Expansion and DOE Loan",
+            "confidence": 0.8
+          },
+          "source": {
+            "name": "TechCrunch on MSN",
+            "url": "https://www.msn.com/en-us/money/companies/rivian-downsizes-doe-loan-to-4-5b-while-boosting-capacity-of-georgia-factory/ar-AA227g1Y?ocid=BingNewsVerp"
+          },
+          "date": "2026-05-01T09:25:14+00:00",
+          "type": "news"
+        },
+        {
+          "event": {
+            "title": "Rivian vs. Lucid EV Stocks Comparison",
+            "confidence": 0.5
+          },
+          "source": {
+            "name": "The Motley Fool on MSN",
+            "url": "https://www.msn.com/en-us/money/savingandinvesting/rivian-vs-lucid-1-of-these-ev-stocks-is-a-far-better-bet-right-now/ar-AA227yVh?ocid=BingNewsVerp"
+          },
+          "date": "2026-05-01T09:25:14+00:00",
+          "type": "news"
+        }
+      ],
+      "summary": {
+        "total_funding_events": 2,
+        "total_news_events": 3,
+        "high_confidence_funding": 2,
+        "high_confidence_news": 2
+      }
+    },
+    "Nio": {
+      "funding_events": [
+        {
+          "event": {
+            "title": "NIO enters a deal with Hefei local government",
+            "confidence": 1.0
+          },
+          "financial_details": {
+            "amount": null,
+            "amount_confidence": 0.0,
+            "investor": "Hefei local government",
+            "investor_confidence": 1.0
+          },
+          "date": {
+            "value": null,
+            "confidence": 0.0
+          },
+          "source": {
+            "name": "youtube.com",
+            "url": "https://www.youtube.com/watch?v=wOe8G4dQ62E"
+          },
+          "type": "funding"
+        }
+      ],
+      "news_events": [
+        {
+          "event": {
+            "title": "NIO develops its own automotive chips",
+            "confidence": 0.8
+          },
+          "source": {
+            "name": "Simply Wall St. via Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/nio-chip-push-raises-questions-130303690.html"
+          },
+          "date": "2026-04-26T09:25:18+00:00",
+          "type": "news"
+        },
+        {
+          "event": {
+            "title": "Onsemi and NIO collaborate on next-gen EV platform",
+            "confidence": 0.8
+          },
+          "source": {
+            "name": "Simply Wall St. via Yahoo Finance",
+            "url": "https://finance.yahoo.com/sectors/technology/articles/latest-news-electric-vehicles-onsemi-104031492.html"
+          },
+          "date": "2026-04-27T09:25:18+00:00",
+          "type": "news"
+        },
+        {
+          "event": {
+            "title": "NIO stock valuation and attractiveness",
+            "confidence": 0.5
+          },
+          "source": {
+            "name": "Simply Wall St. via Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/nio-nio-attractive-us-6-210502055.html"
+          },
+          "date": "2026-04-29T09:25:18+00:00",
+          "type": "news"
+        },
+        {
+          "event": {
+            "title": "NIO to launch flagship electric SUV",
+            "confidence": 0.8
+          },
+          "source": {
+            "name": "Insider Monkey via Yahoo Finance",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/nio-inc-nio-launch-flagship-184035661.html"
+          },
+          "date": "2026-04-27T09:25:18+00:00",
+          "type": "news"
+        },
+        {
+          "event": {
+            "title": "NIO stock drops due to EV slowdown in China",
+            "confidence": 0.8
+          },
+          "source": {
+            "name": "Barrons.com",
+            "url": "https://www.barrons.com/articles/nio-stock-price-deliveries-china-ev-problem-b9e9f1d4"
+          },
+          "date": "2026-05-01T20:25:18+00:00",
+          "type": "news"
+        }
+      ],
+      "summary": {
+        "total_funding_events": 1,
+        "total_news_events": 5,
+        "high_confidence_funding": 1,
+        "high_confidence_news": 4
+      }
+    }
+  }
+}

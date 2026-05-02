@@ -31,6 +31,6 @@ data/
 .DS_Store
 Thumbs.db
 
-# API Keys (just in case)
+# API Keys 
 *_api_key*
 *_secret*
