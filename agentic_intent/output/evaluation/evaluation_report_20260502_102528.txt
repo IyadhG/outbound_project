@@ -1,0 +1,135 @@
+
+============================================================
+SYSTEM EVALUATION REPORT
+============================================================
+Timestamp: 2026-05-02T10:25:28.243986
+
+COVERAGE:
+- Total Events: 15
+- Events per Company: {
+  "Tesla": 4,
+  "Rivian": 5,
+  "Nio": 6
+}
+
+QUALITY:
+- Average Confidence: 82.00%
+- High Confidence Events (>0.7): 80.00%
+- Low Confidence Events (<0.5): 0.00%
+- Unique Sources: 12
+
+COMPLETENESS:
+- Missing Financial Data: 75.00%
+- Date Availability: 80.00%
+- Potential Duplicates: 0
+- Conflicting Info: 0
+
+PERFORMANCE:
+- Total Processing Time: 17.41s
+- Avg Time per Event: 1.160s
+
+TOP SOURCES:
+- Simply Wall St. via Yahoo Finance: 3
+- MSN: 2
+- medium.com: 1
+- Stocktwits on MSN: 1
+- AOL: 1
+============================================================
+
+
+
+============================================================
+EXPLAINABILITY REPORT
+============================================================
+Timestamp: 2026-05-02T10:25:28.243986
+
+
+========================================
+TESLA
+========================================
+
+📊 Funding Event 1: Tesla Series B Funding
+  ⚠️ Unverified source: medium.com
+  ✅ Includes specific amount
+  ✅ Identifies investor
+  ✅ Has specific date
+  ✅ Multiple high-confidence details
+  💡 Event appears reliable
+
+📰 News Event 1: Potential Tesla and SpaceX Merger or IPO
+  Source: MSN
+  Date: 2026-04-29T09:25:09+00:00
+
+📰 News Event 2: Tesla's Revenue from Musk's Private Empire
+  Source: Stocktwits on MSN
+  Date: 2026-05-01T09:25:09+00:00
+
+📰 News Event 3: Analysis of Tesla and SpaceX Relationship
+  Source: AOL
+  Date: 2026-03-23T00:00:00+00:00
+
+========================================
+RIVIAN
+========================================
+
+📊 Funding Event 1: Rivian receives $6.6 billion federal loan
+  ⚠️ Unverified source: latimes.com
+  ✅ Includes specific amount
+  ⚠️ Missing investor information
+  ⚠️ Missing date
+  ⚠️ Only one high-confidence detail
+  💡 Event appears reliable
+
+📊 Funding Event 2: Rivian $2.5 billion funding round
+  ⚠️ Unverified source: speedlux.com
+  ✅ Includes specific amount
+  ⚠️ Missing investor information
+  ⚠️ Missing date
+  ⚠️ Only one high-confidence detail
+  💡 Event appears reliable
+
+📰 News Event 1: Rivian Q1 2026 Earnings Report
+  Source: MSN
+  Date: 2026-04-30T09:25:14+00:00
+
+📰 News Event 2: Rivian Georgia Factory Expansion and DOE Loan
+  Source: TechCrunch on MSN
+  Date: 2026-05-01T09:25:14+00:00
+
+📰 News Event 3: Rivian vs. Lucid EV Stocks Comparison
+  Source: The Motley Fool on MSN
+  Date: 2026-05-01T09:25:14+00:00
+
+========================================
+NIO
+========================================
+
+📊 Funding Event 1: NIO enters a deal with Hefei local government
+  ⚠️ Unverified source: youtube.com
+  ⚠️ Missing amount information
+  ✅ Identifies investor
+  ⚠️ Missing date
+  ❌ No high-confidence details
+  💡 Event appears reliable
+
+📰 News Event 1: NIO develops its own automotive chips
+  Source: Simply Wall St. via Yahoo Finance
+  Date: 2026-04-26T09:25:18+00:00
+
+📰 News Event 2: Onsemi and NIO collaborate on next-gen EV platform
+  Source: Simply Wall St. via Yahoo Finance
+  Date: 2026-04-27T09:25:18+00:00
+
+📰 News Event 3: NIO stock valuation and attractiveness
+  Source: Simply Wall St. via Yahoo Finance
+  Date: 2026-04-29T09:25:18+00:00
+
+📰 News Event 4: NIO to launch flagship electric SUV
+  Source: Insider Monkey via Yahoo Finance
+  Date: 2026-04-27T09:25:18+00:00
+
+📰 News Event 5: NIO stock drops due to EV slowdown in China
+  Source: Barrons.com
+  Date: 2026-05-01T20:25:18+00:00
+
+============================================================
